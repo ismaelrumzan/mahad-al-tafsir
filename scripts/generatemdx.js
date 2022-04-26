@@ -1,7 +1,6 @@
 const fs = require("fs");
 const fse = require("fs-extra");
 const path = require("path");
-const _ = require("lodash");
 
 const contentDirectory = path.join(process.cwd(), "content");
 const lessonsDirectory = path.join(process.cwd(), "content/lessons");
@@ -26,6 +25,7 @@ function getPlaylistData() {
                 let data = new Object();
                 data.path = path + video.title + ".mdx";
                 data.id = video.id;
+                data.import = "../../../";
                 lessonData.push(data);
               });
             } else {
@@ -33,6 +33,7 @@ function getPlaylistData() {
               let data = new Object();
               data.path = path + sublesson.title + ".mdx";
               data.id = sublesson.id;
+              data.import = "../../";
               lessonData.push(data);
             }
           });
@@ -49,6 +50,7 @@ function getPlaylistData() {
                 let data = new Object();
                 data.path = path + video.title + ".mdx";
                 data.id = video.id;
+                data.import = "../../";
                 tafsirData.push(data);
               });
             } else {
@@ -56,6 +58,7 @@ function getPlaylistData() {
               let data = new Object();
               data.path = path + sublesson.title + ".mdx";
               data.id = sublesson.id;
+              data.import = "../";
               tafsirData.push(data);
             }
           });
@@ -118,12 +121,12 @@ async function createMDX() {
     data += "\n";
     data += "import YouTube from 'react-youtube'";
     data += "\n";
-    data += "import opts from '@site/lib/video'";
+    data += "import {opts} from '" + item.import + "lib/video'";
     data += "\n";
     lesson.items.forEach((item) => {
       if (item.snippet.title !== "Private video") {
         data += "\n";
-        data += "\#\# " + item.snippet.title;
+        data += "## " + item.snippet.title;
         data += "\n";
         data +=
           "<YouTube videoId='" +
