@@ -119,19 +119,14 @@ async function createMDX() {
     data += "\n";
     data += "---";
     data += "\n";
-    data += "import YouTube from 'react-youtube'";
-    data += "\n";
-    data += "import {opts} from '" + item.import + "lib/video'";
+    data += "import { YouTube } from 'mdx-embed'";
     data += "\n";
     lesson.items.forEach((item) => {
       if (item.snippet.title !== "Private video") {
         data += "\n";
         data += "## " + item.snippet.title;
         data += "\n";
-        data +=
-          "<YouTube videoId='" +
-          item.contentDetails.videoId +
-          "' opts={opts} />";
+        data += "<YouTube youTubeId='" + item.contentDetails.videoId + "' />";
         data += "\n";
       }
     });
