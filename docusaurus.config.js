@@ -10,7 +10,7 @@ const config = {
   tagline: "التسجيلات الصوتية للشيخ علي هاني العقرباوي",
   url: "https://tafsir.institute",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "ismaelrumzan", // Usually your GitHub org/user name.
