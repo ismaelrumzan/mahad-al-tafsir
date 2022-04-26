@@ -1,0 +1,495 @@
+{
+  "id": "main",
+  "title": "معهدد التفسير",
+  "description": "التسجيلات الصوتية للشيخ علي هاني العقرباوي",
+  "content": [
+    {
+      "id": "1",
+      "title": "دروس لتأسيس وبناء طالب العلم في العلوم الشرعية عامة ،وعلم التفسير خاصة",
+      "image": "pexels-abene-sebei-1438252.jpg",
+      "type": "lessons",
+      "content": [
+        {
+          "title": "جميع دورات النحو",
+          "id": "1_1",
+          "image": "1_1.jpeg",
+          "content": [
+            {
+              "title": "مبادئ دروس العربية",
+              "id": "1_1_1",
+              "playlistid": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo"
+            },
+            {
+              "title": "شروح الآجر ومية",
+              "id": "1_1_2",
+              "image": "1_1.jpeg",
+              "content": [
+                {
+                  "title": "شرح متن الاجرومية",
+                  "id": "1_1_2_1",
+                  "playlistid": "PLQ3tuFIYeuXDknocM4q85eA0BblrlW7Se"
+                },
+                {
+                  "title": "التوضيح على الاجرومية",
+                  "id": "1_1_2_2",
+                  "playlistid": "PLQ3tuFIYeuXCQ7DZQa3u4s-w_eYuL9miS"
+                },
+                {
+                  "title": "التسهيل على الاجرومية",
+                  "id": "1_1_2_3",
+                  "playlistid": "PLQ3tuFIYeuXDovl1AzbJjqOcT7JVCntQ8"
+                }
+              ]
+            },
+            {
+              "title": "اعراب جزء عم",
+              "id": "1_1_3",
+              "playlistid": "PLQ3tuFIYeuXAIbE_2ATKC3E6wgyybQopm"
+            },
+            {
+              "title": "متممة الآجرومية",
+              "id": "1_1_5",
+              "playlistid": "PLQ3tuFIYeuXAU1nAahXoc89-597jNGhtt"
+            },
+            {
+              "title": "النحو الوظيفي",
+              "id": "1_1_6",
+              "playlistid": "PLQ3tuFIYeuXCvPlh41cI2q2YRr2ZAMezJ"
+            },
+            {
+              "title": "قطر الندى وبل الصدى جديد",
+              "id": "1_1_7",
+              "playlistid": "PLQ3tuFIYeuXDuLzrUPX6AqcfyIvLmp1EP"
+            },
+            {
+              "title": "موصل الطلاب لقواعد الاعراب لخالد الازهري",
+              "id": "1_1_8",
+              "playlistid": "PLQ3tuFIYeuXA1uuQ8Ogt17i9PjskdAwSo"
+            },
+            {
+              "title": "شرح ابن عقيل على ألفية ابن مالك",
+              "id": "1_1_9",
+              "playlistid": "PLQ3tuFIYeuXB-Rkq_JzH2GHVylmIGld2R"
+            },
+            {
+              "title": "شرح الأشموني على الألفية",
+              "id": "1_1_10",
+              "playlistid": "PLQ3tuFIYeuXDCYGhX94GAexhwvnbFuXEu"
+            },
+            {
+              "title": "التصريح على التوضيح",
+              "id": "1_1_11",
+              "playlistid": "PLQ3tuFIYeuXCMQDlqCrkn1yB43vee465T"
+            },
+            {
+              "title": "شرح السيوطي على الألفية",
+              "id": "1_1_12",
+              "playlistid": "PLQ3tuFIYeuXAPwMyL8E3Jhlx0w6a8vWl7"
+            },
+            {
+              "title": "المساعد شرح تسهيل الفوائد لابن عقيل على التسهيل",
+              "id": "1_1_13",
+              "playlistid": "PLQ3tuFIYeuXDS7cb5iAzE6vLlnn9RXRGs"
+            }
+          ]
+        },
+        {
+          "title": "جميع دورات الصرف",
+          "id": "1_2",
+          "image": "1_2.jpg",
+          "content": [
+            {
+              "title": "الشرح المختصر للامثلة المختلفة",
+              "id": "1_2_1",
+              "playlistid": "PLQ3tuFIYeuXCsnF-XIhpfMmqY-uZCcVon"
+            },
+            {
+              "title": "الشرح المطول للامثلة المختلفة",
+              "id": "1_2_2",
+              "playlistid": "PLQ3tuFIYeuXAtAWQT646c6sw6X0XYNIb4"
+            },
+            {
+              "title": "شرح متن البناء في الصرف",
+              "id": "1_2_3",
+              "playlistid": "PLQ3tuFIYeuXBWnDn1w8eDKzg0uBuvq5tA"
+            },
+            {
+              "title": "المقصود في الصرف",
+              "id": "1_2_4",
+              "playlistid": "PLQ3tuFIYeuXBgH8lSOxV4H9OlRQU6yBGA"
+            }
+          ]
+        },
+        {
+          "title": "جميع دورات البلاغة",
+          "id": "1_3",
+          "image": "1_3.jpg",
+          "content": [
+            {
+              "title": "تحفة الإخوان",
+              "id": "1_3_2",
+              "playlistid": "PLQ3tuFIYeuXBdCP04S04qEcTvuClwwqiD"
+            },
+            {
+              "title": "تطبيقات تحفة الإخوان",
+              "id": "1_3_3",
+              "playlistid": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll"
+            },
+            {
+              "title": "البلاغة الواضحة",
+              "id": "1_3_4",
+              "playlistid": "PLQ3tuFIYeuXAVlzyTH80FxG_bAVJt98qD"
+            },
+            {
+              "title": "السمرقندية مع شرح زيني دحلان",
+              "id": "1_3_6",
+              "playlistid": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2"
+            },
+            {
+              "title": "المنهاج الواضح كاملا",
+              "id": "1_3_7",
+              "content": [
+                {
+                  "title": "المنهاج الواضح الجزء الأول",
+                  "id": "1_3_7_1",
+                  "playlistid": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg"
+                },
+                {
+                  "title": "المنهاج الواضح في البلاغة الجزء",
+                  "id": "1_3_7_2",
+                  "playlistid": "PLQ3tuFIYeuXCTyiaBrD0KPWaYGJxtx7PU"
+                },
+                {
+                  "title": "المنهاج الواضح الجزء الرابع",
+                  "id": "1_3_7_4",
+                  "playlistid": "PLQ3tuFIYeuXC5Ak5pkj6O4NmjDvP5sL35"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "دورة تعليم طريقة التفسير",
+          "id": "1_4",
+          "image": "1_4.jpg",
+          "playlistid": "PLQ3tuFIYeuXD7OVxknlJZ7_otnbhnpT7G"
+        },
+        {
+          "title": "جميع دورات المورايث",
+          "id": "1_5",
+          "image": "1_5.jpg",
+          "content": [
+            {
+              "title": "تكملة زبدة الحديث في المواريث",
+              "id": "1_5_1",
+              "playlistid": "PLQ3tuFIYeuXD0Sqy5Y2Fc2HtpQywhsu4-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "تفسير تحليلي هو خلاصة كلام كبار المفسرين ، مع شرح عبارة النسفي الذي هو اختصار لكشاف الزمخشري",
+      "content": [
+        {
+          "title": "تفسير النسفي",
+          "id": "2_1",
+          "image": "2_1.jpg",
+          "type": "tafsir",
+          "content": [
+            {
+              "id": "2_1_32",
+              "title": "سورة السجدة تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBf1cVDXT0Vw3OGfnG-bSo-"
+            },
+            {
+              "id": "2_1_33",
+              "title": "سورة ٱلْأَحْزَاب تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBWSrHjGvcKixMdkM8fJPvQ"
+            },
+            {
+              "id": "2_1_34",
+              "title": "سورة سَبَأ تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXC60tmX81YosiX8hLpnycq-"
+            },
+            {
+              "id": "2_1_35",
+              "title": "سورة فاطر تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT"
+            },
+            {
+              "id": "2_1_36",
+              "title": "سورة يس تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXCUEHXKQkWilxhYimmVbKAt"
+            },  
+            {
+              "id": "2_1_37",
+              "title": "سورة الصافات تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDXlE0AWYD5ZL9pXSyyf658"
+            }, 
+            {
+              "id": "2_1_38",
+              "title": "سورة ص تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDBMXQvbBVw9luihliHUaXp"
+            },
+            {
+              "id": "2_1_39",
+              "title": "سورة الزمر تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDsKqcCQTu9NzM73XT4CPJ7"
+            },
+            {
+              "id": "2_1_40",
+              "title": "سورة غافر تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ"
+            },
+            {
+              "id": "2_1_41",
+              "title": "سورة فصلت تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_"
+            },
+            {
+              "id": "2_1_42",
+              "title": "سورة الشورى تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAH164S74MRozt5gaAUiT2y"
+            },
+            {
+              "id": "2_1_43",
+              "title": "سورة الزخرف تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXCzk3oYNBj8OKZVsRL_3Dp_"
+            },
+            {
+              "id": "2_1_44",
+              "title": "سورة الدخان تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBAkU3GYrw2ei_vxqaP-DUf"
+            },
+            {
+              "id": "2_1_45",
+              "title": "سورة الجاثية تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXD5EVH6zYxXP9POfr2WSgz7"
+            }, 
+            {
+              "id": "2_1_46",
+              "title": "سورة الأحقاف تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAFiSDYUQLQuDg6PdohZKcF"
+            },
+            {
+              "id": "2_1_47",
+              "title": "سورة محمد تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAJc_XqDDjO24E-mA0v-47s"
+            },
+            {
+              "id": "2_1_48",
+              "title": "سورة الفتح تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBCuMzao6JXO8oQKDxO3RIa"
+            },
+            {
+              "id": "2_1_49",
+              "title": "سورة الحجرات تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAvl2nAP4mEGOCLvnf5k7V9"
+            },
+            {
+              "id": "2_1_50",
+              "title": "سورة ق تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBIefQwsf0oB96iau7WByXY"
+            },
+            {
+              "id": "2_1_51",
+              "title": "سورة الذاريات تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXB-ZRdgF0qfnwvgTPGNowEU"
+            },
+            {
+              "id": "2_1_52",
+              "title": "سورة الطور تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXB6R835gXbWOTZaerRl2OBw"
+            },
+            {
+              "id": "2_1_53",
+              "title": "سورة النجم تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDAhnGj9MyRejlTuAAJq_0N"
+            },
+            {
+              "id": "2_1_54",
+              "title": "سورة القمر تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXD8hYe-bIctJt7hKKqnmdJC"
+            },
+            {
+              "id": "2_1_55",
+              "title": "سورة الرحمن تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBUNMjI36gEpSokioIhBFc2"
+            },
+            {
+              "id": "2_1_56",
+              "title": "سورة الواقعة تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDlqIsAngKsVaV-cmpow4GZ"
+            },
+            {
+              "id": "2_1_57",
+              "title": "سورة الحديد تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBodAsXP2z443N9WftauSbP"
+            },
+            {
+              "id": "2_1_58",
+              "title": "سورة المجادلة تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj"
+            },
+            {
+              "id": "2_1_59",
+              "title": "سورة الحشر تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDts_QHyecBIMKYhZdlDOZ1"
+            },
+            {
+              "id": "2_1_60",
+              "title": "سورة الممتحنة تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXA_qztcLKeVp4i2jDBjduTw"
+            },
+            {
+              "id": "2_1_61",
+              "title": "سورة الصف تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBYSR9C1LpVXxNMOJgZpDOa"
+            },
+            {
+              "id": "2_1_62",
+              "title": "سورة الجمعة تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAFP7829vLxVS0v5uEvv_X0"
+            },
+            {
+              "id": "2_1_63",
+              "title": "سورة المنافقون تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXB7ofEbozUQ7902H5UWuzkh"
+            },
+            {
+              "id": "2_1_64",
+              "title": "سورة التغابن تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAsDJz-dJHqbGJgnbjhp8ex"
+            },
+            {
+              "id": "2_1_65",
+              "title": "سورة الطلاق تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXByxE7R85L-fkG3E6CYpJeN"
+            },
+            {
+              "id": "2_1_66",
+              "title": "سورة التحريم تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAwgYLihtX7zAq3_8XRQtez"
+            },
+            {
+              "id": "2_1_67",
+              "title": "سورة الملك تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBOljWJcSF1fbqVtYJgc2pe"
+            },
+            {
+              "id": "2_1_68",
+              "title": "سورة القلم تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBUHh_fYg3A078F_H1ZAw12"
+            },
+            {
+              "id": "2_1_69",
+              "title": "سورة الحاقة تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDyBEKSzJezq1lXqnakejzV"
+            },
+            {
+              "id": "2_1_70",
+              "title": "سورة المعارج تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAqOy8lk4WdnVNsOqtAIldw"
+            },
+            {
+              "id": "2_1_71",
+              "title": "سورة نوح تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXAANJycQysYP-LgGoeYND1o"
+            },
+            {
+              "id": "2_1_72",
+              "title": "سورة الجن تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBf4SAQkf95o50wreFTQ11w"
+            },
+            {
+              "id": "2_1_73",
+              "title": "سورة المزمل تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDhCiTkXFylSbKwsKhanBG2"
+            },
+            {
+              "id": "2_1_74",
+              "title": "سورة المدثر تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXA39jry4VsvDMMyN_nAV5wA"
+            },
+            {
+              "id": "2_1_75",
+              "title": "سورة القيامة تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBSmclTB6ktY967npNt90T6"
+            },
+            {
+              "id": "2_1_76",
+              "title": "سورة الانسان تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXDpew7MDGdG-lMIGEPt7e60"
+            },
+            {
+              "id": "2_1_77",
+              "title": "سورة المرسلات تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXCApwGAEqp-bakSwSFhiZQO"
+            },
+            {
+              "id": "2_1_78",
+              "title": "الجزء عَمَّ الحزب ٥٩ تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl"
+            },
+            {
+              "id": "2_1_87",
+              "title": "الجزء عَمَّ الحزب ٦٠ تفسير النسفي",
+              "type": "tafsir",
+              "playlistid": "PLQ3tuFIYeuXBEsZ7YqRNHFRdKiljLdiNg"
+            }                                                                                                                                                                                                                                                                                                                                     
+          ]
+        }
+      ],
+      "type": "tafsir"
+    }
+  ]
+}
