@@ -119,17 +119,20 @@ async function createMDX() {
     data += "\n";
     data += "---";
     data += "\n";
-    data += "import { YouTube } from 'mdx-embed'";
+    data += `import VideoList from '${item.import}src/components/VideoList';`;
     data += "\n";
+    data += "\n";
+    data += "<VideoList list={[";
     lesson.items.forEach((item) => {
       if (item.snippet.title !== "Private video") {
-        data += "\n";
-        data += "## " + item.snippet.title;
-        data += "\n";
-        data += "<YouTube youTubeId='" + item.contentDetails.videoId + "' />";
+        data += `{id:'${item.contentDetails.videoId}',title:'${item.snippet.title}'},`;
         data += "\n";
       }
     });
+    data += "]}";
+    data += "\n";
+    data += "/>";
+    data += "\n";
     count += 1;
     await fse.outputFile(path.join(process.cwd(), item.path), data, "utf8");
   });
