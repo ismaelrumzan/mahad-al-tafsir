@@ -20,7 +20,8 @@ export default function VideoList({ children, list = [] }) {
             itemIndex
           ].title
             .replace(/[0-9]/g, "")
-            .replace(/\./g, "").replace(/\_/g, "")}`}</h2>
+            .replace(/\./g, "")
+            .replace(/\_/g, "")}`}</h2>
           <div>
             <a
               className={
