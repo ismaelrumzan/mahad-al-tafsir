@@ -5,184 +5,149 @@
   "content": [
     {
       "id": "1",
-      "title": "دروس لتأسيس وبناء طالب العلم في العلوم الشرعية عامة ،وعلم التفسير خاصة",
+      "title": "جميع دورات النحو",
       "image": "pexels-abene-sebei-1438252.jpg",
-      "type": "lessons",
+      "type": "videos",
       "content": [
         {
-          "title": "جميع دورات النحو",
-          "id": "1_1",
+          "title": "دروة  مبادئ  دروس العربية",
+          "nav": "مبادئ  دروس العربية",
+          "id": "1_1_1",
+          "playlistid": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo"
+        },
+        {
+          "title": "شروح الآجر ومية",
+          "nav": "شروح الآجر ومية",
+          "id": "1_1_2",
           "image": "1_1.jpeg",
           "content": [
             {
-              "title": "مبادئ دروس العربية",
-              "id": "1_1_1",
-              "playlistid": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo"
+              "title": "دورة شرح التوضيح على الآجرومية",
+              "nav": "التوضيح على الاجرومية",
+              "id": "1_1_2_1",
+              "playlistid": "PLQ3tuFIYeuXCQ7DZQa3u4s-w_eYuL9miS"
             },
             {
-              "title": "شروح الآجر ومية",
-              "id": "1_1_2",
-              "image": "1_1.jpeg",
-              "content": [
-                {
-                  "title": "شرح متن الاجرومية",
-                  "id": "1_1_2_1",
-                  "playlistid": "PLQ3tuFIYeuXDknocM4q85eA0BblrlW7Se"
-                },
-                {
-                  "title": "التوضيح على الاجرومية",
-                  "id": "1_1_2_2",
-                  "playlistid": "PLQ3tuFIYeuXCQ7DZQa3u4s-w_eYuL9miS"
-                },
-                {
-                  "title": "التسهيل على الاجرومية",
-                  "id": "1_1_2_3",
-                  "playlistid": "PLQ3tuFIYeuXDovl1AzbJjqOcT7JVCntQ8"
-                }
-              ]
+              "title": "شرح متن الاجرومية",
+              "nav": "شرح متن الاجرومية",
+              "id": "1_1_2_2",
+              "playlistid": "PLQ3tuFIYeuXDknocM4q85eA0BblrlW7Se"
             },
             {
-              "title": "اعراب جزء عم",
-              "id": "1_1_3",
-              "playlistid": "PLQ3tuFIYeuXAIbE_2ATKC3E6wgyybQopm"
+              "title": "التسهيل على مقدمة الآجرومية",
+              "nav": "التسهيل على الآجرومية",
+              "id": "1_1_2_3",
+              "playlistid": "PLQ3tuFIYeuXDovl1AzbJjqOcT7JVCntQ8"
             },
             {
-              "title": "متممة الآجرومية",
-              "id": "1_1_5",
-              "playlistid": "PLQ3tuFIYeuXAU1nAahXoc89-597jNGhtt"
-            },
+              "title": "الشرح المفصل على الآجرومية",
+              "nav": "المفصل على الآجرومية",
+              "id": "1_1_2_4",
+              "notes": "لم يسجل"
+            }
+          ]
+        },
+        {
+          "title": "متممة الآجرومية",
+          "id": "1_1_3",
+          "playlistid": "PLQ3tuFIYeuXAU1nAahXoc89-597jNGhtt"
+        },
+        {
+          "title": "النحو الوظيفي/ عبد العليم إبراهيم",
+          "nav": "النحو الوظيفي",
+          "id": "1_1_4",
+          "playlistid": "PLQ3tuFIYeuXCvPlh41cI2q2YRr2ZAMezJ"
+        },
+        {
+          "title": "قطر الندى شرح المتن مع الجداو ل",
+          "nav": "قطر الندى",
+          "id": "1_1_5",
+          "playlistid": "PLQ3tuFIYeuXDuLzrUPX6AqcfyIvLmp1EP"
+        },
+        {
+          "title": "شرح ابن هشام شرح الفاكهي",
+          "nav": "شرح ابن هشام",
+          "id": "1_1_6",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "شذور الذهب/ ابن هشام",
+          "nav": "شذور الذهب",
+          "id": "1_1_7",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "موصل الطالب إىل قواعد اإلعراب املتن البن هشام والرشح خلالد األزهري",
+          "nav": "موصل الطالب",
+          "id": "1_1_8",
+          "playlistid": "PLQ3tuFIYeuXA1uuQ8Ogt17i9PjskdAwSo",
+          "notes": "سجل من أوله إلى آخر باب 'إنَّ' وأخواتها، والدروس متسمرة"
+        },
+        {
+          "title": "ألفية ابن مالك",
+          "nav": "ألفية ابن مالك",
+          "id": "1_1_2",
+          "image": "1_1.jpeg",
+          "content": [
             {
-              "title": "النحو الوظيفي",
-              "id": "1_1_6",
-              "playlistid": "PLQ3tuFIYeuXCvPlh41cI2q2YRr2ZAMezJ"
-            },
-            {
-              "title": "قطر الندى وبل الصدى جديد",
-              "id": "1_1_7",
-              "playlistid": "PLQ3tuFIYeuXDuLzrUPX6AqcfyIvLmp1EP"
-            },
-            {
-              "title": "موصل الطلاب لقواعد الاعراب لخالد الازهري",
-              "id": "1_1_8",
-              "playlistid": "PLQ3tuFIYeuXA1uuQ8Ogt17i9PjskdAwSo"
-            },
-            {
-              "title": "شرح ابن عقيل على ألفية ابن مالك",
+              "title": "ألفية ابن مالك بشرح ابن عقيل",
               "id": "1_1_9",
-              "playlistid": "PLQ3tuFIYeuXB-Rkq_JzH2GHVylmIGld2R"
+              "nav": "بشرح ابن عقيل",
+              "playlistid": "PLQ3tuFIYeuXB-Rkq_JzH2GHVylmIGld2R",
+              "notes": "سجل من أوله إلى آخر باب 'إنَّ' وأخواتها، والدروس متسمرة"
             },
             {
-              "title": "شرح الأشموني على الألفية",
+              "title": "ألفية ابن مالك بشرح الأشموني",
+              "nav": "بشرح الأشموني",
               "id": "1_1_10",
-              "playlistid": "PLQ3tuFIYeuXDCYGhX94GAexhwvnbFuXEu"
+              "playlistid": "PLQ3tuFIYeuXDCYGhX94GAexhwvnbFuXEu",
+              "notes": "سجل من أوله إلى آخر باب كان وأخواتها، والدروس متسمرة"
             },
             {
-              "title": "التصريح على التوضيح",
+              "title": "(ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح على التصريح",
+              "nav": "بشرح ابن هشام",
               "id": "1_1_11",
               "playlistid": "PLQ3tuFIYeuXCMQDlqCrkn1yB43vee465T"
             },
             {
-              "title": "شرح السيوطي على الألفية",
+              "title": "ألفية ابن مالك بشرح السيوطي",
+              "nav": "بشرح السيوطي",
               "id": "1_1_12",
-              "playlistid": "PLQ3tuFIYeuXAPwMyL8E3Jhlx0w6a8vWl7"
+              "playlistid": "PLQ3tuFIYeuXAPwMyL8E3Jhlx0w6a8vWl7",
+              "notes": "سجل من أوله إلى آخر باب إنَّ وأخواتها ، والدروس متسمر ة"
             },
             {
-              "title": "المساعد شرح تسهيل الفوائد لابن عقيل على التسهيل",
+              "title": "(تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد",
+              "nav": "تسهيل الفوائد",
               "id": "1_1_13",
-              "playlistid": "PLQ3tuFIYeuXDS7cb5iAzE6vLlnn9RXRGs"
+              "playlistid": "PLQ3tuFIYeuXDS7cb5iAzE6vLlnn9RXRGs",
+              "notes": "سجل من أوله إلى آخر باب إنَّ وأخواتها ، والدروس متسمر ة"
             }
           ]
         },
         {
-          "title": "جميع دورات الصرف",
-          "id": "1_2",
-          "image": "1_2.jpg",
-          "content": [
-            {
-              "title": "الشرح المختصر للامثلة المختلفة",
-              "id": "1_2_1",
-              "playlistid": "PLQ3tuFIYeuXCsnF-XIhpfMmqY-uZCcVon"
-            },
-            {
-              "title": "الشرح المطول للامثلة المختلفة",
-              "id": "1_2_2",
-              "playlistid": "PLQ3tuFIYeuXAtAWQT646c6sw6X0XYNIb4"
-            },
-            {
-              "title": "شرح متن البناء في الصرف",
-              "id": "1_2_3",
-              "playlistid": "PLQ3tuFIYeuXBWnDn1w8eDKzg0uBuvq5tA"
-            },
-            {
-              "title": "المقصود في الصرف",
-              "id": "1_2_4",
-              "playlistid": "PLQ3tuFIYeuXBgH8lSOxV4H9OlRQU6yBGA"
-            }
-          ]
+          "title": "ثم مغني اللبيب لابن هشام",
+          "nav": "ثم مغني اللبيب",
+          "id": "1_1_14",
+          "notes": "لم يسجل"
         },
         {
-          "title": "جميع دورات البلاغة",
-          "id": "1_3",
-          "image": "1_3.jpg",
+          "title": "للتدريب على الإعراب",
+          "nav": "للتدريب على الإعراب",
+          "id": "1_1_15",
+          "image": "1_1.jpeg",
           "content": [
             {
-              "title": "تحفة الإخوان",
-              "id": "1_3_2",
-              "playlistid": "PLQ3tuFIYeuXBdCP04S04qEcTvuClwwqiD"
+              "title": "دورة إعراب جزء عم",
+              "nav": "إعراب جزء عم",
+              "id": "1_1_15_1",
+              "playlistid": "PLQ3tuFIYeuXAIbE_2ATKC3E6wgyybQopm"
             },
             {
-              "title": "تطبيقات تحفة الإخوان",
-              "id": "1_3_3",
-              "playlistid": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll"
-            },
-            {
-              "title": "البلاغة الواضحة",
-              "id": "1_3_4",
-              "playlistid": "PLQ3tuFIYeuXAVlzyTH80FxG_bAVJt98qD"
-            },
-            {
-              "title": "السمرقندية مع شرح زيني دحلان",
-              "id": "1_3_6",
-              "playlistid": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2"
-            },
-            {
-              "title": "المنهاج الواضح كاملا",
-              "id": "1_3_7",
-              "content": [
-                {
-                  "title": "المنهاج الواضح الجزء الأول",
-                  "id": "1_3_7_1",
-                  "playlistid": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg"
-                },
-                {
-                  "title": "المنهاج الواضح في البلاغة الجزء",
-                  "id": "1_3_7_2",
-                  "playlistid": "PLQ3tuFIYeuXCTyiaBrD0KPWaYGJxtx7PU"
-                },
-                {
-                  "title": "المنهاج الواضح الجزء الرابع",
-                  "id": "1_3_7_4",
-                  "playlistid": "PLQ3tuFIYeuXC5Ak5pkj6O4NmjDvP5sL35"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "دورة تعليم طريقة التفسير",
-          "id": "1_4",
-          "image": "1_4.jpg",
-          "playlistid": "PLQ3tuFIYeuXD7OVxknlJZ7_otnbhnpT7G"
-        },
-        {
-          "title": "جميع دورات المورايث",
-          "id": "1_5",
-          "image": "1_5.jpg",
-          "content": [
-            {
-              "title": "تكملة زبدة الحديث في المواريث",
-              "id": "1_5_1",
-              "playlistid": "PLQ3tuFIYeuXD0Sqy5Y2Fc2HtpQywhsu4-"
+              "title": "النحو الوظيفي/ عبد العليم إبراهيم",
+              "nav": "النحو الوظيفي",
+              "id": "1_1_15_2",
+              "playlistid": "PLQ3tuFIYeuXCvPlh41cI2q2YRr2ZAMezJ"
             }
           ]
         }
@@ -190,11 +155,160 @@
     },
     {
       "id": "2",
-      "title": "تفسير تحليلي هو خلاصة كلام كبار المفسرين ، مع شرح عبارة النسفي الذي هو اختصار لكشاف الزمخشري",
+      "title": "جميع دورات الصرف",
+      "nav": "جميع دورات الصرف",
+      "image": "pexels-abene-sebei-1438252.jpg",
+      "type": "videos",
       "content": [
         {
-          "title": "تفسير النسفي",
-          "id": "2_1",
+          "title": "الشرح المختصر للامثلة المختلفة",
+          "nav": "الشرح المختصر",
+          "id": "1_2_1",
+          "playlistid": "PLQ3tuFIYeuXCsnF-XIhpfMmqY-uZCcVon"
+        },
+        {
+          "title": "الشرح المطول للامثلة المختلفة",
+          "nav": "الشرح المطول",
+          "id": "1_2_2",
+          "playlistid": "PLQ3tuFIYeuXAtAWQT646c6sw6X0XYNIb4"
+        },
+        {
+          "title": "شرح كتاب البناء في علم التصريف/ عبد الله الدفتزي",
+          "nav": "شرح كتاب البنا",
+          "id": "1_2_3",
+          "playlistid": "PLQ3tuFIYeuXBWnDn1w8eDKzg0uBuvq5tA"
+        },
+        {
+          "title": "شرح المقصود في الصرف المنسوب لأبي حنيفة",
+          "nav": "شرح المقصود",
+          "id": "1_2_4",
+          "playlistid": "PLQ3tuFIYeuXBgH8lSOxV4H9OlRQU6yBGA"
+        },
+        {
+          "title": "شرح متن العزي في الصرف / عبد الوهاب الزنجاني",
+          "nav": "شرح متن العزي",
+          "id": "1_2_5",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "تيسير الإعلال والإبدال لعبد العليم إبراهيم",
+          "nav": "تيسير الإعلال",
+          "id": "1_2_6",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "شرح كتاب المراح في الصرف/ أحمد بن علي بن مسعود",
+          "nav": "شرح كتاب المراح",
+          "id": "1_2_7",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "شرح شافية ابن الحاجب  مع المستقصى لعبد اللطيف الخطيب",
+          "nav": "شرح شافية ابن الحاجب",
+          "id": "1_2_8",
+          "notes": "لم يسجل"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "جميع دورات البلاغة",
+      "nav": "جميع دورات البلاغة",
+      "image": "pexels-abene-sebei-1438252.jpg",
+      "type": "videos",
+      "content": [
+        {
+          "title": "(تاريخ البلاغة (فيه تعريف بعلماء البلاغة على مر التاريخ",
+          "nav": "تاريخ البلاغة",
+          "id": "1_3_1",
+          "playlistid": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ"
+        },
+        {
+          "title": "تحفة الإخوان  /أحمد الدردير",
+          "nav": "تحفة الإخوان",
+          "id": "1_3_2",
+          "playlistid": "PLQ3tuFIYeuXBdCP04S04qEcTvuClwwqiD"
+        },
+        {
+          "title": "تطبيقات تحفة الإخوان من القرآن والشعر",
+          "nav": "تطبيقات تحفة الإخوان",
+          "id": "1_3_3",
+          "playlistid": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll"
+        },
+        {
+          "title": "البلاغة الواضحة لعلي الجارم، مع حل تدريباتها",
+          "nav": "البلاغة الواضحة",
+          "id": "1_3_4",
+          "playlistid": "PLQ3tuFIYeuXAVlzyTH80FxG_bAVJt98qD"
+        },
+        {
+          "title": "كتاب دروس البلاغة لحفني ناصف",
+          "nav": "كتاب دروس البلاغة",
+          "id": "1_3_5",
+          "notes": "لم يرفع بعد"
+        },
+        {
+          "title": "السمرقندية في علم البيان / أبو القاسم بن أبي بكر الليثي السمرقندي مع شرح الشيخ زيني دحلان",
+          "nav": "السمرقندية في علم البيان",
+          "id": "1_3_6",
+          "playlistid": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2"
+        },
+        {
+          "title": "الجوهر المكنون/ للأخضري",
+          "nav": "الجوهر المكنون",
+          "id": "1_3_7",
+          "notes": "سجل بعضه"
+        },
+        {
+          "title": "المنهاج الواضح/ حامد عوني بأجزائه الخمسة",
+          "nav": "المنهاج الواضح",
+          "id": "1_3_8",
+          "content": [
+            {
+              "title": "المنهاج الواضح في البلاغة الجزء الأول",
+              "nav": "المنهاج الواضح الأول",
+              "id": "1_3_7_1",
+              "playlistid": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg"
+            },
+            {
+              "title": "المنهاج الواضح في البلاغة الجز الثاني",
+              "nav": "المنهاج الواضح الثاني",
+              "id": "1_3_7_2",
+              "playlistid": "PLQ3tuFIYeuXCTyiaBrD0KPWaYGJxtx7PU"
+            },
+            {
+              "title": "المنهاج الواضح في البلاغة الجزء الثالث",
+              "nav": "المنهاج الواضح الثالث",
+              "id": "1_3_7_3",
+              "playlistid": "PLQ3tuFIYeuXC5Ak5pkj6O4NmjDvP5sL35"
+            }
+          ]
+        },
+        {
+          "title": "تلخيص المفتاح للخطيب القزويني مع شرحه مختصر المعاني",
+          "nav": "تلخيص المفتاح",
+          "id": "1_3_8",
+          "notes": "لم يسجل بعد"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "علم التفسير",
+      "image": "pexels-abene-sebei-1438252.jpg",
+      "type": "videos",
+      "content": [
+        {
+          "title": "دورة الطريقة المثلى لتفسير القرآن الكريم",
+          "nav": "الطريقة المثلى لتفسير",
+          "id": "4_1",
+          "image": "1_4.jpg",
+          "playlistid": "PLQ3tuFIYeuXD7OVxknlJZ7_otnbhnpT7G"
+        },
+        {
+          "title": "تفسير النسفي من سورة السجدة إلى سورة الناس",
+          "nav": "تفسير النسفي",
+          "id": "4_2",
           "image": "2_1.jpg",
           "type": "tafsir",
           "content": [
@@ -227,13 +341,13 @@
               "title": "سورة يس تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXCUEHXKQkWilxhYimmVbKAt"
-            },  
+            },
             {
               "id": "2_1_37",
               "title": "سورة الصافات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDXlE0AWYD5ZL9pXSyyf658"
-            }, 
+            },
             {
               "id": "2_1_38",
               "title": "سورة ص تفسير النسفي",
@@ -281,7 +395,7 @@
               "title": "سورة الجاثية تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXD5EVH6zYxXP9POfr2WSgz7"
-            }, 
+            },
             {
               "id": "2_1_46",
               "title": "سورة الأحقاف تفسير النسفي",
@@ -485,11 +599,92 @@
               "title": "الجزء عَمَّ الحزب ٦٠ تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBEsZ7YqRNHFRdKiljLdiNg"
-            }                                                                                                                                                                                                                                                                                                                                     
+            }
           ]
+        },
+        {
+          "title": "تفسير القرآن الكريم من الفاتحة إلى سورة السجدة من تفسير الجلالين والنسفي والبيضاوي",
+          "nav": "تفسير القرآن الكريم",
+          "id": "4_3",
+          "image": "2_1.jpg",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "تفسير القرآن كاملًا مع الترجمة للغة الإنجليزية",
+          "nav": "تفسير القرآن كاملً",
+          "id": "4_4",
+          "image": "2_1.jpg",
+          "notes": "لم ترفع"
+        },
+        {
+          "title": "كتب علوم القرآن ومنها كتاب نور الدين عتر، والزمزمية ، والإتقان والبرهان",
+          "nav": "كتب علوم القرآن",
+          "id": "4_5",
+          "image": "2_1.jpg",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "شرح الشاطبية في القراءات مع دفع الشبهات عن القراءات",
+          "nav": "شرح الشاطبية",
+          "id": "4_6",
+          "image": "2_1.jpg",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "إعجاز القرآن",
+          "nav": "إعجاز القرآن",
+          "id": "4_7",
+          "image": "2_1.jpg",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "القصص القرآني",
+          "nav": "القصص القرآني",
+          "id": "4_8",
+          "image": "2_1.jpg",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "مقاصد سور القرآن",
+          "nav": "مقاصد سور القرآن",
+          "id": "4_9",
+          "image": "2_1.jpg",
+          "notes": "لم يسجل"
+        },
+        {
+          "title": "من أسرار حروف الجر ومن أسرار حروف العطف",
+          "nav": "من أسرار حروف",
+          "id": "4_10",
+          "image": "2_1.jpg",
+          "notes": "لم يسجل"
         }
-      ],
-      "type": "tafsir"
+      ]
+    },
+    {
+      "title": "علم المواريث",
+      "nav": "علم المواريث",
+      "id": "5",
+      "image": "1_5.jpg",
+      "content": [
+        {
+          "title": "تكملة زبدة الحديث في فقه المواريث/ الحبيب محمد بن سالم بن حفيظ",
+          "nav": "تكملة زبدة الحديث",
+          "id": "5_1",
+          "playlistid": "PLQ3tuFIYeuXD0Sqy5Y2Fc2HtpQywhsu4-"
+        },
+        {
+          "title": "شرح الرحبية",
+          "nav": "شرح الرحبية",
+          "id": "5_2",
+          "notes": "لم يسجل بعد"
+        },
+        {
+          "title": "شرح كتب في المواريث على المذهب الحنفي",
+          "nav": "شرح كتب",
+          "id": "5_3",
+          "notes": "لم يسجل بعد"
+        }
+      ]
     }
   ]
 }
