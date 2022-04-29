@@ -1,0 +1,4465 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cLeq8KkslXbCfGJI3oYuAf784ws",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:29:00Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.1 المقدمة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RstQnIrk9UU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RstQnIrk9UU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RstQnIrk9UU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RstQnIrk9UU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RstQnIrk9UU"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "RstQnIrk9UU",
+                "videoPublishedAt": "2021-02-05T06:32:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tBFLfhgX5I4HKfRyzdwYP1-4pj4",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:29:13Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.2 الفصاحة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5yXkYEJgJ8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5yXkYEJgJ8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5yXkYEJgJ8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5yXkYEJgJ8c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5yXkYEJgJ8c"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "5yXkYEJgJ8c",
+                "videoPublishedAt": "2021-02-05T06:35:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ELndL1J0NOBpnS19UfohRM2ygA8",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:29:30Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.3 تتمة فصاحة الكلمة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mCWL_xGwCVo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mCWL_xGwCVo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mCWL_xGwCVo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mCWL_xGwCVo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mCWL_xGwCVo"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "mCWL_xGwCVo",
+                "videoPublishedAt": "2021-02-05T06:33:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4AogvT_ahOKwO5rklRYgzyKkruA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:32:15Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.4 تتمة تدريبات فصاحة الكلمة ، وفصاحة الكلام",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mGGQ_RbT2Yw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mGGQ_RbT2Yw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mGGQ_RbT2Yw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mGGQ_RbT2Yw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mGGQ_RbT2Yw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "mGGQ_RbT2Yw",
+                "videoPublishedAt": "2021-02-05T06:34:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GozqSMgpwbZ0Gij6wlIa6EVLeQE",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:32:29Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.5 فصاحة الكلام",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JaAZKOhe_2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JaAZKOhe_2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JaAZKOhe_2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JaAZKOhe_2U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JaAZKOhe_2U"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "JaAZKOhe_2U",
+                "videoPublishedAt": "2021-02-05T06:32:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "e4-NLl3rojY8uWV62q8XmLDMDmU",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:32:54Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.6 تتمة فصاحة الكلام",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fjr1dAe_esw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fjr1dAe_esw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fjr1dAe_esw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fjr1dAe_esw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fjr1dAe_esw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "fjr1dAe_esw",
+                "videoPublishedAt": "2021-02-05T06:37:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "C0cZ7tHQgB5sUvq0sCuXgsFqCUo",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:33:06Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.7 تدريبات على فصاحة الكلام",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4V_pceXp3tE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4V_pceXp3tE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4V_pceXp3tE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4V_pceXp3tE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4V_pceXp3tE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4V_pceXp3tE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "4V_pceXp3tE",
+                "videoPublishedAt": "2021-02-05T06:34:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DXS37nofdz1rN7_C7snUnUoVZXo",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:33:17Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.8 بلاغة الكلمة والكلام والمتكلم",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MpCE4iRuFYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MpCE4iRuFYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MpCE4iRuFYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MpCE4iRuFYE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MpCE4iRuFYE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MpCE4iRuFYE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "MpCE4iRuFYE",
+                "videoPublishedAt": "2021-02-05T06:33:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RH-StwUsNF33u4pAkhZh6uJ_8uA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:33:31Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.9 أقسام علوم البلاغة مع تدريبات",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W8a6BmfF8c4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W8a6BmfF8c4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W8a6BmfF8c4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W8a6BmfF8c4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W8a6BmfF8c4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "W8a6BmfF8c4"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "W8a6BmfF8c4",
+                "videoPublishedAt": "2021-02-05T06:36:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6ciS1t5s-2OKWAWOH_53wWQ76iE",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:33:43Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.10 تعريف علم البيان",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/unJ9xLJpa3Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/unJ9xLJpa3Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/unJ9xLJpa3Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/unJ9xLJpa3Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/unJ9xLJpa3Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "unJ9xLJpa3Q"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "unJ9xLJpa3Q",
+                "videoPublishedAt": "2021-02-05T06:36:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZR1DGBL7hBmmhoLvMOX6-gbdWLI",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:34:01Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.11 أنواع الدلالات",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PJETJ4ZuysY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PJETJ4ZuysY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PJETJ4ZuysY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PJETJ4ZuysY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PJETJ4ZuysY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PJETJ4ZuysY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "PJETJ4ZuysY",
+                "videoPublishedAt": "2021-02-05T06:34:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZYV0vHnFz2LKumfDZNyv5dgglL4",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:34:12Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.12 تدريبات على علم البيان",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B9a2haw4tac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B9a2haw4tac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B9a2haw4tac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B9a2haw4tac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B9a2haw4tac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B9a2haw4tac"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "B9a2haw4tac",
+                "videoPublishedAt": "2021-02-05T06:36:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pka1z-XkBbvgoeY0y51ciPWJlmg",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:34:24Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.13 تقسيم التشبيه من حيث الطرفان",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iT8FMztldpo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iT8FMztldpo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iT8FMztldpo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iT8FMztldpo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iT8FMztldpo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iT8FMztldpo"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "iT8FMztldpo",
+                "videoPublishedAt": "2021-02-05T06:37:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "D_pegm4o3hchEv7oTgTTYioASwM",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:36:29Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.14 الفرق بين المركب والمفرد المقيد ، والملفوف والمفروق",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Tx3Mx63GyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Tx3Mx63GyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Tx3Mx63GyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Tx3Mx63GyY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6Tx3Mx63GyY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6Tx3Mx63GyY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "6Tx3Mx63GyY",
+                "videoPublishedAt": "2021-02-05T06:40:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qOhP_DYm_qGLeAok4kJye0iAJyY",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:36:43Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.15 تمرينات على التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lIyZwmnQt5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lIyZwmnQt5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lIyZwmnQt5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lIyZwmnQt5w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lIyZwmnQt5w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lIyZwmnQt5w"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "lIyZwmnQt5w",
+                "videoPublishedAt": "2021-02-05T06:43:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wmkZUvuF4482aD5OZb_ar956UVE",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:36:58Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.16 تكملة تدريبات التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UVpONGIEDLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UVpONGIEDLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UVpONGIEDLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UVpONGIEDLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UVpONGIEDLA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UVpONGIEDLA"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "UVpONGIEDLA",
+                "videoPublishedAt": "2021-02-05T06:40:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "W2MGqopPwgh1-FVvdWcSMYS1PMw",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:37:12Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.17 تقسيم التشبيه من حيث وجه الشبه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FBxUTHNXiEg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FBxUTHNXiEg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FBxUTHNXiEg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FBxUTHNXiEg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FBxUTHNXiEg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FBxUTHNXiEg"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "FBxUTHNXiEg",
+                "videoPublishedAt": "2021-02-05T06:39:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QtXTBRKkFqO7SY6aFicWm5vM5m4",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:37:25Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.18 تقسيم التشبيه إلى تمثيلي وغير تمثيلي",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/natkHW_4xWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/natkHW_4xWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/natkHW_4xWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/natkHW_4xWU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/natkHW_4xWU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "natkHW_4xWU"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "natkHW_4xWU",
+                "videoPublishedAt": "2021-02-05T06:39:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NvJc_BMYgFmUXAKq2wN-3mOYmdA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:37:51Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.19 تقسيم التشبيه من حيث وجه الشبه إلى مفصل ومجمل",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nI-iQt4E2Gk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nI-iQt4E2Gk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nI-iQt4E2Gk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nI-iQt4E2Gk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nI-iQt4E2Gk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nI-iQt4E2Gk"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "nI-iQt4E2Gk",
+                "videoPublishedAt": "2021-02-05T06:39:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uPEhWoe89w4Zp80yyE-oLK1aEEw",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:38:03Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.20 تقسيم التشبيه إلى قريب مبتذل وبعيد غريب",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PgjermEQj6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PgjermEQj6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PgjermEQj6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PgjermEQj6g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PgjermEQj6g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PgjermEQj6g"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "PgjermEQj6g",
+                "videoPublishedAt": "2021-02-05T06:43:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mnVqpezbNzxo2C5vhNWYOMsWoWU",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:38:16Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.21 تمرين على وجه الشبه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/glDKqoo3XJE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/glDKqoo3XJE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/glDKqoo3XJE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/glDKqoo3XJE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/glDKqoo3XJE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "glDKqoo3XJE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "glDKqoo3XJE",
+                "videoPublishedAt": "2021-02-05T06:45:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tcV4ZsaSjH57AgHgldTkKmpDPVM",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:38:28Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.22 تكملة تمرينات وجه الشبه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9TMRuWdySfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9TMRuWdySfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9TMRuWdySfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9TMRuWdySfQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9TMRuWdySfQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9TMRuWdySfQ"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "9TMRuWdySfQ",
+                "videoPublishedAt": "2021-02-05T06:43:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "c6cLqmYxeLq5VBBvjIjvU_V9sCY",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:38:41Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.23 أدوات التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AQ6lMFF4SBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AQ6lMFF4SBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AQ6lMFF4SBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AQ6lMFF4SBo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AQ6lMFF4SBo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AQ6lMFF4SBo"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "AQ6lMFF4SBo",
+                "videoPublishedAt": "2021-02-05T06:40:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Xqylysc-trYDYR4rLHbSfGu6gYg",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:38:55Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.24 تقسيم التشبيه إلى مرسل ومؤكد",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p8VQQz1Pfo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p8VQQz1Pfo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p8VQQz1Pfo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p8VQQz1Pfo4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p8VQQz1Pfo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p8VQQz1Pfo4"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "p8VQQz1Pfo4",
+                "videoPublishedAt": "2021-02-05T06:42:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-NvQLzJ2Pi_H6QOpsB6iibf3hZ0",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:39:09Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.25 أغراض التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xyymX7s2C2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xyymX7s2C2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xyymX7s2C2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xyymX7s2C2s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xyymX7s2C2s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xyymX7s2C2s"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "xyymX7s2C2s",
+                "videoPublishedAt": "2021-02-05T06:40:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wAy7ZeAotzXfic35P34Vp8EaEgM",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:39:26Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.26 أغراض التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8BdFr3_SyZI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8BdFr3_SyZI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8BdFr3_SyZI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8BdFr3_SyZI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8BdFr3_SyZI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8BdFr3_SyZI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "8BdFr3_SyZI",
+                "videoPublishedAt": "2021-02-05T06:40:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8AVeESxn-kvRVd_VfqAnjGUdI-k",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2021-02-05T06:39:39Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.27 أغراض التشبيه التي تعود للمشبه به",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nBA_42Hy8Mw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nBA_42Hy8Mw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nBA_42Hy8Mw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nBA_42Hy8Mw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nBA_42Hy8Mw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nBA_42Hy8Mw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "nBA_42Hy8Mw",
+                "videoPublishedAt": "2021-02-05T06:40:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xrQYiA9FcoNkqR_9dr76JF0ZDxQ",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:02:56Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.28 تقسيم التشبيه من حيث الغرض إلى مقبول ومردود",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p7umuOIqNB8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p7umuOIqNB8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p7umuOIqNB8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p7umuOIqNB8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p7umuOIqNB8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p7umuOIqNB8"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "p7umuOIqNB8",
+                "videoPublishedAt": "2021-02-05T07:08:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rvRrWSRKV1nIUvupSbuS1h68PoM",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:03:11Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.29 تمرينات على التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LPF2XJlJsPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LPF2XJlJsPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LPF2XJlJsPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LPF2XJlJsPM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LPF2XJlJsPM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LPF2XJlJsPM"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "LPF2XJlJsPM",
+                "videoPublishedAt": "2021-02-05T07:07:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZI_igi9U60nukyC5VM3pSXEWHn0",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:03:24Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.30 تكملة تمرينات على باب التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-TINJ95zIeE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-TINJ95zIeE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-TINJ95zIeE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-TINJ95zIeE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-TINJ95zIeE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-TINJ95zIeE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "-TINJ95zIeE",
+                "videoPublishedAt": "2021-02-05T07:07:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tzAi54TMQSYb2VMnrR4yyaIYbNI",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:03:38Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.31 تكملة تمرينات باب التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OckXSeFn_hE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OckXSeFn_hE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OckXSeFn_hE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OckXSeFn_hE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OckXSeFn_hE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OckXSeFn_hE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "OckXSeFn_hE",
+                "videoPublishedAt": "2021-02-05T07:06:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4diYtoqKlp2wBPtSm2FP4LJWDss",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:03:51Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.32 تكملة التمرينات",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/awVJBQ1retQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/awVJBQ1retQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/awVJBQ1retQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/awVJBQ1retQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/awVJBQ1retQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "awVJBQ1retQ"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "awVJBQ1retQ",
+                "videoPublishedAt": "2021-02-05T07:06:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "D8RW0ul1DJqqlCgxqSJwMU16z6U",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:04:07Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.33 تكملة التمرينات",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sProZ-b9Mvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sProZ-b9Mvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sProZ-b9Mvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sProZ-b9Mvw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sProZ-b9Mvw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sProZ-b9Mvw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "sProZ-b9Mvw",
+                "videoPublishedAt": "2021-02-05T07:07:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9uiyAYNBMGI-8R21yv0G2zhjZ_I",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:09:25Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.34 مراتب التشبيه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vOTfOFW-bXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vOTfOFW-bXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vOTfOFW-bXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vOTfOFW-bXA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vOTfOFW-bXA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vOTfOFW-bXA"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "vOTfOFW-bXA",
+                "videoPublishedAt": "2021-02-05T07:09:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9niF9hdnYajxw6pyGvmui7vGGp0",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:09:49Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.35 خاتمة المشبه به ينبغي أن يكون أعرف من المشبه",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eHf_BetNSOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eHf_BetNSOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eHf_BetNSOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eHf_BetNSOI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eHf_BetNSOI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eHf_BetNSOI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "eHf_BetNSOI",
+                "videoPublishedAt": "2021-02-05T07:09:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xER_lmgkdq6NODM60TTxKNQ_hck",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:10:04Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.36 المجاز المفرد",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hx37Y8wFgDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hx37Y8wFgDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hx37Y8wFgDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Hx37Y8wFgDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Hx37Y8wFgDY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Hx37Y8wFgDY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "Hx37Y8wFgDY",
+                "videoPublishedAt": "2021-02-05T07:10:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mGmgvbbL2kPf6tdTQjubHsMOXiI",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:10:18Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.37 ما لا بد منه في تحقيق الاستعارة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hCJo-Bvm7lw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hCJo-Bvm7lw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hCJo-Bvm7lw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hCJo-Bvm7lw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hCJo-Bvm7lw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hCJo-Bvm7lw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "hCJo-Bvm7lw",
+                "videoPublishedAt": "2021-02-05T07:10:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jilIT9atNYA8U2R9Sh50UKEOH3w",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:10:37Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.38 تقسيم الاستعارة  إلى تصريحية ومكنية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iRZfqClZkQw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iRZfqClZkQw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iRZfqClZkQw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iRZfqClZkQw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iRZfqClZkQw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iRZfqClZkQw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "iRZfqClZkQw",
+                "videoPublishedAt": "2021-02-05T07:10:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "t9RNpNv_-_CNRHoXsGTM70pQx-E",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:10:51Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.39 تقسيم الاستعار إلى أصلية وتبعية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4_GPdaFgZ1U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4_GPdaFgZ1U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4_GPdaFgZ1U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4_GPdaFgZ1U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4_GPdaFgZ1U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4_GPdaFgZ1U"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "4_GPdaFgZ1U",
+                "videoPublishedAt": "2021-02-05T07:10:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qAo5d6Y8ECScLnT5kalD3OmVw_o",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:11:06Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.40 تتمة الاستعارة التبعية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0tL6Gz0SQso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0tL6Gz0SQso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0tL6Gz0SQso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0tL6Gz0SQso/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0tL6Gz0SQso/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0tL6Gz0SQso"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "0tL6Gz0SQso",
+                "videoPublishedAt": "2021-02-05T07:11:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Vo92qrjhSZEKWLqx4va-OHYpbOo",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:11:17Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.41 الاستعارة في الحرف",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ejm8iq-EgfI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ejm8iq-EgfI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ejm8iq-EgfI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ejm8iq-EgfI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ejm8iq-EgfI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ejm8iq-EgfI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "ejm8iq-EgfI",
+                "videoPublishedAt": "2021-02-05T07:11:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xehiBjASdcFfQMow6VGm268TBUM",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:11:29Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.42 تقسيم الاستعارة إلى مرشحة ومجردة ومطلقة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PjAE7lsdUJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PjAE7lsdUJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PjAE7lsdUJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PjAE7lsdUJA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PjAE7lsdUJA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PjAE7lsdUJA"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "PjAE7lsdUJA",
+                "videoPublishedAt": "2021-02-05T07:11:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JShMFbbTXIxbguJgiJ8kP9Kdo2c",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:12:22Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.43 المقارنة بين الاستعارات الثلاث",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XYkgi2z9rCE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XYkgi2z9rCE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XYkgi2z9rCE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XYkgi2z9rCE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XYkgi2z9rCE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XYkgi2z9rCE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "XYkgi2z9rCE",
+                "videoPublishedAt": "2021-02-05T07:14:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CwHF7By0uDrrbjzX3FaBTiXsUYw",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:12:33Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.44 القرينة في الاستعارة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Cnfxzy8pYUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Cnfxzy8pYUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Cnfxzy8pYUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Cnfxzy8pYUs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Cnfxzy8pYUs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Cnfxzy8pYUs"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "Cnfxzy8pYUs",
+                "videoPublishedAt": "2021-02-05T07:20:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZkAbmXk1BKcqBcnAAQBLO9MunZg",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:12:47Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.45 قرينة المكنية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kasgNb6DCCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kasgNb6DCCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kasgNb6DCCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kasgNb6DCCg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kasgNb6DCCg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kasgNb6DCCg"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "kasgNb6DCCg",
+                "videoPublishedAt": "2021-02-05T07:14:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7LRKU65uYsUHuhREddWarTaR7Rw",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:13:00Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.46 تدريبات على المجاز",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6wBlUqnZok0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6wBlUqnZok0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6wBlUqnZok0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6wBlUqnZok0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6wBlUqnZok0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6wBlUqnZok0"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "6wBlUqnZok0",
+                "videoPublishedAt": "2021-02-05T07:15:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ts5STfEjczEcZbNQ5bbKys8s1Cw",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:13:22Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.47 تكملة تدريبات المجاز",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zHIylP0lMd4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zHIylP0lMd4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zHIylP0lMd4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zHIylP0lMd4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zHIylP0lMd4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zHIylP0lMd4"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "zHIylP0lMd4",
+                "videoPublishedAt": "2021-02-05T07:15:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WyzAlmwsH2hg2bEUTOwXZz3_0_A",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:13:36Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.48 تكملة تدريبات الاستعارة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BQgv8gpwxXw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BQgv8gpwxXw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BQgv8gpwxXw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BQgv8gpwxXw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BQgv8gpwxXw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BQgv8gpwxXw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "BQgv8gpwxXw",
+                "videoPublishedAt": "2021-02-05T07:16:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_3JTnIns6jWOogOgE1bkRYb7O5g",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:13:49Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.49 تكملة التدريبات",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZdyUgtgbmc0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZdyUgtgbmc0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZdyUgtgbmc0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZdyUgtgbmc0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZdyUgtgbmc0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZdyUgtgbmc0"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "ZdyUgtgbmc0",
+                "videoPublishedAt": "2021-02-05T07:15:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Tth6VdqkKmgK-U_FfSi0J9OEstQ",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:13:59Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.50 تكملة التدريبات",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WlZeWtH0zzI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WlZeWtH0zzI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WlZeWtH0zzI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WlZeWtH0zzI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WlZeWtH0zzI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WlZeWtH0zzI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "WlZeWtH0zzI",
+                "videoPublishedAt": "2021-02-05T07:17:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vn5wudHcGcEirfFU3LyLaVpnp6I",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:14:13Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.51 شرائط حسن الاستعارة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tw-bbUUcVaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tw-bbUUcVaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tw-bbUUcVaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Tw-bbUUcVaI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Tw-bbUUcVaI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Tw-bbUUcVaI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "Tw-bbUUcVaI",
+                "videoPublishedAt": "2021-02-05T07:16:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ptooMqQglEWdcqDtbof5lXqajFw",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:14:24Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.52 المجاز المرسل",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f2GhqV_PTrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f2GhqV_PTrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f2GhqV_PTrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f2GhqV_PTrQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f2GhqV_PTrQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f2GhqV_PTrQ"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "f2GhqV_PTrQ",
+                "videoPublishedAt": "2021-02-05T07:22:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z_d5YH-JmBhOIGBld3fKPUNigHg",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:14:35Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.53 تكملة المجاز المرسل",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UhpavN9LAkA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UhpavN9LAkA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UhpavN9LAkA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UhpavN9LAkA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UhpavN9LAkA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UhpavN9LAkA"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "UhpavN9LAkA",
+                "videoPublishedAt": "2021-02-05T07:17:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oWPxNEA9Oob7BKUpbbES3hVisKs",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:14:46Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.54 تكملة المجاز المرسل",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eCfBbRMcefY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eCfBbRMcefY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eCfBbRMcefY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eCfBbRMcefY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eCfBbRMcefY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eCfBbRMcefY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "eCfBbRMcefY",
+                "videoPublishedAt": "2021-02-05T07:15:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IPuCt_1Eqc4OTVO8vriT_PpbKcE",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:14:58Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.55 تكملة المجاز المرسل",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UfLl2bF77ZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UfLl2bF77ZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UfLl2bF77ZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UfLl2bF77ZQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UfLl2bF77ZQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UfLl2bF77ZQ"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "UfLl2bF77ZQ",
+                "videoPublishedAt": "2021-02-05T07:18:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FeMKurQMt5Hd3gumaYUfdtxf-eo",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:15:09Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.56 تمرينات المجاز المرسل",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v2fooIDLy5o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v2fooIDLy5o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v2fooIDLy5o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v2fooIDLy5o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v2fooIDLy5o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "v2fooIDLy5o"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "v2fooIDLy5o",
+                "videoPublishedAt": "2021-02-05T07:18:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zckmYNLvASUCojAsLpXsorEXdZ4",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:15:21Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.57 الاستعارة التمثيلية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8C6wUQ7o8vc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8C6wUQ7o8vc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8C6wUQ7o8vc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8C6wUQ7o8vc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8C6wUQ7o8vc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8C6wUQ7o8vc"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "8C6wUQ7o8vc",
+                "videoPublishedAt": "2021-02-05T07:16:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dX1Rk-z1TZ6JhX0zN91nhqraWs8",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:16:13Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.58 المجاز المركب",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q8-I-LwMTwY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q8-I-LwMTwY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q8-I-LwMTwY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q8-I-LwMTwY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q8-I-LwMTwY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q8-I-LwMTwY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "q8-I-LwMTwY",
+                "videoPublishedAt": "2021-02-05T07:19:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "O-ODPQIxq1RumA1AJjZtj1pymgM",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:16:24Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.59 الكناية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AO5H4hro84w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AO5H4hro84w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AO5H4hro84w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AO5H4hro84w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AO5H4hro84w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AO5H4hro84w"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "AO5H4hro84w",
+                "videoPublishedAt": "2021-02-05T07:18:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pKeEQDW2Hy2rVyXAhdW_drVUHTk",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:16:38Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.60 أقسام الكناية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ylb_EFY304/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ylb_EFY304/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ylb_EFY304/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_ylb_EFY304/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_ylb_EFY304/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_ylb_EFY304"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "_ylb_EFY304",
+                "videoPublishedAt": "2021-02-05T07:26:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tY34TgWyIW_YaidspQ-lqGBYNRA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:16:52Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.61 تدريبات على الكناية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/22NLSGQT118/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/22NLSGQT118/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/22NLSGQT118/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/22NLSGQT118/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/22NLSGQT118/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "22NLSGQT118"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "22NLSGQT118",
+                "videoPublishedAt": "2021-02-05T07:23:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0Kpzbi23EkxmZ52HXROXRKZRep4",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:17:06Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.62 تكملة تدريبات الكناية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sIgnSyieIS4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sIgnSyieIS4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sIgnSyieIS4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sIgnSyieIS4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sIgnSyieIS4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sIgnSyieIS4"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "sIgnSyieIS4",
+                "videoPublishedAt": "2021-02-05T07:19:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yHLSShYbj4j0bsnpWnErFvVNrl4",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:17:20Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.63 نموذج في التطبيق على جميع ما مر من علم البيان",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FcmJW9e5qOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FcmJW9e5qOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FcmJW9e5qOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FcmJW9e5qOk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FcmJW9e5qOk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FcmJW9e5qOk"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "FcmJW9e5qOk",
+                "videoPublishedAt": "2021-02-05T07:20:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H5mMiJJeJFZNqP-_gcMB3Bsijro",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:17:32Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.64 المقارنة بين المجاز والحقيقة والكناية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3if1W8O9BiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3if1W8O9BiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3if1W8O9BiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3if1W8O9BiA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3if1W8O9BiA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3if1W8O9BiA"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "3if1W8O9BiA",
+                "videoPublishedAt": "2021-02-05T07:19:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cMkzYG5IHRJt5dcS9YPmNEVeP7g",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:17:43Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.65 تمرينات على كل الأبواب السابقة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/29wybROfbk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/29wybROfbk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/29wybROfbk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/29wybROfbk8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/29wybROfbk8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 64,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "29wybROfbk8"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "29wybROfbk8",
+                "videoPublishedAt": "2021-02-05T07:19:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KCRsQDtQQLdnp1bp9JLHNzuqH_o",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:17:55Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.66 تكملة التمرينات",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xABE-uJV0d4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xABE-uJV0d4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xABE-uJV0d4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xABE-uJV0d4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xABE-uJV0d4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xABE-uJV0d4"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "xABE-uJV0d4",
+                "videoPublishedAt": "2021-02-05T07:22:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2sQqOdzOq-uaCHFUOVJ4kgUXkNE",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:18:09Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.67 علم البديع",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Y0Q-BQikWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Y0Q-BQikWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Y0Q-BQikWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5Y0Q-BQikWY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5Y0Q-BQikWY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 66,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5Y0Q-BQikWY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "5Y0Q-BQikWY",
+                "videoPublishedAt": "2021-02-05T07:20:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HRFT8L-l-zcZ8QDRbzlzWWiNpx0",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:18:23Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.68 الفرق بين علم البديع وعلم المعاني والبيان",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p-z4Nu5lkLY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p-z4Nu5lkLY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p-z4Nu5lkLY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p-z4Nu5lkLY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p-z4Nu5lkLY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 67,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p-z4Nu5lkLY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "p-z4Nu5lkLY",
+                "videoPublishedAt": "2021-02-05T07:23:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5DJkd-2dCNzgHtnjsIiwInyZ430",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:18:36Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.69 المقابلة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KP9CgwAkR08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KP9CgwAkR08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KP9CgwAkR08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KP9CgwAkR08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KP9CgwAkR08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 68,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KP9CgwAkR08"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "KP9CgwAkR08",
+                "videoPublishedAt": "2021-02-05T07:26:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9ksfIPh49OktS3Qh5K3_YI06vOg",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:18:48Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.70 المشاكل ة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v7oeT52ETGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v7oeT52ETGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v7oeT52ETGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v7oeT52ETGs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v7oeT52ETGs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 69,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "v7oeT52ETGs"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "v7oeT52ETGs",
+                "videoPublishedAt": "2021-02-05T07:21:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_rifybKpUvQDoZR5GlcYGNbXVbY",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:19:00Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.71 التورية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vDJC056PZF8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vDJC056PZF8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vDJC056PZF8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vDJC056PZF8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vDJC056PZF8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 70,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vDJC056PZF8"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "vDJC056PZF8",
+                "videoPublishedAt": "2021-02-05T07:21:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xnGB_54cC4gkaqeb8mb-Ce8rICA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:19:11Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.72 اللف والنشر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fI3g-kMXb5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fI3g-kMXb5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fI3g-kMXb5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fI3g-kMXb5c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fI3g-kMXb5c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 71,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fI3g-kMXb5c"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "fI3g-kMXb5c",
+                "videoPublishedAt": "2021-02-05T07:20:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0mTHBwbDTz2eNqe94a84TyZqW28",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:19:59Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.73 التوجيه الإيهام",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r3WboCetBpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r3WboCetBpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r3WboCetBpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r3WboCetBpM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r3WboCetBpM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 72,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r3WboCetBpM"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "r3WboCetBpM",
+                "videoPublishedAt": "2021-02-05T07:25:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BtFddkGkmWRDLH20NeGL5m0grg8",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:20:14Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.74 الاقتباس",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EK0TUPfX-g0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EK0TUPfX-g0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EK0TUPfX-g0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EK0TUPfX-g0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EK0TUPfX-g0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 73,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EK0TUPfX-g0"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "EK0TUPfX-g0",
+                "videoPublishedAt": "2021-02-05T07:24:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jPNcaN8BmcC3-B_4e1qh6mPyyrc",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:20:25Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.75 التقسيم",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_GfpPn7QyoI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_GfpPn7QyoI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_GfpPn7QyoI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_GfpPn7QyoI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_GfpPn7QyoI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 74,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_GfpPn7QyoI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "_GfpPn7QyoI",
+                "videoPublishedAt": "2021-02-05T07:24:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bSYbRyZ3L8EW3h3vSqBU9oy3sm0",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:20:38Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.76 قسمان آخران للتقسيم",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yiyj6ND9hMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yiyj6ND9hMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yiyj6ND9hMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yiyj6ND9hMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yiyj6ND9hMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 75,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yiyj6ND9hMg"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "yiyj6ND9hMg",
+                "videoPublishedAt": "2021-02-05T07:23:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U6pShZrIFQPNwf3eQlzzyEJvDgY",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:20:51Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.77 الجمع",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pvoJwsf3PWw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pvoJwsf3PWw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pvoJwsf3PWw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pvoJwsf3PWw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pvoJwsf3PWw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 76,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pvoJwsf3PWw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "pvoJwsf3PWw",
+                "videoPublishedAt": "2021-02-05T07:24:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BXAzbYftV0HOmpiyUhXwyiAzMnA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:21:04Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.78 المبالغة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KW33R2ehNlI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KW33R2ehNlI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KW33R2ehNlI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KW33R2ehNlI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KW33R2ehNlI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 77,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KW33R2ehNlI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "KW33R2ehNlI",
+                "videoPublishedAt": "2021-02-05T07:23:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9ZPevP0qri_OC_iLZQ-rHYZtFbY",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:21:15Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.79 تكملة المبالغة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5EqIpUzomNU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5EqIpUzomNU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5EqIpUzomNU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5EqIpUzomNU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5EqIpUzomNU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 78,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5EqIpUzomNU"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "5EqIpUzomNU",
+                "videoPublishedAt": "2021-02-05T07:24:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aJ96fXoy3rVixv-SR0GrdutpEZ0",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy44QTY2MEEzNzBFQUJCMUQ2",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:21:28Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.80 أمثلة المبالغة",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TciVhwzMfM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TciVhwzMfM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TciVhwzMfM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TciVhwzMfM0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TciVhwzMfM0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 79,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TciVhwzMfM0"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "TciVhwzMfM0",
+                "videoPublishedAt": "2021-02-05T07:26:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZZkohQW8_4piOyX_J59_uc9_wdo",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:21:40Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.81 حسن التعليل",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/opF56-BnYRU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/opF56-BnYRU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/opF56-BnYRU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/opF56-BnYRU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/opF56-BnYRU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 80,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "opF56-BnYRU"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "opF56-BnYRU",
+                "videoPublishedAt": "2021-02-05T07:24:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9VJr-zFu0mTnUXJBRWZotRiyrQo",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4xNTZBNUQxMDZBQzFGMjkw",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:21:52Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.82 ائتلاف اللفظ مع المعنى",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vx4ygEkx4ho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vx4ygEkx4ho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vx4ygEkx4ho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vx4ygEkx4ho/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vx4ygEkx4ho/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 81,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vx4ygEkx4ho"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "Vx4ygEkx4ho",
+                "videoPublishedAt": "2021-02-05T07:23:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Igwbl4IdnS5hfYa2FViZA0WToCY",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy4wMDFGNzBEOTU4Q0Y1Q0RG",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:22:33Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.88 الجناس غير التام",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VmukjmFzzwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VmukjmFzzwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VmukjmFzzwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VmukjmFzzwE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VmukjmFzzwE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 82,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VmukjmFzzwE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "VmukjmFzzwE",
+                "videoPublishedAt": "2021-02-05T07:28:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AmzrHuKETtM8LEr-jU1HOc_PyKY",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy44QTA1QTQyRTc3M0VGQzYx",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:22:46Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.89 نوعان ملحقان بالجناس",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h_nEM7BeklE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h_nEM7BeklE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h_nEM7BeklE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h_nEM7BeklE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h_nEM7BeklE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 83,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h_nEM7BeklE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "h_nEM7BeklE",
+                "videoPublishedAt": "2021-02-05T07:25:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IQ--aCK-_VuEWCYeAVQT3GhP-ZA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy44MkM2RjVEQkQ5N0I2MjVE",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:23:00Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.90 رد العجز على الصدر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZutQhKxkIBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZutQhKxkIBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZutQhKxkIBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZutQhKxkIBg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZutQhKxkIBg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 84,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZutQhKxkIBg"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "ZutQhKxkIBg",
+                "videoPublishedAt": "2021-02-05T07:26:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_a0DcsQAAvhbtlifUZZshMW46i0",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy40NzE2MTY1QTM3RUI3QkU3",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:23:47Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.91 العكس",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uwq2K2Cp7aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uwq2K2Cp7aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uwq2K2Cp7aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uwq2K2Cp7aw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uwq2K2Cp7aw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 85,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uwq2K2Cp7aw"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "uwq2K2Cp7aw",
+                "videoPublishedAt": "2021-02-05T07:26:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jKw1pDkzFaUSjxlJVaRsEiU4bxA",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:23:59Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.92 السجع",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/joqA0trAwx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/joqA0trAwx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/joqA0trAwx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/joqA0trAwx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/joqA0trAwx0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 86,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "joqA0trAwx0"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "joqA0trAwx0",
+                "videoPublishedAt": "2021-02-05T07:29:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bCcX6S7xiYnq1XzZKkKmRfSWR00",
+            "id": "UExRM3R1RklZZXVYQXhZMHBsajlZSnRFbkZocGFVZFJnZy5CMUM0NzY5NzdEQzlGRjAx",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:24:11Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "3.7.1.93 تكملة المحسنات اللفظية",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qPjUs8cvs7w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qPjUs8cvs7w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qPjUs8cvs7w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qPjUs8cvs7w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qPjUs8cvs7w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg",
+                "position": 87,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qPjUs8cvs7w"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "qPjUs8cvs7w",
+                "videoPublishedAt": "2021-02-05T07:27:08Z"
+            }
+        }
+    ],
+    "title": "المنهاج الواضح في البلاغة الجزء الأول",
+    "nav": "المنهاج الواضح الأول",
+    "id": "3_8_1"
+}

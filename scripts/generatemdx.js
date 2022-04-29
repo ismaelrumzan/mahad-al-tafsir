@@ -4,69 +4,80 @@ const path = require("path");
 
 const contentDirectory = path.join(process.cwd(), "content");
 const lessonsDirectory = path.join(process.cwd(), "content/lessons");
-const mdxDir = path.join(process.cwd(), "mdx");
+
+const videoPath = "videos/";
+const videoDir = path.join(process.cwd(), videoPath);
+const lessonPath = "lessons/";
 
 function getPlaylistData() {
+  let videoData = [];
+  let categories = [];
+  let introData = [];
   let lessonData = [];
-  let tafsirData = [];
   const fileName = "tafsir.json";
   const fullPath = path.join(contentDirectory, fileName);
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const tafsirjson = JSON.parse(fileContents);
   tafsirjson.content.forEach((item) => {
-    let path;
-    if (item.id == "1") {
-      item.content.forEach((lesson) => {
-        if ("content" in lesson) {
-          lesson.content.forEach((sublesson) => {
-            if ("content" in sublesson) {
-              path = "lessons/" + lesson.title + "/" + sublesson.title + "/";
-              sublesson.content.forEach((video) => {
-                let data = new Object();
-                data.path = path + video.title + ".mdx";
-                data.id = video.id;
-                data.import = "../../../";
-                lessonData.push(data);
-              });
-            } else {
-              path = "lessons/" + lesson.title + "/";
-              let data = new Object();
-              data.path = path + sublesson.title + ".mdx";
-              data.id = sublesson.id;
-              data.import = "../../";
-              lessonData.push(data);
-            }
-          });
+    let mypath;
+    let category = new Object();
+    category.data = new Object();
+    category.data.label = item.nav;
+    category.data.position = Number(item.id);
+    category.path = videoPath + item.nav;
+    categories.push(category);
+    introData.push("- " + item.title + "\n");
+    if ("content" in item) {
+      item.content.forEach((lesson, index) => {
+        if ("notes" in lesson) {
+          introData.push("  - " + lesson.title + " (" + lesson.notes + ")\n");
+        } else {
+          introData.push("  - " + lesson.title + "\n");
         }
-      });
-    }
-    if (item.id == "2") {
-      item.content.forEach((lesson) => {
         if ("content" in lesson) {
-          lesson.content.forEach((sublesson) => {
-            if ("content" in sublesson) {
-              path = "quran/" + sublesson.title + "/";
-              sublesson.content.forEach((video) => {
-                let data = new Object();
-                data.path = path + video.title + ".mdx";
-                data.id = video.id;
-                data.import = "../../";
-                tafsirData.push(data);
-              });
-            } else {
-              path = "quran/";
+          mypath = videoPath + item.nav + "/" + lesson.nav + "/";
+          let category = new Object();
+          category.data = new Object();
+          category.data.label = lesson.nav;
+          category.data.position = index + 1;
+          category.path = mypath;
+          categories.push(category);
+          lesson.content.forEach((video) => {
+            if ("type" in video === false || video.type !== "tafsir") {
+              if ("notes" in video) {
+                introData.push(
+                  "    - " + video.title + " (" + video.notes + ")\n"
+                );
+              } else {
+                introData.push("    - " + video.title + "\n");
+              }
+            }
+            if ("playlistid" in video) {
               let data = new Object();
-              data.path = path + sublesson.title + ".mdx";
-              data.id = sublesson.id;
-              data.import = "../";
-              tafsirData.push(data);
+              if ("nav" in video) {
+                data.path = mypath + video.nav + ".mdx";
+              } else {
+                data.path = mypath + video.title + ".mdx";
+              }
+              data.id = video.id;
+              data.import = "../../../";
+              videoData.push(data);
             }
           });
+        } else {
+          if ("playlistid" in lesson) {
+            mypath = videoPath + item.nav + "/";
+            let data = new Object();
+            data.path = mypath + lesson.nav + ".mdx";
+            data.id = lesson.id;
+            data.import = "../../";
+            videoData.push(data);
+          }
         }
       });
     }
   });
-  return { lessons: lessonData, tafsir: tafsirData };
+  return { videos: videoData, categories: categories, introData: introData };
 }
 
 function getLesson(fileid) {
@@ -88,30 +99,27 @@ function getLesson(fileid) {
   return tafsirjson;
 }
 
-function getAllLessonsIds() {
-  const fileNames = fs.readdirSync(lessonsDirectory);
-  return fileNames.map((fileName) => {
-    return {
-      id: fileName.replace(/\.json$/, ""),
-    };
-  });
-}
-
-const iterate = (obj) => {
-  Object.keys(obj).forEach((key) => {
-    if (key == "content") {
-      console.log(`key: ${key}, value: ${obj[key]}`);
-    }
-    if (typeof obj[key] === "object" && obj[key] !== null) {
-      iterate(obj[key]);
-    }
-  });
-};
-
 async function createMDX() {
   const playlistData = getPlaylistData();
+  let data = "---";
+  data += "\n";
+  data += "sidebar_position: 1";
+  data += "\n";
+  data += "---";
+  data += "\n";
+  playlistData.introData.forEach((item) => {
+    data += item;
+  });
+  await fse.outputFile(path.join(videoDir + "تدريس.mdx"), data, "utf8");
+  playlistData.categories.forEach(async (item) => {
+    await fse.outputFile(
+      path.join(item.path + "/_category_.json"),
+      JSON.stringify(item.data, null, 4),
+      "utf8"
+    );
+  });
   let count = 1;
-  playlistData.tafsir.forEach(async (item) => {
+  playlistData.videos.forEach(async (item) => {
     const lesson = getLesson(item.id);
     let data = "---";
     data += "\n";
@@ -138,4 +146,5 @@ async function createMDX() {
   });
 }
 
+fse.emptyDirSync(videoDir);
 createMDX();

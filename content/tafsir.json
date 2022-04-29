@@ -6,92 +6,92 @@
     {
       "id": "1",
       "title": "جميع دورات النحو",
-      "image": "pexels-abene-sebei-1438252.jpg",
+      "nav": "جميع دورات النحو",
+      "image": "1_1.jpeg",
       "type": "videos",
       "content": [
         {
           "title": "دروة  مبادئ  دروس العربية",
           "nav": "مبادئ  دروس العربية",
-          "id": "1_1_1",
+          "id": "1_1",
           "playlistid": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo"
         },
         {
           "title": "شروح الآجر ومية",
           "nav": "شروح الآجر ومية",
-          "id": "1_1_2",
-          "image": "1_1.jpeg",
+          "id": "1_2",
           "content": [
             {
               "title": "دورة شرح التوضيح على الآجرومية",
               "nav": "التوضيح على الاجرومية",
-              "id": "1_1_2_1",
+              "id": "1_2_1",
               "playlistid": "PLQ3tuFIYeuXCQ7DZQa3u4s-w_eYuL9miS"
             },
             {
               "title": "شرح متن الاجرومية",
               "nav": "شرح متن الاجرومية",
-              "id": "1_1_2_2",
+              "id": "1_2_2",
               "playlistid": "PLQ3tuFIYeuXDknocM4q85eA0BblrlW7Se"
             },
             {
               "title": "التسهيل على مقدمة الآجرومية",
               "nav": "التسهيل على الآجرومية",
-              "id": "1_1_2_3",
+              "id": "1_2_3",
               "playlistid": "PLQ3tuFIYeuXDovl1AzbJjqOcT7JVCntQ8"
             },
             {
               "title": "الشرح المفصل على الآجرومية",
               "nav": "المفصل على الآجرومية",
-              "id": "1_1_2_4",
+              "id": "1_2_4",
               "notes": "لم يسجل"
             }
           ]
         },
         {
           "title": "متممة الآجرومية",
-          "id": "1_1_3",
+          "nav": "متممة الآجرومية",
+          "id": "1_3",
           "playlistid": "PLQ3tuFIYeuXAU1nAahXoc89-597jNGhtt"
         },
         {
           "title": "النحو الوظيفي/ عبد العليم إبراهيم",
           "nav": "النحو الوظيفي",
-          "id": "1_1_4",
+          "id": "1_4",
           "playlistid": "PLQ3tuFIYeuXCvPlh41cI2q2YRr2ZAMezJ"
         },
         {
           "title": "قطر الندى شرح المتن مع الجداو ل",
           "nav": "قطر الندى",
-          "id": "1_1_5",
+          "id": "1_5",
           "playlistid": "PLQ3tuFIYeuXDuLzrUPX6AqcfyIvLmp1EP"
         },
         {
           "title": "شرح ابن هشام شرح الفاكهي",
           "nav": "شرح ابن هشام",
-          "id": "1_1_6",
+          "id": "1_6",
           "notes": "لم يسجل"
         },
         {
           "title": "شذور الذهب/ ابن هشام",
           "nav": "شذور الذهب",
-          "id": "1_1_7",
+          "id": "1_7",
           "notes": "لم يسجل"
         },
         {
           "title": "موصل الطالب إىل قواعد اإلعراب املتن البن هشام والرشح خلالد األزهري",
           "nav": "موصل الطالب",
-          "id": "1_1_8",
+          "id": "1_8",
           "playlistid": "PLQ3tuFIYeuXA1uuQ8Ogt17i9PjskdAwSo",
           "notes": "سجل من أوله إلى آخر باب 'إنَّ' وأخواتها، والدروس متسمرة"
         },
         {
           "title": "ألفية ابن مالك",
           "nav": "ألفية ابن مالك",
-          "id": "1_1_2",
-          "image": "1_1.jpeg",
+          "id": "1_9",
           "content": [
             {
               "title": "ألفية ابن مالك بشرح ابن عقيل",
-              "id": "1_1_9",
+              "id": "1_9_1",
               "nav": "بشرح ابن عقيل",
               "playlistid": "PLQ3tuFIYeuXB-Rkq_JzH2GHVylmIGld2R",
               "notes": "سجل من أوله إلى آخر باب 'إنَّ' وأخواتها، والدروس متسمرة"
@@ -99,27 +99,27 @@
             {
               "title": "ألفية ابن مالك بشرح الأشموني",
               "nav": "بشرح الأشموني",
-              "id": "1_1_10",
+              "id": "1_9_2",
               "playlistid": "PLQ3tuFIYeuXDCYGhX94GAexhwvnbFuXEu",
               "notes": "سجل من أوله إلى آخر باب كان وأخواتها، والدروس متسمرة"
             },
             {
               "title": "(ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح على التصريح",
               "nav": "بشرح ابن هشام",
-              "id": "1_1_11",
+              "id": "1_9_3",
               "playlistid": "PLQ3tuFIYeuXCMQDlqCrkn1yB43vee465T"
             },
             {
               "title": "ألفية ابن مالك بشرح السيوطي",
               "nav": "بشرح السيوطي",
-              "id": "1_1_12",
+              "id": "1_9_4",
               "playlistid": "PLQ3tuFIYeuXAPwMyL8E3Jhlx0w6a8vWl7",
               "notes": "سجل من أوله إلى آخر باب إنَّ وأخواتها ، والدروس متسمر ة"
             },
             {
               "title": "(تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد",
               "nav": "تسهيل الفوائد",
-              "id": "1_1_13",
+              "id": "1_9_5",
               "playlistid": "PLQ3tuFIYeuXDS7cb5iAzE6vLlnn9RXRGs",
               "notes": "سجل من أوله إلى آخر باب إنَّ وأخواتها ، والدروس متسمر ة"
             }
@@ -128,25 +128,24 @@
         {
           "title": "ثم مغني اللبيب لابن هشام",
           "nav": "ثم مغني اللبيب",
-          "id": "1_1_14",
+          "id": "1_10",
           "notes": "لم يسجل"
         },
         {
           "title": "للتدريب على الإعراب",
           "nav": "للتدريب على الإعراب",
-          "id": "1_1_15",
-          "image": "1_1.jpeg",
+          "id": "1_11",
           "content": [
             {
               "title": "دورة إعراب جزء عم",
               "nav": "إعراب جزء عم",
-              "id": "1_1_15_1",
+              "id": "1_11_1",
               "playlistid": "PLQ3tuFIYeuXAIbE_2ATKC3E6wgyybQopm"
             },
             {
               "title": "النحو الوظيفي/ عبد العليم إبراهيم",
               "nav": "النحو الوظيفي",
-              "id": "1_1_15_2",
+              "id": "1_11_2",
               "playlistid": "PLQ3tuFIYeuXCvPlh41cI2q2YRr2ZAMezJ"
             }
           ]
@@ -157,55 +156,55 @@
       "id": "2",
       "title": "جميع دورات الصرف",
       "nav": "جميع دورات الصرف",
-      "image": "pexels-abene-sebei-1438252.jpg",
+      "image": "1_2.jpeg",
       "type": "videos",
       "content": [
         {
           "title": "الشرح المختصر للامثلة المختلفة",
           "nav": "الشرح المختصر",
-          "id": "1_2_1",
+          "id": "2_1",
           "playlistid": "PLQ3tuFIYeuXCsnF-XIhpfMmqY-uZCcVon"
         },
         {
           "title": "الشرح المطول للامثلة المختلفة",
           "nav": "الشرح المطول",
-          "id": "1_2_2",
+          "id": "2_2",
           "playlistid": "PLQ3tuFIYeuXAtAWQT646c6sw6X0XYNIb4"
         },
         {
           "title": "شرح كتاب البناء في علم التصريف/ عبد الله الدفتزي",
           "nav": "شرح كتاب البنا",
-          "id": "1_2_3",
+          "id": "2_3",
           "playlistid": "PLQ3tuFIYeuXBWnDn1w8eDKzg0uBuvq5tA"
         },
         {
           "title": "شرح المقصود في الصرف المنسوب لأبي حنيفة",
           "nav": "شرح المقصود",
-          "id": "1_2_4",
+          "id": "2_4",
           "playlistid": "PLQ3tuFIYeuXBgH8lSOxV4H9OlRQU6yBGA"
         },
         {
           "title": "شرح متن العزي في الصرف / عبد الوهاب الزنجاني",
           "nav": "شرح متن العزي",
-          "id": "1_2_5",
+          "id": "2_5",
           "notes": "لم يسجل"
         },
         {
           "title": "تيسير الإعلال والإبدال لعبد العليم إبراهيم",
           "nav": "تيسير الإعلال",
-          "id": "1_2_6",
+          "id": "2_6",
           "notes": "لم يسجل"
         },
         {
           "title": "شرح كتاب المراح في الصرف/ أحمد بن علي بن مسعود",
           "nav": "شرح كتاب المراح",
-          "id": "1_2_7",
+          "id": "2_7",
           "notes": "لم يسجل"
         },
         {
           "title": "شرح شافية ابن الحاجب  مع المستقصى لعبد اللطيف الخطيب",
           "nav": "شرح شافية ابن الحاجب",
-          "id": "1_2_8",
+          "id": "2_8",
           "notes": "لم يسجل"
         }
       ]
@@ -214,72 +213,72 @@
       "id": "3",
       "title": "جميع دورات البلاغة",
       "nav": "جميع دورات البلاغة",
-      "image": "pexels-abene-sebei-1438252.jpg",
+      "image": "1_3.jpg",
       "type": "videos",
       "content": [
         {
           "title": "(تاريخ البلاغة (فيه تعريف بعلماء البلاغة على مر التاريخ",
           "nav": "تاريخ البلاغة",
-          "id": "1_3_1",
+          "id": "3_1",
           "playlistid": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ"
         },
         {
           "title": "تحفة الإخوان  /أحمد الدردير",
           "nav": "تحفة الإخوان",
-          "id": "1_3_2",
+          "id": "3_2",
           "playlistid": "PLQ3tuFIYeuXBdCP04S04qEcTvuClwwqiD"
         },
         {
           "title": "تطبيقات تحفة الإخوان من القرآن والشعر",
           "nav": "تطبيقات تحفة الإخوان",
-          "id": "1_3_3",
+          "id": "3_3",
           "playlistid": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll"
         },
         {
           "title": "البلاغة الواضحة لعلي الجارم، مع حل تدريباتها",
           "nav": "البلاغة الواضحة",
-          "id": "1_3_4",
+          "id": "3_4",
           "playlistid": "PLQ3tuFIYeuXAVlzyTH80FxG_bAVJt98qD"
         },
         {
           "title": "كتاب دروس البلاغة لحفني ناصف",
           "nav": "كتاب دروس البلاغة",
-          "id": "1_3_5",
+          "id": "3_5",
           "notes": "لم يرفع بعد"
         },
         {
           "title": "السمرقندية في علم البيان / أبو القاسم بن أبي بكر الليثي السمرقندي مع شرح الشيخ زيني دحلان",
           "nav": "السمرقندية في علم البيان",
-          "id": "1_3_6",
+          "id": "3_6",
           "playlistid": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2"
         },
         {
           "title": "الجوهر المكنون/ للأخضري",
           "nav": "الجوهر المكنون",
-          "id": "1_3_7",
+          "id": "3_7",
           "notes": "سجل بعضه"
         },
         {
           "title": "المنهاج الواضح/ حامد عوني بأجزائه الخمسة",
           "nav": "المنهاج الواضح",
-          "id": "1_3_8",
+          "id": "3_8",
           "content": [
             {
               "title": "المنهاج الواضح في البلاغة الجزء الأول",
               "nav": "المنهاج الواضح الأول",
-              "id": "1_3_7_1",
+              "id": "3_8_1",
               "playlistid": "PLQ3tuFIYeuXAxY0plj9YJtEnFhpaUdRgg"
             },
             {
               "title": "المنهاج الواضح في البلاغة الجز الثاني",
               "nav": "المنهاج الواضح الثاني",
-              "id": "1_3_7_2",
+              "id": "3_8_2",
               "playlistid": "PLQ3tuFIYeuXCTyiaBrD0KPWaYGJxtx7PU"
             },
             {
               "title": "المنهاج الواضح في البلاغة الجزء الثالث",
               "nav": "المنهاج الواضح الثالث",
-              "id": "1_3_7_3",
+              "id": "3_8_3",
               "playlistid": "PLQ3tuFIYeuXC5Ak5pkj6O4NmjDvP5sL35"
             }
           ]
@@ -287,7 +286,7 @@
         {
           "title": "تلخيص المفتاح للخطيب القزويني مع شرحه مختصر المعاني",
           "nav": "تلخيص المفتاح",
-          "id": "1_3_8",
+          "id": "3_9",
           "notes": "لم يسجل بعد"
         }
       ]
@@ -295,307 +294,306 @@
     {
       "id": "4",
       "title": "علم التفسير",
-      "image": "pexels-abene-sebei-1438252.jpg",
+      "nav": "علم التفسير",
+      "image": "1_4.jpg",
       "type": "videos",
       "content": [
         {
           "title": "دورة الطريقة المثلى لتفسير القرآن الكريم",
           "nav": "الطريقة المثلى لتفسير",
           "id": "4_1",
-          "image": "1_4.jpg",
           "playlistid": "PLQ3tuFIYeuXD7OVxknlJZ7_otnbhnpT7G"
         },
         {
           "title": "تفسير النسفي من سورة السجدة إلى سورة الناس",
           "nav": "تفسير النسفي",
           "id": "4_2",
-          "image": "2_1.jpg",
           "type": "tafsir",
           "content": [
             {
-              "id": "2_1_32",
+              "id": "4_2_32",
               "title": "سورة السجدة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBf1cVDXT0Vw3OGfnG-bSo-"
             },
             {
-              "id": "2_1_33",
+              "id": "4_2_33",
               "title": "سورة ٱلْأَحْزَاب تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBWSrHjGvcKixMdkM8fJPvQ"
             },
             {
-              "id": "2_1_34",
+              "id": "4_2_34",
               "title": "سورة سَبَأ تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXC60tmX81YosiX8hLpnycq-"
             },
             {
-              "id": "2_1_35",
+              "id": "4_2_35",
               "title": "سورة فاطر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT"
             },
             {
-              "id": "2_1_36",
+              "id": "4_2_36",
               "title": "سورة يس تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXCUEHXKQkWilxhYimmVbKAt"
             },
             {
-              "id": "2_1_37",
+              "id": "4_2_37",
               "title": "سورة الصافات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDXlE0AWYD5ZL9pXSyyf658"
             },
             {
-              "id": "2_1_38",
+              "id": "4_2_38",
               "title": "سورة ص تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDBMXQvbBVw9luihliHUaXp"
             },
             {
-              "id": "2_1_39",
+              "id": "4_2_39",
               "title": "سورة الزمر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDsKqcCQTu9NzM73XT4CPJ7"
             },
             {
-              "id": "2_1_40",
+              "id": "4_2_40",
               "title": "سورة غافر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ"
             },
             {
-              "id": "2_1_41",
+              "id": "4_2_41",
               "title": "سورة فصلت تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_"
             },
             {
-              "id": "2_1_42",
+              "id": "4_2_42",
               "title": "سورة الشورى تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAH164S74MRozt5gaAUiT2y"
             },
             {
-              "id": "2_1_43",
+              "id": "4_2_43",
               "title": "سورة الزخرف تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXCzk3oYNBj8OKZVsRL_3Dp_"
             },
             {
-              "id": "2_1_44",
+              "id": "4_2_44",
               "title": "سورة الدخان تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBAkU3GYrw2ei_vxqaP-DUf"
             },
             {
-              "id": "2_1_45",
+              "id": "4_2_45",
               "title": "سورة الجاثية تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXD5EVH6zYxXP9POfr2WSgz7"
             },
             {
-              "id": "2_1_46",
+              "id": "4_2_46",
               "title": "سورة الأحقاف تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAFiSDYUQLQuDg6PdohZKcF"
             },
             {
-              "id": "2_1_47",
+              "id": "4_2_47",
               "title": "سورة محمد تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAJc_XqDDjO24E-mA0v-47s"
             },
             {
-              "id": "2_1_48",
+              "id": "4_2_48",
               "title": "سورة الفتح تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBCuMzao6JXO8oQKDxO3RIa"
             },
             {
-              "id": "2_1_49",
+              "id": "4_2_49",
               "title": "سورة الحجرات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAvl2nAP4mEGOCLvnf5k7V9"
             },
             {
-              "id": "2_1_50",
+              "id": "4_2_50",
               "title": "سورة ق تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBIefQwsf0oB96iau7WByXY"
             },
             {
-              "id": "2_1_51",
+              "id": "4_2_51",
               "title": "سورة الذاريات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXB-ZRdgF0qfnwvgTPGNowEU"
             },
             {
-              "id": "2_1_52",
+              "id": "4_2_52",
               "title": "سورة الطور تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXB6R835gXbWOTZaerRl2OBw"
             },
             {
-              "id": "2_1_53",
+              "id": "4_2_53",
               "title": "سورة النجم تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDAhnGj9MyRejlTuAAJq_0N"
             },
             {
-              "id": "2_1_54",
+              "id": "4_2_54",
               "title": "سورة القمر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXD8hYe-bIctJt7hKKqnmdJC"
             },
             {
-              "id": "2_1_55",
+              "id": "4_2_55",
               "title": "سورة الرحمن تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBUNMjI36gEpSokioIhBFc2"
             },
             {
-              "id": "2_1_56",
+              "id": "4_2_56",
               "title": "سورة الواقعة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDlqIsAngKsVaV-cmpow4GZ"
             },
             {
-              "id": "2_1_57",
+              "id": "4_2_57",
               "title": "سورة الحديد تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBodAsXP2z443N9WftauSbP"
             },
             {
-              "id": "2_1_58",
+              "id": "4_2_58",
               "title": "سورة المجادلة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj"
             },
             {
-              "id": "2_1_59",
+              "id": "4_2_59",
               "title": "سورة الحشر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDts_QHyecBIMKYhZdlDOZ1"
             },
             {
-              "id": "2_1_60",
+              "id": "4_2_60",
               "title": "سورة الممتحنة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXA_qztcLKeVp4i2jDBjduTw"
             },
             {
-              "id": "2_1_61",
+              "id": "4_2_61",
               "title": "سورة الصف تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBYSR9C1LpVXxNMOJgZpDOa"
             },
             {
-              "id": "2_1_62",
+              "id": "4_2_62",
               "title": "سورة الجمعة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAFP7829vLxVS0v5uEvv_X0"
             },
             {
-              "id": "2_1_63",
+              "id": "4_2_63",
               "title": "سورة المنافقون تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXB7ofEbozUQ7902H5UWuzkh"
             },
             {
-              "id": "2_1_64",
+              "id": "4_2_64",
               "title": "سورة التغابن تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAsDJz-dJHqbGJgnbjhp8ex"
             },
             {
-              "id": "2_1_65",
+              "id": "4_2_65",
               "title": "سورة الطلاق تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXByxE7R85L-fkG3E6CYpJeN"
             },
             {
-              "id": "2_1_66",
+              "id": "4_2_66",
               "title": "سورة التحريم تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAwgYLihtX7zAq3_8XRQtez"
             },
             {
-              "id": "2_1_67",
+              "id": "4_2_67",
               "title": "سورة الملك تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBOljWJcSF1fbqVtYJgc2pe"
             },
             {
-              "id": "2_1_68",
+              "id": "4_2_68",
               "title": "سورة القلم تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBUHh_fYg3A078F_H1ZAw12"
             },
             {
-              "id": "2_1_69",
+              "id": "4_2_69",
               "title": "سورة الحاقة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDyBEKSzJezq1lXqnakejzV"
             },
             {
-              "id": "2_1_70",
+              "id": "4_2_70",
               "title": "سورة المعارج تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAqOy8lk4WdnVNsOqtAIldw"
             },
             {
-              "id": "2_1_71",
+              "id": "4_2_71",
               "title": "سورة نوح تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXAANJycQysYP-LgGoeYND1o"
             },
             {
-              "id": "2_1_72",
+              "id": "4_2_72",
               "title": "سورة الجن تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBf4SAQkf95o50wreFTQ11w"
             },
             {
-              "id": "2_1_73",
+              "id": "4_2_73",
               "title": "سورة المزمل تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDhCiTkXFylSbKwsKhanBG2"
             },
             {
-              "id": "2_1_74",
+              "id": "4_2_74",
               "title": "سورة المدثر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXA39jry4VsvDMMyN_nAV5wA"
             },
             {
-              "id": "2_1_75",
+              "id": "4_2_75",
               "title": "سورة القيامة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBSmclTB6ktY967npNt90T6"
             },
             {
-              "id": "2_1_76",
+              "id": "4_2_76",
               "title": "سورة الانسان تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXDpew7MDGdG-lMIGEPt7e60"
             },
             {
-              "id": "2_1_77",
+              "id": "4_2_77",
               "title": "سورة المرسلات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXCApwGAEqp-bakSwSFhiZQO"
             },
             {
-              "id": "2_1_78",
+              "id": "4_2_78",
               "title": "الجزء عَمَّ الحزب ٥٩ تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl"
             },
             {
-              "id": "2_1_87",
+              "id": "4_2_87",
               "title": "الجزء عَمَّ الحزب ٦٠ تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLQ3tuFIYeuXBEsZ7YqRNHFRdKiljLdiNg"
@@ -606,56 +604,48 @@
           "title": "تفسير القرآن الكريم من الفاتحة إلى سورة السجدة من تفسير الجلالين والنسفي والبيضاوي",
           "nav": "تفسير القرآن الكريم",
           "id": "4_3",
-          "image": "2_1.jpg",
           "notes": "لم يسجل"
         },
         {
           "title": "تفسير القرآن كاملًا مع الترجمة للغة الإنجليزية",
           "nav": "تفسير القرآن كاملً",
           "id": "4_4",
-          "image": "2_1.jpg",
           "notes": "لم ترفع"
         },
         {
           "title": "كتب علوم القرآن ومنها كتاب نور الدين عتر، والزمزمية ، والإتقان والبرهان",
           "nav": "كتب علوم القرآن",
           "id": "4_5",
-          "image": "2_1.jpg",
           "notes": "لم يسجل"
         },
         {
           "title": "شرح الشاطبية في القراءات مع دفع الشبهات عن القراءات",
           "nav": "شرح الشاطبية",
           "id": "4_6",
-          "image": "2_1.jpg",
           "notes": "لم يسجل"
         },
         {
           "title": "إعجاز القرآن",
           "nav": "إعجاز القرآن",
           "id": "4_7",
-          "image": "2_1.jpg",
           "notes": "لم يسجل"
         },
         {
           "title": "القصص القرآني",
           "nav": "القصص القرآني",
           "id": "4_8",
-          "image": "2_1.jpg",
           "notes": "لم يسجل"
         },
         {
           "title": "مقاصد سور القرآن",
           "nav": "مقاصد سور القرآن",
           "id": "4_9",
-          "image": "2_1.jpg",
           "notes": "لم يسجل"
         },
         {
           "title": "من أسرار حروف الجر ومن أسرار حروف العطف",
           "nav": "من أسرار حروف",
           "id": "4_10",
-          "image": "2_1.jpg",
           "notes": "لم يسجل"
         }
       ]

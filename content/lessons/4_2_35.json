@@ -1,0 +1,1338 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KTUWZl1MLKuSHo2aMqF5oJxaB00",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:10:18Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_1_1_2 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G5mAkIg2zE0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G5mAkIg2zE0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G5mAkIg2zE0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G5mAkIg2zE0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G5mAkIg2zE0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G5mAkIg2zE0"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "G5mAkIg2zE0",
+                "videoPublishedAt": "2021-01-26T20:12:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r_AtUoWKNrNZUA2-EGCtiBslsrs",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:10:42Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_2_2_3 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LvgFjW99X3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LvgFjW99X3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LvgFjW99X3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LvgFjW99X3U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LvgFjW99X3U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LvgFjW99X3U"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "LvgFjW99X3U",
+                "videoPublishedAt": "2021-01-26T20:10:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o9RZ7Vp8ShMvvhD2khn74p6Gy9E",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:10:59Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_3_4_6 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M_QUui5GYKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M_QUui5GYKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M_QUui5GYKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M_QUui5GYKg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M_QUui5GYKg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M_QUui5GYKg"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "M_QUui5GYKg",
+                "videoPublishedAt": "2021-01-26T20:11:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mcPb-G8HosMRUcbi4PjJIUJ2S60",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:11:21Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_4_7_9 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yK4VIIwGXmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yK4VIIwGXmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yK4VIIwGXmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yK4VIIwGXmQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yK4VIIwGXmQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yK4VIIwGXmQ"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "yK4VIIwGXmQ",
+                "videoPublishedAt": "2021-01-26T20:16:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "warDAwaa9yQoUXAj2SUVIXL0UVk",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:11:44Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_5_10_11 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NEDNFEE5zdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NEDNFEE5zdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NEDNFEE5zdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NEDNFEE5zdI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NEDNFEE5zdI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NEDNFEE5zdI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "NEDNFEE5zdI",
+                "videoPublishedAt": "2021-01-26T20:13:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q8D-8ssRxUtmAKN5I_Zu8jV3_6s",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:11:59Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_7 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dZURGXo5L44/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dZURGXo5L44/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dZURGXo5L44/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dZURGXo5L44/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dZURGXo5L44/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dZURGXo5L44"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "dZURGXo5L44",
+                "videoPublishedAt": "2021-01-26T20:12:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cn-w6v7pJBvO-HABeX_JA7GIJEQ",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:12:14Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_8 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XNDubMHAFWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XNDubMHAFWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XNDubMHAFWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XNDubMHAFWY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XNDubMHAFWY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XNDubMHAFWY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "XNDubMHAFWY",
+                "videoPublishedAt": "2021-01-26T20:12:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FIyDqOrpe0ef3IMclhIkvT3D8nE",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:12:28Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_9 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nbNKZ2yWs-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nbNKZ2yWs-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nbNKZ2yWs-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nbNKZ2yWs-o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nbNKZ2yWs-o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nbNKZ2yWs-o"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "nbNKZ2yWs-o",
+                "videoPublishedAt": "2021-01-26T20:12:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RkA1hDmVr-pSlMnnmZKbHZJNFoc",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:13:31Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_10 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yr_Y9znmjPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yr_Y9znmjPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yr_Y9znmjPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Yr_Y9znmjPU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Yr_Y9znmjPU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Yr_Y9znmjPU"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "Yr_Y9znmjPU",
+                "videoPublishedAt": "2021-01-26T20:13:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4V5W_ZLItWRRva2F45ejRLC8gc4",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:13:41Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_11 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/upRUIjJAbpI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/upRUIjJAbpI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/upRUIjJAbpI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/upRUIjJAbpI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/upRUIjJAbpI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "upRUIjJAbpI"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "upRUIjJAbpI",
+                "videoPublishedAt": "2021-01-26T20:13:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XwjkZVpSWKSMadxstxO0h4cDQ00",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:13:54Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_12 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JO8BXvWx3iE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JO8BXvWx3iE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JO8BXvWx3iE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JO8BXvWx3iE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JO8BXvWx3iE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JO8BXvWx3iE"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "JO8BXvWx3iE",
+                "videoPublishedAt": "2021-01-26T20:13:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OcPbwMv7YAjLUUCdJl32e8VIQE8",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:14:07Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_17 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gG_hSO7MctA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gG_hSO7MctA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gG_hSO7MctA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gG_hSO7MctA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gG_hSO7MctA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gG_hSO7MctA"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "gG_hSO7MctA",
+                "videoPublishedAt": "2021-01-26T20:14:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bnSU_N7Ra2YcZyXZSJVAo06tGgQ",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:14:19Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_16 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UDiOyY-D8Ps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UDiOyY-D8Ps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UDiOyY-D8Ps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UDiOyY-D8Ps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UDiOyY-D8Ps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UDiOyY-D8Ps"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "UDiOyY-D8Ps",
+                "videoPublishedAt": "2021-01-26T20:14:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LN_gLTyMrJVa3_VRLfHGjwr2O-c",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:14:32Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_15 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cBKgp_0HpYc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cBKgp_0HpYc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cBKgp_0HpYc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cBKgp_0HpYc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cBKgp_0HpYc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cBKgp_0HpYc"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "cBKgp_0HpYc",
+                "videoPublishedAt": "2021-01-26T20:14:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zXEpCXWok57CammYiDMYKjRPCb0",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:14:45Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_14 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sAKzLh_lJqY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sAKzLh_lJqY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sAKzLh_lJqY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sAKzLh_lJqY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sAKzLh_lJqY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sAKzLh_lJqY"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "sAKzLh_lJqY",
+                "videoPublishedAt": "2021-01-26T20:14:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h34ztgdT1-6hYLqffIJtR4-r4Sw",
+            "id": "UExRM3R1RklZZXVYQXByUWJHa1k1TzVvM2l2MmwyaHdMVC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2021-01-26T20:14:57Z",
+                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
+                "title": "35_13 سورة فاطر",
+                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nivCKJvcxgc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nivCKJvcxgc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nivCKJvcxgc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nivCKJvcxgc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nivCKJvcxgc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ُمَعْهَد التّفْسِير",
+                "playlistId": "PLQ3tuFIYeuXAprQbGkY5O5o3iv2l2hwLT",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nivCKJvcxgc"
+                },
+                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
+                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+            },
+            "contentDetails": {
+                "videoId": "nivCKJvcxgc",
+                "videoPublishedAt": "2021-01-26T20:14:58Z"
+            }
+        }
+    ],
+    "title": "سورة فاطر تفسير النسفي",
+    "nav": "",
+    "id": "4_2_35",
+    "verses": {
+        "number": 35,
+        "name": "سورة فاطر",
+        "englishName": "Faatir",
+        "englishNameTranslation": "The Originator",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 45,
+        "ayahs": [
+            {
+                "number": 3661,
+                "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۚ يَزِيدُ فِي الْخَلْقِ مَا يَشَاءُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+                "numberInSurah": 1,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3662,
+                "text": "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+                "numberInSurah": 2,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3663,
+                "text": "يَا أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُمْ مِنَ السَّمَاءِ وَالْأَرْضِ ۚ لَا إِلَٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+                "numberInSurah": 3,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3664,
+                "text": "وَإِنْ يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+                "numberInSurah": 4,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3665,
+                "text": "يَا أَيُّهَا النَّاسُ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا ۖ وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ",
+                "numberInSurah": 5,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3666,
+                "text": "إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ",
+                "numberInSurah": 6,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3667,
+                "text": "الَّذِينَ كَفَرُوا لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+                "numberInSurah": 7,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3668,
+                "text": "أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا ۖ فَإِنَّ اللَّهَ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۖ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَاتٍ ۚ إِنَّ اللَّهَ عَلِيمٌ بِمَا يَصْنَعُونَ",
+                "numberInSurah": 8,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3669,
+                "text": "وَاللَّهُ الَّذِي أَرْسَلَ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَسُقْنَاهُ إِلَىٰ بَلَدٍ مَيِّتٍ فَأَحْيَيْنَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ النُّشُورُ",
+                "numberInSurah": 9,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3670,
+                "text": "مَنْ كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ ۚ وَالَّذِينَ يَمْكُرُونَ السَّيِّئَاتِ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَمَكْرُ أُولَٰئِكَ هُوَ يَبُورُ",
+                "numberInSurah": 10,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3671,
+                "text": "وَاللَّهُ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَاجًا ۚ وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ وَمَا يُعَمَّرُ مِنْ مُعَمَّرٍ وَلَا يُنْقَصُ مِنْ عُمُرِهِ إِلَّا فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+                "numberInSurah": 11,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3672,
+                "text": "وَمَا يَسْتَوِي الْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَائِغٌ شَرَابُهُ وَهَٰذَا مِلْحٌ أُجَاجٌ ۖ وَمِنْ كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا ۖ وَتَرَى الْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+                "numberInSurah": 12,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3673,
+                "text": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ لَهُ الْمُلْكُ ۚ وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ",
+                "numberInSurah": 13,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3674,
+                "text": "إِنْ تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْ ۖ وَيَوْمَ الْقِيَامَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ",
+                "numberInSurah": 14,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3675,
+                "text": "۞ يَا أَيُّهَا النَّاسُ أَنْتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ الْحَمِيدُ",
+                "numberInSurah": 15,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3676,
+                "text": "إِنْ يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+                "numberInSurah": 16,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3677,
+                "text": "وَمَا ذَٰلِكَ عَلَى اللَّهِ بِعَزِيزٍ",
+                "numberInSurah": 17,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3678,
+                "text": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِنْ تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ ۗ إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَأَقَامُوا الصَّلَاةَ ۚ وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ ۚ وَإِلَى اللَّهِ الْمَصِيرُ",
+                "numberInSurah": 18,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3679,
+                "text": "وَمَا يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ",
+                "numberInSurah": 19,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3680,
+                "text": "وَلَا الظُّلُمَاتُ وَلَا النُّورُ",
+                "numberInSurah": 20,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3681,
+                "text": "وَلَا الظِّلُّ وَلَا الْحَرُورُ",
+                "numberInSurah": 21,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3682,
+                "text": "وَمَا يَسْتَوِي الْأَحْيَاءُ وَلَا الْأَمْوَاتُ ۚ إِنَّ اللَّهَ يُسْمِعُ مَنْ يَشَاءُ ۖ وَمَا أَنْتَ بِمُسْمِعٍ مَنْ فِي الْقُبُورِ",
+                "numberInSurah": 22,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3683,
+                "text": "إِنْ أَنْتَ إِلَّا نَذِيرٌ",
+                "numberInSurah": 23,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3684,
+                "text": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+                "numberInSurah": 24,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3685,
+                "text": "وَإِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَبِالزُّبُرِ وَبِالْكِتَابِ الْمُنِيرِ",
+                "numberInSurah": 25,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3686,
+                "text": "ثُمَّ أَخَذْتُ الَّذِينَ كَفَرُوا ۖ فَكَيْفَ كَانَ نَكِيرِ",
+                "numberInSurah": 26,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3687,
+                "text": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُخْتَلِفًا أَلْوَانُهَا ۚ وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ وَحُمْرٌ مُخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ",
+                "numberInSurah": 27,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3688,
+                "text": "وَمِنَ النَّاسِ وَالدَّوَابِّ وَالْأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ۗ إِنَّ اللَّهَ عَزِيزٌ غَفُورٌ",
+                "numberInSurah": 28,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3689,
+                "text": "إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَارَةً لَنْ تَبُورَ",
+                "numberInSurah": 29,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3690,
+                "text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُمْ مِنْ فَضْلِهِ ۚ إِنَّهُ غَفُورٌ شَكُورٌ",
+                "numberInSurah": 30,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3691,
+                "text": "وَالَّذِي أَوْحَيْنَا إِلَيْكَ مِنَ الْكِتَابِ هُوَ الْحَقُّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ ۗ إِنَّ اللَّهَ بِعِبَادِهِ لَخَبِيرٌ بَصِيرٌ",
+                "numberInSurah": 31,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3692,
+                "text": "ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌ لِنَفْسِهِ وَمِنْهُمْ مُقْتَصِدٌ وَمِنْهُمْ سَابِقٌ بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+                "numberInSurah": 32,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3693,
+                "text": "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَلُؤْلُؤًا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌ",
+                "numberInSurah": 33,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3694,
+                "text": "وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+                "numberInSurah": 34,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3695,
+                "text": "الَّذِي أَحَلَّنَا دَارَ الْمُقَامَةِ مِنْ فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ",
+                "numberInSurah": 35,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3696,
+                "text": "وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُمْ مِنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِي كُلَّ كَفُورٍ",
+                "numberInSurah": 36,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3697,
+                "text": "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَا أَخْرِجْنَا نَعْمَلْ صَالِحًا غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ فِيهِ مَنْ تَذَكَّرَ وَجَاءَكُمُ النَّذِيرُ ۖ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ",
+                "numberInSurah": 37,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3698,
+                "text": "إِنَّ اللَّهَ عَالِمُ غَيْبِ السَّمَاوَاتِ وَالْأَرْضِ ۚ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+                "numberInSurah": 38,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3699,
+                "text": "هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْضِ ۚ فَمَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ وَلَا يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ عِنْدَ رَبِّهِمْ إِلَّا مَقْتًا ۖ وَلَا يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ إِلَّا خَسَارًا",
+                "numberInSurah": 39,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3700,
+                "text": "قُلْ أَرَأَيْتُمْ شُرَكَاءَكُمُ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ أَرُونِي مَاذَا خَلَقُوا مِنَ الْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ أَمْ آتَيْنَاهُمْ كِتَابًا فَهُمْ عَلَىٰ بَيِّنَتٍ مِنْهُ ۚ بَلْ إِنْ يَعِدُ الظَّالِمُونَ بَعْضُهُمْ بَعْضًا إِلَّا غُرُورًا",
+                "numberInSurah": 40,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3701,
+                "text": "۞ إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا ۚ وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ بَعْدِهِ ۚ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+                "numberInSurah": 41,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3702,
+                "text": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَهُمْ نَذِيرٌ لَيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى الْأُمَمِ ۖ فَلَمَّا جَاءَهُمْ نَذِيرٌ مَا زَادَهُمْ إِلَّا نُفُورًا",
+                "numberInSurah": 42,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3703,
+                "text": "اسْتِكْبَارًا فِي الْأَرْضِ وَمَكْرَ السَّيِّئِ ۚ وَلَا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ ۚ فَهَلْ يَنْظُرُونَ إِلَّا سُنَّتَ الْأَوَّلِينَ ۚ فَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَبْدِيلًا ۖ وَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَحْوِيلًا",
+                "numberInSurah": 43,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3704,
+                "text": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ وَكَانُوا أَشَدَّ مِنْهُمْ قُوَّةً ۚ وَمَا كَانَ اللَّهُ لِيُعْجِزَهُ مِنْ شَيْءٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ ۚ إِنَّهُ كَانَ عَلِيمًا قَدِيرًا",
+                "numberInSurah": 44,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3705,
+                "text": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيرًا",
+                "numberInSurah": 45,
+                "juz": 22,
+                "manzil": 5,
+                "page": 440,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            }
+        ],
+        "edition": {
+            "identifier": "quran-simple",
+            "language": "ar",
+            "name": "Simple",
+            "englishName": "Simple",
+            "format": "text",
+            "type": "quran",
+            "direction": "rtl"
+        }
+    },
+    "type": "tafsir"
+}
