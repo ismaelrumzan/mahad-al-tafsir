@@ -129,8 +129,10 @@ async function createMDX() {
     data += "\n";
     data += `import VideoList from '${item.import}src/components/VideoList';`;
     data += "\n";
+    data += `import videoData from '${item.import}content/lessons/${item.id}.json';`;
     data += "\n";
-    data += "<VideoList list={[";
+    data += "\n";
+    data += "<VideoList data={videoData} list={[";
     lesson.items.forEach((item) => {
       if (item.snippet.title !== "Private video") {
         data += `{id:'${item.contentDetails.videoId}',title:'${item.snippet.title}'},`;

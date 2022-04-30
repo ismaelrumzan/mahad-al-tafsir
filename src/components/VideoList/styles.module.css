@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+}
+
+.video {
+  flex-grow: 1;
+}
+
+.videoNav {
+  width: 150px;
+  margin-left: 20px;
+}
+
+.btnContainer {
+  position: relative;
+}
+
+.btnContainer img {
+  width: 100%;
+  position: relative;
+}
+
+.btnContainer .overlay {
+  position: absolute;
+  bottom: 10px;
+}
+
+.btnContainer .overlay p {
+  font-size: 13px;
+  font-weight: 500;
+  color: black;
+  padding: 0;
+  margin: 0;
+}
+
+.btnContainer .overlay img {
+  height: 22px;
+  width: 15px;
+}
