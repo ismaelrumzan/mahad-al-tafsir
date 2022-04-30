@@ -8,6 +8,22 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url('/img/home_hero_bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 469px;
+}
+
+.heroTitle {
+  font-weight: 400;
+  font-size: 48px;
+  margin-bottom: 65px;
+}
+
+.heroSubTitle {
+  font-weight: 400;
+  font-size: 32px;
+  margin-top: 65px;  
 }
 
 @media screen and (max-width: 996px) {

@@ -54,27 +54,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Lessons",
-            items: [
-              {
-                label: "Get Started",
-                to: "/lessons/تدريس",
-              },
-            ],
-          },
-          {
-            title: "Tafsir",
-            items: [
-              {
-                label: "List of Surahs",
-                to: "/quran/surahs",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Tafsir Institute.`,
+        copyright: `حقوق النشر © ${new Date().getFullYear()} معهد تفسير`,
       },
       prism: {
         theme: lightCodeTheme,

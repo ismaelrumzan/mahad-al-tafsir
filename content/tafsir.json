@@ -7,7 +7,7 @@
       "id": "1",
       "title": "جميع دورات النحو",
       "nav": "جميع دورات النحو",
-      "image": "1_1.jpeg",
+      "image": "card-1.png",
       "type": "videos",
       "content": [
         {
@@ -156,7 +156,7 @@
       "id": "2",
       "title": "جميع دورات الصرف",
       "nav": "جميع دورات الصرف",
-      "image": "1_2.jpeg",
+      "image": "card-2.png",
       "type": "videos",
       "content": [
         {
@@ -213,7 +213,7 @@
       "id": "3",
       "title": "جميع دورات البلاغة",
       "nav": "جميع دورات البلاغة",
-      "image": "1_3.jpg",
+      "image": "card-3.png",
       "type": "videos",
       "content": [
         {
@@ -295,7 +295,7 @@
       "id": "4",
       "title": "علم التفسير",
       "nav": "علم التفسير",
-      "image": "1_4.jpg",
+      "image": "card-4.png",
       "type": "videos",
       "content": [
         {
@@ -654,7 +654,7 @@
       "title": "علم المواريث",
       "nav": "علم المواريث",
       "id": "5",
-      "image": "1_5.jpg",
+      "image": "card-5.png",
       "content": [
         {
           "title": "تكملة زبدة الحديث في فقه المواريث/ الحبيب محمد بن سالم بن حفيظ",

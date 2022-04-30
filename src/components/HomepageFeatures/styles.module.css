@@ -9,3 +9,49 @@
   height: 200px;
   width: 200px;
 }
+
+.cardContainer {
+  border: 1px solid #6B7280;
+  border-radius: 5px;
+  display: flex;
+  min-height: 220px;
+}
+
+.sectionContainer {
+  max-width: 600px;
+  margin-top: 29px;
+}
+
+.sectionTitle {
+  font-size: 32px;
+  line-height: 48px;
+  color: #1F2937;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.bottomLabel {
+  bottom: 16px;
+  position: absolute;
+}
+
+.textCol {
+  flex-grow: 1;
+  position: relative;
+  font-size: 20px;
+  color: #3F3F46;
+  font-weight: normal;
+  padding: 18px;
+} 
+
+.textCol p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+  overflow: hidden;
+}
+
+.cardContainer img{
+  width: 192px;
+  border-radius: 0px 4px 4px 0px;
+}
