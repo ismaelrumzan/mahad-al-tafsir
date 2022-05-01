@@ -7,7 +7,6 @@ const path = require("path");
 const { google } = require("googleapis");
 
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
-console.log(YOUTUBE_API_KEY);
 const youtube = google.youtube({ version: "v3", auth: YOUTUBE_API_KEY });
 const contentDirectory = path.join(process.cwd(), "content");
 const lessonsDirectory = path.join(process.cwd(), "content/lessons");
@@ -68,7 +67,6 @@ const getAllItems = async (obj) => {
         currentNav = obj[k];
       }
       if (k === "playlistid" && obj[k] !== "") {
-        console.log(currentid + ":" + currentNav + ":" + obj[k]);
         let playlistData = {};
         let verseJson = {};
         if (currentType === "tafsir") {

@@ -24,8 +24,6 @@ export default function VideoList({ children, data = {} }) {
     }
   });
 
-  console.log(data);
-
   function changeItem(i) {
     setvidItem(i);
   }
