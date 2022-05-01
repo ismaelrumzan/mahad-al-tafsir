@@ -19,7 +19,12 @@ function Feature({ image, title, nav, content, index }) {
               {content.map(
                 (item) =>
                   ("playlistid" in item || "content" in item) && (
-                    <span>
+                    <span
+                      className={clsx(
+                        "badge badge--secondary",
+                        styles.badgeBox
+                      )}
+                    >
                       <Link
                         to={
                           "playlistid" in item
@@ -30,8 +35,7 @@ function Feature({ image, title, nav, content, index }) {
                         }
                       >
                         {item.nav}
-                      </Link>{" "}
-                      |{" "}
+                      </Link>
                     </span>
                   )
               )}
