@@ -10,6 +10,7 @@
   border-radius: 5px;
   display: flex;
   min-height: 220px;
+  align-items: stretch;
 }
 
 .sectionContainer {
@@ -37,18 +38,21 @@
   color: #3F3F46;
   font-weight: normal;
   padding: 18px;
-} 
+}
 
 .textCol p {
   display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;  
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-.cardContainer img{
-  width: 192px;
-  border-radius: 0px 4px 4px 0px;
+.cardContainer img {
+  height: 100%;
+  width: 100%;
+  max-width: 192px;
+  object-fit: contain;
+  border-radius: 0px 5px 5px 0px;
 }
 
 .badgeBox {
@@ -61,23 +65,34 @@
     line-height: 32px;
     margin-bottom: 10px;
   }
+
   .features {
     padding: 0.5rem 0;
     margin-bottom: 20px;
   }
+
   .sectionContainer {
     margin-top: 15px;
   }
+
   .textCol {
     font-size: 16px;
     padding: 14px;
   }
+
   .cardContainer {
-    min-height: 100px;
+   min-height: 120px;
   }
-  .cardContainer img{
-    width: 120px;
+
+  .textCol p {
+    -webkit-line-clamp: 3;
   }
+
+  .cardContainer img {
+    max-width: 120px;
+    object-fit: contain;
+  }
+
   .bottomLabel {
     bottom: 8px;
   }
