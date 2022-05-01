@@ -5,11 +5,6 @@
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
-}
-
 .cardContainer {
   border: 1px solid #6B7280;
   border-radius: 5px;
@@ -54,4 +49,32 @@
 .cardContainer img{
   width: 192px;
   border-radius: 0px 4px 4px 0px;
+}
+
+@media screen and (max-width: 425px) {
+  .sectionTitle {
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 10px;
+  }
+  .features {
+    padding: 0.5rem 0;
+    margin-bottom: 20px;
+  }
+  .sectionContainer {
+    margin-top: 15px;
+  }
+  .textCol {
+    font-size: 16px;
+    padding: 14px;
+  }
+  .cardContainer {
+    min-height: 100px;
+  }
+  .cardContainer img{
+    width: 120px;
+  }
+  .bottomLabel {
+    bottom: 8px;
+  }
 }

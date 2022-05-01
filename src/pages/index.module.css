@@ -32,6 +32,23 @@
   }
 }
 
+@media screen and (max-width: 425px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+  .heroSubTitle {
+    font-size: 20px; 
+    margin-top: 35px;
+  }
+  .heroTitle {
+    font-size: 26px;
+    margin-bottom: 35px;
+  }
+  .heroBanner {
+    min-height: 325px;
+  }
+}
+
 .buttons {
   display: flex;
   align-items: center;

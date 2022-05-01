@@ -25,7 +25,6 @@ function Feature({ image, title, nav, content }) {
 }
 
 export default function HomepageFeatures() {
-  console.log(tafsirJson);
   return (
     <section className={styles.features}>
       <div className="container">
