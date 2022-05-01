@@ -19,6 +19,7 @@ function getPlaylistData() {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const tafsirjson = JSON.parse(fileContents);
   tafsirjson.content.forEach((item) => {
+    videoCount = 0;
     let mypath;
     let category = new Object();
     category.data = new Object();
@@ -119,8 +120,10 @@ async function createMDX() {
     );
   });
   let count = 1;
+  let videoCount = [0, 0, 0, 0, 0];
   playlistData.videos.forEach(async (item) => {
     const lesson = getLesson(item.id);
+    videoCount[Number(item.id.split("_")[0]) - 1] += lesson.items.length;
     let data = "---";
     data += "\n";
     data += "sidebar_position: " + count.toString();
@@ -132,20 +135,18 @@ async function createMDX() {
     data += `import videoData from '${item.import}content/lessons/${item.id}.json';`;
     data += "\n";
     data += "\n";
-    data += "<VideoList data={videoData} list={[";
-    lesson.items.forEach((item) => {
-      if (item.snippet.title !== "Private video") {
-        data += `{id:'${item.contentDetails.videoId}',title:'${item.snippet.title}'},`;
-        data += "\n";
-      }
-    });
-    data += "]}";
-    data += "\n";
-    data += "/>";
+    data += "<VideoList data={videoData}/>";
     data += "\n";
     count += 1;
     await fse.outputFile(path.join(process.cwd(), item.path), data, "utf8");
   });
+  let videoCountObj = new Object();
+  videoCountObj.count = videoCount;
+  await fse.outputFile(
+    path.join(contentDirectory + "/videocount.json"),
+    JSON.stringify(videoCountObj, null, 4),
+    "utf8"
+  );
 }
 
 fse.emptyDirSync(videoDir);
