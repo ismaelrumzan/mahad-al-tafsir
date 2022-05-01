@@ -25,8 +25,8 @@ function Feature({ image, title, nav, content, index }) {
                         styles.badgeBox
                       )}
                     >
-                      <a
-                        href={
+                      <Link
+                        to={
                           "playlistid" in item
                             ? `/videos/${nav}/${item.nav}`
                             : "type" in item
@@ -35,7 +35,7 @@ function Feature({ image, title, nav, content, index }) {
                         }
                       >
                         {item.nav}
-                      </a>
+                      </Link>
                     </span>
                   )
               )}
