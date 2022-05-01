@@ -16,10 +16,16 @@ function HomepageHeader() {
         </h1>
         <div className={styles.buttons}>
           <Link
+            className="button button--primary button--lg"
+            to="/videos/جميع دورات النحو/مبادئ  دروس العربية"
+          >
+            ابدأ هنا
+          </Link>
+          <Link
             className="button button--secondary button--lg"
             to="/videos/تدريس"
           >
-            ابدأ هنا
+            خطة تدريس
           </Link>
         </div>
         <h2 className={clsx("hero__subtitle", styles.heroSubTitle)}>
