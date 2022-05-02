@@ -19,16 +19,19 @@
 }
 
 .sectionTitle {
-  font-size: 32px;
-  line-height: 48px;
-  color: #1F2937;
-  font-weight: 400;
-  margin-bottom: 20px;
+  font-size: 20px;
+  line-height: 24px;
+  color: #18181B;
+  font-weight: bold;
+  margin-bottom: 15px;
+  padding: 0;
 }
 
 .bottomLabel {
-  bottom: 16px;
   position: absolute;
+  bottom: 16px;
+  font-size: 16px;
+  padding: 0;
 }
 
 .textCol {
@@ -40,11 +43,15 @@
   padding: 18px;
 }
 
-.textCol p {
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+.textCol ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;  
+}
+
+.textCol ul li {
+  font-size: 16px;
+  font-weight: 400; 
 }
 
 .cardContainer img {
@@ -53,10 +60,6 @@
   max-width: 192px;
   object-fit: contain;
   border-radius: 0px 5px 5px 0px;
-}
-
-.badgeBox {
-  margin-right: 6px;
 }
 
 @media screen and (max-width: 425px) {

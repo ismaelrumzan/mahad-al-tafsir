@@ -27,13 +27,19 @@ function getPlaylistData() {
     category.data.position = Number(item.id);
     category.path = videoPath + item.nav;
     categories.push(category);
-    introData.push("- " + item.title + "\n");
+    introData.push("## " + item.title + "\n");
     if ("content" in item) {
       item.content.forEach((lesson, index) => {
         if ("notes" in lesson) {
-          introData.push("  - " + lesson.title + " (" + lesson.notes + ")\n");
+          introData.push(
+            "### " +
+              lesson.title +
+              " <span class='badge badge--secondary'>" +
+              lesson.notes +
+              "</span>\n"
+          );
         } else {
-          introData.push("  - " + lesson.title + "\n");
+          introData.push("### " + lesson.title + "\n");
         }
         if ("content" in lesson) {
           mypath = videoPath + item.nav + "/" + lesson.nav + "/";
@@ -47,10 +53,14 @@ function getPlaylistData() {
             if ("type" in video === false || video.type !== "tafsir") {
               if ("notes" in video) {
                 introData.push(
-                  "    - " + video.title + " (" + video.notes + ")\n"
+                  "- " +
+                    video.title +
+                    " <span class='badge badge--secondary'>" +
+                    video.notes +
+                    "</span>\n"
                 );
               } else {
-                introData.push("    - " + video.title + "\n");
+                introData.push("- " + video.title + "\n");
               }
             }
             if ("playlistid" in video) {
@@ -111,7 +121,7 @@ async function createMDX() {
   playlistData.introData.forEach((item) => {
     data += item;
   });
-  await fse.outputFile(path.join(videoDir + "تدريس.mdx"), data, "utf8");
+  await fse.outputFile(path.join(videoDir + "تدريس اللغة العربية.mdx"), data, "utf8");
   playlistData.categories.forEach(async (item) => {
     await fse.outputFile(
       path.join(item.path + "/_category_.json"),

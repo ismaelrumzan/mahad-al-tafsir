@@ -23,7 +23,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/videos/تدريس"
+            to="/videos/تدريس اللغة العربية"
           >
             خطة تدريس
           </Link>

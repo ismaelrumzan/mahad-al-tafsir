@@ -46,7 +46,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "تدريس",
+            docId: "تدريس اللغة العربية",
             position: "left",
             label: "التسجيلات الصوتية",
           },

@@ -10,21 +10,16 @@ function Feature({ image, title, nav, content, index }) {
   return (
     <div className={clsx("col col--6")}>
       <div className={styles.sectionContainer}>
-        <Link to={`/videos/${nav}/${content[0].nav}`}>
-          <h3 className={styles.sectionTitle}>{title}</h3>
-        </Link>
         <div className={styles.cardContainer}>
           <div className={styles.textCol}>
-            <p>
+            <Link to={`/videos/${nav}/${content[0].nav}`}>
+              <h3 className={styles.sectionTitle}>{title}</h3>
+            </Link>
+            <ul>
               {content.map(
                 (item) =>
                   ("playlistid" in item || "content" in item) && (
-                    <span
-                      className={clsx(
-                        "badge badge--secondary",
-                        styles.badgeBox
-                      )}
-                    >
+                    <li>
                       <Link
                         to={
                           "playlistid" in item
@@ -36,10 +31,10 @@ function Feature({ image, title, nav, content, index }) {
                       >
                         {item.nav}
                       </Link>
-                    </span>
+                    </li>
                   )
               )}
-            </p>
+            </ul>
             <div className={styles.bottomLabel}>
               {videocount.count[index]} تسجيلات
             </div>
