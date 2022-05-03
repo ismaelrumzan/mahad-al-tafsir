@@ -27,19 +27,57 @@ function getPlaylistData() {
     category.data.position = Number(item.id);
     category.path = videoPath + item.nav;
     categories.push(category);
-    introData.push("## " + item.title + "\n");
+    introData.push(`## [${item.title}](${encodeURIComponent(item.nav)}/) \n`);
+    let data = new Object();
+    data.path = "videos/" + item.nav + "/index.mdx";
+    data.id = item.id;
+    data.import = "../../";
+    data.type = "index";
+    data.title = item.title;
+    data.content = item.content;
+    data.root = "videos/" + encodeURIComponent(item.nav) + "/";
+    console.log(data.root);
+    videoData.push(data);
     if ("content" in item) {
       item.content.forEach((lesson, index) => {
         if ("notes" in lesson) {
-          introData.push(
-            "### " +
-              lesson.title +
-              " <span class='badge badge--secondary'>" +
-              lesson.notes +
-              "</span>\n"
-          );
+          if ("playlistid" in lesson) {
+            introData.push(
+              `### [${lesson.title}](${encodeURIComponent(
+                item.nav
+              )}/${encodeURIComponent(
+                lesson.nav
+              )}) <span class='badge badge--secondary'>${lesson.notes}</span>\n`
+            );
+          } else {
+            introData.push(
+              "### " +
+                lesson.title +
+                " <span class='badge badge--secondary'>" +
+                lesson.notes +
+                "</span>\n"
+            );
+          }
         } else {
-          introData.push("### " + lesson.title + "\n");
+          if ("content" in lesson) {
+            if ("type" in lesson && lesson.type === "tafsir") {
+              introData.push(
+                `### [${lesson.title}](${encodeURIComponent(
+                  item.nav
+                )}/${encodeURIComponent(lesson.nav)}/${encodeURIComponent(
+                  lesson.content[0].title
+                )}) \n`
+              );
+            } else {
+              introData.push(`### ${lesson.title} \n`);
+            }
+          } else {
+            introData.push(
+              `### [${lesson.title}](${encodeURIComponent(
+                item.nav
+              )}/${encodeURIComponent(lesson.nav)}) \n`
+            );
+          }
         }
         if ("content" in lesson) {
           mypath = videoPath + item.nav + "/" + lesson.nav + "/";
@@ -52,15 +90,29 @@ function getPlaylistData() {
           lesson.content.forEach((video) => {
             if ("type" in video === false || video.type !== "tafsir") {
               if ("notes" in video) {
-                introData.push(
-                  "- " +
-                    video.title +
-                    " <span class='badge badge--secondary'>" +
-                    video.notes +
-                    "</span>\n"
-                );
+                if ("playlistid" in video) {
+                  introData.push(
+                    `- [${video.title}](${encodeURIComponent(
+                      item.nav
+                    )}/${encodeURIComponent(lesson.nav)}/${encodeURIComponent(
+                      video.nav
+                    )}) <span class='badge badge--secondary'>${
+                      video.notes
+                    }</span>\n`
+                  );
+                } else {
+                  introData.push(
+                    `- ${video.title} <span class='badge badge--secondary'>${video.notes}</span>\n`
+                  );
+                }
               } else {
-                introData.push("- " + video.title + "\n");
+                introData.push(
+                  `- [${video.title}](${encodeURIComponent(
+                    item.nav
+                  )}/${encodeURIComponent(lesson.nav)}/${encodeURIComponent(
+                    video.nav
+                  )}) \n`
+                );
               }
             }
             if ("playlistid" in video) {
@@ -121,7 +173,11 @@ async function createMDX() {
   playlistData.introData.forEach((item) => {
     data += item;
   });
-  await fse.outputFile(path.join(videoDir + "تدريس اللغة العربية.mdx"), data, "utf8");
+  await fse.outputFile(
+    path.join(videoDir + "تدريس اللغة العربية.mdx"),
+    data,
+    "utf8"
+  );
   playlistData.categories.forEach(async (item) => {
     await fse.outputFile(
       path.join(item.path + "/_category_.json"),
@@ -132,23 +188,48 @@ async function createMDX() {
   let count = 1;
   let videoCount = [0, 0, 0, 0, 0];
   playlistData.videos.forEach(async (item) => {
-    const lesson = getLesson(item.id);
-    videoCount[Number(item.id.split("_")[0]) - 1] += lesson.items.length;
-    let data = "---";
-    data += "\n";
-    data += "sidebar_position: " + count.toString();
-    data += "\n";
-    data += "---";
-    data += "\n";
-    data += `import VideoList from '${item.import}src/components/VideoList';`;
-    data += "\n";
-    data += `import videoData from '${item.import}content/lessons/${item.id}.json';`;
-    data += "\n";
-    data += "\n";
-    data += "<VideoList data={videoData}/>";
-    data += "\n";
-    count += 1;
-    await fse.outputFile(path.join(process.cwd(), item.path), data, "utf8");
+    if ("type" in item && item.type === "index") {
+      let data = "# " + item.title;
+      data += "\n";
+      item.content.forEach((content) => {
+        if ("playlistid" in content) {
+          data += `## [${content.title}](${encodeURIComponent(content.nav)})`;
+          data += "\n";
+        } else if ("content" in content) {
+          if ("type" in content && content.type === "tafsir") {
+            data += `## [${content.title}](${encodeURIComponent(
+              content.nav
+            )}/${encodeURIComponent(content.content[0].title)})`;
+            console.log(content);
+            data += "\n";
+          } else {
+            data += `## [${content.title}](${encodeURIComponent(
+              content.nav
+            )}/${encodeURIComponent(content.content[0].nav)})`;
+            data += "\n";
+          }
+        }
+      });
+      await fse.outputFile(path.join(process.cwd(), item.path), data, "utf8");
+    } else {
+      const lesson = getLesson(item.id);
+      videoCount[Number(item.id.split("_")[0]) - 1] += lesson.items.length;
+      let data = "---";
+      data += "\n";
+      data += "sidebar_position: " + count.toString();
+      data += "\n";
+      data += "---";
+      data += "\n";
+      data += `import VideoList from '${item.import}src/components/VideoList';`;
+      data += "\n";
+      data += `import videoData from '${item.import}content/lessons/${item.id}.json';`;
+      data += "\n";
+      data += "\n";
+      data += "<VideoList data={videoData}/>";
+      data += "\n";
+      count += 1;
+      await fse.outputFile(path.join(process.cwd(), item.path), data, "utf8");
+    }
   });
   let videoCountObj = new Object();
   videoCountObj.count = videoCount;

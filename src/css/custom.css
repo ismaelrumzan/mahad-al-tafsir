@@ -40,3 +40,32 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.theme-doc-markdown h1 {
+  color: #2E8555;
+  font-size: 16px;
+  font-weight: 700;
+  border-bottom: 1px #9CA3AF solid;
+  padding-bottom: 15px;
+}
+
+.theme-doc-markdown h2 {
+  color: #6B7280;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
+}
+
+.theme-doc-markdown h3 {
+  color: #1F2937;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+  font-weight: normal;
+}
+
+.theme-doc-markdown {
+  font-size: 13px;  
+  font-weight: normal;
+  color: #1F2937;
+}

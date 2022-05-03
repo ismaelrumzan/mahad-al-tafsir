@@ -27,6 +27,10 @@
   padding: 0;
 }
 
+[data-theme='dark'] .sectionTitle, [data-theme='dark'] .bottomLabel {
+  color: #25c2a0;
+}
+
 .bottomLabel {
   position: absolute;
   bottom: 16px;

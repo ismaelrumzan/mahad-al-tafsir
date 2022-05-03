@@ -14,6 +14,16 @@
   min-height: 469px;
 }
 
+.heroBanner h1,
+.heroBanner h2 {
+  color: white;
+}
+
+[data-theme='dark'] .heroBanner h1,
+[data-theme='dark'] .heroBanner h2 {
+  color: white;
+}
+
 .heroTitle {
   font-weight: 400;
   font-size: 48px;
