@@ -58,3 +58,22 @@
 .selectBtn {
   width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+  .container {
+    display: block;
+  }
+  .videoNav {
+    width: 100%;
+    margin: 0;
+    margin-top: 20px;
+    display: flex;
+  }
+  .listContainer {
+    flex-grow: 1;
+  }
+  .nextItem {
+    max-width: 220px;
+    margin-right: 15px;
+  }
+}
