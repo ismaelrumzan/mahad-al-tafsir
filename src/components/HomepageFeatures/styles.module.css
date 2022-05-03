@@ -9,12 +9,12 @@
   border: 1px solid #6B7280;
   border-radius: 5px;
   display: flex;
-  min-height: 220px;
+  min-height: 240px;
   align-items: stretch;
+  max-height: 260px;
 }
 
 .sectionContainer {
-  max-width: 600px;
   margin-top: 29px;
 }
 
@@ -27,13 +27,12 @@
   padding: 0;
 }
 
-[data-theme='dark'] .sectionTitle, [data-theme='dark'] .bottomLabel {
+[data-theme='dark'] .sectionTitle,
+[data-theme='dark'] .bottomLabel {
   color: #25c2a0;
 }
 
 .bottomLabel {
-  position: absolute;
-  bottom: 16px;
   font-size: 16px;
   padding: 0;
 }
@@ -50,20 +49,18 @@
 .textCol ul {
   columns: 2;
   -webkit-columns: 2;
-  -moz-columns: 2;  
+  -moz-columns: 2;
 }
 
 .textCol ul li {
   font-size: 16px;
-  font-weight: 400; 
+  font-weight: 400;
 }
 
 .cardContainer img {
-  height: 100%;
-  width: 100%;
   max-width: 192px;
-  object-fit: contain;
-  border-radius: 0px 5px 5px 0px;
+  object-fit: cover;
+  border-radius: 5px 0px 0px 5px;
 }
 
 @media screen and (max-width: 425px) {
@@ -85,10 +82,14 @@
   .textCol {
     font-size: 16px;
     padding: 14px;
+    margin-top: 40px;
   }
 
   .cardContainer {
-   min-height: 120px;
+    min-height: 10px;
+    display: block;
+    position: relative;
+    max-height: none;
   }
 
   .textCol p {
@@ -96,11 +97,22 @@
   }
 
   .cardContainer img {
-    max-width: 120px;
-    object-fit: contain;
+    position: absolute;
+    top: 0;
+    max-width: none;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px 5px 0px 0px;
+    height: 50px;
+  }
+
+  .textCol {
+    display: block;
   }
 
   .bottomLabel {
-    bottom: 8px;
+    bottom: 0px;
+    margin-bottom: 5px;
+    display: block;
   }
 }

@@ -11,6 +11,7 @@ function Feature({ image, title, nav, content, index }) {
     <div className={clsx("col col--6")}>
       <div className={styles.sectionContainer}>
         <div className={styles.cardContainer}>
+          <img src={useBaseUrl("/img/sections/" + image)} />
           <div className={styles.textCol}>
             <Link to={`/videos/${nav}/${content[0].nav}`}>
               <h3 className={styles.sectionTitle}>{title}</h3>
@@ -39,7 +40,6 @@ function Feature({ image, title, nav, content, index }) {
               {videocount.count[index]} تسجيلات
             </div>
           </div>
-          <img src={useBaseUrl("/img/sections/" + image)} />
         </div>
       </div>
     </div>
