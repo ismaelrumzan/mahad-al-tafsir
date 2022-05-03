@@ -16,7 +16,6 @@
 }
 
 .btnContainer img {
-  position: relative;
   width: 100%;
   border: 1px solid lightgray;
 }
@@ -24,6 +23,7 @@
 .btnContainer .overlay {
   position: absolute;
   bottom: 10px;
+  left: 0px;
   font-weight: bold;
   padding-left: 10px;
   color: white;
