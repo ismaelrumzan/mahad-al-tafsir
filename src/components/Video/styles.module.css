@@ -1,15 +1,6 @@
-.container {
-  display: flex;
-}
-
 .video {
   flex-grow: 1;
   max-height: 640px;
-}
-
-.videoNav {
-  width: 150px;
-  margin-left: 20px;
 }
 
 .btnContainer {
@@ -60,28 +51,6 @@
   width: 100%;
 }
 
-.mainContainer {
-  flex: auto;
-}
-
-@media screen and (max-width: 768px) {
-  .container {
-    display: block;
-  }
-
-  .videoNav {
-    width: 100%;
-    margin: 0;
-    margin-top: 20px;
-    display: flex;
-  }
-
-  .listContainer {
-    flex-grow: 1;
-  }
-
-  .nextItem {
-    max-width: 220px;
-    margin-right: 15px;
-  }
+.videoNav {
+  max-width: 220px;
 }

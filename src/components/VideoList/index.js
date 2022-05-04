@@ -28,13 +28,14 @@ export default function VideoList({ children, data = {} }) {
     setvidItem(i);
   }
   return (
-    <div>
+    <main className={styles.mainContainer}>
       <h2>{`${Number(itemIndex) + 1} من ${data.items.length}: ${data.items[
         itemIndex
       ].snippet.title
         .replace(/[0-9]/g, "")
         .replace(/\./g, "")
         .replace(/\_/g, "")}`}</h2>
+      {children}
       <div className={styles.container}>
         <div className={styles.video}>
           <YouTube
@@ -106,6 +107,6 @@ export default function VideoList({ children, data = {} }) {
           </div>
         </div>
       </div>
-    </div>
+    </main>
   );
 }

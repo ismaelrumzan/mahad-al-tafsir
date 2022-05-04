@@ -220,7 +220,7 @@ async function createMDX() {
       data += "\n";
       data += "---";
       data += "\n";
-      data += `import VideoList from '${item.import}src/components/VideoList';`;
+      data += `import VideoList from '${item.import}src/components/Video';`;
       data += "\n";
       data += `import videoData from '${item.import}content/lessons/${item.id}.json';`;
       data += "\n";
