@@ -40,6 +40,10 @@ const config = {
     ({
       hideableSidebar: true,
       autoCollapseSidebarCategories: true,
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 2,
+      },
       navbar: {
         logo: {
           alt: "معهد التفسير",
