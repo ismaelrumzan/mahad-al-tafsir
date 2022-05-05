@@ -18,4 +18,5 @@ We tried the following and went through several iterations:
 - [Youtube](https://youtube.com), for hosting the videos and using the API to get the playlist content
 - [Node](https://nodejs.org/), for writing the scripts to synch the videos and generate the static content from the video structure
 
-### How-to guide
+## How-to guide
+
