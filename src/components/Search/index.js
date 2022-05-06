@@ -5,5 +5,5 @@ export default function Search() {
   const {
     siteConfig: { customFields },
   } = useDocusaurusContext();
-  return <div>API key {customFields.algoliaApiKey}!</div>;
+  return <div>Search Box goes here</div>;
 }
