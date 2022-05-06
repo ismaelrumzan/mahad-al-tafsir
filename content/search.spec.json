@@ -1,0 +1,15 @@
+[
+    {
+        "title": "section title or video title",
+        "description": "if section, include all videos in that section here, otherwise blank/if tafsir, make verses as description",
+        "image": "YT thumbnail link - if section, use TB of the first video",
+        "categories": [
+            "level1cat",
+            "level2cat",
+            "level3cat"
+        ],
+        "path": "include video id if video record",
+        "tafsir": true,
+        "section": true
+    }
+]

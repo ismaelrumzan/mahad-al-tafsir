@@ -36,7 +36,6 @@ function getPlaylistData() {
     data.title = item.title;
     data.content = item.content;
     data.root = "videos/" + encodeURIComponent(item.nav) + "/";
-    console.log(data.root);
     videoData.push(data);
     if ("content" in item) {
       item.content.forEach((lesson, index) => {
@@ -124,6 +123,13 @@ function getPlaylistData() {
               }
               data.id = video.id;
               data.import = "../../../";
+              data.title = video.title;
+              data.section = "true";
+              if ("type" in video || video.type === "tafsir") {
+                data.tafsir = true;
+              } else {
+                data.tafsir = false;
+              }
               videoData.push(data);
             }
           });
@@ -134,6 +140,13 @@ function getPlaylistData() {
             data.path = mypath + lesson.nav + ".mdx";
             data.id = lesson.id;
             data.import = "../../";
+            data.title = lesson.title;
+            data.section = "true";
+            if ("type" in lesson || lesson.type === "tafsir") {
+              data.tafsir = true;
+            } else {
+              data.tafsir = false;
+            }
             videoData.push(data);
           }
         }
@@ -164,6 +177,7 @@ function getLesson(fileid) {
 
 async function createMDX() {
   const playlistData = getPlaylistData();
+  let searchjson = [];
   let data = "---";
   data += "\n";
   data += "sidebar_position: 1";
@@ -200,7 +214,6 @@ async function createMDX() {
             data += `## [${content.title}](${encodeURIComponent(
               content.nav
             )}/${encodeURIComponent(content.content[0].title)})`;
-            console.log(content);
             data += "\n";
           } else {
             data += `## [${content.title}](${encodeURIComponent(
@@ -213,6 +226,7 @@ async function createMDX() {
       await fse.outputFile(path.join(process.cwd(), item.path), data, "utf8");
     } else {
       const lesson = getLesson(item.id);
+      let searchrec = new Object();
       videoCount[Number(item.id.split("_")[0]) - 1] += lesson.items.length;
       let data = "---";
       data += "\n";
@@ -228,6 +242,54 @@ async function createMDX() {
       data += "<VideoList data={videoData}/>";
       data += "\n";
       count += 1;
+      searchrec.id = item.id;
+      searchrec.title = item.title;
+      searchrec.description = "";
+      searchrec.path =
+        "https://tafsir.institute/" + item.path.replace(".mdx", "");
+      let cats = item.path.split("/");
+      cats.pop();
+      cats.shift();
+      searchrec.categories = cats;
+      if ("section" in item) {
+        searchrec.section = item.section;
+        lesson.items.forEach((lessonitem, itemindex) => {
+          const itemTitle = lessonitem.snippet.title
+            .replace(/[0-9]/g, "")
+            .replace(/\./g, "")
+            .replace(/\_/g, "");
+          if (itemTitle !== "Private video") {
+            if (item.tafsir === false) {
+              searchrec.description += itemTitle + " ";
+            }
+            searchrecitem = new Object();
+            searchrecitem.id = item.id + "_" + itemindex;
+            searchrecitem.title = itemTitle.trim();
+            searchrecitem.description = "";
+            if (itemindex !== 0) {
+              searchrecitem.path =
+                "https://tafsir.institute/" +
+                item.path.replace(".mdx", "") +
+                "#" +
+                itemindex;
+            } else {
+              searchrecitem.path =
+                "https://tafsir.institute/" + item.path.replace(".mdx", "");
+            }
+            if ("medium" in lessonitem.snippet.thumbnails) {
+              searchrecitem.image = lessonitem.snippet.thumbnails.medium.url;
+            }
+            searchrecitem.section = false;
+            searchrecitem.categories = cats;
+            searchjson.push(searchrecitem);
+          }
+        });
+        searchrec.image = lesson.items[0].snippet.thumbnails.medium.url;
+      }
+      if ("tafsir" in item) {
+        searchrec.tafsir = item.tafsir;
+      }
+      searchjson.push(searchrec);
       await fse.outputFile(path.join(process.cwd(), item.path), data, "utf8");
     }
   });
@@ -236,6 +298,11 @@ async function createMDX() {
   await fse.outputFile(
     path.join(contentDirectory + "/videocount.json"),
     JSON.stringify(videoCountObj, null, 4),
+    "utf8"
+  );
+  await fse.outputFile(
+    path.join(contentDirectory + "/search.json"),
+    JSON.stringify(searchjson, null, 4),
     "utf8"
   );
 }

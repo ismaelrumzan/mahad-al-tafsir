@@ -1,6 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
+require("dotenv").config();
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
@@ -34,6 +34,11 @@ const config = {
   i18n: {
     defaultLocale: "ar",
     locales: ["ar"],
+  },
+  customFields: {
+    // Put your custom environment here
+    algoliaAppId: process.env.ALGOLIA_APP_ID,
+    algoliaApiKey: process.env.ALGOLIA_API_KEY,
   },
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
