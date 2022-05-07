@@ -39,7 +39,9 @@ const config = {
     // Put your custom environment here
     algoliaAppId: process.env.ALGOLIA_APP_ID,
     algoliaApiKey: process.env.ALGOLIA_API_KEY,
+    algoliaIndex: process.env.ALGOLIA_INDEX,
   },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({

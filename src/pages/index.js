@@ -15,7 +15,6 @@ function HomepageHeader() {
         <h1 className={clsx("hero__title", styles.heroTitle)}>
           {siteConfig.tagline}
         </h1>
-        <Search/>
         <div className={styles.buttons}>
           <Link
             className="button button--primary button--lg"
@@ -30,9 +29,13 @@ function HomepageHeader() {
             خطة تدريس
           </Link>
         </div>
+
         <h2 className={clsx("hero__subtitle", styles.heroSubTitle)}>
           دروس لتأسيس وبناء طالب العلم في العلوم الشرعية عامة ،وعلم التفسير خاصة
         </h2>
+        <div className={styles.searchContainer}>
+          <Search initialValue="ابحث عن التسجيلات أو استكشف أدناه" />
+        </div>
       </div>
     </header>
   );
@@ -46,9 +49,9 @@ export default function Home() {
       description="التسجيلات الصوتية للشيخ علي هاني العقرباوي"
     >
       <HomepageHeader />
-      <main>
+      <div className={styles.homeContent}>
         <HomepageFeatures />
-      </main>
+      </div>
     </Layout>
   );
 }

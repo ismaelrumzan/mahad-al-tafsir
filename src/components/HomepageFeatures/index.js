@@ -18,9 +18,9 @@ function Feature({ image, title, nav, content, index }) {
             </Link>
             <ul>
               {content.map(
-                (item) =>
+                (item, index) =>
                   ("playlistid" in item || "content" in item) && (
-                    <li>
+                    <li key={index + 1000}>
                       <Link
                         to={
                           "playlistid" in item
