@@ -53,7 +53,7 @@ const config = {
       },
       navbar: {
         logo: {
-          alt: "معهد التفسير",
+          alt: "logo",
           src: "img/logo.jpeg",
         },
         items: [

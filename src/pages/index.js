@@ -44,10 +44,7 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="التسجيلات الصوتية للشيخ علي هاني العقرباوي"
-    >
+    <Layout>
       <HomepageHeader />
       <div className={styles.homeContent}>
         <HomepageFeatures />
