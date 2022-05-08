@@ -47,17 +47,24 @@ function Hits({ hits = [] }) {
           key={res.id}
         >
           <div className={styles.searchResItemContainer}>
-            <div className={styles.searchResTitle}>{res.title}</div>
-            {res.description !== "" && (
-              <div className={styles.searchResDesc}>{res.description}</div>
-            )}
-            {res.categories.length > 0 && (
-              <div className={styles.taglineSearch}>
-                {res.categories.map((cat, index) => (
-                  <span class="badge badge--info" key={`${res.id}_${index}`}>
-                    {cat}
-                  </span>
-                ))}
+            <div className={styles.textCol}>
+              <div className={styles.searchResTitle}>{res.title}</div>
+              {res.description !== "" && (
+                <div className={styles.searchResDesc}>{res.description}</div>
+              )}
+              {res.categories.length > 0 && (
+                <div className={styles.taglineSearch}>
+                  {res.categories.map((cat, index) => (
+                    <span class="badge badge--info" key={`${res.id}_${index}`}>
+                      {cat}
+                    </span>
+                  ))}
+                </div>
+              )}
+            </div>
+            {res.description === "" && (
+              <div className={styles.imgCol}>
+                <img src={res.image} />
               </div>
             )}
           </div>
