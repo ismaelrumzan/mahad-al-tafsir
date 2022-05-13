@@ -81,15 +81,18 @@ export default function VideoList({ children, data = {} }) {
                         href={`#${Number(index)}`}
                         className={styles.btnContainer}
                       >
-                        <img
-                          className={
-                            Number(itemIndex) === index
-                              ? styles.vidItemDown
-                              : styles.vidItemUp
-                          }
-                          src={item.snippet.thumbnails.medium.url}
-                          alt=""
-                        />
+                        {"medium" in item.snippet.thumbnails && (
+                          <img
+                            className={
+                              Number(itemIndex) === index
+                                ? styles.vidItemDown
+                                : styles.vidItemUp
+                            }
+                            src={item.snippet.thumbnails.medium.url}
+                            alt=""
+                          />
+                        )}
+
                         <div className={styles.overlay}>
                           <p>
                             {" "}
