@@ -34,7 +34,7 @@ function HomepageHeader() {
           دروس لتأسيس وبناء طالب العلم في العلوم الشرعية عامة ،وعلم التفسير خاصة
         </h2>
         <div className={styles.searchContainer}>
-          <Search initialValue="ابحث عن التسجيلات أو استكشف أدناه" />
+          <Search className={styles.searchContainer} initialValue="ابحث عن التسجيلات أو استكشف أدناه" />
         </div>
       </div>
     </header>

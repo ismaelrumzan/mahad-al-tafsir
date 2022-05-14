@@ -4,6 +4,7 @@ import styles from "./styles.module.css";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import tafsirJson from "../../../content/tafsir.json";
 import videocount from "../../../content/videocount.json";
+import videoicon from "../../../static/img/video-camera.png";
 import Link from "@docusaurus/Link";
 
 function Feature({ image, title, nav, content, index }) {
@@ -37,7 +38,7 @@ function Feature({ image, title, nav, content, index }) {
               )}
             </ul>
             <div className={styles.bottomLabel}>
-              {videocount.count[index]} تسجيلات
+              <img className={styles.cardVideoIcon} src={videoicon} /> {videocount.count[index]} تسجيلات
             </div>
           </div>
         </div>
