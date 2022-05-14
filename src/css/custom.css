@@ -43,7 +43,7 @@
 
 .theme-doc-markdown h1 {
   color: #2E8555;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 700;
   border-bottom: 1px #9CA3AF solid;
   padding-bottom: 15px;
@@ -51,21 +51,21 @@
 
 .theme-doc-markdown h2 {
   color: #6B7280;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 27px;
   font-weight: 500;
 }
 
 .theme-doc-markdown h3 {
   color: #1F2937;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 150%;
   font-weight: normal;
 }
 
 .theme-doc-markdown {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: normal;
   color: #1F2937;
 }

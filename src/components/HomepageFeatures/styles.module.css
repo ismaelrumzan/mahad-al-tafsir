@@ -6,12 +6,18 @@
 }
 
 .cardContainer {
-  border: 1px solid #6B7280;
+  border: 1px solid rgb(46, 133, 84, .24);
   border-radius: 5px;
   display: flex;
   min-height: 240px;
   align-items: stretch;
   max-height: 260px;
+}
+
+.cardVideoIcon {
+  vertical-align: middle;
+  color: rgb(17, 24, 39, .74);
+  width: 20px;
 }
 
 .sectionContainer {
@@ -55,6 +61,7 @@
 .textCol ul li {
   font-size: 16px;
   font-weight: 400;
+  list-style: none;
 }
 
 .cardContainer img {
