@@ -34,59 +34,54 @@ export default function VideoList({ children, data = {} }) {
         .replace(/\_/g, "")}`}</h2>
       {children}
       <div className="container">
-        <div className="row">
-          <div className="col col--9">
-            <YouTube
-              youTubeId={data.items[itemIndex].snippet.resourceId.videoId}
-            />
-          </div>
-          <div className="col col--3">
-            <div className={styles.videoNav}>
-              <div>
-                {Number(itemIndex) < data.items.length - 1 && (
-                  <div className={styles.nextItem}>
-                    <p>التسجيل التالى</p>
-                    <a
-                      onClick={() =>
-                        changeItem(data.items[Number(itemIndex) + 1])
-                      }
-                      className={styles.btnContainer}
-                      href={`#${Number(itemIndex) + 1}`}
-                    >
-                      <img
-                        src={
-                          data.items[Number(itemIndex) + 1].snippet.thumbnails
-                            .medium.url
+        <div className={styles.mainVidContainer}>
+          <YouTube
+            youTubeId={data.items[itemIndex].snippet.resourceId.videoId}
+          />
+        </div>
+
+        <div className={styles.videoNavContainer}>
+          <div className={styles.videoNav}>
+            <div>
+              {Number(itemIndex) < data.items.length - 1 && (
+                <div className={styles.nextItem}>
+                  <p>التسجيل التالى</p>
+                  <div className={styles.vidItem}>
+                    <div className={styles.vidThumb}>
+                      <a
+                        onClick={() =>
+                          changeItem(data.items[Number(itemIndex) + 1])
                         }
+                        className={styles.btnContainer}
+                        href={`#${Number(itemIndex) + 1}`}
+                      >
+                      <img
+                        src={data.items[Number(itemIndex) + 1].snippet.thumbnails.medium.url}
                       />
-                      <div className={styles.overlay}>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          width="30"
-                          height="30"
-                          viewBox="0 0 24 24"
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          class="feather feather-play"
-                        >
-                          <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                        </svg>
-                        <p>
-                          {data.items[Number(itemIndex) + 1].snippet.title
-                            .replace(/[0-9]/g, "")
-                            .replace(/\./g, "")
-                            .replace(/\_/g, "")}
-                        </p>
-                      </div>
-                    </a>
+                      </a>
+                    </div>
+                    <div className={styles.desc}>
+                      <p>
+                        {data.items[Number(itemIndex) + 1].snippet.title
+                          .replace(/[0-9]/g, "")
+                          .replace(/\./g, "")
+                          .replace(/\_/g, "")}
+                      </p>
+                    </div>
                   </div>
-                )}
-              </div>
+                </div>
+              )}
               <div className={styles.listContainer}>
                 <p>من {data.items.length} تسجيلات</p>
+              </div>
+
+              <div className={styles.arrows}>
+                <div className={styles.arrowleft}>
+                  <i className="fa fa-chevron-left fa-lg"></i>
+                </div>
+                <div className={styles.arrowright}>
+                  <i className="fa fa-chevron-right fa-lg"></i>
+                 </div>
               </div>
             </div>
           </div>
