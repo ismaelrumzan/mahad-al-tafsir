@@ -10,6 +10,7 @@ export default function VideoList({ children, data = {} }) {
   const ref = useRef(null);
   const currentVid = useRef(null);
   const executeScroll = () => currentVid.current.scrollIntoView();
+
   useEffect(() => {
     if ("hash" in window.location && window.location.hash !== "") {
       setItemIndex(window.location.hash.replace("#", ""));
@@ -106,15 +107,6 @@ export default function VideoList({ children, data = {} }) {
                     </div>
                   </div>
                 ))}
-              </div>
-
-              <div className={styles.arrows}>
-                <div className={styles.arrowleft}>
-                  <i className="fa fa-chevron-left fa-lg"></i>
-                </div>
-                <div className={styles.arrowright}>
-                  <i className="fa fa-chevron-right fa-lg"></i>
-                 </div>
               </div>
             </div>
           </div>

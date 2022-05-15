@@ -3,6 +3,10 @@
   max-height: 640px;
 }
 
+.selectBtn {
+  width: 100%;
+}
+
 .btnContainer {
   position: relative;
 }
@@ -48,113 +52,19 @@
   text-overflow: ellipsis;
 }
 
-.mainVidContainer {
-  position: relative;
-	padding-bottom: 52%;
-	padding-top: 30px;
-  margin: 0 45px 0 0;
-	height: 0;
-}
-
-.videoNavContainer {
-  position:relative;
-  width: 640px;
-  margin: 20px 5px;
-}
-
-.videoNav {
-  max-width: 220px;
-}
-
-.videoNav p {
-  padding: 0;
-  margin: 0;
-}
-
 .vidItem {
   display: block;
 	width: 148px;
-	height: 148px;
 	float: left;
 	margin: 0;
 	padding: 10px;
-}
-
-.vidThumb {
-  overflow:hidden;
-  height: 84px;
-}
-
-.vidThumb img {
-	width: 100%;
-	position: relative;
-	top: -13px;
-}
-
-.vidItem .desc {
-	color: #21A1D2;
-	font-size: 15px;
-	margin-top:5px;
-}
-
-.arrows {
-  display: inline-block;
-	position:relative;
-	width: 100%;
-}
-
-.arrowleft {
-	color: #fff;
-	position: absolute;
-	background: #777;
-	padding: 15px;
-	left: -25px;
-	top: -130px;
-	z-index: 99;
-	cursor: pointer;
-}
-
-.arrowright {
-	color: #fff;
-	position: absolute;
-	background: #777;
-	padding: 15px;
-	right: -25px;
-	top: -130px;
-	z-index:100;
-	cursor: pointer;
-}
-
-@media (max-width: 624px) {
-	.arrows {
-		position:relative;
-		margin: 0 auto;
-		width:96px;
-	}
-	.arrowleft {
-		left: 0;
-		top: -20px;
-	}
-
-	.arrowright {
-		right: 0;
-		top: -20px;
-	}
-}
-
-
-.selectBtn {
-  width: 100%;
-}
-
-.videoNav {
-  max-width: 220px;
 }
 
 .vidListContainer {
   width: 100%;
   overflow: hidden;
   overflow-y: auto;
+  border: 1px solid rgb(46, 133, 84, .24);
 }
 
 .vidList {
