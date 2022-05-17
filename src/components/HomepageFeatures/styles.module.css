@@ -14,12 +14,6 @@
   max-height: 260px;
 }
 
-.cardVideoIcon {
-  vertical-align: middle;
-  color: rgb(17, 24, 39, .74);
-  width: 20px;
-}
-
 .sectionContainer {
   margin-top: 29px;
 }
@@ -36,6 +30,16 @@
 [data-theme='dark'] .sectionTitle,
 [data-theme='dark'] .bottomLabel {
   color: #25c2a0;
+}
+
+[data-theme='dark'] .videoIconClass [fill='#ffffff'] {
+  fill: white;
+  width: 12px;
+}
+
+[data-theme='light'] .videoIconClass [fill='#000000'] {
+  fill: black;
+  width: 12px;
 }
 
 .bottomLabel {

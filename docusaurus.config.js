@@ -55,6 +55,7 @@ const config = {
         logo: {
           alt: "logo",
           src: "img/logo.jpeg",
+          srcDark: 'img/logo-black.png',
         },
         items: [
           {

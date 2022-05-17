@@ -1,3 +1,7 @@
+header h1 {
+  color: var(--ifm-color-primary);
+}
+
 .video {
   flex-grow: 1;
   max-height: 640px;

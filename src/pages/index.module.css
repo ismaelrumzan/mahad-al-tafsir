@@ -53,6 +53,10 @@
   gap: 20px;
 }
 
+.button .button--primary {
+  color: #fff !important;
+}
+
 .homeContent {
   z-index: 0;
 }
