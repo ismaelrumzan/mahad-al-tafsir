@@ -54,7 +54,7 @@ const config = {
       navbar: {
         logo: {
           alt: "logo",
-          src: "img/logo.jpeg",
+          src: "img/logo-white.png",
           srcDark: 'img/logo-black.png',
         },
         items: [
