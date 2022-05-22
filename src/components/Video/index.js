@@ -64,6 +64,7 @@ export default function VideoList({ children, data = {} }) {
           </div>
           <div className="col col--3">
             <div
+              ref={ref}
               className={styles.vidListContainer}
               style={{
                 height: `${height}px`,
