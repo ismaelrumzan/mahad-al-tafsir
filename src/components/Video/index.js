@@ -6,7 +6,7 @@ import clsx from "clsx";
 export default function VideoList({ children, data = {} }) {
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
-  const [height, setHeight] = useState(0);
+  const [height, setHeight] = useState(250);
   const ref = useRef(null);
   const currentVidRef = useRef(null);
   const currentVid = useRef(null);
