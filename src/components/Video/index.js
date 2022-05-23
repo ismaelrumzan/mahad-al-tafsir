@@ -6,8 +6,8 @@ import clsx from "clsx";
 export default function VideoList({ children, data = {} }) {
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
-  const [height, setHeight] = useState(250);
-  const ref = useRef(null);
+  const [height, setHeight] = useState(0);
+  const vidListref = useRef(null);
   const currentVidRef = useRef(null);
   const currentVid = useRef(null);
   const executeScroll = () => currentVid.current.scrollIntoView();
@@ -18,16 +18,16 @@ export default function VideoList({ children, data = {} }) {
     }
   }, [vidItem]);
   const handleResize = () => {
-    if (ref.current) {
-      setHeight(currentVidRef.current.offsetHeight);
+    if (vidListref.current) {
+      setHeight(currentVidRef.current?.clientHeight);
     }
   };
   useEffect(() => {
     window.addEventListener("resize", handleResize, false);
   }, []);
   useEffect(() => {
-    if (height !== currentVidRef.current.offsetHeight) {
-      setHeight(currentVidRef.current.offsetHeight);
+    if (height !== currentVidRef.current?.clientHeight) {
+      setHeight(currentVidRef.current?.clientHeight);
       executeScroll();
     }
   });
@@ -66,7 +66,7 @@ export default function VideoList({ children, data = {} }) {
           </div>
           <div className="col col--3">
             <div
-              ref={ref}
+              ref={vidListref}
               className={styles.vidListContainer}
               style={{
                 height: `${height}px`,
