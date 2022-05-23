@@ -17,20 +17,21 @@ export default function VideoList({ children, data = {} }) {
       setItemIndex(window.location.hash.replace("#", ""));
     }
   }, [vidItem]);
+  useEffect(() => {
+    window.addEventListener("resize", handleResize, false);
+  }, []);
+  useEffect(() => {
+    // if (height !== currentVidRef.current?.clientHeight) {
+      setHeight(currentVidRef.current?.clientHeight);
+      executeScroll();
+    // }
+  });
+
   const handleResize = () => {
     if (vidListref.current) {
       setHeight(currentVidRef.current?.clientHeight);
     }
   };
-  useEffect(() => {
-    window.addEventListener("resize", handleResize, false);
-  }, []);
-  useEffect(() => {
-    if (height !== currentVidRef.current?.clientHeight) {
-      setHeight(currentVidRef.current?.clientHeight);
-      executeScroll();
-    }
-  });
   data.items.sort((a, b) => {
     const orderNoArrayA = a.snippet.title.split(" ")[0].split(".");
     const orderNoArrayB = b.snippet.title.split(" ")[0].split(".");
@@ -64,13 +65,12 @@ export default function VideoList({ children, data = {} }) {
               />
             </div>
           </div>
-          <div className="col col--3">
+          <div className="col col--3" style={{
+            height: `${height}px`,
+          }}>
             <div
               ref={vidListref}
               className={styles.vidListContainer}
-              style={{
-                height: `${height}px`,
-              }}
             >
               <div className={styles.vidList}>
                 {data.items.map((item, index) => (
