@@ -1,3 +1,7 @@
+ul {
+  padding-inline-start: 10px;
+}
+
 .features {
   display: flex;
   align-items: center;

@@ -1,14 +1,12 @@
 import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
-import useIsBrowser from '@docusaurus/useIsBrowser';
 import { YouTube } from "mdx-embed";
 import styles from "./styles.module.css";
 import clsx from "clsx";
 
 export default function VideoList({ children, data = {} }) {
-  const isBrowser = useIsBrowser();
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
-  const [height, setHeight] = useState(0);
+  const [height, setHeight] = useState(100);
   const vidListref = useRef(null);
   const currentVidRef = useRef(null);
   const currentVid = useRef(null);
@@ -22,14 +20,12 @@ export default function VideoList({ children, data = {} }) {
   useEffect(() => {
     window.addEventListener("resize", handleResize, false);
   }, []);
-  if (isBrowser) {
-    useEffect(() => {
-      // if (isBrowser) {
-        setHeight(currentVidRef.current?.clientHeight);
-        executeScroll();
-      // }
-    });
-  }
+  useEffect(() => {
+    if (vidListref.current) {
+      setHeight(currentVidRef.current?.clientHeight);
+      executeScroll();
+    }
+  });
 
   const handleResize = () => {
     if (vidListref.current) {
