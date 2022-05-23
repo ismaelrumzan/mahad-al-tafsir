@@ -6,8 +6,9 @@ import clsx from "clsx";
 export default function VideoList({ children, data = {} }) {
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
-  const [height, setHeight] = useState(300);
+  const [height, setHeight] = useState(0);
   const ref = useRef(null);
+  const currentVidRef = useRef(null);
   const currentVid = useRef(null);
   const executeScroll = () => currentVid.current.scrollIntoView();
 
@@ -18,15 +19,15 @@ export default function VideoList({ children, data = {} }) {
   }, [vidItem]);
   const handleResize = () => {
     if (ref.current) {
-      setHeight(ref.current.offsetHeight);
+      setHeight(currentVidRef.current.offsetHeight);
     }
   };
   useEffect(() => {
     window.addEventListener("resize", handleResize, false);
   }, []);
   useEffect(() => {
-    if (height !== ref.current.offsetHeight) {
-      setHeight(ref.current.offsetHeight);
+    if (height !== currentVidRef.current.offsetHeight) {
+      setHeight(currentVidRef.current.offsetHeight);
       executeScroll();
     }
   });
@@ -44,6 +45,7 @@ export default function VideoList({ children, data = {} }) {
   function changeItem(i) {
     setvidItem(i);
   }
+
   return (
     <main>
       <h2>{`${Number(itemIndex) + 1} من ${data.items.length}: ${data.items[
@@ -56,7 +58,7 @@ export default function VideoList({ children, data = {} }) {
       <div className="container">
         <div className="row">
           <div className="col col--9">
-            <div ref={ref}>
+            <div ref={currentVidRef}>
               <YouTube
                 youTubeId={data.items[itemIndex].snippet.resourceId.videoId}
               />
