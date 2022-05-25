@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import { YouTube } from "mdx-embed";
 import styles from "./styles.module.css";
 import clsx from "clsx";
@@ -21,7 +22,7 @@ export default function VideoList({ children, data = {} }) {
     window.addEventListener("resize", handleResize, false);
   }, []);
   useEffect(() => {
-    if (vidListref.current) {
+    if (currentVidRef.current) {
       setHeight(currentVidRef.current?.clientHeight);
       executeScroll();
     }

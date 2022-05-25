@@ -6,12 +6,16 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Search from "@site/src/components/Search";
+import logoBlack from "@site/static/img/logo-black.png";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
+        <div className={styles.heroLogo}>
+          <img src={logoBlack} />
+        </div>
         <h1 className={clsx("hero__title", styles.heroTitle)}>
           {siteConfig.tagline}
         </h1>
@@ -29,10 +33,6 @@ function HomepageHeader() {
             خطة تدريس
           </Link>
         </div>
-
-        <h2 className={clsx("hero__subtitle", styles.heroSubTitle)}>
-          دروس لتأسيس وبناء طالب العلم في العلوم الشرعية عامة ،وعلم التفسير خاصة
-        </h2>
         <div className={styles.searchContainer}>
           <Search className={styles.searchContainer} initialValue="ابحث عن التسجيلات أو استكشف أدناه" />
         </div>

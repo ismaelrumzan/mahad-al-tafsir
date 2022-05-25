@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -16,7 +16,7 @@
   --ifm-color-primary-lighter: #99423c;
   --ifm-color-primary-lightest: #ad4a44;
   --ifm-code-font-size: 95%;
-  --ifm-font-family-base: 'IBM Plex Sans Arabic';
+  --ifm-font-family-base: 'Noto Sans Arabic';
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
