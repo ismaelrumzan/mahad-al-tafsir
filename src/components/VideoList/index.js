@@ -37,7 +37,7 @@ export default function VideoList({ children, data = {} }) {
         .replace(/\_/g, "")}`}</h2>
       {children}
       <div className={styles.container}>
-        <div className={styles.video}>
+        <div style={{border: 1px solid #000}} className={styles.video}>
           <YouTube
             youTubeId={data.items[itemIndex].snippet.resourceId.videoId}
           />

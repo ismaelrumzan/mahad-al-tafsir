@@ -1,3 +1,7 @@
+ul {
+  padding-inline-start: 10px;
+}
+
 .features {
   display: flex;
   align-items: center;
@@ -6,7 +10,7 @@
 }
 
 .cardContainer {
-  border: 1px solid #6B7280;
+  border: 1px solid rgb(46, 133, 84, .24);
   border-radius: 5px;
   display: flex;
   min-height: 240px;
@@ -29,7 +33,17 @@
 
 [data-theme='dark'] .sectionTitle,
 [data-theme='dark'] .bottomLabel {
-  color: #25c2a0;
+  color: var(--ifm-color-primary-dark);
+}
+
+[data-theme='dark'] .videoIconClass [fill='#ffffff'] {
+  fill: white;
+  width: 12px;
+}
+
+[data-theme='light'] .videoIconClass [fill='#000000'] {
+  fill: black;
+  width: 12px;
 }
 
 .bottomLabel {
@@ -55,6 +69,11 @@
 .textCol ul li {
   font-size: 16px;
   font-weight: 400;
+  list-style: none;
+}
+
+[data-theme='dark'] .textCol ul li a {
+  color: white;
 }
 
 .cardContainer img {

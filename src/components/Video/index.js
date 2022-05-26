@@ -1,15 +1,38 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import { YouTube } from "mdx-embed";
 import styles from "./styles.module.css";
+import clsx from "clsx";
 
 export default function VideoList({ children, data = {} }) {
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
+  const [height, setHeight] = useState(100);
+  const vidListref = useRef(null);
+  const currentVidRef = useRef(null);
+  const currentVid = useRef(null);
+  const executeScroll = () => currentVid.current.scrollIntoView();
+
   useEffect(() => {
     if ("hash" in window.location && window.location.hash !== "") {
       setItemIndex(window.location.hash.replace("#", ""));
     }
   }, [vidItem]);
+  useEffect(() => {
+    window.addEventListener("resize", handleResize, false);
+  }, []);
+  useEffect(() => {
+    if (currentVidRef.current) {
+      setHeight(currentVidRef.current?.clientHeight);
+      executeScroll();
+    }
+  });
+
+  const handleResize = () => {
+    if (vidListref.current) {
+      setHeight(currentVidRef.current?.clientHeight);
+    }
+  };
   data.items.sort((a, b) => {
     const orderNoArrayA = a.snippet.title.split(" ")[0].split(".");
     const orderNoArrayB = b.snippet.title.split(" ")[0].split(".");
@@ -24,6 +47,7 @@ export default function VideoList({ children, data = {} }) {
   function changeItem(i) {
     setvidItem(i);
   }
+
   return (
     <main>
       <h2>{`${Number(itemIndex) + 1} من ${data.items.length}: ${data.items[
@@ -36,57 +60,57 @@ export default function VideoList({ children, data = {} }) {
       <div className="container">
         <div className="row">
           <div className="col col--9">
-            <YouTube
-              youTubeId={data.items[itemIndex].snippet.resourceId.videoId}
-            />
+            <div ref={currentVidRef}>
+              <YouTube
+                youTubeId={data.items[itemIndex].snippet.resourceId.videoId}
+              />
+            </div>
           </div>
-          <div className="col col--3">
-            <div className={styles.videoNav}>
-              <div>
-                {Number(itemIndex) < data.items.length - 1 && (
-                  <div className={styles.nextItem}>
-                    <p>التسجيل التالى</p>
-                    <a
-                      onClick={() =>
-                        changeItem(data.items[Number(itemIndex) + 1])
-                      }
-                      className={styles.btnContainer}
-                      href={`#${Number(itemIndex) + 1}`}
-                    >
-                      <img
-                        src={
-                          data.items[Number(itemIndex) + 1].snippet.thumbnails
-                            .medium.url
-                        }
-                      />
-                      <div className={styles.overlay}>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          width="30"
-                          height="30"
-                          viewBox="0 0 24 24"
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          class="feather feather-play"
-                        >
-                          <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                        </svg>
-                        <p>
-                          {data.items[Number(itemIndex) + 1].snippet.title
-                            .replace(/[0-9]/g, "")
-                            .replace(/\./g, "")
-                            .replace(/\_/g, "")}
-                        </p>
-                      </div>
-                    </a>
+          <div className="col col--3" style={{
+            height: `${height}px`,
+          }}>
+            <div
+              ref={vidListref}
+              className={styles.vidListContainer}
+            >
+              <div className={styles.vidList}>
+                {data.items.map((item, index) => (
+                  <div
+                    className={styles.vidItem}
+                    key={index}
+                    ref={Number(itemIndex) === index ? currentVid : null}
+                  >
+                    <div className={styles.thumb}>
+                      <a
+                        onClick={() => changeItem(data.items[Number(index)])}
+                        href={`#${Number(index)}`}
+                        className={styles.btnContainer}
+                      >
+                        {"medium" in item.snippet.thumbnails && (
+                          <img
+                            className={
+                              Number(itemIndex) === index
+                                ? styles.vidItemDown
+                                : styles.vidItemUp
+                            }
+                            src={item.snippet.thumbnails.medium.url}
+                            alt=""
+                          />
+                        )}
+
+                        <div className={styles.overlay}>
+                          <p>
+                            {" "}
+                            {item.snippet.title
+                              .replace(/[0-9]/g, "")
+                              .replace(/\./g, "")
+                              .replace(/\_/g, "")}
+                          </p>
+                        </div>
+                      </a>
+                    </div>
                   </div>
-                )}
-              </div>
-              <div className={styles.listContainer}>
-                <p>من {data.items.length} تسجيلات</p>
+                ))}
               </div>
             </div>
           </div>

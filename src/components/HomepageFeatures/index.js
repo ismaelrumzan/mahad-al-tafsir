@@ -1,12 +1,17 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./styles.module.css";
+import { useColorMode } from '@docusaurus/theme-common';
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import tafsirJson from "../../../content/tafsir.json";
 import videocount from "../../../content/videocount.json";
+import VideoIcon from "@site/static/svg/tv-solid.svg";
+import YoutubeIcon from "@site/static/svg/youtube-brands.svg";
 import Link from "@docusaurus/Link";
 
 function Feature({ image, title, nav, content, index }) {
+  const {colorMode, setColorMode} = useColorMode();
+
   return (
     <div className={clsx("col col--6")}>
       <div className={styles.sectionContainer}>
@@ -20,7 +25,16 @@ function Feature({ image, title, nav, content, index }) {
               {content.map(
                 (item, index) =>
                   ("playlistid" in item || "content" in item) && (
+
                     <li key={index + 1000}>
+                      <span style={{ marginLeft: '5px' }}>
+                        <YoutubeIcon
+                          title="Youtube video"
+                          className="videoIconClass"
+                          width="14px"
+                          fill={colorMode === 'dark' ?  '#4dbf4d' : '#853934'}
+                        />
+                      </span>
                       <Link
                         to={
                           "playlistid" in item
@@ -37,7 +51,12 @@ function Feature({ image, title, nav, content, index }) {
               )}
             </ul>
             <div className={styles.bottomLabel}>
-              {videocount.count[index]} تسجيلات
+              <VideoIcon
+                title="video count"
+                className="videoIconClass"
+                width="12px"
+                fill={colorMode === 'dark' ?  '#4dbf4d' : '#853934'}
+              /> {videocount.count[index]} تسجيلات
             </div>
           </div>
         </div>

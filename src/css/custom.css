@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -16,18 +16,30 @@
   --ifm-color-primary-lighter: #99423c;
   --ifm-color-primary-lightest: #ad4a44;
   --ifm-code-font-size: 95%;
-  --ifm-font-family-base: 'IBM Plex Sans Arabic';
+  --ifm-font-family-base: 'Noto Sans Arabic';
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #853934;
-  --ifm-color-primary-dark: #78332f;
-  --ifm-color-primary-darker: #71302c;
+  --ifm-color-primary: #4dbf4d;
+  --ifm-color-primary-dark: #40b140;
+  --ifm-color-primary-darker: #3ca83c;
   --ifm-color-primary-darkest: #5d2824;
-  --ifm-color-primary-light: #923f39;
-  --ifm-color-primary-lighter: #99423c;
-  --ifm-color-primary-lightest: #ad4a44;
+  --ifm-color-primary-light: #61c661;
+  --ifm-color-primary-lighter: #6bca6b;
+  --ifm-color-primary-lightest: #88d488;
+  --ifm-color-content-inverse: #ffffff;
+  --ifm-breadcrumb-color-active: #ffffff;
+  --ifm-menu-color-active: rgb(77, 191, 77);
+  --ifm-navbar-link-hover-color: rgb(77, 191, 77);
+}
+
+.footer {
+  padding: 10px 0;
+  --ifm-footer-background-color: var(--ifm-color-primary-darkest);
+  --ifm-footer-color: var(--ifm-footer-link-color);
+  --ifm-footer-link-color: var(--ifm-color-secondary);
+  --ifm-footer-title-color: var(--ifm-color-white);
 }
 
 .docusaurus-highlight-code-line {
@@ -43,7 +55,7 @@
 
 .theme-doc-markdown h1 {
   color: #2E8555;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 700;
   border-bottom: 1px #9CA3AF solid;
   padding-bottom: 15px;
@@ -51,37 +63,45 @@
 
 .theme-doc-markdown h2 {
   color: #6B7280;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 27px;
   font-weight: 500;
 }
 
 .theme-doc-markdown h3 {
   color: #1F2937;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 150%;
   font-weight: normal;
 }
 
 .theme-doc-markdown {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: normal;
   color: #1F2937;
 }
 
 [data-theme='dark'] .theme-doc-markdown h1 {
-  color: #25c2a0;
+  color: var(--ifm-color-primary-dark);
 }
 
 [data-theme='dark'] .theme-doc-markdown h2 {
-  color: #29d5b0;
+  color: var(--ifm-color-primary-light);
 }
 
 [data-theme='dark'] .theme-doc-markdown h3 {
-  color: #32d8b4;
+  color: var(--ifm-color-primary-lighter);
 }
 
 [data-theme='dark'] .theme-doc-markdown {
-  color: #4fddbf;
+  color: var(--ifm-color-primary-lightest);
+}
+
+.vidListContainer_src-components-Video-styles-module {
+  background-color: var(--ifm-navbar-background-color);
+}
+
+.pagination-nav__link {
+  border: none;
 }
