@@ -67,6 +67,9 @@ const getAllItems = async (obj) => {
         currentNav = obj[k];
       }
       if (k === "playlistid" && obj[k] !== "") {
+        console.log(
+          "Getting data for: " + lessonsDirectory + currentid + ".json"
+        );
         let playlistData = {};
         let verseJson = {};
         if (currentType === "tafsir") {
