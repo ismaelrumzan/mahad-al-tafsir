@@ -1,8 +1,6 @@
 import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
-import BrowserOnly from '@docusaurus/BrowserOnly';
-import { YouTube } from "mdx-embed";
+import YouTube from "react-youtube";
 import styles from "./styles.module.css";
-import clsx from "clsx";
 
 export default function VideoList({ children, data = {} }) {
   const [itemIndex, setItemIndex] = useState(0);
@@ -47,6 +45,14 @@ export default function VideoList({ children, data = {} }) {
   function changeItem(i) {
     setvidItem(i);
   }
+  const opts = {
+    playerVars: {
+      rel: 0,
+      modestbranding: 1,
+      listType: "playlist",
+      list: data.items[itemIndex].snippet.playlistId,
+    },
+  };
 
   return (
     <main>
@@ -62,17 +68,18 @@ export default function VideoList({ children, data = {} }) {
           <div className="col col--9">
             <div ref={currentVidRef}>
               <YouTube
-                youTubeId={data.items[itemIndex].snippet.resourceId.videoId}
+                videoId={data.items[itemIndex].snippet.resourceId.videoId}
+                opts={opts}
               />
             </div>
           </div>
-          <div className="col col--3" style={{
-            height: `${height}px`,
-          }}>
-            <div
-              ref={vidListref}
-              className={styles.vidListContainer}
-            >
+          <div
+            className="col col--3"
+            style={{
+              height: `${height}px`,
+            }}
+          >
+            <div ref={vidListref} className={styles.vidListContainer}>
               <div className={styles.vidList}>
                 {data.items.map((item, index) => (
                   <div
