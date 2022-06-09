@@ -102,3 +102,7 @@ header h1 {
 .thumb:hover img {
   opacity: 0.7;
 }
+
+.selectClass {
+  clear: both;
+}
