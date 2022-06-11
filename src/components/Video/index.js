@@ -66,7 +66,7 @@ export default function VideoList({ children, data = {} }) {
         </div>
         <div className="row">
           <div className={styles.selectClass}>
-            <h3>From {Object.keys(data).length} videos</h3>
+            <h3>From {Object.keys(data.items).length} videos</h3>
             <h4>Select a video</h4>
             <Select
               options={vidOptions}
