@@ -3,8 +3,18 @@ header h1 {
 }
 
 .video {
-  flex-grow: 1;
-  max-height: 640px;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.videoResponsive {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }
 
 .selectBtn {

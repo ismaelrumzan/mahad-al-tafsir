@@ -50,25 +50,15 @@ export default function VideoList({ children, data = {} }) {
         className={styles.selectClass}
         options={vidOptions}
         onChange={changeItem}
-        defaultValue={{ label: `${Number(itemIndex) + 1} من ${data.items.length}: ${data.items[
-          itemIndex
-        ].snippet.title
-          .replace(/[0-9]/g, "")
-          .replace(/\./g, "")
-          .replace(/\_/g, "")}`, value: 0 }}
+        iframeClassName={styles.videoResponsive}
+        defaultValue={{ label: `${data.items[itemIndex].snippet.title}`, value: 0 }}
       />
       {children}
-      <div className="container">
-        <div className="row">
-          <div className="col col--9">
-            <div>
-              <YouTube
-                videoId={data.items[itemIndex].snippet.resourceId.videoId}
-                opts={opts}
-              />
-            </div>
-          </div>
-        </div>
+      <div className={styles.video}>
+        <YouTube
+          videoId={data.items[itemIndex].snippet.resourceId.videoId}
+          opts={opts}
+        />
       </div>
     </main>
   );
