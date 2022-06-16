@@ -50,12 +50,13 @@ export default function VideoList({ children, data = {} }) {
         className={styles.selectClass}
         options={vidOptions}
         onChange={changeItem}
-        iframeClassName={styles.videoResponsive}
         defaultValue={{ label: `${data.items[itemIndex].snippet.title}`, value: 0 }}
       />
       {children}
-      <div className={styles.video}>
+      <div>
         <YouTube
+          className={styles.video}
+          iframeClassName={styles.videoResponsive}
           videoId={data.items[itemIndex].snippet.resourceId.videoId}
           opts={opts}
         />
