@@ -46,12 +46,17 @@ export default function VideoList({ children, data = {} }) {
 
   return (
     <main>
-      <h2>{`${Number(itemIndex) + 1} من ${data.items.length}: ${data.items[
-        itemIndex
-      ].snippet.title
-        .replace(/[0-9]/g, "")
-        .replace(/\./g, "")
-        .replace(/\_/g, "")}`}</h2>
+      <Select
+        className={styles.selectClass}
+        options={vidOptions}
+        onChange={changeItem}
+        defaultValue={{ label: `${Number(itemIndex) + 1} من ${data.items.length}: ${data.items[
+          itemIndex
+        ].snippet.title
+          .replace(/[0-9]/g, "")
+          .replace(/\./g, "")
+          .replace(/\_/g, "")}`, value: 0 }}
+      />
       {children}
       <div className="container">
         <div className="row">
@@ -62,16 +67,6 @@ export default function VideoList({ children, data = {} }) {
                 opts={opts}
               />
             </div>
-          </div>
-        </div>
-        <div className="row">
-          <div className={styles.selectClass}>
-            <h3>From {Object.keys(data.items).length} videos</h3>
-            <h4>Select a video</h4>
-            <Select
-              options={vidOptions}
-              onChange={changeItem}
-            />
           </div>
         </div>
       </div>

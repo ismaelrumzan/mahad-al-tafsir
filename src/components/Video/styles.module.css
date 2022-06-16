@@ -104,5 +104,6 @@ header h1 {
 }
 
 .selectClass {
+  margin: 1em 0;
   clear: both;
 }
