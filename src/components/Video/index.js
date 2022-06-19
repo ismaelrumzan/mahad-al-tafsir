@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
 import Select from 'react-select';
 import YouTube from "react-youtube";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCaretRight, faCaretLeft } from "@fortawesome/free-solid-svg-icons";
 import styles from "./styles.module.css";
 
 export default function VideoList({ children, data = {} }) {
@@ -30,11 +32,6 @@ export default function VideoList({ children, data = {} }) {
     vidOptions.push( { value: index, label: item.snippet.title } )
   } );
 
-  function changeItem(i) {
-    setvidItem(i);
-    window.location.href = `#${i.value}`;
-  }
-
   const opts = {
     playerVars: {
       rel: 0,
@@ -44,16 +41,46 @@ export default function VideoList({ children, data = {} }) {
     },
   };
 
+  function changeItem(i, direction = null) {
+    let num = null;
+    if ( direction == 'forward' ) {
+      num = data.items.indexOf(i) + 1;
+    } else if ( direction == 'back' ) {
+      num = data.items.indexOf(i) - 1;
+    } else {
+      num = i.value;
+    }
+    console.log(num)
+    setvidItem(num);
+    window.location.href = `#${num}`;
+  }
+
   return (
     <main>
-      <Select
-        className={styles.selectClass}
-        options={vidOptions}
-        onChange={changeItem}
-        defaultValue={{ label: `${data.items[itemIndex].snippet.title}`, value: 0 }}
-      />
-      {children}
-      <div>
+      <div className={styles.navContainer}>
+        <div className={styles.selectContainer}>
+          <Select
+            className={styles.selectClass}
+            options={vidOptions}
+            onChange={changeItem}
+            defaultValue={{ label: `${data.items[itemIndex].snippet.title}`, value: 0 }}
+          />
+        </div>
+        <div className={styles.faContainer}>
+          <FontAwesomeIcon
+            size="2x"
+            icon={faCaretRight}
+            onClick={() => changeItem(data.items[itemIndex], 'forward')}
+          />
+          <FontAwesomeIcon
+            size="2x"
+            icon={faCaretLeft}
+            onClick={() => changeItem(data.items[itemIndex], 'back')}
+          />
+        </div>
+      </div>
+      <div className={styles.vidContainer}>
+        {children}
         <YouTube
           className={styles.video}
           iframeClassName={styles.videoResponsive}
