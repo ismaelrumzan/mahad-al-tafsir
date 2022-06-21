@@ -2,692 +2,692 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "c6mRudf5fL_MXeJxGPCDHo5kye4",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "c3PRfCslWC7zzp1RvAt0NIf7CS0",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi40NzZCMERDMjVEN0RFRThB",
             "snippet": {
-                "publishedAt": "2021-02-05T06:23:00Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.1 المقدمات",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:23:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 1) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "1 المقدمات\nرابط شرح زيني دحلان على السمرقندية \nhttps://drive.google.com/drive/my-drive\n\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/x3rXFQWXBWM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ryL9ErfciXI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/x3rXFQWXBWM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ryL9ErfciXI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/x3rXFQWXBWM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ryL9ErfciXI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/x3rXFQWXBWM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ryL9ErfciXI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "x3rXFQWXBWM"
+                    "videoId": "ryL9ErfciXI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "x3rXFQWXBWM",
-                "videoPublishedAt": "2021-02-05T06:25:45Z"
+                "videoId": "ryL9ErfciXI",
+                "videoPublishedAt": "2019-08-02T22:23:54Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mysscMgAIBpxCCn18dzSFLhGoBE",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "OWEMrffptKYgO_2cuOuIHcWN00A",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-02-05T06:23:14Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.2 الفريدة الأولى في العقد الأول المجاز المرسل",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T17:24:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 2) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "2 الفريدة الأولى في العقد الأول المجاز المرسل\n#\nseekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/m2oCShk9P14/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Ag1dUIsMvw8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/m2oCShk9P14/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ag1dUIsMvw8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/m2oCShk9P14/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ag1dUIsMvw8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/m2oCShk9P14/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ag1dUIsMvw8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "m2oCShk9P14"
+                    "videoId": "Ag1dUIsMvw8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "m2oCShk9P14",
-                "videoPublishedAt": "2021-02-05T06:26:35Z"
+                "videoId": "Ag1dUIsMvw8",
+                "videoPublishedAt": "2019-08-02T17:24:43Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zdw9bPNCRcVlgojdzRgvd_yZp6c",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "Y2vtG7o0bduKpf5p0ijbB7B6v0U",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
-                "publishedAt": "2021-02-05T06:23:28Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.3 تطبيقات على الفريدة الأولى في العقد الأول المجاز المرسل والعقلي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:10:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 3) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "3 تطبيقات على الفريدة الأولى في العقد الأول المجاز المرسل والعقلي\n#\nseekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/yDViUeq3fbM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aOLa8_Xelvw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/yDViUeq3fbM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aOLa8_Xelvw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/yDViUeq3fbM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aOLa8_Xelvw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/yDViUeq3fbM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aOLa8_Xelvw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "yDViUeq3fbM"
+                    "videoId": "aOLa8_Xelvw"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "yDViUeq3fbM",
-                "videoPublishedAt": "2021-02-05T06:31:12Z"
+                "videoId": "aOLa8_Xelvw",
+                "videoPublishedAt": "2019-08-02T17:29:24Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3chPUPm6lmxH39iAgXskR8bOt34",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "k91FM8RbcejH6V3PjFfWhw9y3QM",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
-                "publishedAt": "2021-02-05T06:23:44Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.4 الفريدة الثانية في العقد الأولى الاستعارة الأصلية والتبعية",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-09-27T19:34:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 4) للشيخ أبي القاسم بن أبي بكر السمرقندي للشيخ علي هاني",
+                "description": "4 الفريدة الثانية في العقد الأولى الاستعارة الأصلية والتبعية\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/MC1ZGmMxwEs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KjUklLTKCTw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/MC1ZGmMxwEs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KjUklLTKCTw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/MC1ZGmMxwEs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KjUklLTKCTw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/MC1ZGmMxwEs/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KjUklLTKCTw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "MC1ZGmMxwEs"
+                    "videoId": "KjUklLTKCTw"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "MC1ZGmMxwEs",
-                "videoPublishedAt": "2021-02-05T06:32:01Z"
+                "videoId": "KjUklLTKCTw",
+                "videoPublishedAt": "2019-09-27T19:38:47Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iUO2IbZK-UJ_vkYcxv-1Nxl2zQ8",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "Sh6UZ_1EhH1QRao6i2hCko37xps",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
-                "publishedAt": "2021-02-05T06:24:05Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.5 تطبيقات على الفريدة الثانية في العقد الأول تطبيقات على الاستعارة التبعية والأصلية",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-09-27T19:34:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 5) للشيخ أبي القاسم بن أبي بكر السمرقندي للشيخ علي هان",
+                "description": "5 تطبيقات على الفريدة الثانية في العقد الأول تطبيقات على الاستعارة التبعية والأصلية\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DoX7Shjw4B4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/yrxcSmVUMX4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DoX7Shjw4B4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yrxcSmVUMX4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DoX7Shjw4B4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yrxcSmVUMX4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/DoX7Shjw4B4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yrxcSmVUMX4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "DoX7Shjw4B4"
+                    "videoId": "yrxcSmVUMX4"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "DoX7Shjw4B4",
-                "videoPublishedAt": "2021-02-05T06:32:04Z"
+                "videoId": "yrxcSmVUMX4",
+                "videoPublishedAt": "2019-09-27T19:40:35Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3Di9DI1Zt5WscTinmlUXjWU5IYM",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "Lh8Me8n362ocil1XXRQVrVydO5A",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi45NDk1REZENzhEMzU5MDQz",
             "snippet": {
-                "publishedAt": "2021-02-05T06:24:19Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.6 الفريدة الثالثة والرابعة  الاستعارة التحقيقية والتخييلية ، والترشيح والتجريد والإ‘طلاق",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:23:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 6) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "6 الفريدة الثالثة والرابعة  الاستعارة التحقيقية والتخييلية ، والترشيح والتجريد والإ‘طلاق\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/8Xt1bqv4mfs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5D5-09FRg-w/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/8Xt1bqv4mfs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5D5-09FRg-w/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/8Xt1bqv4mfs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5D5-09FRg-w/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/8Xt1bqv4mfs/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5D5-09FRg-w/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "8Xt1bqv4mfs"
+                    "videoId": "5D5-09FRg-w"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "8Xt1bqv4mfs",
-                "videoPublishedAt": "2021-02-05T06:30:26Z"
+                "videoId": "5D5-09FRg-w",
+                "videoPublishedAt": "2019-08-02T22:29:35Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aZJJdFCf5wb22nghICmI_jg0mlU",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "jynK4wxshlKnXh6Bx2hLM_rEnfE",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-02-05T06:24:33Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.7 الفريدة الخامسة من العقد الأول الترشيح يجوز أن يكون مستعارا وأن يكون باقيا على حقيقته",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T17:25:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 7) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "7 الفريدة الخامسة من العقد الأول الترشيح يجوز أن يكون مستعارا وأن يكون باقيا على حقيقته\n#\nseekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vw4lqIXcMco/default.jpg",
+                        "url": "https://i.ytimg.com/vi/f3UBPCVF-9w/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vw4lqIXcMco/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/f3UBPCVF-9w/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vw4lqIXcMco/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/f3UBPCVF-9w/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/vw4lqIXcMco/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/f3UBPCVF-9w/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "vw4lqIXcMco"
+                    "videoId": "f3UBPCVF-9w"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "vw4lqIXcMco",
-                "videoPublishedAt": "2021-02-05T06:25:25Z"
+                "videoId": "f3UBPCVF-9w",
+                "videoPublishedAt": "2019-08-02T17:24:58Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rGOreyNmNh9oGAuC6o1YcsuyoTw",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi5DQUNERDQ2NkIzRUQxNTY1",
+            "etag": "hSVaPSgSfPFShE18bn92ba-hYXs",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-02-05T06:24:53Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.8 الفريدة السادسة في العقد الأول المجاز المركب",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T17:25:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 8) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "8 الفريدة السادسة في العقد الأول المجاز المركب\n#\nseekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/pyLjKyNJlDo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ctGgSY7yhbY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/pyLjKyNJlDo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ctGgSY7yhbY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/pyLjKyNJlDo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ctGgSY7yhbY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/pyLjKyNJlDo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ctGgSY7yhbY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "pyLjKyNJlDo"
+                    "videoId": "ctGgSY7yhbY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "pyLjKyNJlDo",
-                "videoPublishedAt": "2021-02-05T06:28:51Z"
+                "videoId": "ctGgSY7yhbY",
+                "videoPublishedAt": "2019-08-02T17:25:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FS3769ZDlLDfskLBGajBcoWm384",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi45NDk1REZENzhEMzU5MDQz",
+            "etag": "LqtYoKx0u-OeHZFuLvZNpMmGFKU",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
-                "publishedAt": "2021-02-05T06:25:06Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.9 تطبيق على الفريدة السادسة الخلاف بين السعد والسيد في {أولئك على هدى",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T17:25:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 9) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "9 تطبيق على الفريدة السادسة الخلاف بين السعد والسيد في {أولئك على هدى\n#\nseekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ItIQLmvcL1Q/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Cg5MVlRt-Uo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ItIQLmvcL1Q/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Cg5MVlRt-Uo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ItIQLmvcL1Q/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Cg5MVlRt-Uo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ItIQLmvcL1Q/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Cg5MVlRt-Uo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ItIQLmvcL1Q"
+                    "videoId": "Cg5MVlRt-Uo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ItIQLmvcL1Q",
-                "videoPublishedAt": "2021-02-05T06:30:51Z"
+                "videoId": "Cg5MVlRt-Uo",
+                "videoPublishedAt": "2019-08-02T17:31:23Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yhIltFejdQfpmzf8ep9vdKtaGnc",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi5GNjNDRDREMDQxOThCMDQ2",
+            "etag": "tWztrpwyxaBl0v9N_YIIHD5dD68",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
-                "publishedAt": "2021-02-05T06:25:20Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.10 العقد الثاني في تحقيق الاستعارة المكنية الفريدة الأولى والثانية والثالثة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:10:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات (10 ) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "10 العقد الثاني في تحقيق الاستعارة المكنية الفريدة الأولى والثانية والثالثة\n#\nseekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jjAXxE3ADpE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/R_VPLJ1CNN0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jjAXxE3ADpE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/R_VPLJ1CNN0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jjAXxE3ADpE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/R_VPLJ1CNN0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/jjAXxE3ADpE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/R_VPLJ1CNN0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "jjAXxE3ADpE"
+                    "videoId": "R_VPLJ1CNN0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "jjAXxE3ADpE",
-                "videoPublishedAt": "2021-02-05T06:32:07Z"
+                "videoId": "R_VPLJ1CNN0",
+                "videoPublishedAt": "2019-08-02T17:35:58Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "z6GQztVcsKBNLhjvXKb4JJXEKag",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi40NzZCMERDMjVEN0RFRThB",
+            "etag": "msvja1SsZq_BMfAlNE1tVkiPKKs",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
-                "publishedAt": "2021-02-05T06:25:32Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.11 الفريدة الرابعة في العقد الثاني في اجتماع التصريحية والمكنية",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T17:29:00Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات (11 ) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "11 الفريدة الرابعة في العقد الثاني في اجتماع التصريحية والمكنية\n#\nseekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Uakq9hjJU6k/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ylFa3WCJJzo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Uakq9hjJU6k/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ylFa3WCJJzo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Uakq9hjJU6k/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ylFa3WCJJzo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Uakq9hjJU6k/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ylFa3WCJJzo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Uakq9hjJU6k"
+                    "videoId": "ylFa3WCJJzo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Uakq9hjJU6k",
-                "videoPublishedAt": "2021-02-05T06:28:07Z"
+                "videoId": "ylFa3WCJJzo",
+                "videoPublishedAt": "2019-08-02T17:29:51Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gOj-acjcwM9cydrw_A-xrbPTkoo",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi5EMEEwRUY5M0RDRTU3NDJC",
+            "etag": "lJ6K5YvHD2fwQ3t4zE7mXVURCmQ",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
-                "publishedAt": "2021-02-05T06:25:44Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.12 العقد الثالث الفريدة الأولى والثانية والثالثة في الاستعارة التخييلية",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:23:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 12) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "12 العقد الثالث الفريدة الأولى والثانية والثالثة في الاستعارة التخييلية\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/iM4HnMAdv_0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3TRzbHGYbI8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/iM4HnMAdv_0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3TRzbHGYbI8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/iM4HnMAdv_0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3TRzbHGYbI8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/iM4HnMAdv_0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3TRzbHGYbI8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "iM4HnMAdv_0"
+                    "videoId": "3TRzbHGYbI8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "iM4HnMAdv_0",
-                "videoPublishedAt": "2021-02-05T06:34:02Z"
+                "videoId": "3TRzbHGYbI8",
+                "videoPublishedAt": "2019-08-02T22:27:51Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KZcduf6brJ8MKDpcI9qSNnay_J0",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi45ODRDNTg0QjA4NkFBNkQy",
+            "etag": "fFUFS8YXpSYiDcetZzXLzBczHDw",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
-                "publishedAt": "2021-02-05T06:25:56Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.13 قراءة شرح زيني دحلان للفريدة السادسة من العقد الأول ووللعقد الثاني بفرائده الأربعة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:23:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 13) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "13 قراءة شرح زيني دحلان للفريدة السادسة من العقد الأول ووللعقد الثاني بفرائده الأربعة\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ng5cbVJs5JE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/E1dhJWZCWZM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ng5cbVJs5JE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/E1dhJWZCWZM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ng5cbVJs5JE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/E1dhJWZCWZM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ng5cbVJs5JE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/E1dhJWZCWZM/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ng5cbVJs5JE"
+                    "videoId": "E1dhJWZCWZM"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ng5cbVJs5JE",
-                "videoPublishedAt": "2021-02-05T06:29:49Z"
+                "videoId": "E1dhJWZCWZM",
+                "videoPublishedAt": "2019-08-02T22:29:00Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pRH5uxfUraQva4lqcKJiI6Daoa4",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "NnzpufwaTXjkV_DqOfJtSEcvHDI",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
-                "publishedAt": "2021-02-05T06:26:09Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.14 الفريدة الخامسة في العقد الثالث مسألة في الترشيح",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:23:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 14) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "14 الفريدة الخامسة في العقد الثالث مسألة في الترشيح\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/7HzCi7gqlW0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sS3hHpV4vrg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/7HzCi7gqlW0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sS3hHpV4vrg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/7HzCi7gqlW0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sS3hHpV4vrg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/7HzCi7gqlW0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sS3hHpV4vrg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "7HzCi7gqlW0"
+                    "videoId": "sS3hHpV4vrg"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "7HzCi7gqlW0",
-                "videoPublishedAt": "2021-02-05T06:28:30Z"
+                "videoId": "sS3hHpV4vrg",
+                "videoPublishedAt": "2019-08-02T22:27:44Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wiaPZhWi1MnZmZzqfnleGo1GxJM",
-            "id": "UExRM3R1RklZZXVYQnczU3dlUUt4T2VidWdpMHBRMmJpMi41Mzk2QTAxMTkzNDk4MDhF",
+            "etag": "NUVbGQTk4CJMnmwtbvggD6YvsF4",
+            "id": "UExFRDREai1UNDNyUFhEQjVBdDVKcThwem1CRXdfZ1JuWi4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
-                "publishedAt": "2021-02-05T06:26:25Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.6.15 الاستعارة التخييلية",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-08-02T22:23:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "السمرقندية في الاستعارات ( 15) لأبي القاسم بن أبي بكر السمرقندي لعلي هاني العقرباوي",
+                "description": "15 الاستعارة التخييلية\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الخامس في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان مع تطبيقاتها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحِفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/a42uO5cCFuo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-1T_d8on9E8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/a42uO5cCFuo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-1T_d8on9E8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/a42uO5cCFuo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-1T_d8on9E8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/a42uO5cCFuo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-1T_d8on9E8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXBw3SweQKxOebugi0pQ2bi2",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPXDB5At5Jq8pzmBEw_gRnZ",
                 "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "a42uO5cCFuo"
+                    "videoId": "-1T_d8on9E8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "a42uO5cCFuo",
-                "videoPublishedAt": "2021-02-05T06:33:30Z"
+                "videoId": "-1T_d8on9E8",
+                "videoPublishedAt": "2019-08-02T22:32:23Z"
             }
         }
     ],
