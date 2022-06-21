@@ -41,18 +41,20 @@ export default function VideoList({ children, data = {} }) {
     },
   };
 
-  function changeItem(i, direction = null) {
-    let num = null;
-    if ( direction == 'forward' ) {
-      num = data.items.indexOf(i) + 1;
-    } else if ( direction == 'back' ) {
-      num = data.items.indexOf(i) - 1;
-    } else {
-      num = i.value;
+  function changeItem(i) {
+    setvidItem(i);
+    window.location.href = `#${i.value}`;
+  }
+
+  function changeItemNav( i, direction ) {
+    let num = 0;
+    direction === 'forward' ? num = data.items.indexOf(i) + 1 : num = data.items.indexOf(i) - 1;
+
+    if ( num >= 0 && num !== null && num !== undefined ) {
+      setvidItem(num);
+      setItemIndex(num);
+      window.location.href = `#${num}`;
     }
-    console.log(num)
-    setvidItem(num);
-    window.location.href = `#${num}`;
   }
 
   return (
@@ -70,12 +72,12 @@ export default function VideoList({ children, data = {} }) {
           <FontAwesomeIcon
             size="2x"
             icon={faCaretRight}
-            onClick={() => changeItem(data.items[itemIndex], 'forward')}
+            onClick={() => changeItemNav(data.items[itemIndex], 'forward')}
           />
           <FontAwesomeIcon
             size="2x"
             icon={faCaretLeft}
-            onClick={() => changeItem(data.items[itemIndex], 'back')}
+            onClick={() => changeItemNav(data.items[itemIndex], 'back')}
           />
         </div>
       </div>
