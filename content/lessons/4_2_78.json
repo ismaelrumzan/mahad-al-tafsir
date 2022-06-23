@@ -2,1157 +2,1152 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "V88_6CsLNsFXc_00SBXtGsN3fJ8",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "GqK8MQO8hhDhKpyrn4zs1YeLPfY",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-02-26T16:59:26Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "78_1 سورة النبأ",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:25:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عم (النبأ) الجزء الثاني(2) الشيخ علي هاني العقرباوي (78",
+                "description": "تفسير سورة عم مع تفسير النسفي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rh0LJ1dBoK0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rh0LJ1dBoK0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rh0LJ1dBoK0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/rh0LJ1dBoK0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "rh0LJ1dBoK0"
+                    "videoId": "buFsmRY2RHg"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "rh0LJ1dBoK0",
-                "videoPublishedAt": "2021-02-26T17:01:29Z"
+                "videoId": "buFsmRY2RHg",
+                "videoPublishedAt": "2019-07-11T21:54:22Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Myvb2VYYDmwmE5Ij4vybXiJI-qQ",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "fvS6U1etu--mDwf-We8_K4gDuuY",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-02-26T16:59:45Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "78_2 سورة النبأ",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة النازعات الجزء الثاني(2) الشيخ علي هاني العقرباوي(79",
+                "description": "#نور_الهدى_seekershub \n\nتفسير تحليلي لسورة النازعات مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tRGkTBOQt2k/default.jpg",
+                        "url": "https://i.ytimg.com/vi/An-YfS4fzns/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tRGkTBOQt2k/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/An-YfS4fzns/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tRGkTBOQt2k/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/An-YfS4fzns/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/tRGkTBOQt2k/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/An-YfS4fzns/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "tRGkTBOQt2k"
+                    "videoId": "An-YfS4fzns"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "tRGkTBOQt2k",
-                "videoPublishedAt": "2021-02-26T17:03:51Z"
+                "videoId": "An-YfS4fzns",
+                "videoPublishedAt": "2019-05-21T22:32:55Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mKSeNdee_F_Ud8SIk1jHi-8sHzA",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "0jk5B7CcspWp2PfLPT4jMlkaeFM",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-02-26T17:00:02Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "78_3 سورة النبأ",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة النازعات الجزء الثالث(3) الشيخ علي هاني العقرباوي(79",
+                "description": "#نور_الهدى_seekershub \nتفسير تحليلي لسورة النازعات مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/73Lfx4fZWPc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/j80JSU5sc1k/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/73Lfx4fZWPc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j80JSU5sc1k/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/73Lfx4fZWPc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j80JSU5sc1k/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/73Lfx4fZWPc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j80JSU5sc1k/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "73Lfx4fZWPc"
+                    "videoId": "j80JSU5sc1k"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "73Lfx4fZWPc",
-                "videoPublishedAt": "2021-02-26T17:04:53Z"
+                "videoId": "j80JSU5sc1k",
+                "videoPublishedAt": "2019-05-21T22:32:49Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jrPL8dpuAyPQ3jebwJoVjcs9B1g",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "7TUTJyJYpDFguZ1PpWJJUZnA5Yk",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
-                "publishedAt": "2021-02-26T17:00:19Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "78_4 سورة النبأ",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة النازعات الجزء الرابع(4) الشيخ علي هاني العقرباوي (79",
+                "description": "#نور_الهدى_seekershub\nتفسير تحليلي لسورة النازعات مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/D0MvPL3QLe8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/_zqArpJ-H9E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/D0MvPL3QLe8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_zqArpJ-H9E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/D0MvPL3QLe8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_zqArpJ-H9E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/D0MvPL3QLe8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_zqArpJ-H9E/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "D0MvPL3QLe8"
+                    "videoId": "_zqArpJ-H9E"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "D0MvPL3QLe8",
-                "videoPublishedAt": "2021-02-26T17:04:17Z"
+                "videoId": "_zqArpJ-H9E",
+                "videoPublishedAt": "2019-05-21T22:32:49Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9SqxYH72PZ2KJ2QmnhD_KdUBY0k",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "fVhtE2hZ7t9iElsc-Cp5RiOU1rg",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
-                "publishedAt": "2021-02-26T17:00:35Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "79_1 سورة النازعات",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة النازعات الجزء الأول (1) الشيخ علي هاني العقرباوي(79",
+                "description": "#نور_الهدى_seekershub \nتفسير تحليلي لسورة النازعات مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/D7luh8MgrEE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EBTltlekkIo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/D7luh8MgrEE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EBTltlekkIo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/D7luh8MgrEE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EBTltlekkIo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/D7luh8MgrEE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EBTltlekkIo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "D7luh8MgrEE"
+                    "videoId": "EBTltlekkIo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "D7luh8MgrEE",
-                "videoPublishedAt": "2021-02-26T17:04:52Z"
+                "videoId": "EBTltlekkIo",
+                "videoPublishedAt": "2019-05-21T22:21:57Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2oHys6dCF39L8RuaUVCIvoiCcPQ",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC45NDk1REZENzhEMzU5MDQz",
+            "etag": "baA7CBfoXSzOQkHYDT8hzZYlOEk",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
-                "publishedAt": "2021-02-26T17:03:43Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "79_2 سورة النازعات",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عبس الجزء الأول(1) الشيخ علي هاني العقرباوي (80",
+                "description": "#نور_الهدى_seekershub\nتفسير تحليلي لسورة عبس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ZHOJln1DcuM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/gpbunu4yd3U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ZHOJln1DcuM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gpbunu4yd3U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ZHOJln1DcuM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gpbunu4yd3U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ZHOJln1DcuM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gpbunu4yd3U/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ZHOJln1DcuM"
+                    "videoId": "gpbunu4yd3U"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ZHOJln1DcuM",
-                "videoPublishedAt": "2021-02-26T17:03:45Z"
+                "videoId": "gpbunu4yd3U",
+                "videoPublishedAt": "2019-05-21T22:32:49Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BNpFl45sReXCOj9xo4n0XHj_LBQ",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC5DQUNERDQ2NkIzRUQxNTY1",
+            "etag": "tmWIBQpCJZZBjPsaZsQfugCmxnY",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
-                "publishedAt": "2021-02-26T17:03:28Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "79_3 سورة النازعات",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عبس الجزء الثالث(3) الشيخ علي هاني العقرباوي(80",
+                "description": "#نور_الهدى_seekershub\nتفسير تحليلي لسورة عبس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/sg44PTHinIY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Sc54tzzdYAc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/sg44PTHinIY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Sc54tzzdYAc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/sg44PTHinIY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Sc54tzzdYAc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/sg44PTHinIY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Sc54tzzdYAc/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "sg44PTHinIY"
+                    "videoId": "Sc54tzzdYAc"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "sg44PTHinIY",
-                "videoPublishedAt": "2021-02-26T17:03:29Z"
+                "videoId": "Sc54tzzdYAc",
+                "videoPublishedAt": "2019-05-21T22:32:49Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KqfcB9VInONelbUf79AFNgw3wk8",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "lEKjAvpMw0RUmnJpjy8oMzvZLCA",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
-                "publishedAt": "2021-02-26T17:03:13Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "79_4 سورة النازعات",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عبس(4) الشيخ علي هاني العقرباوي (80",
+                "description": "#نور_الهدى_seekershub\nتفسير تحليلي لسورة عبس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/1sj0JXHtmNc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/RFcdMpCJci8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/1sj0JXHtmNc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RFcdMpCJci8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/1sj0JXHtmNc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RFcdMpCJci8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/1sj0JXHtmNc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RFcdMpCJci8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "1sj0JXHtmNc"
+                    "videoId": "RFcdMpCJci8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "1sj0JXHtmNc",
-                "videoPublishedAt": "2021-02-26T17:04:55Z"
+                "videoId": "RFcdMpCJci8",
+                "videoPublishedAt": "2019-05-21T22:32:49Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "t22iaOU7lae46fS2K82He7iz5_Q",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "Ng_ai3lwJJvioLQqusdYrKrniuI",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC45NDk1REZENzhEMzU5MDQz",
             "snippet": {
-                "publishedAt": "2021-02-26T17:02:59Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "80_1 سورة عبس",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:26:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عبس الجزء الثاني(2) الشيخ علي هاني العقرباوي (80",
+                "description": "#نور_الهدى_seekershub\nتفسير تحليلي لسورة عبس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/JfzvbV18PHk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/HhahI6Pa-NA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/JfzvbV18PHk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HhahI6Pa-NA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/JfzvbV18PHk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HhahI6Pa-NA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/JfzvbV18PHk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HhahI6Pa-NA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "JfzvbV18PHk"
+                    "videoId": "HhahI6Pa-NA"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "JfzvbV18PHk",
-                "videoPublishedAt": "2021-02-26T17:08:06Z"
+                "videoId": "HhahI6Pa-NA",
+                "videoPublishedAt": "2019-05-21T22:32:49Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6TLNzKz-4qi41i-2WI_70p4okEQ",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC5GNjNDRDREMDQxOThCMDQ2",
+            "etag": "SYpgS2yC_fZ1j-yNw6OLVuC0wRM",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
-                "publishedAt": "2021-02-26T17:04:04Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "80_2 سورة عبس",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:27:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة التكوير الجزء الأول(1) الشيخ علي هاني العقرباوي (81",
+                "description": "#نور_الهدى_seekersguidance\nتفسير تحليلي لسورة التكوير مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Utfnwnol_r4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mBT2Qz8ff7U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Utfnwnol_r4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mBT2Qz8ff7U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Utfnwnol_r4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mBT2Qz8ff7U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Utfnwnol_r4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mBT2Qz8ff7U/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Utfnwnol_r4"
+                    "videoId": "mBT2Qz8ff7U"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Utfnwnol_r4",
-                "videoPublishedAt": "2021-02-26T17:04:05Z"
+                "videoId": "mBT2Qz8ff7U",
+                "videoPublishedAt": "2019-05-21T22:57:38Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Y_X2WRXlVB7IGbVx68MTSJ64Q6k",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC40NzZCMERDMjVEN0RFRThB",
+            "etag": "qt-Oi5TA29Jt_uLz9J69ZKAzmAk",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC40NzZCMERDMjVEN0RFRThB",
             "snippet": {
-                "publishedAt": "2021-02-26T17:04:21Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "80_3 سورة عبس",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:27:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة التكوير الجزء الثاني(2) الشيخ علي هاني العقرباوي (81",
+                "description": "#نور_الهدى_seekersguidance\nتفسير تحليلي لسورة التكوير مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/w_1cTP3vsno/default.jpg",
+                        "url": "https://i.ytimg.com/vi/_Yuo14pgXwk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/w_1cTP3vsno/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_Yuo14pgXwk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/w_1cTP3vsno/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_Yuo14pgXwk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/w_1cTP3vsno/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_Yuo14pgXwk/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "w_1cTP3vsno"
+                    "videoId": "_Yuo14pgXwk"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "w_1cTP3vsno",
-                "videoPublishedAt": "2021-02-26T17:04:22Z"
+                "videoId": "_Yuo14pgXwk",
+                "videoPublishedAt": "2019-05-21T22:57:34Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0HB9MBj5eUxV4USS_9Js-76ekqo",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC5EMEEwRUY5M0RDRTU3NDJC",
+            "etag": "540B_xDo49vVSkykyou9cf5MGqk",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
-                "publishedAt": "2021-02-26T17:04:35Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "80_4 سورة عبس",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:27:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الانفطار الجزء الأول(1) الشيخ علي هاني العقرباوي (82",
+                "description": "تفسير تحليلي لسورة الانفطار مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vwHpWXPAFOk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/HwaubBD6R9s/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vwHpWXPAFOk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HwaubBD6R9s/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vwHpWXPAFOk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HwaubBD6R9s/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/vwHpWXPAFOk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HwaubBD6R9s/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "vwHpWXPAFOk"
+                    "videoId": "HwaubBD6R9s"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "vwHpWXPAFOk",
-                "videoPublishedAt": "2021-02-26T17:04:36Z"
+                "videoId": "HwaubBD6R9s",
+                "videoPublishedAt": "2019-05-21T23:42:20Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lKLlVLtfVnBhBvmzSctgUTD0mEM",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC45ODRDNTg0QjA4NkFBNkQy",
+            "etag": "BhonlXu1DH04g82GSKBz9pmgTSI",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
-                "publishedAt": "2021-02-26T17:04:49Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "81_1 سورة التكوير",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:28:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة المطففين الجزء الثالث(3) الشيخ علي هاني العقرباوي (83",
+                "description": "تفسير تحليلي لسورة المطففين مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ihmk80jcv8Y/default.jpg",
+                        "url": "https://i.ytimg.com/vi/BfMZ6fto978/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ihmk80jcv8Y/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BfMZ6fto978/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ihmk80jcv8Y/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BfMZ6fto978/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ihmk80jcv8Y/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BfMZ6fto978/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ihmk80jcv8Y"
+                    "videoId": "BfMZ6fto978"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ihmk80jcv8Y",
-                "videoPublishedAt": "2021-02-26T17:06:37Z"
+                "videoId": "BfMZ6fto978",
+                "videoPublishedAt": "2019-05-22T14:14:35Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jiVpe0e1-E61KdiR6uL7jsrnuzs",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "kwxKh-vfStvtgTRT5jioL5pF5jE",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
-                "publishedAt": "2021-02-26T17:05:05Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "81_2 سورة التكوير",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:28:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة المطففين الجزء الثاني(2) الشيخ علي هاني العقرباوي (83",
+                "description": "تفسير تحليلي لسورة المطففين مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/T0gQ00bJTos/default.jpg",
+                        "url": "https://i.ytimg.com/vi/JqWre_Lv8u4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/T0gQ00bJTos/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/JqWre_Lv8u4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/T0gQ00bJTos/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/JqWre_Lv8u4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/T0gQ00bJTos/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/JqWre_Lv8u4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "T0gQ00bJTos"
+                    "videoId": "JqWre_Lv8u4"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "T0gQ00bJTos",
-                "videoPublishedAt": "2021-02-26T17:05:39Z"
+                "videoId": "JqWre_Lv8u4",
+                "videoPublishedAt": "2019-05-22T14:13:47Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "51VHkLSfR1-TErPfY5zF5MhkqrI",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC41Mzk2QTAxMTkzNDk4MDhF",
+            "etag": "QcHZHlhkHSPY22T-CzyyMoEiPdU",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
-                "publishedAt": "2021-02-26T17:05:28Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "82_1 سورة الإنفطار",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:28:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الانشقاق الجزء الثاني(2) الشيخ علي هاني العقرباوي (84",
+                "description": "تفسير تحليلي لسورة الانشقاق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lfbHKs4cVW4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/HY5HyI5V2kY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lfbHKs4cVW4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HY5HyI5V2kY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lfbHKs4cVW4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HY5HyI5V2kY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/lfbHKs4cVW4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HY5HyI5V2kY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "lfbHKs4cVW4"
+                    "videoId": "HY5HyI5V2kY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "lfbHKs4cVW4",
-                "videoPublishedAt": "2021-02-26T17:05:29Z"
+                "videoId": "HY5HyI5V2kY",
+                "videoPublishedAt": "2019-05-22T14:33:43Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Gk_yPnODBgcXTQUgVt2K_wTeMCA",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC5EQUE1NTFDRjcwMDg0NEMz",
+            "etag": "KtV3M91Q9fvkA083uiOA7g7GcdI",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
-                "publishedAt": "2021-02-26T17:05:44Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "82_2 سورة الإنفطار",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:28:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الانشقاق  الجزء الأول (1) الشيخ علي هاني العقرباوي (84",
+                "description": "تفسير تحليلي لسورة الانشقاق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5RobAuAiUgI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xTXcVNBwrBE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5RobAuAiUgI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xTXcVNBwrBE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5RobAuAiUgI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xTXcVNBwrBE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/5RobAuAiUgI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xTXcVNBwrBE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "5RobAuAiUgI"
+                    "videoId": "xTXcVNBwrBE"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "5RobAuAiUgI",
-                "videoPublishedAt": "2021-02-26T17:07:19Z"
+                "videoId": "xTXcVNBwrBE",
+                "videoPublishedAt": "2019-05-22T14:30:30Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "f6sYqQgPLkP9t6PcSrdggZ2t_sw",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC41QTY1Q0UxMTVCODczNThE",
+            "etag": "dMCM8qLJX7N4sin9SEZhjKMI_vQ",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC41QTY1Q0UxMTVCODczNThE",
             "snippet": {
-                "publishedAt": "2021-02-26T17:06:06Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "83_1 سورة المطففين",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:29:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة البروج الجزء الثاني (2) الشيخ علي هاني العقرباوي(85",
+                "description": "تفسير تحليلي لسورة البروج مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cjWx4CRVgQ0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/AEK7UXwM6bI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cjWx4CRVgQ0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AEK7UXwM6bI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cjWx4CRVgQ0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AEK7UXwM6bI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/cjWx4CRVgQ0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AEK7UXwM6bI/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/cjWx4CRVgQ0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 16,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "cjWx4CRVgQ0"
+                    "videoId": "AEK7UXwM6bI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "cjWx4CRVgQ0",
-                "videoPublishedAt": "2021-02-26T17:09:51Z"
+                "videoId": "AEK7UXwM6bI",
+                "videoPublishedAt": "2019-02-21T16:56:09Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QzXqp5HgO_GjEGmVGTwmCymtUbo",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4yMUQyQTQzMjRDNzMyQTMy",
+            "etag": "jj5uJ9oOWIF0jbetP3Q6X4fgpAc",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
-                "publishedAt": "2021-02-26T17:06:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "83_2 سورة المطففين",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:30:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الطارق الجزء الثاني(2) الشيخ علي هاني العقرباوي (86",
+                "description": "تفسير تحليلي لسورة الطارق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/TSYCD42C8SY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/luDXmvjiVTo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/TSYCD42C8SY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/luDXmvjiVTo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/TSYCD42C8SY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/luDXmvjiVTo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/TSYCD42C8SY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/luDXmvjiVTo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "TSYCD42C8SY"
+                    "videoId": "luDXmvjiVTo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "TSYCD42C8SY",
-                "videoPublishedAt": "2021-02-26T17:06:36Z"
+                "videoId": "luDXmvjiVTo",
+                "videoPublishedAt": "2019-05-22T15:49:00Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HImoA74N7tAnULXb5YdW-IYT-hc",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC45RTgxNDRBMzUwRjQ0MDhC",
+            "etag": "n6N3-uZoRn5O0evqvOYQ-rzXP00",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
-                "publishedAt": "2021-02-26T17:06:50Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "83_3 سورة المطففين",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:30:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الطارق الجزء الأول(1) الشيخ علي هاني العقرباوي (86",
+                "description": "تفسير تحليلي لسورة الطارق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/28rz29bgG4c/default.jpg",
+                        "url": "https://i.ytimg.com/vi/c-P4YrMawMs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/28rz29bgG4c/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/c-P4YrMawMs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/28rz29bgG4c/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/c-P4YrMawMs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/28rz29bgG4c/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/c-P4YrMawMs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "28rz29bgG4c"
+                    "videoId": "c-P4YrMawMs"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "28rz29bgG4c",
-                "videoPublishedAt": "2021-02-26T17:06:51Z"
+                "videoId": "c-P4YrMawMs",
+                "videoPublishedAt": "2019-05-22T15:49:00Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ye26LNTPeqH0gA9b8Z4Mu1viOaA",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC5ENDU4Q0M4RDExNzM1Mjcy",
+            "etag": "MfBHrzvLt7I4TJV1CKsNft39m-w",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
-                "publishedAt": "2021-02-26T17:07:06Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "84_1 سورة الإنشقاق",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:32:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الانفطار الجزء الثاني (2)الشيخ علي هاني العقرباوي (82",
+                "description": "تفسير تحليلي لسورة الانفطار مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/fdYnU-Un6Qw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kJVQQE_Btyo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/fdYnU-Un6Qw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kJVQQE_Btyo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/fdYnU-Un6Qw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kJVQQE_Btyo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/fdYnU-Un6Qw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kJVQQE_Btyo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "fdYnU-Un6Qw"
+                    "videoId": "kJVQQE_Btyo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "fdYnU-Un6Qw",
-                "videoPublishedAt": "2021-02-26T17:07:07Z"
+                "videoId": "kJVQQE_Btyo",
+                "videoPublishedAt": "2019-05-21T23:49:30Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FrAoQTWVTzs_oNvzFtxHMQvwOL8",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4yMDhBMkNBNjRDMjQxQTg1",
+            "etag": "15CWbBHaBW2RWq_ectxM__ElqDI",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
-                "publishedAt": "2021-02-26T17:07:21Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "84_2 سورة الإنشقاق",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:35:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير المطففين الجزء الأول(1) الشيخ علي هاني العقرباوي (83",
+                "description": "تفسير تحليلي لسورة المطففين مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/mVA54iW1Ecw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kvA0tuSFssw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/mVA54iW1Ecw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kvA0tuSFssw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/mVA54iW1Ecw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kvA0tuSFssw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/mVA54iW1Ecw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kvA0tuSFssw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "mVA54iW1Ecw"
+                    "videoId": "kvA0tuSFssw"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "mVA54iW1Ecw",
-                "videoPublishedAt": "2021-02-26T17:07:22Z"
+                "videoId": "kvA0tuSFssw",
+                "videoPublishedAt": "2019-05-22T14:19:11Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FquJnYtuI8Myizxfu8w0it4bxj0",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC5GM0Q3M0MzMzY5NTJFNTdE",
+            "etag": "6E-7rl-VqReFv71y-4Du4ERX1FI",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
-                "publishedAt": "2021-02-26T17:07:39Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "85_1 سورة البروج",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:39:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عم (النبأ) الجزء الثاني(2) الشيخ علي هاني العقرباوي (78",
+                "description": "تفسير سورة عم مع تفسير النسفي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ewOTltvjpaQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ewOTltvjpaQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ewOTltvjpaQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ewOTltvjpaQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/buFsmRY2RHg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ewOTltvjpaQ"
+                    "videoId": "buFsmRY2RHg"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ewOTltvjpaQ",
-                "videoPublishedAt": "2021-02-26T17:08:44Z"
+                "videoId": "buFsmRY2RHg",
+                "videoPublishedAt": "2019-07-11T21:54:22Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aZaXitMNKtqw20LtBjlR3UKk8Jg",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC4zRjM0MkVCRTg0MkYyQTM0",
+            "etag": "NUPyho9KPYbw5mUOJClF0W_K2RA",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
-                "publishedAt": "2021-02-26T17:07:55Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "85_2 سورة البروج",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:39:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عم (النبأ) الجزء الأول(1) الشيخ علي هاني العقرباوي(78",
+                "description": "تفسير تحليلي لسورة عم (النبأ)مع تفسير النسفي\nتفسير تحليلي لسورة النبأ(عم) مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/XXvY-VgBeSE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/TIfz3OMsdVo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/XXvY-VgBeSE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TIfz3OMsdVo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/XXvY-VgBeSE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TIfz3OMsdVo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/XXvY-VgBeSE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TIfz3OMsdVo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "XXvY-VgBeSE"
+                    "videoId": "TIfz3OMsdVo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "XXvY-VgBeSE",
-                "videoPublishedAt": "2021-02-26T17:07:56Z"
+                "videoId": "TIfz3OMsdVo",
+                "videoPublishedAt": "2019-05-21T21:57:48Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hWlB099pE86pe000rBZ0J65uAqo",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC45NzUwQkI1M0UxNThBMkU0",
+            "etag": "R1R3qvH7pZlvElP-5bPKlr2HdQE",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
-                "publishedAt": "2021-02-26T17:08:19Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "86_1 سورة الطارق",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:39:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عم (النبأ) الجزء الثالث(3) الشيخ علي هاني العقرباوي(78",
+                "description": "تفسير تحليلي لسورة النبأ(عم) مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ax_FbjvWCRA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/isk9xfhKP8A/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ax_FbjvWCRA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/isk9xfhKP8A/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ax_FbjvWCRA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/isk9xfhKP8A/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ax_FbjvWCRA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/isk9xfhKP8A/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ax_FbjvWCRA"
+                    "videoId": "isk9xfhKP8A"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ax_FbjvWCRA",
-                "videoPublishedAt": "2021-02-26T17:09:21Z"
+                "videoId": "isk9xfhKP8A",
+                "videoPublishedAt": "2019-05-21T21:38:56Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4I2taQWMFR_apapY957xn4m-LvA",
-            "id": "UExRM3R1RklZZXVYQ3RYaDNrc3FSaHhDaDRHQzJicENBbC5DNzE1RjZEMUZCMjA0RDBB",
+            "etag": "1RaKkx6EdQdYeNokYjBUmRVdzkw",
+            "id": "UExFRDREai1UNDNyTUg1QzlVXzQ2cEktSUdVcFcydTFNdC5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
-                "publishedAt": "2021-02-26T17:08:35Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "86_2 سورة الطارق",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T18:39:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة عم (النبأ) الجزء الرابع(4) الشيخ علي هاني العقرباوي (78",
+                "description": "تفسير تحليلي لسورة النبأ(عم) مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/LXnWhTXCF6c/default.jpg",
+                        "url": "https://i.ytimg.com/vi/n9iGMYrIlRo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/LXnWhTXCF6c/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/n9iGMYrIlRo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/LXnWhTXCF6c/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/n9iGMYrIlRo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/LXnWhTXCF6c/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/n9iGMYrIlRo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCtXh3ksqRhxCh4GC2bpCAl",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt",
                 "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "LXnWhTXCF6c"
+                    "videoId": "n9iGMYrIlRo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "LXnWhTXCF6c",
-                "videoPublishedAt": "2021-02-26T17:08:36Z"
+                "videoId": "n9iGMYrIlRo",
+                "videoPublishedAt": "2019-05-21T21:38:49Z"
             }
         }
     ],

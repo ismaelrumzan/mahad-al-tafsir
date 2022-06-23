@@ -2,334 +2,324 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "0OwK8Gf9tsnQiJDeAfPETx6sN-Y",
-            "id": "UExRM3R1RklZZXVYQUZYbHk5UWZZU3UtVmlINVlRUlZqai41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "tZnqxmZbWTsnDCwUEac0c4HPxag",
+            "id": "UExFRDREai1UNDNyTllubnpvZHBnZEVXUHB3eUhsTkJnWi41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-02-19T08:55:22Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "58_1 سورة المجادلة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:46:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "58)تفسير سورة المجادلة الجزء الأول(1) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة المجادلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/En9-Zl0MGOo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1pdFXIU16NU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/En9-Zl0MGOo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1pdFXIU16NU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/En9-Zl0MGOo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1pdFXIU16NU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/En9-Zl0MGOo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1pdFXIU16NU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "En9-Zl0MGOo"
+                    "videoId": "1pdFXIU16NU"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "En9-Zl0MGOo",
-                "videoPublishedAt": "2021-02-19T08:59:03Z"
+                "videoId": "1pdFXIU16NU",
+                "videoPublishedAt": "2019-05-24T00:09:31Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "u2GvEK_wcXwOFT_x1kaV3ZymuPY",
-            "id": "UExRM3R1RklZZXVYQUZYbHk5UWZZU3UtVmlINVlRUlZqai4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "zz-JM-ST-H4T3qZ8VewXCRN-JHE",
+            "id": "UExFRDREai1UNDNyTllubnpvZHBnZEVXUHB3eUhsTkJnWi4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-02-19T08:55:40Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "58_2 سورة المجادلة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:46:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "58)تفسير سورة المجادلة الجزء الثاني(2)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة المجادلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/zJseliohpF0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1TFgUdQTkxs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/zJseliohpF0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1TFgUdQTkxs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/zJseliohpF0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1TFgUdQTkxs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/zJseliohpF0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1TFgUdQTkxs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "zJseliohpF0"
+                    "videoId": "1TFgUdQTkxs"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "zJseliohpF0",
-                "videoPublishedAt": "2021-02-19T08:59:18Z"
+                "videoId": "1TFgUdQTkxs",
+                "videoPublishedAt": "2019-05-24T00:09:24Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PdjS-P2yGWsIqQwGMjfcqewXXgA",
-            "id": "UExRM3R1RklZZXVYQUZYbHk5UWZZU3UtVmlINVlRUlZqai4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "izEkVlRLukhd84a0iKb_y9PkLOA",
+            "id": "UExFRDREai1UNDNyTllubnpvZHBnZEVXUHB3eUhsTkJnWi4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-02-19T08:55:56Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "58_3 سورة المجادلة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:46:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "58)تفسير سورة المجادلة الجزء الثالث(3)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة المجادلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rbmwJJpg2H8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/2XJmrS17hWs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rbmwJJpg2H8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2XJmrS17hWs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rbmwJJpg2H8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2XJmrS17hWs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/rbmwJJpg2H8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2XJmrS17hWs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "rbmwJJpg2H8"
+                    "videoId": "2XJmrS17hWs"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "rbmwJJpg2H8",
-                "videoPublishedAt": "2021-02-19T08:57:44Z"
+                "videoId": "2XJmrS17hWs",
+                "videoPublishedAt": "2019-05-24T00:09:17Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5J4BKIO4zcWwHNVUwKqeXBb7y2I",
-            "id": "UExRM3R1RklZZXVYQUZYbHk5UWZZU3UtVmlINVlRUlZqai41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "Gl13Weao11ENeaERyA6PVBMgjMY",
+            "id": "UExFRDREai1UNDNyTllubnpvZHBnZEVXUHB3eUhsTkJnWi41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
-                "publishedAt": "2021-02-19T08:56:10Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "58_4 سورة المجادلة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:46:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "58)تفسير سورة المجادلة الجزء الرابع(4)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة المجادلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_ynfWLbLVHU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xN-8cvlVDSY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_ynfWLbLVHU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xN-8cvlVDSY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_ynfWLbLVHU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xN-8cvlVDSY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/_ynfWLbLVHU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xN-8cvlVDSY/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/_ynfWLbLVHU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "_ynfWLbLVHU"
+                    "videoId": "xN-8cvlVDSY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "_ynfWLbLVHU",
-                "videoPublishedAt": "2021-02-19T08:57:37Z"
+                "videoId": "xN-8cvlVDSY",
+                "videoPublishedAt": "2019-05-24T00:09:10Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JceXqJP1iVSiSadLnPRX_0s8AZc",
-            "id": "UExRM3R1RklZZXVYQUZYbHk5UWZZU3UtVmlINVlRUlZqai4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "k9zWtXuTua_CN2GillyzZiSN6AQ",
+            "id": "UExFRDREai1UNDNyTllubnpvZHBnZEVXUHB3eUhsTkJnWi4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
-                "publishedAt": "2021-02-19T08:56:24Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "58_5 سورة المجادلة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:46:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "58)تفسير سورة المجادلة الجزء الخامس(5) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة المجادلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tBQwzgDy3dA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Ujqyuw54mqo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tBQwzgDy3dA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ujqyuw54mqo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tBQwzgDy3dA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ujqyuw54mqo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/tBQwzgDy3dA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ujqyuw54mqo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "tBQwzgDy3dA"
+                    "videoId": "Ujqyuw54mqo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "tBQwzgDy3dA",
-                "videoPublishedAt": "2021-02-19T08:57:32Z"
+                "videoId": "Ujqyuw54mqo",
+                "videoPublishedAt": "2019-05-24T00:09:04Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "InNaNqYewvsZ8L63jpqQmXio2zM",
-            "id": "UExRM3R1RklZZXVYQUZYbHk5UWZZU3UtVmlINVlRUlZqai4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "lOmrSTuiLy_usZSzt_lscWLMvL4",
+            "id": "UExFRDREai1UNDNyTllubnpvZHBnZEVXUHB3eUhsTkJnWi4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
-                "publishedAt": "2021-02-19T08:56:39Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "58_6 سورة المجادلة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:46:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "58)تفسير سورة المجادلة الجزء السادس(6) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة المجادلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cF1ZC4u1xZ8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-5w8JRc59NA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cF1ZC4u1xZ8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-5w8JRc59NA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cF1ZC4u1xZ8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-5w8JRc59NA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/cF1ZC4u1xZ8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-5w8JRc59NA/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/cF1ZC4u1xZ8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "cF1ZC4u1xZ8"
+                    "videoId": "-5w8JRc59NA"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "cF1ZC4u1xZ8",
-                "videoPublishedAt": "2021-02-19T08:56:40Z"
+                "videoId": "-5w8JRc59NA",
+                "videoPublishedAt": "2019-05-24T00:08:56Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lvl1Pl7f1q-utg-_xNLVgEiIUxo",
-            "id": "UExRM3R1RklZZXVYQUZYbHk5UWZZU3UtVmlINVlRUlZqai41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "ikS1cW8Dr6tSwoxEvFoeQAQlpFs",
+            "id": "UExFRDREai1UNDNyTllubnpvZHBnZEVXUHB3eUhsTkJnWi41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
-                "publishedAt": "2021-02-19T08:56:53Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "58_7 سورة المجادلة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:46:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "58)تفسير سورة المجادلة الجزء السابع(7) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة المجادلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/wphLgQJ6PNo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/a8XiKKA-HUk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/wphLgQJ6PNo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/a8XiKKA-HUk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/wphLgQJ6PNo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/a8XiKKA-HUk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/wphLgQJ6PNo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/a8XiKKA-HUk/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFXly9QfYSu-ViH5YQRVjj",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "wphLgQJ6PNo"
+                    "videoId": "a8XiKKA-HUk"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "wphLgQJ6PNo",
-                "videoPublishedAt": "2021-02-19T08:59:41Z"
+                "videoId": "a8XiKKA-HUk",
+                "videoPublishedAt": "2019-05-24T00:08:50Z"
             }
         }
     ],

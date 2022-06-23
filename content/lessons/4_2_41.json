@@ -2,768 +2,738 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "G_G1dm9ThWJB43ytuNzPTqWqKV8",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "8DH1awT4r7RyMrpl1dyJiZwiths",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-02-13T06:00:17Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_1 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء السادس عشر(16)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء السادس عشر  الشيخ علي هاني العقرباوي (16)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0hyby-5FvN8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wMLtSkdImVs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0hyby-5FvN8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wMLtSkdImVs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0hyby-5FvN8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wMLtSkdImVs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/0hyby-5FvN8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wMLtSkdImVs/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/0hyby-5FvN8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "0hyby-5FvN8"
+                    "videoId": "wMLtSkdImVs"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "0hyby-5FvN8",
-                "videoPublishedAt": "2021-02-13T06:18:23Z"
+                "videoId": "wMLtSkdImVs",
+                "videoPublishedAt": "2019-06-12T20:51:07Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DQYIzlEuF4qnesUCI_yDd_tiMuA",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "73ufKalKs3JdD_9zsAgsXjV5A-I",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-02-13T06:00:33Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_2 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الخامس عشر(15)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الخامس عشر  الشيخ علي هاني العقرباوي (15)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/8vtnTcnB2V8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1G09xulBLFM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/8vtnTcnB2V8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1G09xulBLFM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/8vtnTcnB2V8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1G09xulBLFM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/8vtnTcnB2V8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1G09xulBLFM/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/8vtnTcnB2V8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "8vtnTcnB2V8"
+                    "videoId": "1G09xulBLFM"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "8vtnTcnB2V8",
-                "videoPublishedAt": "2021-02-13T06:00:44Z"
+                "videoId": "1G09xulBLFM",
+                "videoPublishedAt": "2019-06-12T20:50:37Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "i-yA3-7o7S5IgFKLomyaJtfhrX0",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "bMD-VdQngIjCfxUmwmgbfsfUwEs",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-02-13T06:02:41Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_3 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الثالث عشر(13)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الثالث عشر  الشيخ علي هاني العقرباوي (13)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/kYrvT5Y6rPo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/XluXfeGqSV0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/kYrvT5Y6rPo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XluXfeGqSV0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/kYrvT5Y6rPo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XluXfeGqSV0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/kYrvT5Y6rPo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XluXfeGqSV0/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kYrvT5Y6rPo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "kYrvT5Y6rPo"
+                    "videoId": "XluXfeGqSV0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "kYrvT5Y6rPo",
-                "videoPublishedAt": "2021-02-13T06:05:40Z"
+                "videoId": "XluXfeGqSV0",
+                "videoPublishedAt": "2019-06-12T20:45:12Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GdtCgBBsyDsLJRKqxAmNSQEqGuw",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "089UVK2M9MY8oIQtbROsuD1JOc4",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
-                "publishedAt": "2021-02-13T06:02:56Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_4 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الرابع(4) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الرابع الشيخ علي هاني العقرباوي (4)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Q-7mM_3Obmw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rFltUuanazs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Q-7mM_3Obmw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rFltUuanazs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Q-7mM_3Obmw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rFltUuanazs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Q-7mM_3Obmw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rFltUuanazs/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Q-7mM_3Obmw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Q-7mM_3Obmw"
+                    "videoId": "rFltUuanazs"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Q-7mM_3Obmw",
-                "videoPublishedAt": "2021-02-13T06:05:05Z"
+                "videoId": "rFltUuanazs",
+                "videoPublishedAt": "2019-06-12T20:40:28Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "q8j9cJP3iZKD13HSyLsdIoA1qF4",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "cNxn9ZwETXJuwQLQ8EOJ_JsYPjQ",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
-                "publishedAt": "2021-02-13T06:03:10Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_5 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الثاني عشر(12)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الثاني عشر  الشيخ علي هاني العقرباوي (12)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/NmPMJLJ8GJQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bUapbGCZUU8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/NmPMJLJ8GJQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bUapbGCZUU8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/NmPMJLJ8GJQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bUapbGCZUU8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/NmPMJLJ8GJQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bUapbGCZUU8/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/NmPMJLJ8GJQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "NmPMJLJ8GJQ"
+                    "videoId": "bUapbGCZUU8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "NmPMJLJ8GJQ",
-                "videoPublishedAt": "2021-02-13T06:04:41Z"
+                "videoId": "bUapbGCZUU8",
+                "videoPublishedAt": "2019-06-12T20:40:15Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ca5dFF2Zmc3Xml5-6Q74bUKfw_c",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "mZW1DQUZEE4i2OS7w5Zpc6NzCiA",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
-                "publishedAt": "2021-02-13T06:03:24Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_6 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الرابع عشر(14)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الرابع عشر  الشيخ علي هاني العقرباوي (14\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_nE_qu_dRJg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/I6G0haGO22U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_nE_qu_dRJg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I6G0haGO22U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_nE_qu_dRJg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I6G0haGO22U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/_nE_qu_dRJg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I6G0haGO22U/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "_nE_qu_dRJg"
+                    "videoId": "I6G0haGO22U"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "_nE_qu_dRJg",
-                "videoPublishedAt": "2021-02-13T06:03:25Z"
+                "videoId": "I6G0haGO22U",
+                "videoPublishedAt": "2019-06-12T20:39:40Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "UQ-NCrJdz0Vm7McLlNHT57WjF6w",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "97OGVuRmbrbgkXFGxJi8vpIdiAU",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
-                "publishedAt": "2021-02-13T06:03:37Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_7 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء العاشر(10) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء العاشر الشيخ علي هاني العقرباوي (10)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/OSNZJRsQ90Q/default.jpg",
+                        "url": "https://i.ytimg.com/vi/32uk0cwbNTY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/OSNZJRsQ90Q/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/32uk0cwbNTY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/OSNZJRsQ90Q/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/32uk0cwbNTY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/OSNZJRsQ90Q/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/32uk0cwbNTY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "OSNZJRsQ90Q"
+                    "videoId": "32uk0cwbNTY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "OSNZJRsQ90Q",
-                "videoPublishedAt": "2021-02-13T06:03:38Z"
+                "videoId": "32uk0cwbNTY",
+                "videoPublishedAt": "2019-06-12T20:39:18Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4ClSNa16N0qRk42QWQhZEB9Y7io",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy5DQUNERDQ2NkIzRUQxNTY1",
+            "etag": "d9AjP5gH98Thw01SqQJp8q7Q5p0",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
-                "publishedAt": "2021-02-13T06:03:50Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_8 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء التاسع(9) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء التاسع الشيخ علي هاني العقرباوي (9)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/NuqohVyfdaU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/vyTdx3Ld6aY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/NuqohVyfdaU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vyTdx3Ld6aY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/NuqohVyfdaU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vyTdx3Ld6aY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/NuqohVyfdaU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vyTdx3Ld6aY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "NuqohVyfdaU"
+                    "videoId": "vyTdx3Ld6aY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "NuqohVyfdaU",
-                "videoPublishedAt": "2021-02-13T06:03:51Z"
+                "videoId": "vyTdx3Ld6aY",
+                "videoPublishedAt": "2019-06-12T20:36:54Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QRjmXtzbNatqYWC9wM7AxMtgzWc",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy45NDk1REZENzhEMzU5MDQz",
+            "etag": "C2Y_Hdwyaf7L0FI_vIxNVUVB0bQ",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS45NDk1REZENzhEMzU5MDQz",
             "snippet": {
-                "publishedAt": "2021-02-13T06:04:06Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_9 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الثالث(3) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الثالث الشيخ علي هاني العقرباوي (3)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/G0rzfjzTI5Y/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rClZqUw1kuY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/G0rzfjzTI5Y/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rClZqUw1kuY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/G0rzfjzTI5Y/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rClZqUw1kuY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/G0rzfjzTI5Y/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rClZqUw1kuY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "G0rzfjzTI5Y"
+                    "videoId": "rClZqUw1kuY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "G0rzfjzTI5Y",
-                "videoPublishedAt": "2021-02-13T06:04:07Z"
+                "videoId": "rClZqUw1kuY",
+                "videoPublishedAt": "2019-06-12T20:36:50Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AAzUz6NhNao5jTNiGCnlDryB2Eg",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy5GNjNDRDREMDQxOThCMDQ2",
+            "etag": "tan5hvRsbzBrcxQMk5hNEwTJ5Tg",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
-                "publishedAt": "2021-02-13T06:04:18Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_10 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الحادي عشر(11)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الحادي عشر  الشيخ علي هاني العقرباوي (11)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/oS64G1mxLyM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/A0fieJBTcH0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/oS64G1mxLyM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/A0fieJBTcH0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/oS64G1mxLyM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/A0fieJBTcH0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/oS64G1mxLyM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/A0fieJBTcH0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "oS64G1mxLyM"
+                    "videoId": "A0fieJBTcH0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "oS64G1mxLyM",
-                "videoPublishedAt": "2021-02-13T06:10:37Z"
+                "videoId": "A0fieJBTcH0",
+                "videoPublishedAt": "2019-06-12T20:36:04Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dugIwvXTcvX_mFFEVA5jIKcK7fE",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy40NzZCMERDMjVEN0RFRThB",
+            "etag": "1mpnjJKdcuTdbtk21CENOr4FO0Y",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS40NzZCMERDMjVEN0RFRThB",
             "snippet": {
-                "publishedAt": "2021-02-13T06:04:34Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_11 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الخامس(5) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الخامس الشيخ علي هاني العقرباوي (5)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2Q28cdOeZZU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/pTCpsR8W18k/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2Q28cdOeZZU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pTCpsR8W18k/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2Q28cdOeZZU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pTCpsR8W18k/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/2Q28cdOeZZU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pTCpsR8W18k/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "2Q28cdOeZZU"
+                    "videoId": "pTCpsR8W18k"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "2Q28cdOeZZU",
-                "videoPublishedAt": "2021-02-13T06:04:35Z"
+                "videoId": "pTCpsR8W18k",
+                "videoPublishedAt": "2019-06-12T20:35:00Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bPQ9kHFJE8zYqSBrPgqIZBP_PGA",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy5EMEEwRUY5M0RDRTU3NDJC",
+            "etag": "PmYUSLCrVfgyCLYCH1rrOrAavuU",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
-                "publishedAt": "2021-02-13T06:04:49Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_12 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الثامن(8) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الثامن الشيخ علي هاني العقرباوي (8)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/mCvjD-n6oFE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/x6w8en4CWNc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/mCvjD-n6oFE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/x6w8en4CWNc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/mCvjD-n6oFE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/x6w8en4CWNc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/mCvjD-n6oFE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/x6w8en4CWNc/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "mCvjD-n6oFE"
+                    "videoId": "x6w8en4CWNc"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "mCvjD-n6oFE",
-                "videoPublishedAt": "2021-02-13T06:05:49Z"
+                "videoId": "x6w8en4CWNc",
+                "videoPublishedAt": "2019-06-12T20:34:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ICTt9VFFdvY4480jUlts-CRxOyA",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy45ODRDNTg0QjA4NkFBNkQy",
+            "etag": "jCN5YuvM37fffvpk1lBpyxF66Io",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
-                "publishedAt": "2021-02-13T06:05:03Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_13 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء السادس(6) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء السادس الشيخ علي هاني العقرباوي (6)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/QIPIUk9QnZM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/I-EUyHZzSqI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/QIPIUk9QnZM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I-EUyHZzSqI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/QIPIUk9QnZM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I-EUyHZzSqI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/QIPIUk9QnZM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I-EUyHZzSqI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "QIPIUk9QnZM"
+                    "videoId": "I-EUyHZzSqI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "QIPIUk9QnZM",
-                "videoPublishedAt": "2021-02-13T06:06:10Z"
+                "videoId": "I-EUyHZzSqI",
+                "videoPublishedAt": "2019-06-12T20:33:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NVW0W6vA999lDt9JMv8hjCbMGn8",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "rHzHYRmZ21X9Ei7PGWO7127LWqk",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
-                "publishedAt": "2021-02-13T06:05:17Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_14 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء السابع(7) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء السابع الشيخ علي هاني العقرباوي (7)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Oh0-Dbd6YIU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/DKUDNlBb_G4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Oh0-Dbd6YIU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DKUDNlBb_G4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Oh0-Dbd6YIU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DKUDNlBb_G4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Oh0-Dbd6YIU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DKUDNlBb_G4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Oh0-Dbd6YIU"
+                    "videoId": "DKUDNlBb_G4"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Oh0-Dbd6YIU",
-                "videoPublishedAt": "2021-02-13T06:05:18Z"
+                "videoId": "DKUDNlBb_G4",
+                "videoPublishedAt": "2019-06-12T20:32:24Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NBmJX7PXDUYkf8BxmmIhFMCtCj0",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy41Mzk2QTAxMTkzNDk4MDhF",
+            "etag": "0UBa0mub_pzMum3OhrV9F2-afjs",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
-                "publishedAt": "2021-02-13T06:05:32Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_15 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الأول(1) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الأول الشيخ علي هاني العقرباوي (1)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/XFIQFAGr_x0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/NWhf2OE7Rxo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/XFIQFAGr_x0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NWhf2OE7Rxo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/XFIQFAGr_x0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NWhf2OE7Rxo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/XFIQFAGr_x0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NWhf2OE7Rxo/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/XFIQFAGr_x0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "XFIQFAGr_x0"
+                    "videoId": "NWhf2OE7Rxo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "XFIQFAGr_x0",
-                "videoPublishedAt": "2021-02-13T06:05:33Z"
+                "videoId": "NWhf2OE7Rxo",
+                "videoPublishedAt": "2019-06-12T20:29:12Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "d00uqHUQ90CUHYQzAHy4u2STpDo",
-            "id": "UExRM3R1RklZZXVYQXZLYzhoVVR3aGY5dTdGdnF3RG81Xy5EQUE1NTFDRjcwMDg0NEMz",
+            "etag": "sh3G4wvb80z-rVKXI7qUAJFF8iY",
+            "id": "UExFRDREai1UNDNyTjFqSWRWek9VQ3JnZl96ZmtJanZBeS5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
-                "publishedAt": "2021-02-13T06:06:12Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "41_16 سورة فصلت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:48:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "41)تفسير سورة فصلت الجزء الثاني(2) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة فصلت الجزء الثاني الشيخ علي هاني العقرباوي (2)\nتفسير سورة   فصلت مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2_u5NqJVY8M/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WPuDA2SiQJg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2_u5NqJVY8M/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WPuDA2SiQJg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2_u5NqJVY8M/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WPuDA2SiQJg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/2_u5NqJVY8M/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WPuDA2SiQJg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAvKc8hUTwhf9u7FvqwDo5_",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy",
                 "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "2_u5NqJVY8M"
+                    "videoId": "WPuDA2SiQJg"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "2_u5NqJVY8M",
-                "videoPublishedAt": "2021-02-13T06:11:07Z"
+                "videoId": "WPuDA2SiQJg",
+                "videoPublishedAt": "2019-06-12T20:25:08Z"
             }
         }
     ],
