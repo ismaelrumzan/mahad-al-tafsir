@@ -68,18 +68,6 @@ export default function VideoList({ children, data = {} }) {
             defaultValue={{ label: `${data.items[itemIndex].snippet.title}`, value: 0 }}
           />
         </div>
-        <div className={styles.faContainer}>
-          <FontAwesomeIcon
-            size="2x"
-            icon={faCaretRight}
-            onClick={() => changeItemNav(data.items[itemIndex], 'forward')}
-          />
-          <FontAwesomeIcon
-            size="2x"
-            icon={faCaretLeft}
-            onClick={() => changeItemNav(data.items[itemIndex], 'back')}
-          />
-        </div>
       </div>
       <div className={styles.vidContainer}>
         {children}
