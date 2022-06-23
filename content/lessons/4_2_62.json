@@ -2,140 +2,140 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "W9AJj8BGDwdpLX8URVtGfyiO3KI",
-            "id": "UExRM3R1RklZZXVYQUZQNzgyOXZMeFZTMHY1dUV2dl9YMC41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "r-6OMXhZf0Pvai9Lh_jxjk4YXEg",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-02-26T09:25:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "62_1 سورة الجمعة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:53:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "62)تفسير سورة الجمعة الجزء الثالث(3)الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Y0I4mA4JZuI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Y0I4mA4JZuI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Y0I4mA4JZuI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Y0I4mA4JZuI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFP7829vLxVS0v5uEvv_X0",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPVbqXN49Lca275otj_S-f1",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Y0I4mA4JZuI"
+                    "videoId": "CAlEg7bRgq8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Y0I4mA4JZuI",
-                "videoPublishedAt": "2021-02-26T09:31:15Z"
+                "videoId": "CAlEg7bRgq8",
+                "videoPublishedAt": "2019-05-24T02:26:29Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "f-R9zbMRIjPBtUUhmMbmx8Lxne8",
-            "id": "UExRM3R1RklZZXVYQUZQNzgyOXZMeFZTMHY1dUV2dl9YMC4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "3woyLb_4YJlsZrLrHQy-YU9rqCI",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-02-26T09:25:53Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "62_2 سورة الجمعة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:53:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "62)تفسير سورة الجمعة الجزء الثاني(2) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Scqa3gR56LY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Scqa3gR56LY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Scqa3gR56LY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Scqa3gR56LY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFP7829vLxVS0v5uEvv_X0",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPVbqXN49Lca275otj_S-f1",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Scqa3gR56LY"
+                    "videoId": "qgu4IUk3S8M"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Scqa3gR56LY",
-                "videoPublishedAt": "2021-02-26T09:26:11Z"
+                "videoId": "qgu4IUk3S8M",
+                "videoPublishedAt": "2019-05-24T02:23:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XOdQoZykUhJv3K8eeKafWGVo3uM",
-            "id": "UExRM3R1RklZZXVYQUZQNzgyOXZMeFZTMHY1dUV2dl9YMC4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "UD3T0vPkXb6ZZZjqI0h17e4uJ6o",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-02-26T09:26:10Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "62_3 سورة الجمعة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T17:53:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "62)تفسير سورة الجمعة(1) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lqVccPMpnCM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lqVccPMpnCM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lqVccPMpnCM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/lqVccPMpnCM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXAFP7829vLxVS0v5uEvv_X0",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPVbqXN49Lca275otj_S-f1",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "lqVccPMpnCM"
+                    "videoId": "S10Yq-go5Lg"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "lqVccPMpnCM",
-                "videoPublishedAt": "2021-02-26T09:27:53Z"
+                "videoId": "S10Yq-go5Lg",
+                "videoPublishedAt": "2019-05-24T02:22:32Z"
             }
         }
     ],

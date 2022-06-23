@@ -2,968 +2,968 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "iDfRgiSwyIK9VulRjGyVFNvJdsk",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "T2pFpthRwm8S70Nqfaawv2Vvl2s",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-01-25T04:40:01Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.1 أركان التشبيه وأقسامه",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:35:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 1) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "1 أركان التشبيه وأقسامه\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/t_4fGbleE9w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KHL3Dr9UBSI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/t_4fGbleE9w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KHL3Dr9UBSI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/t_4fGbleE9w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KHL3Dr9UBSI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/t_4fGbleE9w/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KHL3Dr9UBSI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "t_4fGbleE9w"
+                    "videoId": "KHL3Dr9UBSI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "t_4fGbleE9w",
-                "videoPublishedAt": "2021-01-25T04:40:01Z"
+                "videoId": "KHL3Dr9UBSI",
+                "videoPublishedAt": "2019-10-27T17:35:07Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "smFcNjdtXR5KOqVNTKqojHKIWc0",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "58YDzzsfYH9d-qX7I81wbCgXeyU",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-01-25T04:40:40Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.2 أقسام التشبيه مرسل، مؤكد، مجمل ، مفصل، تمثيلي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:35:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (2 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "2أقسام التشبيه مرسل، مؤكد، مجمل ، مفصل، تمثيلي\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6EwZitawp-0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KFFWNfaNH9c/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6EwZitawp-0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KFFWNfaNH9c/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6EwZitawp-0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KFFWNfaNH9c/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/6EwZitawp-0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KFFWNfaNH9c/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "6EwZitawp-0"
+                    "videoId": "KFFWNfaNH9c"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "6EwZitawp-0",
-                "videoPublishedAt": "2021-01-25T04:40:42Z"
+                "videoId": "KFFWNfaNH9c",
+                "videoPublishedAt": "2019-10-27T17:36:46Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MN3iLo55yibBdL8IpAVLcB1nlNE",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "HUdm5TQ8MXoqhLk9QuKb-c9dR8U",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-01-25T04:40:54Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.3 التشبيه التمثيلي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:35:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (3 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "3 التشبيه التمثيلي\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/KZeMrwvezEY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3WNAf1PhkVo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/KZeMrwvezEY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3WNAf1PhkVo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/KZeMrwvezEY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3WNAf1PhkVo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/KZeMrwvezEY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3WNAf1PhkVo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "KZeMrwvezEY"
+                    "videoId": "3WNAf1PhkVo"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "KZeMrwvezEY",
-                "videoPublishedAt": "2021-01-25T04:40:55Z"
+                "videoId": "3WNAf1PhkVo",
+                "videoPublishedAt": "2019-10-27T17:36:32Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AxCXgV1x4rp76_gK5Jl-eXYqI74",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "zoUE2derb1KAAAYIgLD5_-wN8MY",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
-                "publishedAt": "2021-01-25T04:41:05Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.4 الحقيقة والمجاز والاستعارات",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:35:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 4) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "4 الحقيقة والمجاز والاستعارات\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/w8RN-xaLLjE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Dvoq2QOeW9I/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/w8RN-xaLLjE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Dvoq2QOeW9I/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/w8RN-xaLLjE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Dvoq2QOeW9I/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/w8RN-xaLLjE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Dvoq2QOeW9I/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "w8RN-xaLLjE"
+                    "videoId": "Dvoq2QOeW9I"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "w8RN-xaLLjE",
-                "videoPublishedAt": "2021-01-25T04:41:06Z"
+                "videoId": "Dvoq2QOeW9I",
+                "videoPublishedAt": "2019-10-27T17:37:47Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lWzHvGN3Bb1GOwb5tO8Zq4vcQ7w",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "q7FGvdNq-lHbl0orl9TT1UU_QJE",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
-                "publishedAt": "2021-01-25T04:41:20Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.5 الاستعارة التصريحية والأصلية",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:35:28Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 5) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "5 الاستعارة التصريحية والأصلية\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/w8BB-S7B_AM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-H8LOcDvQv0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/w8BB-S7B_AM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-H8LOcDvQv0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/w8BB-S7B_AM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-H8LOcDvQv0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/w8BB-S7B_AM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-H8LOcDvQv0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "w8BB-S7B_AM"
+                    "videoId": "-H8LOcDvQv0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "w8BB-S7B_AM",
-                "videoPublishedAt": "2021-01-25T04:41:21Z"
+                "videoId": "-H8LOcDvQv0",
+                "videoPublishedAt": "2019-10-27T17:40:19Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DTLpHV7T7mi0uOrietW_a2WncyE",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "79JSxrS71Cdpww0ayvGcR00hXY4",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
-                "publishedAt": "2021-01-25T04:41:34Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.6 الاستعارة المرشحة والمجردة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:40:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (6 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "6 الاستعارة المرشحة والمجردة\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/dWGjOOunwIk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/9kRkDqLMpuk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/dWGjOOunwIk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9kRkDqLMpuk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/dWGjOOunwIk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9kRkDqLMpuk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/dWGjOOunwIk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9kRkDqLMpuk/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "dWGjOOunwIk"
+                    "videoId": "9kRkDqLMpuk"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "dWGjOOunwIk",
-                "videoPublishedAt": "2021-01-25T04:41:35Z"
+                "videoId": "9kRkDqLMpuk",
+                "videoPublishedAt": "2019-10-27T17:40:51Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8kyaG2NcjsZCK4wFpiREVRwo7a0",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "SARn5kEpCXaubuj1DHg8LQo1MfQ",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
-                "publishedAt": "2021-01-25T04:41:47Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.7 تدريبات على الاستعارة من القرآن الكريم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:40:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (7 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "7 تدريبات على الاستعارة من القرآن الكريم\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/t3fKvA045qA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/yq_XoPdOpwg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/t3fKvA045qA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yq_XoPdOpwg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/t3fKvA045qA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yq_XoPdOpwg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/t3fKvA045qA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yq_XoPdOpwg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "t3fKvA045qA"
+                    "videoId": "yq_XoPdOpwg"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "t3fKvA045qA",
-                "videoPublishedAt": "2021-01-25T04:41:48Z"
+                "videoId": "yq_XoPdOpwg",
+                "videoPublishedAt": "2019-10-27T17:43:01Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "89H22pMx7Z0oJvEL0Kz6jMka5Io",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC5DQUNERDQ2NkIzRUQxNTY1",
+            "etag": "Q6WIEt5wCMvX-J-N1RGNPn5ZK3w",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
-                "publishedAt": "2021-01-25T04:41:59Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.8 تدريبات على الاستعارة من القرآن الكريم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:40:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (8 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "8 تدريبات على الاستعارة من القرآن الكريم\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ITYmRAbHPTw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7PMr6Zp8MiA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ITYmRAbHPTw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7PMr6Zp8MiA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ITYmRAbHPTw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7PMr6Zp8MiA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ITYmRAbHPTw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7PMr6Zp8MiA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ITYmRAbHPTw"
+                    "videoId": "7PMr6Zp8MiA"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ITYmRAbHPTw",
-                "videoPublishedAt": "2021-01-25T04:42:00Z"
+                "videoId": "7PMr6Zp8MiA",
+                "videoPublishedAt": "2019-10-27T17:42:02Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "c82SUqz56lXNs9n37uVGBqUC1VQ",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC45NDk1REZENzhEMzU5MDQz",
+            "etag": "kE0V5ATp1UiVKxmFbwMkTVVK-W8",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS45NDk1REZENzhEMzU5MDQz",
             "snippet": {
-                "publishedAt": "2021-01-25T04:42:12Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.9 تدريبات على الاستعارة والتشبيه من القرآن الكريم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:40:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 9) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "9 تدريبات على الاستعارة والتشبيه من القرآن الكريم\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/N3darumjIVs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rPXsYCGgnw8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/N3darumjIVs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rPXsYCGgnw8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/N3darumjIVs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rPXsYCGgnw8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/N3darumjIVs/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rPXsYCGgnw8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "N3darumjIVs"
+                    "videoId": "rPXsYCGgnw8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "N3darumjIVs",
-                "videoPublishedAt": "2021-01-25T04:42:13Z"
+                "videoId": "rPXsYCGgnw8",
+                "videoPublishedAt": "2019-10-27T17:44:09Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0T2PevQVUljrKpjO7c14OlEG_dU",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC5GNjNDRDREMDQxOThCMDQ2",
+            "etag": "qPjF1PAQgurgpa7PDfbmX0JJtu4",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
-                "publishedAt": "2021-01-25T04:42:23Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.10 تدريبات على الاستعارة والتشبيه والمجاز المرسل من القرآن الكريم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T17:40:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (10 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "10 تدريبات على الاستعارة والتشبيه والمجاز المرسل من القرآن الكريم\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/qhjcm0GAR1k/default.jpg",
+                        "url": "https://i.ytimg.com/vi/LhVXRs0UY30/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/qhjcm0GAR1k/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LhVXRs0UY30/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/qhjcm0GAR1k/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LhVXRs0UY30/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/qhjcm0GAR1k/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LhVXRs0UY30/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "qhjcm0GAR1k"
+                    "videoId": "LhVXRs0UY30"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "qhjcm0GAR1k",
-                "videoPublishedAt": "2021-01-25T04:42:24Z"
+                "videoId": "LhVXRs0UY30",
+                "videoPublishedAt": "2019-10-27T17:45:26Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TVeXUgzmp-LqRC4iSJHno2tGFuY",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC40NzZCMERDMjVEN0RFRThB",
+            "etag": "4vPxKjy6Hl2yYPGGv6GlGDNZAgg",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS40NzZCMERDMjVEN0RFRThB",
             "snippet": {
-                "publishedAt": "2021-01-25T04:42:35Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.11 تدريبات على الاستعارة والتشبيه والمجاز المرسل في القرآن الكريم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:16:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (11 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "11 تدريبات على الاستعارة والتشبيه والمجاز المرسل في القرآن الكريم\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/stHD0dndFGc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/6lrH_HGkSu0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/stHD0dndFGc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6lrH_HGkSu0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/stHD0dndFGc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6lrH_HGkSu0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/stHD0dndFGc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6lrH_HGkSu0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "stHD0dndFGc"
+                    "videoId": "6lrH_HGkSu0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "stHD0dndFGc",
-                "videoPublishedAt": "2021-01-25T04:42:36Z"
+                "videoId": "6lrH_HGkSu0",
+                "videoPublishedAt": "2019-10-27T20:16:24Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KbJeYl2ACirZgug6d9wURZA883E",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC5EMEEwRUY5M0RDRTU3NDJC",
+            "etag": "4NHV3oAaMWb8Ot07AgsrcEM2EyE",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
-                "publishedAt": "2021-01-25T04:42:46Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.12 تدريبات على المجاز المرسل والعقلي والاستعارة من القرآن الكريم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:17:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (12 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "12 تدريبات على المجاز المرسل والعقلي والاستعارة من القرآن الكريم\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/PfM5j70ObQ8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/w2rPWiy395E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/PfM5j70ObQ8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/w2rPWiy395E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/PfM5j70ObQ8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/w2rPWiy395E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/PfM5j70ObQ8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/w2rPWiy395E/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "PfM5j70ObQ8"
+                    "videoId": "w2rPWiy395E"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "PfM5j70ObQ8",
-                "videoPublishedAt": "2021-01-25T04:42:47Z"
+                "videoId": "w2rPWiy395E",
+                "videoPublishedAt": "2019-10-27T20:19:01Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vx7H_QDfooBN5TsS1mFYPp5yBSs",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC45ODRDNTg0QjA4NkFBNkQy",
+            "etag": "S2HT9N80SJJ8yIWOP0AGPVdYdl4",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
-                "publishedAt": "2021-01-25T04:42:57Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.13 {البلاغة في قوله تعالى {أحل لكم ليلة الصيام",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:16:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 13) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "13 {البلاغة في قوله تعالى {أحل لكم ليلة الصيام}\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/qzkTam-TrBQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/gEta77ZDX7U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/qzkTam-TrBQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gEta77ZDX7U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/qzkTam-TrBQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gEta77ZDX7U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/qzkTam-TrBQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gEta77ZDX7U/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "qzkTam-TrBQ"
+                    "videoId": "gEta77ZDX7U"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "qzkTam-TrBQ",
-                "videoPublishedAt": "2021-01-25T04:42:58Z"
+                "videoId": "gEta77ZDX7U",
+                "videoPublishedAt": "2019-10-27T20:22:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Rc7IIY9MH7Bb8Ihb1qqP9TU3OXw",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "Ai_JukurQ71t_TkM_ekGI3rrCOY",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
-                "publishedAt": "2021-01-25T04:43:09Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.14 الاستعارة في قوله تعالى {أشربوا في قلوبهم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:18:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 14) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "14 الاستعارة في قوله تعالى {أشربوا في قلوبهم}\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_hxDvMtOIuQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wwv-DSwQ5uk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_hxDvMtOIuQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wwv-DSwQ5uk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_hxDvMtOIuQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wwv-DSwQ5uk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/_hxDvMtOIuQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wwv-DSwQ5uk/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "_hxDvMtOIuQ"
+                    "videoId": "wwv-DSwQ5uk"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "_hxDvMtOIuQ",
-                "videoPublishedAt": "2021-01-25T04:43:09Z"
+                "videoId": "wwv-DSwQ5uk",
+                "videoPublishedAt": "2019-10-27T20:21:38Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JqPCFoLWpDD5MqFwL_jyaMdta0g",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC41Mzk2QTAxMTkzNDk4MDhF",
+            "etag": "p0NsbYPp-S3GmPix9UFHHJGGOzw",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
-                "publishedAt": "2021-01-25T04:43:21Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.15 أقوال العلماء في الاستعارة في {يقيمون الصلاة}",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:18:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 15) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "15 أقوال العلماء في الاستعارة في {يقيمون الصلاة}\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/h-pG2C4QrYU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/VtpgHJ8U5_0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/h-pG2C4QrYU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VtpgHJ8U5_0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/h-pG2C4QrYU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VtpgHJ8U5_0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/h-pG2C4QrYU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VtpgHJ8U5_0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "h-pG2C4QrYU"
+                    "videoId": "VtpgHJ8U5_0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "h-pG2C4QrYU",
-                "videoPublishedAt": "2021-01-25T04:43:22Z"
+                "videoId": "VtpgHJ8U5_0",
+                "videoPublishedAt": "2019-10-27T20:22:07Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1nWw1K4_37QO6JtzJy_7sfE4yhM",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC5EQUE1NTFDRjcwMDg0NEMz",
+            "etag": "KZhJTDmw558K_smIM1YTK2qoK8s",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
-                "publishedAt": "2021-01-25T04:43:32Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.16 {التشبيه في قوله تعالى {كأنهم خشب مسندة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:18:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 16) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "16 {التشبيه في قوله تعالى {كأنهم خشب مسندة}\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/NaIOfUfIZ7s/default.jpg",
+                        "url": "https://i.ytimg.com/vi/qopAM0QSJi4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/NaIOfUfIZ7s/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qopAM0QSJi4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/NaIOfUfIZ7s/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qopAM0QSJi4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/NaIOfUfIZ7s/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qopAM0QSJi4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "NaIOfUfIZ7s"
+                    "videoId": "qopAM0QSJi4"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "NaIOfUfIZ7s",
-                "videoPublishedAt": "2021-01-25T04:43:33Z"
+                "videoId": "qopAM0QSJi4",
+                "videoPublishedAt": "2019-10-27T20:25:48Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "UqwCbguHajmhW4sAtlX6pZnyrGQ",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC41QTY1Q0UxMTVCODczNThE",
+            "etag": "oHjCV060F--cL9gPiv4ht7a9j60",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS41QTY1Q0UxMTVCODczNThE",
             "snippet": {
-                "publishedAt": "2021-01-25T04:43:44Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.17 {التشبيه والاستعارات في {مثل الذين بربهم أعمالهم}{من ورائه جهنم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:19:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 17) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "17 {التشبيه والاستعارات في {مثل الذين بربهم أعمالهم}{من ورائه جهنم}\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/c9ueqT1mduc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/B_d7gHa2lmE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/c9ueqT1mduc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/B_d7gHa2lmE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/c9ueqT1mduc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/B_d7gHa2lmE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/c9ueqT1mduc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/B_d7gHa2lmE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 16,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "c9ueqT1mduc"
+                    "videoId": "B_d7gHa2lmE"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "c9ueqT1mduc",
-                "videoPublishedAt": "2021-01-25T04:43:45Z"
+                "videoId": "B_d7gHa2lmE",
+                "videoPublishedAt": "2019-10-27T20:24:07Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "taChdkK4PbMJCfmMzDbCfreXpHY",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC4yMUQyQTQzMjRDNzMyQTMy",
+            "etag": "HFqiprKVrFfjd1ZH2VtIz-DMP5A",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
-                "publishedAt": "2021-01-25T04:43:56Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.18} {البلاغة في {كلا إنها كلمة هو قائلها}{ربنا أفرغ علينا صبرا",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:20:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (18 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "18} {البلاغة في {كلا إنها كلمة هو قائلها}{ربنا أفرغ علينا صبرا}\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jBgkBeXA7PM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lDuDQ9cY7Gc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jBgkBeXA7PM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lDuDQ9cY7Gc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jBgkBeXA7PM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lDuDQ9cY7Gc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/jBgkBeXA7PM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lDuDQ9cY7Gc/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "jBgkBeXA7PM"
+                    "videoId": "lDuDQ9cY7Gc"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "jBgkBeXA7PM",
-                "videoPublishedAt": "2021-01-25T04:43:56Z"
+                "videoId": "lDuDQ9cY7Gc",
+                "videoPublishedAt": "2019-10-27T20:28:15Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yYxQJ48xJ7TnZAT8swFWcInm3xs",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC45RTgxNDRBMzUwRjQ0MDhC",
+            "etag": "8SvtgzT6uXetDwXLxVpKa_OEHsQ",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
-                "publishedAt": "2021-01-25T04:44:15Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.19 {البلاغة في {صبغة الله",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:21:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (19 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "19 {البلاغة في {صبغة الله}\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EcWe_W8eQoA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aMX_kMyDpMA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EcWe_W8eQoA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aMX_kMyDpMA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EcWe_W8eQoA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aMX_kMyDpMA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/EcWe_W8eQoA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aMX_kMyDpMA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "EcWe_W8eQoA"
+                    "videoId": "aMX_kMyDpMA"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "EcWe_W8eQoA",
-                "videoPublishedAt": "2021-01-25T04:44:16Z"
+                "videoId": "aMX_kMyDpMA",
+                "videoPublishedAt": "2019-10-27T20:27:34Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xIyaCuxFXtWhXYjZFu478FJtwfc",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC5ENDU4Q0M4RDExNzM1Mjcy",
+            "etag": "J0yFzREWqVWWOh9RTYllSSIt6rA",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
-                "publishedAt": "2021-01-25T04:44:27Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.20 تدريبات على الاستعارة في القرآن الكريم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T20:36:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" ( 20) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "20 تدريبات على الاستعارة في القرآن الكريم\n\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0w6NIr2fC5o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1ACwn5QLcAQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0w6NIr2fC5o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1ACwn5QLcAQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0w6NIr2fC5o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1ACwn5QLcAQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/0w6NIr2fC5o/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1ACwn5QLcAQ/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "0w6NIr2fC5o"
+                    "videoId": "1ACwn5QLcAQ"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "0w6NIr2fC5o",
-                "videoPublishedAt": "2021-01-25T04:44:27Z"
+                "videoId": "1ACwn5QLcAQ",
+                "videoPublishedAt": "2019-10-27T20:43:39Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "241Qpdhh68NQcVqbWlhCs1hT0xA",
-            "id": "UExRM3R1RklZZXVYQ2J0Y3otSHBScmhmN0JDQlFBZzhsbC4yMDhBMkNBNjRDMjQxQTg1",
+            "etag": "_wbDF5z6707TZiwo7QAizPgXBxk",
+            "id": "UExFRDREai1UNDNyTS10bG1jME5TNmVPR2pRalRSTFRMRS4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
-                "publishedAt": "2021-01-25T04:44:42Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.3.21 {الاستعارة في قوله تعالى {فإنما يقول له كن فيكون",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2019-10-27T21:17:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تدريبات على \"تحفة الإخوان في علم البيان\" (21 ) للشيخ أحمد الدردير للشيخ علي هاني",
+                "description": "21 {الاستعارة في قوله تعالى {فإنما يقول له كن فيكون\n#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى الثاني في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان وتدريبات عليها، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم ،الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/VUsEvLIXwv8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/D6zLB_ukQNQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/VUsEvLIXwv8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/D6zLB_ukQNQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/VUsEvLIXwv8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/D6zLB_ukQNQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/VUsEvLIXwv8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/D6zLB_ukQNQ/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXCbtcz-HpRrhf7BCBQAg8ll",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM-tlmc0NS6eOGjQjTRLTLE",
                 "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "VUsEvLIXwv8"
+                    "videoId": "D6zLB_ukQNQ"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "VUsEvLIXwv8",
-                "videoPublishedAt": "2021-01-25T04:44:42Z"
+                "videoId": "D6zLB_ukQNQ",
+                "videoPublishedAt": "2019-10-27T21:21:12Z"
             }
         }
     ],

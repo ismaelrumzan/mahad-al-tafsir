@@ -2,1150 +2,1060 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "cHez41FdIbRU6oO3ST_m67SygWo",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "l25sFSBd8_p1jUEpibX2nTU2VcU",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-02-06T18:04:30Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_1_3 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(40)(تفسير سورة غافر الجزءالثالث (3) آية(6",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/-fzJzRr-nRw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/29txLfR9NbE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/-fzJzRr-nRw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/29txLfR9NbE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/-fzJzRr-nRw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/29txLfR9NbE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/-fzJzRr-nRw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/29txLfR9NbE/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/-fzJzRr-nRw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "-fzJzRr-nRw"
+                    "videoId": "29txLfR9NbE"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "-fzJzRr-nRw",
-                "videoPublishedAt": "2021-02-06T18:11:12Z"
+                "videoId": "29txLfR9NbE",
+                "videoPublishedAt": "2020-05-16T02:17:15Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3yAZnGfLRlynrFyk8UrCLZn43oY",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "karIOhS0euiaXydPpwRYJJ6zZtw",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-02-06T18:04:47Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_4_5 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(40)(تفسير سورة غافر الجزء الحادي عشر(11) الآيات (26_28",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jrjKjmrQb6Q/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dzx7K32D6oI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jrjKjmrQb6Q/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dzx7K32D6oI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jrjKjmrQb6Q/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dzx7K32D6oI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/jrjKjmrQb6Q/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dzx7K32D6oI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "jrjKjmrQb6Q"
+                    "videoId": "dzx7K32D6oI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "jrjKjmrQb6Q",
-                "videoPublishedAt": "2021-02-06T18:09:00Z"
+                "videoId": "dzx7K32D6oI",
+                "videoPublishedAt": "2020-05-16T01:12:09Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-oZn4Kcas0hvtYiaE6DHdJHlPFQ",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "xjJglnC5ZD8mOdVlHR0LvCr6lGQ",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-02-06T18:05:00Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_6 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(40)(3تفسير سورة غافر الجزءالثالث عشر 13  الآيات (34_5",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vJlUxOGypJI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ui4mtK5i99w/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vJlUxOGypJI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ui4mtK5i99w/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vJlUxOGypJI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ui4mtK5i99w/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/vJlUxOGypJI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ui4mtK5i99w/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/vJlUxOGypJI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "vJlUxOGypJI"
+                    "videoId": "ui4mtK5i99w"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "vJlUxOGypJI",
-                "videoPublishedAt": "2021-02-06T18:12:27Z"
+                "videoId": "ui4mtK5i99w",
+                "videoPublishedAt": "2020-05-15T22:34:38Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cF5wJOE5qHtE9jFChES0Rl2_Tig",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "XZD7JE3Tp4PBi6Z_Lih38ry5rUc",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
-                "publishedAt": "2021-02-06T18:05:17Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_7_9 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(40)(تفسير سورة غافر الجزءالرابع عشر 14 الآيات (36_37",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cRzNMGpWN84/default.jpg",
+                        "url": "https://i.ytimg.com/vi/j0JQL5NuAdY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cRzNMGpWN84/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j0JQL5NuAdY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cRzNMGpWN84/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j0JQL5NuAdY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/cRzNMGpWN84/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j0JQL5NuAdY/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/cRzNMGpWN84/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "cRzNMGpWN84"
+                    "videoId": "j0JQL5NuAdY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "cRzNMGpWN84",
-                "videoPublishedAt": "2021-02-06T18:12:41Z"
+                "videoId": "j0JQL5NuAdY",
+                "videoPublishedAt": "2020-05-15T22:33:10Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "54lGK6m0AEtInCVCRfrRIv1dvcA",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "LbmDN90RMqcmLm5RZE41CYwDfJY",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
-                "publishedAt": "2021-02-06T18:05:32Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_10_11 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(40)(تفسير سورة غافر الجزء الخامس عشر  15لآيات (38_40",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/GsiSIzE2dJg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dJXw7mKk92M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/GsiSIzE2dJg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dJXw7mKk92M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/GsiSIzE2dJg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dJXw7mKk92M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/GsiSIzE2dJg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dJXw7mKk92M/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/GsiSIzE2dJg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "GsiSIzE2dJg"
+                    "videoId": "dJXw7mKk92M"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "GsiSIzE2dJg",
-                "videoPublishedAt": "2021-02-06T18:11:39Z"
+                "videoId": "dJXw7mKk92M",
+                "videoPublishedAt": "2020-05-15T22:31:26Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4FuBSyWIqSaqav1Gci60mqiOE84",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "ZIYxqLm3xRRoY1oSco9zohy8P-M",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
-                "publishedAt": "2021-02-06T18:05:50Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_12_14 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(40)(تفسير سورة غافر الجزءالثاني 2  الآيات (4_5",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/E6yZVvR6mRU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Eidib8TJ7sI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/E6yZVvR6mRU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Eidib8TJ7sI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/E6yZVvR6mRU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Eidib8TJ7sI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/E6yZVvR6mRU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Eidib8TJ7sI/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/E6yZVvR6mRU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "E6yZVvR6mRU"
+                    "videoId": "Eidib8TJ7sI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "E6yZVvR6mRU",
-                "videoPublishedAt": "2021-02-06T18:10:22Z"
+                "videoId": "Eidib8TJ7sI",
+                "videoPublishedAt": "2020-05-15T22:25:50Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XRCOjKyaZl3neKIGRiCxtxS8-u0",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "ulB9ZtsS-JkzG_afpV-OyNH7fw0",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
-                "publishedAt": "2021-02-06T18:06:10Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_15_16 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الثامن عشر( 18) الآيات (47_51",
+                "description": "#seekersguidance \nتفسير_سورة غافر الجزء الثامن عشر #\nدرس تفسير القرآن مع النسفي",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/INCzoYy-DPo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/u9A0LzkQXro/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/INCzoYy-DPo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/u9A0LzkQXro/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/INCzoYy-DPo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/u9A0LzkQXro/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/INCzoYy-DPo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/u9A0LzkQXro/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/INCzoYy-DPo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "INCzoYy-DPo"
+                    "videoId": "u9A0LzkQXro"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "INCzoYy-DPo",
-                "videoPublishedAt": "2021-02-06T18:09:12Z"
+                "videoId": "u9A0LzkQXro",
+                "videoPublishedAt": "2019-06-25T21:11:13Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aZk_vJKCH6ETtZInyx7d3m3TnNU",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi5DQUNERDQ2NkIzRUQxNTY1",
+            "etag": "ic-Nquh5EuZcVLXypHNN9pmY1F4",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
-                "publishedAt": "2021-02-06T18:06:26Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_17_18 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الثاني و العشرون(22) الآيات (63_66",
+                "description": "تفسير سورة غافر الجزء الثاني و العشرون الشيخ علي هاني العقربوي (22)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Ptr_q-_qngM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ot3x9tX8NN0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Ptr_q-_qngM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ot3x9tX8NN0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Ptr_q-_qngM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ot3x9tX8NN0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Ptr_q-_qngM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ot3x9tX8NN0/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Ptr_q-_qngM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Ptr_q-_qngM"
+                    "videoId": "ot3x9tX8NN0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Ptr_q-_qngM",
-                "videoPublishedAt": "2021-02-06T18:11:29Z"
+                "videoId": "ot3x9tX8NN0",
+                "videoPublishedAt": "2019-06-25T21:10:34Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3hpyV1n5qTDONjBDQfrvp6yixng",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi45NDk1REZENzhEMzU5MDQz",
+            "etag": "OdRqB_UVl_Uyx3u9Djf1BnCZDUo",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS45NDk1REZENzhEMzU5MDQz",
             "snippet": {
-                "publishedAt": "2021-02-06T18:06:40Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_19_21 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الثالث و العشرون(23  الآيات (67_(75",
+                "description": "تفسير سورة غافر الجزء الثاني و العشرون الشيخ علي هاني العقربوي (22)\n#seekersguidance",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/P3bzNwtO22w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Q_64LwANrg0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/P3bzNwtO22w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Q_64LwANrg0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/P3bzNwtO22w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Q_64LwANrg0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/P3bzNwtO22w/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Q_64LwANrg0/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/P3bzNwtO22w/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "P3bzNwtO22w"
+                    "videoId": "Q_64LwANrg0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "P3bzNwtO22w",
-                "videoPublishedAt": "2021-02-06T18:11:22Z"
+                "videoId": "Q_64LwANrg0",
+                "videoPublishedAt": "2019-06-12T18:25:34Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MKEdCsGI1d9r0fjbijFfVU0S6vI",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi5GNjNDRDREMDQxOThCMDQ2",
+            "etag": "7BEo8bbxnzcZdhO6_MoOisECs1M",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
-                "publishedAt": "2021-02-06T18:06:57Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_22_25 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الواحد و العشرون(21) الآيات (59 _62",
+                "description": "تفسير سورة غافر الجزء الواحد و العشرون الشيخ علي هاني العقربوي (21)\n#seekersguidance",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/P4O8wOK41b4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ePqsQECm9uE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/P4O8wOK41b4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ePqsQECm9uE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/P4O8wOK41b4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ePqsQECm9uE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/P4O8wOK41b4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ePqsQECm9uE/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/P4O8wOK41b4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "P4O8wOK41b4"
+                    "videoId": "ePqsQECm9uE"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "P4O8wOK41b4",
-                "videoPublishedAt": "2021-02-06T18:08:31Z"
+                "videoId": "ePqsQECm9uE",
+                "videoPublishedAt": "2019-06-12T18:12:45Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ei9NMMD23is6srVstUP-0tEp4ks",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi40NzZCMERDMjVEN0RFRThB",
+            "etag": "2TGikOsp8k7KwU7VvJQVIrZJYV0",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS40NzZCMERDMjVEN0RFRThB",
             "snippet": {
-                "publishedAt": "2021-02-06T18:07:12Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_26_28 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة غافر الجزء العشرون(20) الآيات(56_58) (40",
+                "description": "تفسير سورة غافر الجزء العشرون الشيخ علي هاني العقربوي (20)\n#seekersguidance\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/O4DeYHSEvUo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/q9IQItzt-8g/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/O4DeYHSEvUo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q9IQItzt-8g/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/O4DeYHSEvUo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q9IQItzt-8g/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/O4DeYHSEvUo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q9IQItzt-8g/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "O4DeYHSEvUo"
+                    "videoId": "q9IQItzt-8g"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "O4DeYHSEvUo",
-                "videoPublishedAt": "2021-02-06T18:12:08Z"
+                "videoId": "q9IQItzt-8g",
+                "videoPublishedAt": "2019-06-12T18:11:07Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "VGQRhcCy7LY22ejCtQ0NllMgv1E",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi5EMEEwRUY5M0RDRTU3NDJC",
+            "etag": "keZgqXQpM9YMuKx_Z_CjWHzxRew",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
-                "publishedAt": "2021-02-06T18:07:28Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_29_33 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء التاسع عشر(19) الآيات(52_55",
+                "description": "تفسير سورة غافر الجزء التاسع عشر الشيخ علي هاني العقرباي (18)\n#seekersguidance",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/gBU6ag_zH9o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/tVSJc0MpL08/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/gBU6ag_zH9o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tVSJc0MpL08/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/gBU6ag_zH9o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tVSJc0MpL08/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/gBU6ag_zH9o/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tVSJc0MpL08/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/gBU6ag_zH9o/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "gBU6ag_zH9o"
+                    "videoId": "tVSJc0MpL08"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "gBU6ag_zH9o",
-                "videoPublishedAt": "2021-02-06T18:11:15Z"
+                "videoId": "tVSJc0MpL08",
+                "videoPublishedAt": "2019-06-12T18:02:56Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pYBnyWRNntvTObPslV_hsYtdMNA",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi45ODRDNTg0QjA4NkFBNkQy",
+            "etag": "vyHa32m2-qJFXNoA36fG1CEJDWE",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
-                "publishedAt": "2021-02-06T18:07:44Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_34_35 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الثاني عشر(12) الآيات(29_33",
+                "description": "تفسير سورة غافر الجزء الثاني عشر الشيخ علي هاني العقرباوي (12)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/pMAxi5cI7IM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/zXADmqHTYCU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/pMAxi5cI7IM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zXADmqHTYCU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/pMAxi5cI7IM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zXADmqHTYCU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/pMAxi5cI7IM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zXADmqHTYCU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "pMAxi5cI7IM"
+                    "videoId": "zXADmqHTYCU"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "pMAxi5cI7IM",
-                "videoPublishedAt": "2021-02-06T18:12:06Z"
+                "videoId": "zXADmqHTYCU",
+                "videoPublishedAt": "2019-06-12T17:58:22Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yWywFAtasuWkaCir6pML0NrHaB0",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "qOQS0L7aRk39DnLlprFkraSUA18",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
-                "publishedAt": "2021-02-06T18:07:59Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_36_37 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء السابع عشر( 17الآيات (43_46",
+                "description": "تفسير سورة غافر الجزء السابع عشر الشيخ علي هاني العقرباي (17)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6ohWUSY2T2g/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WRySqxsMgnQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6ohWUSY2T2g/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WRySqxsMgnQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6ohWUSY2T2g/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WRySqxsMgnQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/6ohWUSY2T2g/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WRySqxsMgnQ/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "6ohWUSY2T2g"
+                    "videoId": "WRySqxsMgnQ"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "6ohWUSY2T2g",
-                "videoPublishedAt": "2021-02-06T18:10:54Z"
+                "videoId": "WRySqxsMgnQ",
+                "videoPublishedAt": "2019-06-12T17:58:08Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-dhYmYyOZY6CUctkz3O7Ht9i5n8",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi41Mzk2QTAxMTkzNDk4MDhF",
+            "etag": "jer4V7zQZ6xh0KAPMoPAgravVOQ",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
-                "publishedAt": "2021-02-06T18:08:15Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_38_40 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الثامن(8) الآيات (17_18",
+                "description": "تفسير سورة غافر الجزء الثامن الشيخ علي هاني العقرباوي (8)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Ujb0dwo1qhA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/jjeW7TN4DTA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Ujb0dwo1qhA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/jjeW7TN4DTA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Ujb0dwo1qhA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/jjeW7TN4DTA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Ujb0dwo1qhA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/jjeW7TN4DTA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Ujb0dwo1qhA"
+                    "videoId": "jjeW7TN4DTA"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Ujb0dwo1qhA",
-                "videoPublishedAt": "2021-02-06T18:08:15Z"
+                "videoId": "jjeW7TN4DTA",
+                "videoPublishedAt": "2019-06-12T17:54:08Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wD9d_s7H2sx8Z-3D8iXmxvAMSUk",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi5EQUE1NTFDRjcwMDg0NEMz",
+            "etag": "_CGEkcAzfx_pOQMVnqIQZ58-N-c",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
-                "publishedAt": "2021-02-06T18:09:07Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_41_42 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء السادس عشر(16) الآيات(41_42",
+                "description": "تفسير سورة غافر الجزء السادس عشر الشيخ علي هاني العقرباوي (16)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/FhOY_ksiRlw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WfW2zoU5BAU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/FhOY_ksiRlw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WfW2zoU5BAU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/FhOY_ksiRlw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WfW2zoU5BAU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/FhOY_ksiRlw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WfW2zoU5BAU/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/FhOY_ksiRlw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "FhOY_ksiRlw"
+                    "videoId": "WfW2zoU5BAU"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "FhOY_ksiRlw",
-                "videoPublishedAt": "2021-02-06T18:11:24Z"
+                "videoId": "WfW2zoU5BAU",
+                "videoPublishedAt": "2019-06-12T17:53:29Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HJe5fS0vFKgD1tut62L_ZOkB-88",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi41QTY1Q0UxMTVCODczNThE",
+            "etag": "nbmEycmWuIF4yNaRrwtmuanJF38",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS41QTY1Q0UxMTVCODczNThE",
             "snippet": {
-                "publishedAt": "2021-02-06T18:09:23Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_43_46 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء التاسع(9)  الآيات (19_21",
+                "description": "تفسير سورة غافر الجزء التاسع الشيخ علي هاني العقرباوي (9)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jOQIUAJFS68/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WLCc_J6kUdk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jOQIUAJFS68/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WLCc_J6kUdk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jOQIUAJFS68/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WLCc_J6kUdk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/jOQIUAJFS68/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WLCc_J6kUdk/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/jOQIUAJFS68/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 16,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "jOQIUAJFS68"
+                    "videoId": "WLCc_J6kUdk"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "jOQIUAJFS68",
-                "videoPublishedAt": "2021-02-06T18:14:32Z"
+                "videoId": "WLCc_J6kUdk",
+                "videoPublishedAt": "2019-06-12T17:52:41Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "oWqp274wgVHto0g8OzFIbeF6XGA",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4yMUQyQTQzMjRDNzMyQTMy",
+            "etag": "pc4uCJxVDsEHyjes3NkxGhx-go8",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
-                "publishedAt": "2021-02-06T18:09:41Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_47_51 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء العاشر(10) الآيات(22_25",
+                "description": "تفسير سورة غافر الجزء العاشر الشيخ علي هاني العقرباوي (10)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Grcy4gKr5Qo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/q0Dxvgj1pxg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Grcy4gKr5Qo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q0Dxvgj1pxg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Grcy4gKr5Qo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q0Dxvgj1pxg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Grcy4gKr5Qo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/q0Dxvgj1pxg/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Grcy4gKr5Qo/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Grcy4gKr5Qo"
+                    "videoId": "q0Dxvgj1pxg"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Grcy4gKr5Qo",
-                "videoPublishedAt": "2021-02-06T18:16:06Z"
+                "videoId": "q0Dxvgj1pxg",
+                "videoPublishedAt": "2019-06-12T17:46:49Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rs2J-ougBq6cGcsvb0rrN5u_FOM",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi45RTgxNDRBMzUwRjQ0MDhC",
+            "etag": "cyjdLfk48SZIirvERtizCXxUUUc",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
-                "publishedAt": "2021-02-06T18:10:02Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_52_55 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الرابع(4)  الآيات( 7_9",
+                "description": "تفسير سورة غافر الجزء الرابع الشيخ علي هاني العقرباوي (4)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/wc0PLxGCal4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7TAfaRSy-eI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/wc0PLxGCal4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7TAfaRSy-eI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/wc0PLxGCal4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7TAfaRSy-eI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/wc0PLxGCal4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7TAfaRSy-eI/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/wc0PLxGCal4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "wc0PLxGCal4"
+                    "videoId": "7TAfaRSy-eI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "wc0PLxGCal4",
-                "videoPublishedAt": "2021-02-06T18:15:21Z"
+                "videoId": "7TAfaRSy-eI",
+                "videoPublishedAt": "2019-06-12T17:45:27Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-OIgBoGOP3EidTUK9uQonLnDg_c",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi5ENDU4Q0M4RDExNzM1Mjcy",
+            "etag": "pEFJUOYRIUFQemwcU5WrT-WDOQs",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
-                "publishedAt": "2021-02-06T18:10:19Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_56_58 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40) (تفسير سورة غافر الجزء السابع(7)الآيات (15_16",
+                "description": "تفسير سورة غافر الجزء السادس الشيخ علي هاني العقرباوي (7)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EDmDj6EBtMw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bdRS-NGE06k/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EDmDj6EBtMw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bdRS-NGE06k/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EDmDj6EBtMw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bdRS-NGE06k/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/EDmDj6EBtMw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bdRS-NGE06k/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/EDmDj6EBtMw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "EDmDj6EBtMw"
+                    "videoId": "bdRS-NGE06k"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "EDmDj6EBtMw",
-                "videoPublishedAt": "2021-02-06T18:17:25Z"
+                "videoId": "bdRS-NGE06k",
+                "videoPublishedAt": "2019-06-12T17:44:50Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ElO8L1UMRNMRJ4R37a8_IAzFlVY",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4yMDhBMkNBNjRDMjQxQTg1",
+            "etag": "Ll7D8U6mqhU7DLdL-qkH1OtbphQ",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
-                "publishedAt": "2021-02-06T18:10:34Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_57_62 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الخامس(5) الآيات(10 _11",
+                "description": "تفسير سورة غافر الجزء الخامس الشيخ علي هاني العقرباوي (5)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tmtup1Wc-oY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/OxCc8FkVod0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tmtup1Wc-oY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OxCc8FkVod0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tmtup1Wc-oY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OxCc8FkVod0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/tmtup1Wc-oY/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OxCc8FkVod0/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/tmtup1Wc-oY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "tmtup1Wc-oY"
+                    "videoId": "OxCc8FkVod0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "tmtup1Wc-oY",
-                "videoPublishedAt": "2021-02-06T18:15:33Z"
+                "videoId": "OxCc8FkVod0",
+                "videoPublishedAt": "2019-06-12T17:44:33Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "11Zcb-f_SmiomAsTkcl_Vk1Ki4U",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi5GM0Q3M0MzMzY5NTJFNTdE",
+            "etag": "1O6o7Xu32cT7KVzSV8ELBBiqqL4",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
-                "publishedAt": "2021-02-06T18:10:50Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_63_66 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء الأول(1)(1_3",
+                "description": "تفسير سورة غافر الجزء الأول الشيخ علي هاني العقرباوي (1)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/4k_Xg5OPGVU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/DygUmLJDoy0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/4k_Xg5OPGVU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DygUmLJDoy0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/4k_Xg5OPGVU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DygUmLJDoy0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/4k_Xg5OPGVU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DygUmLJDoy0/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/4k_Xg5OPGVU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "4k_Xg5OPGVU"
+                    "videoId": "DygUmLJDoy0"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "4k_Xg5OPGVU",
-                "videoPublishedAt": "2021-02-06T18:22:41Z"
+                "videoId": "DygUmLJDoy0",
+                "videoPublishedAt": "2019-06-12T17:43:48Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "grLj-TGa0Ovygkc7RFgve6ZcCYg",
-            "id": "UExRM3R1RklZZXVYQi1jYjltNWgxWXhJbHhfNlpfSTdOSi4zRjM0MkVCRTg0MkYyQTM0",
+            "etag": "PQhGjlczE2j56raW9dApz5E2E1I",
+            "id": "UExFRDREai1UNDNyTVpQdnFiU1hJZmpfYlFiSlBtLTVfVS4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
-                "publishedAt": "2021-02-06T18:11:07Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "40_67_75 سورة غافر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-20T08:47:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "40)(تفسير سورة غافر الجزء السادس(6) الآيات (12 _(14",
+                "description": "تفسير سورة غافر الجزء الثالث الشيخ علي هاني العقرباوي (3)\nتفسير سورة   غافر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/OBhNJuYW6Bg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/vFe5mun5TAM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/OBhNJuYW6Bg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vFe5mun5TAM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/OBhNJuYW6Bg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vFe5mun5TAM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/OBhNJuYW6Bg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/vFe5mun5TAM/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/OBhNJuYW6Bg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB-cb9m5h1YxIlx_6Z_I7NJ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U",
                 "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "OBhNJuYW6Bg"
+                    "videoId": "vFe5mun5TAM"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "OBhNJuYW6Bg",
-                "videoPublishedAt": "2021-02-06T18:16:59Z"
+                "videoId": "vFe5mun5TAM",
+                "videoPublishedAt": "2019-06-12T17:39:36Z"
             }
         }
     ],

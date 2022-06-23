@@ -2,462 +2,324 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "q1oYVigdtJYMSq-8ziHzt-ymG6U",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "QUDg9EigL5fVA_vWKD0BEnC_ZZ0",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
-                "publishedAt": "2021-01-25T03:26:32Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.1 تراجم العلماء من سيبويه إلى ابن المعتز",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2020-05-09T21:20:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(1) من سيبويه إلى ابن المعتز",
+                "description": "1 تراجم العلماء من سيبويه إلى ابن المعتز\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/N9TGapUks8Y/default.jpg",
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/N9TGapUks8Y/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/N9TGapUks8Y/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/N9TGapUks8Y/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "N9TGapUks8Y"
+                    "videoId": "8aGGTH8ocnQ"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "N9TGapUks8Y",
-                "videoPublishedAt": "2021-01-25T03:36:14Z"
+                "videoId": "8aGGTH8ocnQ",
+                "videoPublishedAt": "2020-05-09T21:26:27Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "VzUUYQb9nUKRWW5ecUDF-cXdJHU",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "pAo-MugTmLQWFteVoRDyul3l5Mo",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
-                "publishedAt": "2021-01-25T03:26:44Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.2 من قدامة بن جعفر ـ الآمدي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2020-05-10T18:45:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها (2) من قدامة بن جعفر إلى الآمدي",
+                "description": "2 من قدامة بن جعفر ـ الآمدي\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/N-iqOi_YhbM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/N-iqOi_YhbM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/N-iqOi_YhbM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/N-iqOi_YhbM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "N-iqOi_YhbM"
+                    "videoId": "xUImw9uoB2U"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "N-iqOi_YhbM",
-                "videoPublishedAt": "2021-01-25T03:27:07Z"
+                "videoId": "xUImw9uoB2U",
+                "videoPublishedAt": "2020-05-10T18:47:50Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PWg7NLbNb6b1DWVxLXItY-LXCx4",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "ylRxk01JW53wT6qhHgQCfZOWY0A",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
-                "publishedAt": "2021-01-25T03:26:57Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.3 ترجمة العلماء من المرزباني إلى الفخر الرازي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2020-05-09T09:22:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(3) من المرزُباني  إلى الإمام الفخر الرازي",
+                "description": "3 من المرزباني إلى الفخر الرازي\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6iVC8JiLXYs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6iVC8JiLXYs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6iVC8JiLXYs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/6iVC8JiLXYs/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "6iVC8JiLXYs"
+                    "videoId": "xJskAsuJodw"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "6iVC8JiLXYs",
-                "videoPublishedAt": "2021-01-25T03:33:49Z"
+                "videoId": "xJskAsuJodw",
+                "videoPublishedAt": "2020-05-09T09:50:15Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "b98PHD2tRObAZQdxyaQ4YU477yg",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "Oo6_23oddskarOCmnJybQSV695Y",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-01-25T03:27:10Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.4 ترجمة العلماء من السكاكي إلى ابن الناظم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2020-05-09T09:22:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(3) من المرزُباني  إلى الإمام الفخر الرازي",
+                "description": "3 من المرزباني إلى الفخر الرازي\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Coe3khEm7mU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Coe3khEm7mU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Coe3khEm7mU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Coe3khEm7mU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Coe3khEm7mU"
+                    "videoId": "xJskAsuJodw"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Coe3khEm7mU",
-                "videoPublishedAt": "2021-01-25T03:28:40Z"
+                "videoId": "xJskAsuJodw",
+                "videoPublishedAt": "2020-05-09T09:50:15Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hUjv3tgg0ZyWe0TpxpeO69B1yY0",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "6c9UnfyCNTO6-Uwl6ksAbbyuwFs",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
-                "publishedAt": "2021-01-25T03:27:24Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.5 ترجمة العلماء من القطب الشيرازي إلى السعد التفتازاني",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2020-05-12T14:35:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة(4) وعلمائها من السكاكي إلى ابن الناظم",
+                "description": "4 من السكاكي إلى ابن الناظم\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/L_pcjNmotNQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/L_pcjNmotNQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/L_pcjNmotNQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/L_pcjNmotNQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "L_pcjNmotNQ"
+                    "videoId": "mdCr4IUOAjA"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "L_pcjNmotNQ",
-                "videoPublishedAt": "2021-01-25T03:29:53Z"
+                "videoId": "mdCr4IUOAjA",
+                "videoPublishedAt": "2020-05-12T14:37:41Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Io3HNakbGjWjWcDAmQC27iFCrR8",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "yBphfu0KBD6MfC_AcFoC1ZlrE0E",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
-                "publishedAt": "2021-01-25T03:27:39Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.6 ترجمة العلماء من الأقصرائي إلى السمرقندي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2020-05-12T14:35:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة(4) وعلمائها من السكاكي إلى ابن الناظم",
+                "description": "4 من السكاكي إلى ابن الناظم\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EKzynKxQMm8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EKzynKxQMm8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EKzynKxQMm8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/EKzynKxQMm8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mdCr4IUOAjA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "EKzynKxQMm8"
+                    "videoId": "mdCr4IUOAjA"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "EKzynKxQMm8",
-                "videoPublishedAt": "2021-01-25T03:37:51Z"
+                "videoId": "mdCr4IUOAjA",
+                "videoPublishedAt": "2020-05-12T14:37:41Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "O4g0geIFy4bUswnyHX5cfRcXfT4",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "VUNCCYT7RNe3QNKW1RlQ0l90HNQ",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi40NzZCMERDMjVEN0RFRThB",
             "snippet": {
-                "publishedAt": "2021-01-25T03:27:51Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.7 ترجمة العلماء من السيوطي إلى ابن كمال باشا",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2020-05-29T14:19:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(من القطب الشيرازي إلى صفي الدين الحلي تاريخ البلاغة وعلمائها (5",
+                "description": "المستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DrDvi4QYolU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DrDvi4QYolU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DrDvi4QYolU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/DrDvi4QYolU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "DrDvi4QYolU"
+                    "videoId": "SfhKqPGjsF8"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "DrDvi4QYolU",
-                "videoPublishedAt": "2021-01-25T03:27:52Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "oJyQ8Tb-vXkM_YxwKTaVHL2gMS0",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS5DQUNERDQ2NkIzRUQxNTY1",
-            "snippet": {
-                "publishedAt": "2021-01-25T03:28:02Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.8 تراجم العلماء من عصام الإسفراييني إلى الشهاب الخفاجي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CjjKIVdkqhQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CjjKIVdkqhQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CjjKIVdkqhQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/CjjKIVdkqhQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
-                "position": 7,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "CjjKIVdkqhQ"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "CjjKIVdkqhQ",
-                "videoPublishedAt": "2021-01-25T03:28:42Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "MxxhU2mYtfin-EPIC6-cwa4atTI",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS45NDk1REZENzhEMzU5MDQz",
-            "snippet": {
-                "publishedAt": "2021-01-25T03:28:15Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.9 تراجم العلماء من عبد الغني النابلسي إلى الباجوري",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/WYMxyyyw9GI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/WYMxyyyw9GI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/WYMxyyyw9GI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/WYMxyyyw9GI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
-                "position": 8,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "WYMxyyyw9GI"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "WYMxyyyw9GI",
-                "videoPublishedAt": "2021-01-25T03:28:42Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "VRVpK_d_kYY_u2fWxjqp_Beb6zM",
-            "id": "UExRM3R1RklZZXVYRHY3R3dIcVFSZk5ldHp3ZEc2S3NQUS5GNjNDRDREMDQxOThCMDQ2",
-            "snippet": {
-                "publishedAt": "2021-01-25T03:28:28Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "3.1.10 تراجم العلماء من الخضري إلى المراغي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9irHW16mcWc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9irHW16mcWc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9irHW16mcWc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/9irHW16mcWc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXDv7GwHqQRfNetzwdG6KsPQ",
-                "position": 9,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "9irHW16mcWc"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "9irHW16mcWc",
-                "videoPublishedAt": "2021-01-25T03:28:29Z"
+                "videoId": "SfhKqPGjsF8",
+                "videoPublishedAt": "2020-05-29T14:23:34Z"
             }
         }
     ],

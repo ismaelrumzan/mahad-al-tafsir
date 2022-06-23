@@ -2,1474 +2,567 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "f_DXDoge7f0Y44sOggvhfjXfKu0",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "hApdJi0J06XqjI0tCIhXM_ghIYU",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
-                "publishedAt": "2020-08-11T04:51:04Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.2 الأزمنة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-15T15:50:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(مبادئ دروس العربية (1)/ (الكلمة والكلام)و(الأزمنة)، (أقسام الكلمة",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/nQ-sJqDrkcE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/nQ-sJqDrkcE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/nQ-sJqDrkcE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/nQ-sJqDrkcE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "nQ-sJqDrkcE"
+                    "videoId": "9Vj8tSVrabk"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "nQ-sJqDrkcE",
-                "videoPublishedAt": "2021-01-23T09:14:31Z"
+                "videoId": "9Vj8tSVrabk",
+                "videoPublishedAt": "2022-05-15T16:01:22Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QKrAMJ1jrKaZPcRt3nKcb2tCryU",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "wV-yChDovXQdNkyDkenZu1dseY0",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5ERkUyQTM0MzEwQjZCMTY5",
             "snippet": {
-                "publishedAt": "2020-08-11T04:52:05Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.3 أقسام الكلمة",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-06-19T21:26:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية (2)تتمة الاسم والفعل والحرف، وأقسام الأفعال ، والمبني للمعلوم والمجهول",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vz3xjCtO-Dk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/nchcQFvxpng/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vz3xjCtO-Dk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/nchcQFvxpng/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vz3xjCtO-Dk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/nchcQFvxpng/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/vz3xjCtO-Dk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "vz3xjCtO-Dk"
+                    "videoId": "nchcQFvxpng"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "vz3xjCtO-Dk",
-                "videoPublishedAt": "2021-01-23T09:15:17Z"
+                "videoId": "nchcQFvxpng",
+                "videoPublishedAt": "2022-06-19T21:31:08Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5WD66SwMFVfbHBDM6vClkCCKGLc",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "z01PZQEYHleb59aDfCjiqPFnl4E",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC41NTZEOThBNThFOUVGQkVB",
             "snippet": {
-                "publishedAt": "2020-08-11T04:57:38Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.1 الكلمة والكلام",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/HUyteTEjjvs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/HUyteTEjjvs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/HUyteTEjjvs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/HUyteTEjjvs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "publishedAt": "2022-05-16T02:48:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "HUyteTEjjvs"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                    "videoId": "BY5I1I2gCAA"
+                }
             },
             "contentDetails": {
-                "videoId": "HUyteTEjjvs",
-                "videoPublishedAt": "2021-01-23T09:14:31Z"
+                "videoId": "BY5I1I2gCAA"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LMWGJ1J1Qtll8DPqwvPX5qPdvnk",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "QOu36DUP311goqD42-7eNqsJ7Uk",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC43NERCMDIzQzFBMERCMEE3",
             "snippet": {
-                "publishedAt": "2020-08-18T03:46:47Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.4 الماضي والمضارع والأمر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-20T22:11:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية(3)تتمة المبني للمعلوم والمبني للمجهول ، وتصريف الفعل الماضي مع الضمائر",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6o5TglUaEyU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/AWNaJm2bhms/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6o5TglUaEyU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AWNaJm2bhms/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6o5TglUaEyU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AWNaJm2bhms/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/6o5TglUaEyU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "6o5TglUaEyU"
+                    "videoId": "AWNaJm2bhms"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "6o5TglUaEyU",
-                "videoPublishedAt": "2021-01-23T09:14:30Z"
+                "videoId": "AWNaJm2bhms",
+                "videoPublishedAt": "2022-05-20T22:33:21Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YUkKvylr-GGvWyYNn4T7-Uf6wjg",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "5TyMYUeogMRizqLWiV0t4ULT6KQ",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
-                "publishedAt": "2020-08-18T03:48:26Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.5 الفعل المبني للمعلوم والمبني للمجهول",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-20T22:12:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية )(4) تتمة تصريف الفعل الماضي مع الضمائر، وتصريف الفعل المضارع مع الضمائر",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/s3lvhb6wDmA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/_kwNUwFklnY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/s3lvhb6wDmA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_kwNUwFklnY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/s3lvhb6wDmA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_kwNUwFklnY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/s3lvhb6wDmA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "s3lvhb6wDmA"
+                    "videoId": "_kwNUwFklnY"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "s3lvhb6wDmA",
-                "videoPublishedAt": "2021-01-23T09:15:32Z"
+                "videoId": "_kwNUwFklnY",
+                "videoPublishedAt": "2022-05-20T22:12:02Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TT46BBqLizqdU_lx7zzCDvtt1wY",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "tPPPy5mWzob7GW7lsA2WoCovoYo",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
-                "publishedAt": "2020-08-18T03:49:12Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.6 تصريف الفعل الماضي مع الضمائر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-20T22:14:02Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية (5) تصريف الأمر مع الضمائر ، وأحوال آخر الفعل الماضي",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2tLx69sAdwg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Eb6hQGhjico/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2tLx69sAdwg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Eb6hQGhjico/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2tLx69sAdwg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Eb6hQGhjico/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2tLx69sAdwg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "2tLx69sAdwg"
+                    "videoId": "Eb6hQGhjico"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "2tLx69sAdwg",
-                "videoPublishedAt": "2021-01-23T09:14:30Z"
+                "videoId": "Eb6hQGhjico",
+                "videoPublishedAt": "2022-05-20T22:13:47Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BhiQ5nIiYlWH5Ef6CAmoPqLhdBE",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5DQUNERDQ2NkIzRUQxNTY1",
+            "etag": "1drxVqROj2yLJfuiV4GG6AbsKYU",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
-                "publishedAt": "2020-08-18T03:51:38Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.9 أسئلة تصريف الفعل المضارع",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-20T22:15:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية (6) أحوال آخر فعل الأمر، وأحوال إعراب الفعل المضارع",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/MVH_4dGlLI8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WSGJiquRSNc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/MVH_4dGlLI8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WSGJiquRSNc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/MVH_4dGlLI8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WSGJiquRSNc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/MVH_4dGlLI8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "MVH_4dGlLI8"
+                    "videoId": "WSGJiquRSNc"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "MVH_4dGlLI8",
-                "videoPublishedAt": "2021-01-23T09:14:30Z"
+                "videoId": "WSGJiquRSNc",
+                "videoPublishedAt": "2022-05-20T22:15:08Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TKOFT_tDjOD3zw-Xj4_HAMI0hU8",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby45NDk1REZENzhEMzU5MDQz",
+            "etag": "6upGSbyBzMGUgSTXK25MJYeHdn0",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4wMTYxQzVBRDI1NEVDQUZE",
             "snippet": {
-                "publishedAt": "2020-08-18T03:52:03Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.8 تصريف المضارع مع الضمائر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-20T22:29:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية (7) الفعل المضارع المنصوب والمجزوم",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CqMymuApDYw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/DznOyfXC_fI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CqMymuApDYw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DznOyfXC_fI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CqMymuApDYw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DznOyfXC_fI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/CqMymuApDYw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "CqMymuApDYw"
+                    "videoId": "DznOyfXC_fI"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "CqMymuApDYw",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
+                "videoId": "DznOyfXC_fI",
+                "videoPublishedAt": "2022-05-20T22:49:25Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cceBZDq292FuEzDsofehRhuJf7Q",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5GNjNDRDREMDQxOThCMDQ2",
+            "etag": "MBWUTS7MOBUHTvVPuXaj5kvRWeY",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4zMUEyMkQwOTk0NTg4MDgw",
             "snippet": {
-                "publishedAt": "2020-08-18T03:52:03Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.7 حل أسئلة تصريف الضمائر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-21T00:13:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية (8) المفرد والمثنى والجمع، والمذكر والمؤنيث، وإعراب الاسم ، والفاعل",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/PaCsmOqeEV8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/R1wn5RhZJn4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/PaCsmOqeEV8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/R1wn5RhZJn4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/PaCsmOqeEV8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/R1wn5RhZJn4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PaCsmOqeEV8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "PaCsmOqeEV8"
+                    "videoId": "R1wn5RhZJn4"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "PaCsmOqeEV8",
-                "videoPublishedAt": "2021-01-23T09:15:18Z"
+                "videoId": "R1wn5RhZJn4",
+                "videoPublishedAt": "2022-05-21T00:21:45Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IsNaFne2jJ3anECK1whjEwmmeAY",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby45ODRDNTg0QjA4NkFBNkQy",
+            "etag": "aCEyTLipU3cfqb60OovBet5a1pc",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC42QzdBMzlBQzQzRjQ0QkQy",
             "snippet": {
-                "publishedAt": "2020-08-18T03:52:52Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.10 تصريف الأمر مع الضمائر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-21T00:16:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية(9) نائب الفاعل،تأنيث الفعل المبني للمعلوم والمجهول",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/69jfbk5ojHA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/o5qjcQIbUvc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/69jfbk5ojHA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o5qjcQIbUvc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/69jfbk5ojHA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/o5qjcQIbUvc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/69jfbk5ojHA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "69jfbk5ojHA"
+                    "videoId": "o5qjcQIbUvc"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "69jfbk5ojHA",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
+                "videoId": "o5qjcQIbUvc",
+                "videoPublishedAt": "2022-05-21T00:22:53Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Fe43O_exT45SvZMWE1vQYKBqi00",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "JeqrECaPSvC6uA9QDzhEMpqmsrM",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC41OURENDc2NEM1MDI5Mjky",
             "snippet": {
-                "publishedAt": "2020-08-18T03:53:32Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.11 أحوال آخر الفعل الماضي",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-21T00:25:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية (10) المبتدأ والخبر ، وكان وأخواتها",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5Rt5TNlUYiU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/i7VWLbF1Bbk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5Rt5TNlUYiU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/i7VWLbF1Bbk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5Rt5TNlUYiU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/i7VWLbF1Bbk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/5Rt5TNlUYiU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "5Rt5TNlUYiU"
+                    "videoId": "i7VWLbF1Bbk"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "5Rt5TNlUYiU",
-                "videoPublishedAt": "2021-01-23T09:14:31Z"
+                "videoId": "i7VWLbF1Bbk",
+                "videoPublishedAt": "2022-05-21T00:42:10Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ex4_LoYek-ZRlaoSuii08WWe-6k",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby41Mzk2QTAxMTkzNDk4MDhF",
+            "etag": "Up8x1yMjYlpsZoijcSI34t97Zz4",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4wRjhFM0MxMTU1MEUzQ0VB",
             "snippet": {
-                "publishedAt": "2020-08-18T03:54:20Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.12 أحوال بناء الأمر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-21T00:29:12Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية (11) (إنَّ) وأخواتها، والمفعول به",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/G9sPhEbs8-s/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ERWnG4fVglc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/G9sPhEbs8-s/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ERWnG4fVglc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/G9sPhEbs8-s/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ERWnG4fVglc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/G9sPhEbs8-s/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "G9sPhEbs8-s"
+                    "videoId": "ERWnG4fVglc"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "G9sPhEbs8-s",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
+                "videoId": "ERWnG4fVglc",
+                "videoPublishedAt": "2022-05-21T00:31:41Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "kwXJNUoa1ZbG58yZawABmtXWqcE",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5EQUE1NTFDRjcwMDg0NEMz",
+            "etag": "NmWYoiz4Qd3m-q-sj8X0-hgcG4g",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5CNTZFOTNGQzZEODg1RUQx",
             "snippet": {
-                "publishedAt": "2020-08-18T03:54:58Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.13 حل أسئلة بناء فعل الأمر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-21T00:33:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية(12) الظرف، حروف الجر، المضاف والمضاف إليه",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vZsH3eZCyRI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KUMM0Tv7yRw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vZsH3eZCyRI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KUMM0Tv7yRw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vZsH3eZCyRI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KUMM0Tv7yRw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/vZsH3eZCyRI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "vZsH3eZCyRI"
+                    "videoId": "KUMM0Tv7yRw"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "vZsH3eZCyRI",
-                "videoPublishedAt": "2021-01-23T09:14:31Z"
+                "videoId": "KUMM0Tv7yRw",
+                "videoPublishedAt": "2022-05-21T00:39:01Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "S9xdgeGgcVgUpZSTvNjmIk1MMaM",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby41QTY1Q0UxMTVCODczNThE",
+            "etag": "A2BrjLw21bf6HPGa9QBJYzH-UT8",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5CNTcxMDQ0NThBNzMxODYz",
             "snippet": {
-                "publishedAt": "2020-08-18T03:55:44Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.14 أحوال إعراب الفعل المضارع",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
+                "publishedAt": "2022-05-21T00:35:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مبادئ دروس العربية(13) النعت ، وأحرف العطف",
+                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/iTAeYmdmglg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/4swx2I9Q-5s/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/iTAeYmdmglg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4swx2I9Q-5s/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/iTAeYmdmglg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4swx2I9Q-5s/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/iTAeYmdmglg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4swx2I9Q-5s/sddefault.jpg",
                         "width": 640,
                         "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4swx2I9Q-5s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMdK7ohNVWzcg9c0_Tl6Mi8",
                 "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "iTAeYmdmglg"
+                    "videoId": "4swx2I9Q-5s"
                 },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "iTAeYmdmglg",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "jKwY-J-7fT9ZZG654zXrQGnZNzs",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4yMUQyQTQzMjRDNzMyQTMy",
-            "snippet": {
-                "publishedAt": "2020-08-18T03:56:21Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.15 الفعل المضارع المنصوب",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/s_dFxRnOvYQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/s_dFxRnOvYQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/s_dFxRnOvYQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/s_dFxRnOvYQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 14,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "s_dFxRnOvYQ"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "s_dFxRnOvYQ",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "HazyHS1F42l2eYtm5p6mYIheiN4",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby45RTgxNDRBMzUwRjQ0MDhC",
-            "snippet": {
-                "publishedAt": "2020-08-18T03:57:05Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.16 الفعل المضارع المجزوم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cAGzXbptcP8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cAGzXbptcP8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cAGzXbptcP8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/cAGzXbptcP8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 15,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "cAGzXbptcP8"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "cAGzXbptcP8",
-                "videoPublishedAt": "2021-01-23T09:14:30Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "fzzkOsjTaoQSFnwt9yjUGTOxsGk",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5ENDU4Q0M4RDExNzM1Mjcy",
-            "snippet": {
-                "publishedAt": "2020-08-18T03:57:48Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.17 تدريبات الفعل المضارع المجزوم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8Fzdl0qV3Xg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8Fzdl0qV3Xg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8Fzdl0qV3Xg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/8Fzdl0qV3Xg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 16,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "8Fzdl0qV3Xg"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "8Fzdl0qV3Xg",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Jet30lIR-tJakB_OWW6VZ5v3SYU",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4yMDhBMkNBNjRDMjQxQTg1",
-            "snippet": {
-                "publishedAt": "2020-08-18T03:58:26Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.18 المفرد والمثنى والجمع",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/E3FJ7xSlhcY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/E3FJ7xSlhcY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/E3FJ7xSlhcY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/E3FJ7xSlhcY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 17,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "E3FJ7xSlhcY"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "E3FJ7xSlhcY",
-                "videoPublishedAt": "2021-01-23T09:14:31Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "GY16W9x2SnvENPzC9_VUgCbp7j4",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5GM0Q3M0MzMzY5NTJFNTdE",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.19 المذكر والمؤنث",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8H-UJfYhJVE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8H-UJfYhJVE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8H-UJfYhJVE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/8H-UJfYhJVE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 18,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "8H-UJfYhJVE"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "8H-UJfYhJVE",
-                "videoPublishedAt": "2021-01-23T09:15:18Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "VL2Daqvzz4po8jhUdjI-iKGqU2o",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4zRjM0MkVCRTg0MkYyQTM0",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.20 اعراب الاسم",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lKehoaDD4E4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lKehoaDD4E4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lKehoaDD4E4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/lKehoaDD4E4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 19,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "lKehoaDD4E4"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "lKehoaDD4E4",
-                "videoPublishedAt": "2021-01-23T09:14:31Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "wT9GuwSdtWy5cj5mmZIXeuNKj6o",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby45NzUwQkI1M0UxNThBMkU0",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.21 باب الفاعل",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GuB0WxzDaNE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GuB0WxzDaNE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GuB0WxzDaNE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/GuB0WxzDaNE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 20,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "GuB0WxzDaNE"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "GuB0WxzDaNE",
-                "videoPublishedAt": "2021-01-23T09:15:17Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "11ERgyqliBpLnRZ9A6TbyHSotVM",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5DNzE1RjZEMUZCMjA0RDBB",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.22 نائب الفاعل",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DFWmOiYq_rA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DFWmOiYq_rA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DFWmOiYq_rA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/DFWmOiYq_rA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 21,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "DFWmOiYq_rA"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "DFWmOiYq_rA",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "363uW4vmLX4UQ8De86zs1MVmZEU",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby43MTI1NDIwOTMwQjIxMzNG",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.23 تأنيث الفعل للفاعل ونائبه المؤنثين",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-1iwway75tY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-1iwway75tY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-1iwway75tY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/-1iwway75tY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 22,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "-1iwway75tY"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "-1iwway75tY",
-                "videoPublishedAt": "2021-01-23T09:14:31Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "o6c654DFU7wTE53e6ks1as4n-Tc",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5DQ0MyQ0Y4Mzg0M0VGOEYw",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.24 المبتدأ والخبر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/0vArl8pPo0o/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/0vArl8pPo0o/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/0vArl8pPo0o/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/0vArl8pPo0o/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 23,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "0vArl8pPo0o"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "0vArl8pPo0o",
-                "videoPublishedAt": "2021-01-23T09:14:57Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "wxir6gefHIpCSdPDGtcJ9pfN1iU",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4yQUE2Q0JEMTk4NTM3RTZC",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.25 كان وأخواتها",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2gBPrd87qVY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2gBPrd87qVY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2gBPrd87qVY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2gBPrd87qVY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 24,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "2gBPrd87qVY"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "2gBPrd87qVY",
-                "videoPublishedAt": "2021-01-23T09:14:29Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "IY5-WBnPtupURss3KfiMyE0ACBU",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5DMkU4NTY1QUFGQTYwMDE3",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.26 باب إنَّ وأخواتها",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Ax_uSuOsAVw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Ax_uSuOsAVw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Ax_uSuOsAVw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Ax_uSuOsAVw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 25,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Ax_uSuOsAVw"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "Ax_uSuOsAVw",
-                "videoPublishedAt": "2021-01-23T09:16:14Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "0Hs-YSmUP5LGMbQQmqfae-pg5p8",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby44Mjc5REFBRUE2MTdFRDU0",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.27  المفعول به",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Q8F-1iJjaCE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Q8F-1iJjaCE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Q8F-1iJjaCE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Q8F-1iJjaCE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 26,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Q8F-1iJjaCE"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "Q8F-1iJjaCE",
-                "videoPublishedAt": "2021-01-23T09:15:51Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "H6ApO7FAQBqbg6yC2XZ9RFF_s6c",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby43NDhFRTgwOTRERTU4Rjg3",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.28 المفعول فيه ظرف الزمان والمكان",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2hQnWX1PyiA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2hQnWX1PyiA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2hQnWX1PyiA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2hQnWX1PyiA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 27,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "2hQnWX1PyiA"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "2hQnWX1PyiA",
-                "videoPublishedAt": "2021-01-23T09:16:14Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "eYnAQGkHuE8FGQHg1dBEr4inL9k",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby41QUZGQTY5OTE4QTREQUU4",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.29 حروف الجر",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AcUGlJKpOnk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AcUGlJKpOnk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AcUGlJKpOnk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/AcUGlJKpOnk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 28,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "AcUGlJKpOnk"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "AcUGlJKpOnk",
-                "videoPublishedAt": "2021-01-23T09:14:30Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "ODRiV87Pxy8DbeFns-AP4yB9czM",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby4zRDBDOEZDOUM0MDY5NEEz",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.30 المضاف والمضاف إليه",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CICFVU4eZmU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CICFVU4eZmU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CICFVU4eZmU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/CICFVU4eZmU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 29,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "CICFVU4eZmU"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "CICFVU4eZmU",
-                "videoPublishedAt": "2021-01-23T09:17:12Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "WA7vOtDdXSft2djjXsn-kZQ3bb4",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby5CMEQ2Mjk5NTc3NDZFRUNB",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.32 العطف",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NPBGHgcEjEw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NPBGHgcEjEw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NPBGHgcEjEw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NPBGHgcEjEw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 30,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "NPBGHgcEjEw"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "NPBGHgcEjEw",
-                "videoPublishedAt": "2021-01-23T09:16:14Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "WH-j1oXfMpyoD3Hy6Sg28hMfXCM",
-            "id": "UExRM3R1RklZZXVYQjBUTnMwQVhPbDZKdHFVcUJRU0hFby42MTI4Njc2QjM1RjU1MjlG",
-            "snippet": {
-                "publishedAt": "2020-08-18T04:04:36Z",
-                "channelId": "UCCJ6xD0brwMP8hAq2TTDOSA",
-                "title": "1.1.31 النعت",
-                "description": "معهد التفسير: التسجيلات الصوتية للشيخ علي هاني العقرباوي \nhttps://tafsir.institute/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-5OgnRK8iVE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-5OgnRK8iVE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-5OgnRK8iVE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/-5OgnRK8iVE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "ُمَعْهَد التّفْسِير",
-                "playlistId": "PLQ3tuFIYeuXB0TNs0AXOl6JtqUqBQSHEo",
-                "position": 31,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "-5OgnRK8iVE"
-                },
-                "videoOwnerChannelTitle": "ُمَعْهَد التّفْسِير",
-                "videoOwnerChannelId": "UCCJ6xD0brwMP8hAq2TTDOSA"
-            },
-            "contentDetails": {
-                "videoId": "-5OgnRK8iVE",
-                "videoPublishedAt": "2021-01-23T09:16:15Z"
+                "videoId": "4swx2I9Q-5s",
+                "videoPublishedAt": "2022-05-21T00:36:07Z"
             }
         }
     ],
