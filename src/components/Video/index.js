@@ -1,36 +1,21 @@
 import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
+import Select from 'react-select';
 import YouTube from "react-youtube";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCaretRight, faCaretLeft } from "@fortawesome/free-solid-svg-icons";
 import styles from "./styles.module.css";
 
 export default function VideoList({ children, data = {} }) {
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
-  const [height, setHeight] = useState(100);
-  const vidListref = useRef(null);
-  const currentVidRef = useRef(null);
-  const currentVid = useRef(null);
-  const executeScroll = () => currentVid.current.scrollIntoView();
+  const vidOptions = [];
 
   useEffect(() => {
     if ("hash" in window.location && window.location.hash !== "") {
       setItemIndex(window.location.hash.replace("#", ""));
     }
   }, [vidItem]);
-  useEffect(() => {
-    window.addEventListener("resize", handleResize, false);
-  }, []);
-  useEffect(() => {
-    if (currentVidRef.current) {
-      setHeight(currentVidRef.current?.clientHeight);
-      executeScroll();
-    }
-  });
 
-  const handleResize = () => {
-    if (vidListref.current) {
-      setHeight(currentVidRef.current?.clientHeight);
-    }
-  };
   data.items.sort((a, b) => {
     const orderNoArrayA = a.snippet.title.split(" ")[0].split(".");
     const orderNoArrayB = b.snippet.title.split(" ")[0].split(".");
@@ -42,9 +27,11 @@ export default function VideoList({ children, data = {} }) {
       return 1;
     }
   });
-  function changeItem(i) {
-    setvidItem(i);
-  }
+
+  data.items.map( ( item, index ) => {
+    vidOptions.push( { value: index, label: item.snippet.title } )
+  } );
+
   const opts = {
     playerVars: {
       rel: 0,
@@ -54,74 +41,42 @@ export default function VideoList({ children, data = {} }) {
     },
   };
 
+  function changeItem(i) {
+    setvidItem(i);
+    window.location.href = `#${i.value}`;
+  }
+
+  function changeItemNav( i, direction ) {
+    let num = 0;
+    direction === 'forward' ? num = data.items.indexOf(i) + 1 : num = data.items.indexOf(i) - 1;
+
+    if ( num >= 0 && num !== null && num !== undefined ) {
+      setvidItem(num);
+      setItemIndex(num);
+      window.location.href = `#${num}`;
+    }
+  }
+
   return (
     <main>
-      <h2>{`${Number(itemIndex) + 1} من ${data.items.length}: ${data.items[
-        itemIndex
-      ].snippet.title
-        .replace(/[0-9]/g, "")
-        .replace(/\./g, "")
-        .replace(/\_/g, "")}`}</h2>
-      {children}
-      <div className="container">
-        <div className="row">
-          <div className="col col--9">
-            <div ref={currentVidRef}>
-              <YouTube
-                videoId={data.items[itemIndex].snippet.resourceId.videoId}
-                opts={opts}
-              />
-            </div>
-          </div>
-          <div
-            className="col col--3"
-            style={{
-              height: `${height}px`,
-            }}
-          >
-            <div ref={vidListref} className={styles.vidListContainer}>
-              <div className={styles.vidList}>
-                {data.items.map((item, index) => (
-                  <div
-                    className={styles.vidItem}
-                    key={index}
-                    ref={Number(itemIndex) === index ? currentVid : null}
-                  >
-                    <div className={styles.thumb}>
-                      <a
-                        onClick={() => changeItem(data.items[Number(index)])}
-                        href={`#${Number(index)}`}
-                        className={styles.btnContainer}
-                      >
-                        {"medium" in item.snippet.thumbnails && (
-                          <img
-                            className={
-                              Number(itemIndex) === index
-                                ? styles.vidItemDown
-                                : styles.vidItemUp
-                            }
-                            src={item.snippet.thumbnails.medium.url}
-                            alt=""
-                          />
-                        )}
-
-                        <div className={styles.overlay}>
-                          <p>
-                            {" "}
-                            {item.snippet.title
-                              .replace(/[0-9]/g, "")
-                              .replace(/\./g, "")
-                              .replace(/\_/g, "")}
-                          </p>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
+      <div className={styles.navContainer}>
+        <div className={styles.selectContainer}>
+          <Select
+            className={styles.selectClass}
+            options={vidOptions}
+            onChange={changeItem}
+            defaultValue={{ label: `${data.items[itemIndex].snippet.title}`, value: 0 }}
+          />
         </div>
+      </div>
+      <div className={styles.vidContainer}>
+        {children}
+        <YouTube
+          className={styles.video}
+          iframeClassName={styles.videoResponsive}
+          videoId={data.items[itemIndex].snippet.resourceId.videoId}
+          opts={opts}
+        />
       </div>
     </main>
   );
