@@ -2,619 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "MZ4qvZ2eGBi_LsDluwYGwktd6Hk",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41NkI0NEY2RDEwNTU3Q0M2",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37) سورة الصافات (23)/ علي هاني العقرباوي",
-                "description": "تفسير النسفي",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 0,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "gbKXL5UCt5I"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "gbKXL5UCt5I",
-                "videoPublishedAt": "2021-03-07T10:50:46Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "qFYqtx6R5tWYTqhBVaZUJQNS-DA",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4yODlGNEE0NkRGMEEzMEQy",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37 )تفسير سورة الصافات الجزء العشرون (20) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 1,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "SCQywo8be3U"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "SCQywo8be3U",
-                "videoPublishedAt": "2019-06-10T21:26:45Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "5d4aGjSKicOtEF-v8c5CPXDP-3M",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الثاني والعشرون (22) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 2,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "uW2hXvbllcU"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "uW2hXvbllcU",
-                "videoPublishedAt": "2019-06-10T20:52:28Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "_msHnj93gAzViwAysyIRP0iWSSE",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الثاني (2) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الصافات الجزء الثاني الشيخ علي هاني العقرباوي (2)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 3,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "5tiZgZKZWNI"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "5tiZgZKZWNI",
-                "videoPublishedAt": "2019-06-10T20:06:59Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "EgZyeDcnzBXcLBH2rpFSoXHdB2w",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4wOTA3OTZBNzVEMTUzOTMy",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37 )تفسير سورة الصافات الجزء الثامن (8) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الصافات الجزء الثامن الشيخ علي هاني العقرباوي (8)\n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 4,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "usS7_O1TU9M"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "usS7_O1TU9M",
-                "videoPublishedAt": "2019-06-10T20:03:25Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "TAu04J8Gj7U2oyOQ0jKJftJ0ir0",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4xMkVGQjNCMUM1N0RFNEUx",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الرابع عشر (14) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\n\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 5,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "o_JRNWO98WE"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "o_JRNWO98WE",
-                "videoPublishedAt": "2019-06-10T19:33:43Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "hWQhKT3mSOMSsTryIg-fOaiAPEI",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41MzJCQjBCNDIyRkJDN0VD",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء السابع عشر (17) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 6,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "KjZCiKi-X7s"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "KjZCiKi-X7s",
-                "videoPublishedAt": "2019-06-10T19:18:02Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "3y-Nc1fWtjsmVYOXCRXuANQfu8Q",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5DQUNERDQ2NkIzRUQxNTY1",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الثامن عشر (18) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 7,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "IhY4gjXi4O8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "IhY4gjXi4O8",
-                "videoPublishedAt": "2019-06-10T19:15:21Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "EqII1m6D_CJVo6gJKdGrqONPOWc",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi45NDk1REZENzhEMzU5MDQz",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الخامس عشر (15) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 8,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "yMcjlHMSDp8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "yMcjlHMSDp8",
-                "videoPublishedAt": "2019-06-10T19:13:19Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "HG4Qr9xBhd7U-inQjHDmMy6uGJw",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5GNjNDRDREMDQxOThCMDQ2",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37تفسير سورة الصافات الجزء الثاسع (9) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الصافات الجزء الثاسع الشيخ علي هاني العقرباوي (9)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 9,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "2qGXuw7gCDU"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "2qGXuw7gCDU",
-                "videoPublishedAt": "2019-06-10T19:11:56Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "c9Bpp5jq8_l_2hx6PTlMgnP0Mfc",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi40NzZCMERDMjVEN0RFRThB",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء لسادس (6)الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الصافات الجزء لسادس الشيخ علي هاني العقرباوي (6)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 10,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "pg5w9lgDlhU"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "pg5w9lgDlhU",
-                "videoPublishedAt": "2019-06-10T18:59:16Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Ab6KKgTGi02ARZZRIuzKf9IVZMQ",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5EMEEwRUY5M0RDRTU3NDJC",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الحادي والعشرون (21) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 11,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "JdgQb5W2Tyk"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "JdgQb5W2Tyk",
-                "videoPublishedAt": "2019-06-10T18:44:45Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "r2ToC00gOm6V85TcviaIlxNBWCA",
+            "etag": "14oEyZ8iMm4KlL4-7Qtgw2qxD50",
             "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2022-06-19T21:11:06Z",
@@ -650,7 +38,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 12,
+                "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "_GLzqA1fCnE"
@@ -665,109 +53,58 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6aEyUxqdJCWSzMndEPH7bLgDETk",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "HoRCD3om6X8djLWCtlS5Fm1jb9Q",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-06-19T21:11:06Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الحادي عشر (11) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "37)تفسير سورة الصافات الجزء الثاني (2) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الصافات الجزء الثاني الشيخ علي هاني العقرباوي (2)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5tiZgZKZWNI/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 13,
+                "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "ro1PyxhHPsI"
+                    "videoId": "5tiZgZKZWNI"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "ro1PyxhHPsI",
-                "videoPublishedAt": "2019-06-10T18:38:41Z"
+                "videoId": "5tiZgZKZWNI",
+                "videoPublishedAt": "2019-06-10T20:06:59Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "sC80m56DFHbH-8IryQxBHXG_NWM",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41Mzk2QTAxMTkzNDk4MDhF",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء التاسع عشر (19) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 14,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "o_eOH3enfWQ"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "o_eOH3enfWQ",
-                "videoPublishedAt": "2019-06-10T18:37:26Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "mTlPJ5eNwmTHylRxRpJXBdDRlrc",
+            "etag": "Nw_oaoxrZ_oNCmdskvxcOs_9bns",
             "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2022-06-19T21:11:06Z",
@@ -803,7 +140,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 15,
+                "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xqwWDJzCJjY"
@@ -818,160 +155,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "F4NSl9sEkJnEpDbXIoDG5nTPRls",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41QTY1Q0UxMTVCODczNThE",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء السادس عشر (16) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 16,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "BsZuPnoLXLQ"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "BsZuPnoLXLQ",
-                "videoPublishedAt": "2019-06-10T18:33:44Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Kh3yNmnACY1zKbYCkBxx4b9KtCI",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4yMUQyQTQzMjRDNzMyQTMy",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء الخامس(5) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الصافات الجزء الخامس الشيخ علي هاني العقرباوي (5)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 17,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "CGRLMopLjG4"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "CGRLMopLjG4",
-                "videoPublishedAt": "2019-06-10T18:29:05Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "AFjl0j0UUzizGvV_n0ZEJqkWJwY",
-            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi45RTgxNDRBMzUwRjQ0MDhC",
-            "snippet": {
-                "publishedAt": "2022-06-19T21:11:06Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "37)تفسير سورة الصافات الجزء السابع (7) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الصافات الجزء السابع الشيخ علي هاني العقرباوي (7)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 18,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "sHHu6Ldo_tc"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "sHHu6Ldo_tc",
-                "videoPublishedAt": "2019-06-10T18:28:09Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "LDqZU_3hvkK5xdQTkDvKZbrqzm0",
+            "etag": "avgyJyC_PPZzf8BNXaSF46prLNI",
             "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2022-06-19T21:11:06Z",
@@ -1007,7 +191,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
-                "position": 19,
+                "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "wj7MGGObe80"
@@ -1018,6 +202,822 @@
             "contentDetails": {
                 "videoId": "wj7MGGObe80",
                 "videoPublishedAt": "2019-06-10T18:26:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MT4SbDvurdMGux4Og75k_DfyOIk",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء الخامس(5) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الصافات الجزء الخامس الشيخ علي هاني العقرباوي (5)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CGRLMopLjG4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CGRLMopLjG4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "CGRLMopLjG4",
+                "videoPublishedAt": "2019-06-10T18:29:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oRiI-Y-aduc4GBktmIUElx0PhFs",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء لسادس (6)الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الصافات الجزء لسادس الشيخ علي هاني العقرباوي (6)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pg5w9lgDlhU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pg5w9lgDlhU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "pg5w9lgDlhU",
+                "videoPublishedAt": "2019-06-10T18:59:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "okbDF4SNJ0tzykxjo6tmjkmLYDE",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء السابع (7) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الصافات الجزء السابع الشيخ علي هاني العقرباوي (7)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sHHu6Ldo_tc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sHHu6Ldo_tc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "sHHu6Ldo_tc",
+                "videoPublishedAt": "2019-06-10T18:28:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ineQZ0M4jJH_2ksfDnkEUJZ_zAw",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37 )تفسير سورة الصافات الجزء الثامن (8) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الصافات الجزء الثامن الشيخ علي هاني العقرباوي (8)\n#seekersguidance",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/usS7_O1TU9M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "usS7_O1TU9M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "usS7_O1TU9M",
+                "videoPublishedAt": "2019-06-10T20:03:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oaldOajIpGy3MMuzEZ7Da3u7cjM",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37تفسير سورة الصافات الجزء الثاسع (9) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الصافات الجزء الثاسع الشيخ علي هاني العقرباوي (9)\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2qGXuw7gCDU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2qGXuw7gCDU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2qGXuw7gCDU",
+                "videoPublishedAt": "2019-06-10T19:11:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sJMQh6GSIsXKUrNbI-Qsx_NwGIk",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء الحادي عشر (11) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ro1PyxhHPsI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ro1PyxhHPsI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ro1PyxhHPsI",
+                "videoPublishedAt": "2019-06-10T18:38:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dIumtRi9X-8_mXVOCEpGQtZbvoE",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء الرابع عشر (14) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\n\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o_JRNWO98WE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o_JRNWO98WE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "o_JRNWO98WE",
+                "videoPublishedAt": "2019-06-10T19:33:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0q9SDyCiViIsuROixT367gdSH6M",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء الخامس عشر (15) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yMcjlHMSDp8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yMcjlHMSDp8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "yMcjlHMSDp8",
+                "videoPublishedAt": "2019-06-10T19:13:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "t4WVJfUoqiiuXRdw2bVL_I2Hv9U",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء السادس عشر (16) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BsZuPnoLXLQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BsZuPnoLXLQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BsZuPnoLXLQ",
+                "videoPublishedAt": "2019-06-10T18:33:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tgOGSKGBtB0IuSBq_s7Fji52Ppc",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء السابع عشر (17) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KjZCiKi-X7s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KjZCiKi-X7s"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "KjZCiKi-X7s",
+                "videoPublishedAt": "2019-06-10T19:18:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3uTOa-tDJ_RROEz9vOELEdaKy7I",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء الثامن عشر (18) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IhY4gjXi4O8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IhY4gjXi4O8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "IhY4gjXi4O8",
+                "videoPublishedAt": "2019-06-10T19:15:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "195gV_7n56S9ZJEIH5cRhXg8HK4",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء التاسع عشر (19) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o_eOH3enfWQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o_eOH3enfWQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "o_eOH3enfWQ",
+                "videoPublishedAt": "2019-06-10T18:37:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oGJxioHC37afOWC7nN4OJXA0CUg",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37 )تفسير سورة الصافات الجزء العشرون (20) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SCQywo8be3U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SCQywo8be3U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "SCQywo8be3U",
+                "videoPublishedAt": "2019-06-10T21:26:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hnB1ISpwpNcl1JtxeWOHakVvJQ4",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء الحادي والعشرون (21) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JdgQb5W2Tyk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JdgQb5W2Tyk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "JdgQb5W2Tyk",
+                "videoPublishedAt": "2019-06-10T18:44:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4wlaFF4OAJT2S5ml85Cyo9OmKYI",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37)تفسير سورة الصافات الجزء الثاني والعشرون (22) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الصافات مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفالصافاتبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uW2hXvbllcU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uW2hXvbllcU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "uW2hXvbllcU",
+                "videoPublishedAt": "2019-06-10T20:52:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gHZjGUmI3iBgWGNCb7QfzVO3VKk",
+            "id": "UExFRDREai1UNDNyTUNNSXltV0laTFBEWm42clpBWk5WQi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:11:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "37) سورة الصافات (23)/ علي هاني العقرباوي",
+                "description": "تفسير النسفي",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gbKXL5UCt5I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gbKXL5UCt5I"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "gbKXL5UCt5I",
+                "videoPublishedAt": "2021-03-07T10:50:46Z"
             }
         }
     ],

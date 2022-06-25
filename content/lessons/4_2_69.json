@@ -2,31 +2,31 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "fInPk6f_eES4-jipaiU557uj0wI",
-            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "_X5H-oBdXosGiyMR6a19bIlCD8s",
+            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-06-20T18:02:31Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "69)تفسير سورة الحاقة الجزء الرابع(4) الشيخ علي هاني العقرباوي",
+                "title": "69)تفسير سورة الحاقة الجزء الأول (1)الشيخ علي هاني العقرباوي",
                 "description": "تفسير تحليلي لسورة الحاقة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -36,43 +36,43 @@
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "Se3PETXHKzs"
+                    "videoId": "h-smtOWfpOE"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "Se3PETXHKzs",
-                "videoPublishedAt": "2019-05-23T20:01:37Z"
+                "videoId": "h-smtOWfpOE",
+                "videoPublishedAt": "2019-05-23T19:51:15Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "j6pYm3Kn9MnJ4gKiZVF48qn60Gc",
-            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "Y0qHDj-xcTjCwUzpGfGSiIY5e2I",
+            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-06-20T18:02:31Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "69)تفسير سورة الحاقة الجزء الخامس(5) الشيخ علي هاني العقرباوي",
+                "title": "تفسير سورة الحاقة الجزء الثاني (2)الشيخ علي هاني العقرباوي (69",
                 "description": "تفسير تحليلي لسورة الحاقة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -82,14 +82,14 @@
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "kTuRLejvaKE"
+                    "videoId": "7QdtpCRVKUU"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "kTuRLejvaKE",
-                "videoPublishedAt": "2019-05-23T19:58:26Z"
+                "videoId": "7QdtpCRVKUU",
+                "videoPublishedAt": "2019-05-23T19:55:18Z"
             }
         },
         {
@@ -140,31 +140,31 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OzajKMmQtxAmj6wUhbStK9nTqDM",
-            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "ELf0JjD-7tUQUPFVBzr8OZXVAWA",
+            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-06-20T18:02:31Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الحاقة الجزء الثاني (2)الشيخ علي هاني العقرباوي (69",
+                "title": "69)تفسير سورة الحاقة الجزء الرابع(4) الشيخ علي هاني العقرباوي",
                 "description": "تفسير تحليلي لسورة الحاقة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/7QdtpCRVKUU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Se3PETXHKzs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -174,43 +174,43 @@
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "7QdtpCRVKUU"
+                    "videoId": "Se3PETXHKzs"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "7QdtpCRVKUU",
-                "videoPublishedAt": "2019-05-23T19:55:18Z"
+                "videoId": "Se3PETXHKzs",
+                "videoPublishedAt": "2019-05-23T20:01:37Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "q4xgoRvUlRWN9kZreLwjAQX_qNI",
-            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "3dQfyKTeuw4IahQE_vBtsz6M4O0",
+            "id": "UExFRDREai1UNDNyUGkwNUd0eUhIQTR4M1ZHWFNNZHloZC4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-06-20T18:02:31Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "69)تفسير سورة الحاقة الجزء الأول (1)الشيخ علي هاني العقرباوي",
+                "title": "69)تفسير سورة الحاقة الجزء الخامس(5) الشيخ علي هاني العقرباوي",
                 "description": "تفسير تحليلي لسورة الحاقة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/h-smtOWfpOE/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kTuRLejvaKE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -220,14 +220,14 @@
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "h-smtOWfpOE"
+                    "videoId": "kTuRLejvaKE"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "h-smtOWfpOE",
-                "videoPublishedAt": "2019-05-23T19:51:15Z"
+                "videoId": "kTuRLejvaKE",
+                "videoPublishedAt": "2019-05-23T19:58:26Z"
             }
         }
     ],

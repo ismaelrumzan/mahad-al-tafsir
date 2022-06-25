@@ -48,191 +48,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jgPMa2EcLZAofCo2ZMTDUPv8aeI",
-            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy4yODlGNEE0NkRGMEEzMEQy",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:50:58Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "53)تفسير سورة النجم الجزء الثامن(8) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء الثامن)(8)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
-                "position": 1,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "ytIPlVfWRwM"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "ytIPlVfWRwM",
-                "videoPublishedAt": "2019-06-08T12:33:36Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "DPPhKlDpFITSwHAGwRwRXDIeD1E",
-            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:50:58Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "53)تفسير سورة النجم الجزء السادس(6) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء السادس)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
-                "position": 2,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "80lkXNGN3Lw"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "80lkXNGN3Lw",
-                "videoPublishedAt": "2019-06-08T12:32:15Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "FRyBqVOXC2rxhRwm_BPZQkYb9V4",
-            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:50:58Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "53)تفسير سورة النجم الجزء السابع(7) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء السابع)(7)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
-                "position": 3,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "n5TFlHKOql8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "n5TFlHKOql8",
-                "videoPublishedAt": "2019-06-08T12:31:38Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "LZ4x7A5qyDomB5GVBz6J3AN8_Dg",
-            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy4wOTA3OTZBNzVEMTUzOTMy",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:50:58Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "53)تفسير سورة النجم الجزء الثالث(3) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء الثالث(3)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
-                "position": 4,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "YepXad6LiXs"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "YepXad6LiXs",
-                "videoPublishedAt": "2019-06-08T12:30:01Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "12UrN0t-xv4JphAe-FQIlEhAgps",
+            "etag": "j9iGKiLhGkDecF36Ywl5quoHe-A",
             "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2022-06-20T09:50:58Z",
@@ -263,7 +79,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
-                "position": 5,
+                "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "jYcZ8qFZV5g"
@@ -278,7 +94,53 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WT5MYXrxw2IHdS3WLofX-zHB2DE",
+            "etag": "mV4BZ-fmd4bIwgepz3ht9zHOzt8",
+            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:50:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "53)تفسير سورة النجم الجزء الثالث(3) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء الثالث(3)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YepXad6LiXs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YepXad6LiXs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YepXad6LiXs",
+                "videoPublishedAt": "2019-06-08T12:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Pt53Qw01HAKhz4OG8cvCD5i9Vsk",
             "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2022-06-20T09:50:58Z",
@@ -309,7 +171,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
-                "position": 6,
+                "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "G3oc6C0K5eM"
@@ -320,6 +182,144 @@
             "contentDetails": {
                 "videoId": "G3oc6C0K5eM",
                 "videoPublishedAt": "2019-06-08T12:28:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jOZSnUKLzPCQ-dPHMQdInOC7GoM",
+            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:50:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "53)تفسير سورة النجم الجزء السادس(6) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء السادس)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/80lkXNGN3Lw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "80lkXNGN3Lw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "80lkXNGN3Lw",
+                "videoPublishedAt": "2019-06-08T12:32:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7ZNnKxdxGOOTG3Svfz8vhkG-2d4",
+            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:50:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "53)تفسير سورة النجم الجزء السابع(7) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء السابع)(7)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n5TFlHKOql8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "n5TFlHKOql8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "n5TFlHKOql8",
+                "videoPublishedAt": "2019-06-08T12:31:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5u-6fNCe1mRhwhmB6QFV8EixQAM",
+            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:50:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "53)تفسير سورة النجم الجزء الثامن(8) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة النجم الشيخ علي هاني العقرباوي (الجزء الثامن)(8)\nتفسير سورة   النجم مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة النجم مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ytIPlVfWRwM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ytIPlVfWRwM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ytIPlVfWRwM",
+                "videoPublishedAt": "2019-06-08T12:33:36Z"
             }
         }
     ],

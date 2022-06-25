@@ -48,145 +48,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lhqvrYRO3ISnHhA9ArmzR6ZSeG0",
-            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby4yODlGNEE0NkRGMEEzMEQy",
-            "snippet": {
-                "publishedAt": "2022-06-20T17:47:41Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "59)تفسير سورة الحشرالجزء السابع(7) الشيخ علي هاني العقرباوي",
-                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
-                "position": 1,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "SfIHG04w_pM"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "SfIHG04w_pM",
-                "videoPublishedAt": "2019-05-24T01:18:05Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "7Lqj0gF-ty67UtH5LnuM1wFrhKE",
-            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2022-06-20T17:47:41Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "59)تفسير سورة الحشر الجزء السادس(6) الشيخ علي هاني العقرباوي",
-                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
-                "position": 2,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "1bhqHFZMn6M"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "1bhqHFZMn6M",
-                "videoPublishedAt": "2019-05-24T01:16:58Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "LmkBboR_HAbdJ6C1jLLZj77TCVI",
-            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2022-06-20T17:47:41Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "59)تفسير سورة الحشر  الجزء الخامس(5)الشيخ علي هاني العقرباوي",
-                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
-                "position": 3,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "p2L7jih3TOQ"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "p2L7jih3TOQ",
-                "videoPublishedAt": "2019-05-24T01:15:07Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "ZAcsm5dONhMunuDFsfyXHQ75U90",
+            "etag": "cCnHFRxs4GTjgQHojIL7WR9D_Ck",
             "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-06-20T17:47:41Z",
@@ -217,7 +79,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
-                "position": 4,
+                "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "kuRwS5e9bXo"
@@ -232,53 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qT5KcgOJhV1Kih7pDxPis7vG5yU",
-            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby4xMkVGQjNCMUM1N0RFNEUx",
-            "snippet": {
-                "publishedAt": "2022-06-20T17:47:41Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "59)تفسير سورة الحشر الجزء الرابع(4) الشيخ علي هاني العقرباوي",
-                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
-                "position": 5,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PnRqh5BP0CM"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "PnRqh5BP0CM",
-                "videoPublishedAt": "2019-05-24T01:15:07Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "wFNwClOdkTbit4KWnbks48aMB2s",
+            "etag": "gZacMVVWMoiMYhcm3JQnBLoN9FI",
             "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2022-06-20T17:47:41Z",
@@ -309,7 +125,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
-                "position": 6,
+                "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "14fyFp-x1Kw"
@@ -320,6 +136,190 @@
             "contentDetails": {
                 "videoId": "14fyFp-x1Kw",
                 "videoPublishedAt": "2019-05-24T01:15:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lEF_ty7dBgM2VWMMZKyuAZdaNvU",
+            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-06-20T17:47:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "59)تفسير سورة الحشر الجزء الرابع(4) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PnRqh5BP0CM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PnRqh5BP0CM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "PnRqh5BP0CM",
+                "videoPublishedAt": "2019-05-24T01:15:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iKfCHd1j1cnAmBoELqCoMuXp8jI",
+            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-06-20T17:47:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "59)تفسير سورة الحشر  الجزء الخامس(5)الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p2L7jih3TOQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p2L7jih3TOQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "p2L7jih3TOQ",
+                "videoPublishedAt": "2019-05-24T01:15:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6mxse2U_aYVxKVPXRoxDdyBDCZc",
+            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-20T17:47:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "59)تفسير سورة الحشر الجزء السادس(6) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1bhqHFZMn6M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1bhqHFZMn6M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "1bhqHFZMn6M",
+                "videoPublishedAt": "2019-05-24T01:16:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qVCe88OVCS-kjNps9yafMMiDS-0",
+            "id": "UExFRDREai1UNDNyTjVwUnd5bmY4cmRZVVF2YVhodExtby4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-20T17:47:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "59)تفسير سورة الحشرالجزء السابع(7) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الحشر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SfIHG04w_pM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SfIHG04w_pM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "SfIHG04w_pM",
+                "videoPublishedAt": "2019-05-24T01:18:05Z"
             }
         }
     ],

@@ -2,697 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "AU8tkBtFRQMXPawEYkLvWn906fY",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41NkI0NEY2RDEwNTU3Q0M2",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف التاسع(9) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف التاسع الشيخ علي هاني العقرباوي (9)\nتفسير سورة الزخرف الجزء  /الشيخ علي هاني العقرباوي",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 0,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "BUdiJGL_I8A"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "BUdiJGL_I8A",
-                "videoPublishedAt": "2019-06-12T21:58:54Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "dmpN7aCnfV204VZi-6oWpsC4_K0",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4yODlGNEE0NkRGMEEzMEQy",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الجزء الثالث(3) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الجزء الثالث الشيخ علي هاني العقرباوي (3)\n\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 1,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "X8bYuRLLtr8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "X8bYuRLLtr8",
-                "videoPublishedAt": "2019-06-12T21:58:51Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "B8gNwt2WFJdXR2ZCx-6T9xXReHQ",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الثالث عشر(13)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الثالث عشر  الشيخ علي هاني العقرباوي(13)\nتفسير سورة الزخرف الجزء  /الشيخ علي هاني العقرباوي",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 2,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "LTFZbIE_cQg"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "LTFZbIE_cQg",
-                "videoPublishedAt": "2019-06-12T21:51:40Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "ZuNwDmwK0NVYRuzfvcffgKSvBns",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف السادس عشر(16)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف السادس عشر  الشيخ علي هاني العقرباوي(16)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 3,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Vl_R9k7QeAY"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "Vl_R9k7QeAY",
-                "videoPublishedAt": "2019-06-12T21:50:33Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "htof8DBZ3DpYN2dQiHiP7xxb9XM",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4wOTA3OTZBNzVEMTUzOTMy",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الرابع عشر(14)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الرابع عشر  الشيخ علي هاني العقرباوي(14)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 4,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Fj0YRgnJDxQ"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "Fj0YRgnJDxQ",
-                "videoPublishedAt": "2019-06-12T21:49:53Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "8qPf2sjaQB56Qj5Mz-q1X4aoBbw",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4xMkVGQjNCMUM1N0RFNEUx",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الخامس عشر(15)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الخامس عشر  الشيخ علي هاني العقرباوي(15)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 5,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "4KTRkgxTNfQ"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "4KTRkgxTNfQ",
-                "videoPublishedAt": "2019-06-12T21:46:00Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "jijeBmCbWujzB2PskjvgeaEH7OE",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41MzJCQjBCNDIyRkJDN0VD",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف العاشر(10) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف العاشر الشيخ علي هاني العقرباوي (10)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 6,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "dxv5ob3Fcxc"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "dxv5ob3Fcxc",
-                "videoPublishedAt": "2019-06-12T21:42:47Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "EOqGtgpKB6v02mJBxVDy5_k9QRw",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi5DQUNERDQ2NkIzRUQxNTY1",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الثاني عشر(12)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الثاني عشر  الشيخ علي هاني العقرباوي(12)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 7,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "BV9x3YJ7qyA"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "BV9x3YJ7qyA",
-                "videoPublishedAt": "2019-06-12T21:40:37Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "gBn0lPw7xkURbe9fcDhc2bezqp8",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi45NDk1REZENzhEMzU5MDQz",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الحادي عشر(11)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الحادي عشر  الشيخ علي هاني العقرباوي (11)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 8,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "wge5ms0N3mc"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "wge5ms0N3mc",
-                "videoPublishedAt": "2019-06-12T21:37:32Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "WtPdYRKUG4mM1T5XygE20cXS9Y8",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi5GNjNDRDREMDQxOThCMDQ2",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الثامن(8) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الثامن الشيخ علي هاني العقرباوي (8)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 9,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "sU89ZzgsdEE"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "sU89ZzgsdEE",
-                "videoPublishedAt": "2019-06-12T21:36:52Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "XpOLoTLLyyqsn6J71YBGrq_IBRI",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi40NzZCMERDMjVEN0RFRThB",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الجزء الثاني(2) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الجزء الثاني الشيخ علي هاني العقرباوي (2)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 10,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "p_E_ThxMVY8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "p_E_ThxMVY8",
-                "videoPublishedAt": "2019-06-12T21:35:48Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "aZm1ohQZOjWRpxUbJaJ2DEdqbU8",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi5EMEEwRUY5M0RDRTU3NDJC",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف السابع(7) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف السابع الشيخ علي هاني العقرباوي (7)\n\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 11,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "i3j3u9liXaA"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "i3j3u9liXaA",
-                "videoPublishedAt": "2019-06-12T21:32:41Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "oC89BDfIB8aeWNodbo8iF9Bt-vw",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi45ODRDNTg0QjA4NkFBNkQy",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الخامس(5) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الخامس الشيخ علي هاني العقرباوي (5)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 12,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "gidEH98Mp7k"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "gidEH98Mp7k",
-                "videoPublishedAt": "2019-06-12T21:28:18Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "deA_4qdE8bkvT0GRHmNvEusETv4",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4zMDg5MkQ5MEVDMEM1NTg2",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف السادس(6) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف السادس الشيخ علي هاني العقرباوي (6)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 13,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "zo5gckpHoyU"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "zo5gckpHoyU",
-                "videoPublishedAt": "2019-06-12T21:26:44Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "V0k8DA5DehsFzp5YbKhZCw4oPCE",
-            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41Mzk2QTAxMTkzNDk4MDhF",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:14:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "43)تفسير سورة الزخرف الجزء الرابع(4) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الزخرف الجزء الرابع الشيخ علي هاني العقرباوي (4)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 14,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "uZjurdE7QPw"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "uZjurdE7QPw",
-                "videoPublishedAt": "2019-06-12T21:26:24Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "-5RDOgAvnraUs6Rbb_5ereQ4Euc",
+            "etag": "TUmBAqHJduaGohiwQR6c_ZnFpLo",
             "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2022-06-20T09:14:33Z",
@@ -723,7 +33,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
-                "position": 15,
+                "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GiltAGms6wg"
@@ -734,6 +44,696 @@
             "contentDetails": {
                 "videoId": "GiltAGms6wg",
                 "videoPublishedAt": "2019-06-12T21:26:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DR96DL6HtmLDsD3wzBu-z53jsfg",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الجزء الثاني(2) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الجزء الثاني الشيخ علي هاني العقرباوي (2)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p_E_ThxMVY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p_E_ThxMVY8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "p_E_ThxMVY8",
+                "videoPublishedAt": "2019-06-12T21:35:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2y5vx1kdf4Ptumbe2784thbEIa0",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الجزء الثالث(3) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الجزء الثالث الشيخ علي هاني العقرباوي (3)\n\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X8bYuRLLtr8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X8bYuRLLtr8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "X8bYuRLLtr8",
+                "videoPublishedAt": "2019-06-12T21:58:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r1Xqa36gdl3dd5EY9mIks0SFCW0",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الجزء الرابع(4) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الجزء الرابع الشيخ علي هاني العقرباوي (4)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uZjurdE7QPw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uZjurdE7QPw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "uZjurdE7QPw",
+                "videoPublishedAt": "2019-06-12T21:26:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_yJT3JGLKqL3epyLAVnZ3sxjIkE",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الخامس(5) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الخامس الشيخ علي هاني العقرباوي (5)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gidEH98Mp7k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gidEH98Mp7k"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "gidEH98Mp7k",
+                "videoPublishedAt": "2019-06-12T21:28:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EKW_6lGIjTlW0hej67yNmZx1Z_c",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف السادس(6) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف السادس الشيخ علي هاني العقرباوي (6)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zo5gckpHoyU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zo5gckpHoyU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "zo5gckpHoyU",
+                "videoPublishedAt": "2019-06-12T21:26:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RbVq-rlpeYgzK3PgCuRqt-Txjss",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف السابع(7) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف السابع الشيخ علي هاني العقرباوي (7)\n\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i3j3u9liXaA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "i3j3u9liXaA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "i3j3u9liXaA",
+                "videoPublishedAt": "2019-06-12T21:32:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "g0fqZ5OxFz_OasJPzzQhmpjgCb0",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الثامن(8) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الثامن الشيخ علي هاني العقرباوي (8)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sU89ZzgsdEE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sU89ZzgsdEE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "sU89ZzgsdEE",
+                "videoPublishedAt": "2019-06-12T21:36:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "090xZsxZBtLZwdNeleH1a_-m9Mk",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف التاسع(9) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف التاسع الشيخ علي هاني العقرباوي (9)\nتفسير سورة الزخرف الجزء  /الشيخ علي هاني العقرباوي",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BUdiJGL_I8A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BUdiJGL_I8A"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BUdiJGL_I8A",
+                "videoPublishedAt": "2019-06-12T21:58:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_UpS-7-RcjjCWhq-FKVFAzDM36M",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف العاشر(10) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف العاشر الشيخ علي هاني العقرباوي (10)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dxv5ob3Fcxc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dxv5ob3Fcxc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "dxv5ob3Fcxc",
+                "videoPublishedAt": "2019-06-12T21:42:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Od9gH2RnA_eqCkJHVHNKE6uPVUM",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الحادي عشر(11)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الحادي عشر  الشيخ علي هاني العقرباوي (11)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wge5ms0N3mc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wge5ms0N3mc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wge5ms0N3mc",
+                "videoPublishedAt": "2019-06-12T21:37:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8Hbb82zz5SHu0v3AxEr72LIwJdI",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الثاني عشر(12)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الثاني عشر  الشيخ علي هاني العقرباوي(12)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BV9x3YJ7qyA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BV9x3YJ7qyA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BV9x3YJ7qyA",
+                "videoPublishedAt": "2019-06-12T21:40:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_8SCg9mXWkj-FcWPi-cOja16Fpg",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الثالث عشر(13)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الثالث عشر  الشيخ علي هاني العقرباوي(13)\nتفسير سورة الزخرف الجزء  /الشيخ علي هاني العقرباوي",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LTFZbIE_cQg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LTFZbIE_cQg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "LTFZbIE_cQg",
+                "videoPublishedAt": "2019-06-12T21:51:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MpP_tdBncnsEkNJmDDkGOyUdLUM",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الرابع عشر(14)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الرابع عشر  الشيخ علي هاني العقرباوي(14)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Fj0YRgnJDxQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Fj0YRgnJDxQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Fj0YRgnJDxQ",
+                "videoPublishedAt": "2019-06-12T21:49:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ndjVFf_WEb-IsvUijk9hBJ-brpM",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف الخامس عشر(15)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف الخامس عشر  الشيخ علي هاني العقرباوي(15)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4KTRkgxTNfQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4KTRkgxTNfQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4KTRkgxTNfQ",
+                "videoPublishedAt": "2019-06-12T21:46:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8-lDNt1wLQqhOz0wX0-0_lrEBXk",
+            "id": "UExFRDREai1UNDNyT21MYzRiR3hnRGswNkM1SDdRTUdYYi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:14:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "43)تفسير سورة الزخرف السادس عشر(16)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الزخرف السادس عشر  الشيخ علي هاني العقرباوي(16)\nتفسير سورة   الزخرف مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vl_R9k7QeAY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vl_R9k7QeAY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Vl_R9k7QeAY",
+                "videoPublishedAt": "2019-06-12T21:50:33Z"
             }
         }
     ],
