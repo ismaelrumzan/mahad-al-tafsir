@@ -94,7 +94,53 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Tio0BdAlHq8MIlAHWsq3SMDwdFs",
+            "etag": "wwUb50D4iZiyvFsK6xKMjPK05kE",
+            "id": "UExFRDREai1UNDNyTzIydk9uTjB1RDVVSDR3eEt1RTk0TC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-06-20T09:17:28Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "45)تفسير سورة الجاثية الجزء الثالث(3) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الجاثية الجزء الثالث الشيخ علي هاني العقرباوي (3\nتفسير سورة   الجاثية مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO22vOnN0uD5UH4wxKuE94L",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gGDWbckTZ-U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "gGDWbckTZ-U",
+                "videoPublishedAt": "2019-06-08T19:35:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hYUdKHO2AmfY1dawtb9Ba1zxX4Q",
             "id": "UExFRDREai1UNDNyTzIydk9uTjB1RDVVSDR3eEt1RTk0TC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-06-20T09:17:28Z",
@@ -125,7 +171,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rO22vOnN0uD5UH4wxKuE94L",
-                "position": 2,
+                "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "2kM_hGHjWjo"
@@ -136,52 +182,6 @@
             "contentDetails": {
                 "videoId": "2kM_hGHjWjo",
                 "videoPublishedAt": "2019-06-26T19:15:43Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "rTo0vcreZAp-s9spGqaIE9Rw4xQ",
-            "id": "UExFRDREai1UNDNyTzIydk9uTjB1RDVVSDR3eEt1RTk0TC41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2022-06-20T09:17:28Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "45)تفسيرسورة الجاثية الجزء السابع(7) الشيخ علي هاني العقرباوي",
-                "description": "تفسيرسورة الجاثية الجزء السابع الشيخ علي هاني العقرباوي (7)\nتفسير سورة   الجاثية مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rO22vOnN0uD5UH4wxKuE94L",
-                "position": 3,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "arUHDI0RWw0"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "arUHDI0RWw0",
-                "videoPublishedAt": "2019-06-08T19:45:58Z"
             }
         },
         {
@@ -278,31 +278,31 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GpSw4RW5z4WO-aXuSUJ3rgJE_V8",
-            "id": "UExFRDREai1UNDNyTzIydk9uTjB1RDVVSDR3eEt1RTk0TC41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "myuEW-7CFyxjZq2vjbRpQJJes4o",
+            "id": "UExFRDREai1UNDNyTzIydk9uTjB1RDVVSDR3eEt1RTk0TC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-06-20T09:17:28Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "45)تفسير سورة الجاثية الجزء الثالث(3) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الجاثية الجزء الثالث الشيخ علي هاني العقرباوي (3\nتفسير سورة   الجاثية مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "45)تفسيرسورة الجاثية الجزء السابع(7) الشيخ علي هاني العقرباوي",
+                "description": "تفسيرسورة الجاثية الجزء السابع الشيخ علي هاني العقرباوي (7)\nتفسير سورة   الجاثية مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/default.jpg",
+                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/gGDWbckTZ-U/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/arUHDI0RWw0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -312,14 +312,14 @@
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "gGDWbckTZ-U"
+                    "videoId": "arUHDI0RWw0"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "gGDWbckTZ-U",
-                "videoPublishedAt": "2019-06-08T19:35:47Z"
+                "videoId": "arUHDI0RWw0",
+                "videoPublishedAt": "2019-06-08T19:45:58Z"
             }
         }
     ],

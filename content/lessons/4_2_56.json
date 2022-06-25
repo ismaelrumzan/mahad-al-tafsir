@@ -2,53 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "fYCDtFd_ut1kFhCTrX_RtFg2TG4",
-            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci41NkI0NEY2RDEwNTU3Q0M2",
-            "snippet": {
-                "publishedAt": "2022-06-20T14:21:04Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "56)تفسير سورة الواقعة الجزء الثاني(2) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الواقعة الجزء الثاني الشيخ علي هاني العقرباوي (2)\n\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rNWXZnenoQt7nGWR4LFz4Ur",
-                "position": 0,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "kzRFgtqQZdc"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "kzRFgtqQZdc",
-                "videoPublishedAt": "2019-06-08T16:57:38Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "1l-IglO3XIQWKx5qHR4lTiPSPp8",
+            "etag": "CzTI9jEhtbwwH10qiJE4CpOumtI",
             "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-06-20T14:21:04Z",
@@ -79,7 +33,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNWXZnenoQt7nGWR4LFz4Ur",
-                "position": 1,
+                "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ZrgU74NDAKQ"
@@ -94,31 +48,77 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XUYMODRZHobxMB8sx8v56PTQ98w",
-            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "08aPVwVPmwxz7c6wTIzMEpjj3VM",
+            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-06-20T14:21:04Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "56)تفسير سورة الواقعة الجزء الثامن(8) الشيخ علي هاني العقرباوي",
-                "description": "مع تفسير النسفي  ، وفيها تفسير تحليلي  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "56)تفسير سورة الواقعة الجزء الثاني(2) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الواقعة الجزء الثاني الشيخ علي هاني العقرباوي (2)\n\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kzRFgtqQZdc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNWXZnenoQt7nGWR4LFz4Ur",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kzRFgtqQZdc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "kzRFgtqQZdc",
+                "videoPublishedAt": "2019-06-08T16:57:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xjWg1fXJ6y4GcpijzOqLAO4_aE0",
+            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-06-20T14:21:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "56)تفسير سورة الواقعة الجزء الثالث(3) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الواقعة الجزء الثالث الشيخ علي هاني العقرباوي (3)\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -128,43 +128,43 @@
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "N8sfpgJKPi4"
+                    "videoId": "DyOO2ExRg7k"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "N8sfpgJKPi4",
-                "videoPublishedAt": "2019-06-08T14:32:24Z"
+                "videoId": "DyOO2ExRg7k",
+                "videoPublishedAt": "2019-06-08T13:29:27Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9lk4wTIbHkn5hqA-AjB-JgLWB-U",
-            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "X2VSq9pDKKhhPlAsHPnp00xZgL4",
+            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2022-06-20T14:21:04Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "56)تفسير سورة الواقعة الجزء التاسع(9) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة  الواقعة  مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "56)تفسير سورة الواقعة الجزء الرابع(4)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الواقعة  الشيخ علي هاني العقرباوي الجزء الرابع\n\n\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -174,43 +174,43 @@
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "YF2cHznW0BM"
+                    "videoId": "mhwx4GRT_aU"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "YF2cHznW0BM",
-                "videoPublishedAt": "2019-06-08T14:17:44Z"
+                "videoId": "mhwx4GRT_aU",
+                "videoPublishedAt": "2019-06-08T14:17:20Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "td6zPdIja6wQERspR4Ngh_eA_dc",
-            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "Dev2NYtsMGgQD3uu5kabFjJBU-0",
+            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
                 "publishedAt": "2022-06-20T14:21:04Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "56)تفسير سورة الواقعة الجزء السابع(7)الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الواقعة الشيخ علي هاني العقرباوي الجزء السابع\n مع تفسير النسفي  ، وفيها تفسير تحليلي  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "56)تفسير سورة الواقعة الجزء الخامس(5)  الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الواقعة  الشيخ علي هاني العقرباوي الجزء الخامس(5)\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -220,14 +220,14 @@
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "oY7kdUkjujc"
+                    "videoId": "QuVvmmi7qew"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "oY7kdUkjujc",
-                "videoPublishedAt": "2019-06-08T14:17:33Z"
+                "videoId": "QuVvmmi7qew",
+                "videoPublishedAt": "2019-06-08T13:32:30Z"
             }
         },
         {
@@ -278,31 +278,31 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xJaILhEY0iOHDIkZePW-yS0Ynps",
-            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci41MzJCQjBCNDIyRkJDN0VD",
+            "etag": "jyWtz8526TId5QYm-7XPbKiKj-0",
+            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-06-20T14:21:04Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "56)تفسير سورة الواقعة الجزء الرابع(4)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الواقعة  الشيخ علي هاني العقرباوي الجزء الرابع\n\n\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "56)تفسير سورة الواقعة الجزء السابع(7)الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الواقعة الشيخ علي هاني العقرباوي الجزء السابع\n مع تفسير النسفي  ، وفيها تفسير تحليلي  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/mhwx4GRT_aU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oY7kdUkjujc/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -312,43 +312,43 @@
                 "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "mhwx4GRT_aU"
+                    "videoId": "oY7kdUkjujc"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "mhwx4GRT_aU",
-                "videoPublishedAt": "2019-06-08T14:17:20Z"
+                "videoId": "oY7kdUkjujc",
+                "videoPublishedAt": "2019-06-08T14:17:33Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wDKdZjiAbpCC7xCjMh3v3vmrYWY",
-            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci5DQUNERDQ2NkIzRUQxNTY1",
+            "etag": "gNUBbbPo4ihobJdokHmWpWHT7ZQ",
+            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-06-20T14:21:04Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "56)تفسير سورة الواقعة الجزء الخامس(5)  الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الواقعة  الشيخ علي هاني العقرباوي الجزء الخامس(5)\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "56)تفسير سورة الواقعة الجزء الثامن(8) الشيخ علي هاني العقرباوي",
+                "description": "مع تفسير النسفي  ، وفيها تفسير تحليلي  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/default.jpg",
+                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/QuVvmmi7qew/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/N8sfpgJKPi4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -358,43 +358,43 @@
                 "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "QuVvmmi7qew"
+                    "videoId": "N8sfpgJKPi4"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "QuVvmmi7qew",
-                "videoPublishedAt": "2019-06-08T13:32:30Z"
+                "videoId": "N8sfpgJKPi4",
+                "videoPublishedAt": "2019-06-08T14:32:24Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "RW-MY5n93nyRqKnYdYZUBzfqHo4",
-            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci45NDk1REZENzhEMzU5MDQz",
+            "etag": "VKDGXca7hipj4ty-7cVSeocJLs4",
+            "id": "UExFRDREai1UNDNyTldYWm5lbm9RdDduR1dSNExGejRVci41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-06-20T14:21:04Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "56)تفسير سورة الواقعة الجزء الثالث(3) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الواقعة الجزء الثالث الشيخ علي هاني العقرباوي (3)\nتفسير سورة   الواقعة مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "56)تفسير سورة الواقعة الجزء التاسع(9) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة  الواقعة  مع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الواقعة  مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/default.jpg",
+                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/DyOO2ExRg7k/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YF2cHznW0BM/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -404,14 +404,14 @@
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "DyOO2ExRg7k"
+                    "videoId": "YF2cHznW0BM"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "DyOO2ExRg7k",
-                "videoPublishedAt": "2019-06-08T13:29:27Z"
+                "videoId": "YF2cHznW0BM",
+                "videoPublishedAt": "2019-06-08T14:17:44Z"
             }
         }
     ],

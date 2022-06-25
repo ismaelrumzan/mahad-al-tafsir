@@ -2,31 +2,31 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "ZBLyGfeQ1JxcFGmL_kuREmDP8pE",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "AdBFDXE7WjZIRNn0xB8HROTyNHo",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الثالث عشر(13) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الثالث عشر الشيخ علي هاني العقرباوي(13)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الأول(1) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الأول الشيخ علي هاني العقرباوي(1)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -36,43 +36,43 @@
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "H_KrfQYkGwo"
+                    "videoId": "WiqWMUov1pg"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "H_KrfQYkGwo",
-                "videoPublishedAt": "2019-06-12T21:07:24Z"
+                "videoId": "WiqWMUov1pg",
+                "videoPublishedAt": "2019-06-12T20:50:43Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jOwC4vzP0rCUDN93Vlr_mq7nVSM",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "Xe_0V2uTzpSzTLX_ceS2tSPCuDQ",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الرابع عشر(14) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الرابع عشر الشيخ علي هاني العقرباوي (14)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الثاني(2) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الثاني الشيخ علي هاني العقرباوي(2)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -82,43 +82,43 @@
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "FzPLDt-5Yh8"
+                    "videoId": "iXJPc32UPdo"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "FzPLDt-5Yh8",
-                "videoPublishedAt": "2019-06-12T21:06:12Z"
+                "videoId": "iXJPc32UPdo",
+                "videoPublishedAt": "2019-06-12T20:49:34Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ljSENY15PxidwLNIPNOFW5e7lZc",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "cXGBxR1UxdSZ46E1UCKVxSZIXYA",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الخامس عشر(15) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الخامس عشر الشيخ علي هاني العقرباوي (15)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": ")42تفسير سورة الشورى الجزء الثالث(3) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الثالث الشيخ علي هاني العقرباو(3)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -128,43 +128,43 @@
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "T7ZUqPcm_yQ"
+                    "videoId": "N3Hr8G8EQs8"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "T7ZUqPcm_yQ",
-                "videoPublishedAt": "2019-06-12T21:05:51Z"
+                "videoId": "N3Hr8G8EQs8",
+                "videoPublishedAt": "2019-06-12T20:56:02Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0pkM1hBv8TtP3wrDJ4hCidNg8lY",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy41MjE1MkI0OTQ2QzJGNzNG",
+            "etag": "cchLOzhJ1535zF8NUWfOnnNur7I",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الثاني عشر(12) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الثاني عشر الشيخ علي هاني العقرباوي (12)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الرابع(4) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الرابع الشيخ علي هاني العقرباوي(4)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -174,43 +174,43 @@
                 "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "y005wlrojJ4"
+                    "videoId": "CZlniOlNcxA"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "y005wlrojJ4",
-                "videoPublishedAt": "2019-06-12T21:05:45Z"
+                "videoId": "CZlniOlNcxA",
+                "videoPublishedAt": "2019-06-12T20:54:14Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "uRau4gKFeQ1WCEVnw9RqB_xkEV0",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4wOTA3OTZBNzVEMTUzOTMy",
+            "etag": "DaBNojlPWL84Lu-jYLGGyAL1-To",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الحادي عشر(11) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الحادي عشر الشيخ علي هاني العقرباوي (11\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الخامس(5) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الخامس الشيخ علي هاني العقرباوي(5)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -220,65 +220,19 @@
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "fP7oHT2HitQ"
+                    "videoId": "T819Ukvu4YE"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "fP7oHT2HitQ",
-                "videoPublishedAt": "2019-06-12T21:04:05Z"
+                "videoId": "T819Ukvu4YE",
+                "videoPublishedAt": "2019-06-12T20:57:55Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "of7_4l3kdA0KPKFXeqLLDa0R8UI",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4xMkVGQjNCMUM1N0RFNEUx",
-            "snippet": {
-                "publishedAt": "2022-06-20T08:52:24Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء التاسع(9) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء التاسع الشيخ علي هاني العقرباوي(9)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOLWI0MqVj8EnJdT9yonjG_",
-                "position": 5,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "CaAHmS4nGx8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "CaAHmS4nGx8",
-                "videoPublishedAt": "2019-06-12T21:02:14Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "8bPQ3u3hvLVxLOsEh3aR_SCdT8A",
+            "etag": "6sQCn_BxImAXt7UOqdGcpugVZ7A",
             "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
@@ -309,7 +263,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rOLWI0MqVj8EnJdT9yonjG_",
-                "position": 6,
+                "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lFDgcjTGi-I"
@@ -320,6 +274,52 @@
             "contentDetails": {
                 "videoId": "lFDgcjTGi-I",
                 "videoPublishedAt": "2019-06-12T21:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WM4OAlEI9vFezc0mkTBFZTYvDuA",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-06-20T08:52:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "42)تفسير سورة الشورى الجزء السابع(7) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء السابع الشيخ علي هاني العقرباوي(7)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOLWI0MqVj8EnJdT9yonjG_",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_XMunEDLnf0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_XMunEDLnf0",
+                "videoPublishedAt": "2019-06-12T20:56:30Z"
             }
         },
         {
@@ -370,7 +370,53 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "E3RYOy69URPu2pNfPAZ40yZXwMA",
+            "etag": "rLIo1bpHmg9vdC_RrtyQxRjlMuU",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-06-20T08:52:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "42)تفسير سورة الشورى الجزء التاسع(9) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء التاسع الشيخ علي هاني العقرباوي(9)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CaAHmS4nGx8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOLWI0MqVj8EnJdT9yonjG_",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CaAHmS4nGx8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "CaAHmS4nGx8",
+                "videoPublishedAt": "2019-06-12T21:02:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NoQfADCUWksJEncrlqSdxSqC5ao",
             "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
@@ -401,7 +447,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rOLWI0MqVj8EnJdT9yonjG_",
-                "position": 8,
+                "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oQh3S-d1aZo"
@@ -416,77 +462,31 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bvRmRGtPd_Afb4Eq17N1vYOOcHM",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy5GNjNDRDREMDQxOThCMDQ2",
+            "etag": "ji-y08Hc38Es3B7GINAoL1lrtJg",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الخامس(5) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الخامس الشيخ علي هاني العقرباوي(5)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الحادي عشر(11) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الحادي عشر الشيخ علي هاني العقرباوي (11\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/T819Ukvu4YE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rOLWI0MqVj8EnJdT9yonjG_",
-                "position": 9,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "T819Ukvu4YE"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "T819Ukvu4YE",
-                "videoPublishedAt": "2019-06-12T20:57:55Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "iEmhJMO-uQ0UzTnMYI-vyTnVWsk",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy40NzZCMERDMjVEN0RFRThB",
-            "snippet": {
-                "publishedAt": "2022-06-20T08:52:24Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء السابع(7) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء السابع الشيخ علي هاني العقرباوي(7)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/_XMunEDLnf0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fP7oHT2HitQ/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -496,43 +496,43 @@
                 "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "_XMunEDLnf0"
+                    "videoId": "fP7oHT2HitQ"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "_XMunEDLnf0",
-                "videoPublishedAt": "2019-06-12T20:56:30Z"
+                "videoId": "fP7oHT2HitQ",
+                "videoPublishedAt": "2019-06-12T21:04:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Wd98tSt9CGjssCABC6AzaXa2iIk",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy5EMEEwRUY5M0RDRTU3NDJC",
+            "etag": "806ty1UI9kB9J68POy_J7d_xry4",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": ")42تفسير سورة الشورى الجزء الثالث(3) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الثالث الشيخ علي هاني العقرباو(3)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الثاني عشر(12) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الثاني عشر الشيخ علي هاني العقرباوي (12)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/N3Hr8G8EQs8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/y005wlrojJ4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -542,43 +542,43 @@
                 "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "N3Hr8G8EQs8"
+                    "videoId": "y005wlrojJ4"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "N3Hr8G8EQs8",
-                "videoPublishedAt": "2019-06-12T20:56:02Z"
+                "videoId": "y005wlrojJ4",
+                "videoPublishedAt": "2019-06-12T21:05:45Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jKhh4dTHSE_O45VGWg2V5vMsrb8",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy45ODRDNTg0QjA4NkFBNkQy",
+            "etag": "b-O7l9fkaIG_x5i15ShdCLhuYmk",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الرابع(4) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الرابع الشيخ علي هاني العقرباوي(4)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الثالث عشر(13) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الثالث عشر الشيخ علي هاني العقرباوي(13)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/CZlniOlNcxA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/H_KrfQYkGwo/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -588,43 +588,43 @@
                 "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "CZlniOlNcxA"
+                    "videoId": "H_KrfQYkGwo"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "CZlniOlNcxA",
-                "videoPublishedAt": "2019-06-12T20:54:14Z"
+                "videoId": "H_KrfQYkGwo",
+                "videoPublishedAt": "2019-06-12T21:07:24Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vi5x0qROLD8xjDVxL-_SlY-6Bh0",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4zMDg5MkQ5MEVDMEM1NTg2",
+            "etag": "wqKbehmKunZeqoi1BQz7J7zUxTo",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الأول(1) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الأول الشيخ علي هاني العقرباوي(1)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الرابع عشر(14) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الرابع عشر الشيخ علي هاني العقرباوي (14)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/WiqWMUov1pg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FzPLDt-5Yh8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -634,43 +634,43 @@
                 "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "WiqWMUov1pg"
+                    "videoId": "FzPLDt-5Yh8"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "WiqWMUov1pg",
-                "videoPublishedAt": "2019-06-12T20:50:43Z"
+                "videoId": "FzPLDt-5Yh8",
+                "videoPublishedAt": "2019-06-12T21:06:12Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Cm_gm8SLC-mJsiPLB_LYv54MBoU",
-            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy41Mzk2QTAxMTkzNDk4MDhF",
+            "etag": "VmyhPZIIkWIS85jv-91CMZVMfeA",
+            "id": "UExFRDREai1UNDNyT0xXSTBNcVZqOEVuSmRUOXlvbmpHXy4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-06-20T08:52:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "42)تفسير سورة الشورى الجزء الثاني(2) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الشورى الجزء الثاني الشيخ علي هاني العقرباوي(2)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "42)تفسير سورة الشورى الجزء الخامس عشر(15) الشيخ علي هاني العقرباوي",
+                "description": "تفسير سورة الشورى الجزء الخامس عشر الشيخ علي هاني العقرباوي (15)\nتفسير سورة   الشورى مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/iXJPc32UPdo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T7ZUqPcm_yQ/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -680,14 +680,14 @@
                 "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "iXJPc32UPdo"
+                    "videoId": "T7ZUqPcm_yQ"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "iXJPc32UPdo",
-                "videoPublishedAt": "2019-06-12T20:49:34Z"
+                "videoId": "T7ZUqPcm_yQ",
+                "videoPublishedAt": "2019-06-12T21:05:51Z"
             }
         }
     ],

@@ -2,31 +2,31 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "D4RktyY_YghM6okLrbBM8eHE8uI",
-            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "oGWJ8Lj21UYfEV8zzgtEFdx2PDQ",
+            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2022-06-20T14:23:08Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "57)تفسير سورة الحديد الجزء الثامن(8) الشيخ علي هاني العقرباوي",
-                "description": "#seekersguidance\nتفسير سورة   الحديدمع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الحديدمأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "title": "57)تفسير سورة الحديد الجزء الأول (1)الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الحديد مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -36,14 +36,14 @@
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "YErq2zm54Oo"
+                    "videoId": "EFGTeSGWKxU"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "YErq2zm54Oo",
-                "videoPublishedAt": "2019-06-08T17:09:44Z"
+                "videoId": "EFGTeSGWKxU",
+                "videoPublishedAt": "2019-06-08T16:22:51Z"
             }
         },
         {
@@ -94,99 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5CovQXDXFSwxGkmOjaXdsHTpgZI",
-            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2022-06-20T14:23:08Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "57)تفسير سورة الحديد الجزء السابع (7)الشيخ علي هاني العقرباوي",
-                "description": "تفسير تحليلي لسورة الحديد مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPP2BC3WatGY81kxhyJ-LEh",
-                "position": 2,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "7tKWbkgg0G8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "7tKWbkgg0G8",
-                "videoPublishedAt": "2019-06-08T17:00:46Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Ntki9f5w0kC3blLoOoBfa2XPfsM",
-            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2022-06-20T14:23:08Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "57)تفسير سورة الحديد الجزء التاسع(9) الشيخ علي هاني العقرباوي",
-                "description": "تفسير تحليلي لسورة الحديد مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPP2BC3WatGY81kxhyJ-LEh",
-                "position": 3,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "iPcMcnFKrQs"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "iPcMcnFKrQs",
-                "videoPublishedAt": "2019-06-08T16:48:35Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "AiCspsMeh66zMiQDsa1xXW1nSZM",
+            "etag": "7kjK5VC4iCOGgOcA4mNuJOzp3vQ",
             "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-06-20T14:23:08Z",
@@ -217,7 +125,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPP2BC3WatGY81kxhyJ-LEh",
-                "position": 4,
+                "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ioaLNhSXREM"
@@ -232,31 +140,123 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nsEkU57xzd1uakFFyunbMDQOv70",
-            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC4xMkVGQjNCMUM1N0RFNEUx",
+            "etag": "41tId-FVXrE7OY3igoWkp_k8W6E",
+            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-06-20T14:23:08Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "57)تفسير سورة الحديد الجزء الأول (1)الشيخ علي هاني العقرباوي",
+                "title": "57)تفسير سورة الحديد الجزء السابع (7)الشيخ علي هاني العقرباوي",
                 "description": "تفسير تحليلي لسورة الحديد مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/EFGTeSGWKxU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7tKWbkgg0G8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPP2BC3WatGY81kxhyJ-LEh",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7tKWbkgg0G8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "7tKWbkgg0G8",
+                "videoPublishedAt": "2019-06-08T17:00:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d6Y5HrnWsHzwTFPlCP4N5-muvXo",
+            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-06-20T14:23:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "57)تفسير سورة الحديد الجزء الثامن(8) الشيخ علي هاني العقرباوي",
+                "description": "#seekersguidance\nتفسير سورة   الحديدمع تفسير النسفي  ، وفيها تفسير تحليلي لسورة الحديدمأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YErq2zm54Oo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPP2BC3WatGY81kxhyJ-LEh",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YErq2zm54Oo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YErq2zm54Oo",
+                "videoPublishedAt": "2019-06-08T17:09:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UnXr5UxbJHlEw10uFbpO_h7Zevc",
+            "id": "UExFRDREai1UNDNyUFAyQkMzV2F0R1k4MWt4aHlKLUxFaC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-06-20T14:23:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "57)تفسير سورة الحديد الجزء التاسع(9) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الحديد مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iPcMcnFKrQs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -266,14 +266,14 @@
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "EFGTeSGWKxU"
+                    "videoId": "iPcMcnFKrQs"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "EFGTeSGWKxU",
-                "videoPublishedAt": "2019-06-08T16:22:51Z"
+                "videoId": "iPcMcnFKrQs",
+                "videoPublishedAt": "2019-06-08T16:48:35Z"
             }
         }
     ],

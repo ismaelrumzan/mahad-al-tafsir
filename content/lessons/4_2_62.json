@@ -2,31 +2,31 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "r-6OMXhZf0Pvai9Lh_jxjk4YXEg",
-            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "6XKPEaAzpHx3LU4zGyPlLCuIxw0",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-06-20T17:53:44Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "62)تفسير سورة الجمعة الجزء الثالث(3)الشيخ علي هاني العقرباوي",
+                "title": "62)تفسير سورة الجمعة(1) الشيخ علي هاني العقرباوي",
                 "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -36,14 +36,14 @@
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "CAlEg7bRgq8"
+                    "videoId": "S10Yq-go5Lg"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "CAlEg7bRgq8",
-                "videoPublishedAt": "2019-05-24T02:26:29Z"
+                "videoId": "S10Yq-go5Lg",
+                "videoPublishedAt": "2019-05-24T02:22:32Z"
             }
         },
         {
@@ -94,31 +94,31 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "UD3T0vPkXb6ZZZjqI0h17e4uJ6o",
-            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "cClmpOELHR7uHJjdjRnZc0saH-U",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-06-20T17:53:44Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "62)تفسير سورة الجمعة(1) الشيخ علي هاني العقرباوي",
+                "title": "62)تفسير سورة الجمعة الجزء الثالث(3)الشيخ علي هاني العقرباوي",
                 "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     }
@@ -128,14 +128,14 @@
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "S10Yq-go5Lg"
+                    "videoId": "CAlEg7bRgq8"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "S10Yq-go5Lg",
-                "videoPublishedAt": "2019-05-24T02:22:32Z"
+                "videoId": "CAlEg7bRgq8",
+                "videoPublishedAt": "2019-05-24T02:26:29Z"
             }
         }
     ],
