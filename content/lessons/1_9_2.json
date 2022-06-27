@@ -716,7 +716,1222 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Zu1wWc-SHu2QxQ6qHVE8aEybMoo",
+            "etag": "6SjFixv6xsvmGNLvLIHJfNCYC_E",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:09:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (15) المعرب والمبني",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZD-PK_8rbfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZD-PK_8rbfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZD-PK_8rbfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZD-PK_8rbfc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZD-PK_8rbfc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZD-PK_8rbfc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ZD-PK_8rbfc",
+                "videoPublishedAt": "2022-06-27T08:14:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V-rgaAF8VHua0r4CfFc8_6npxbU",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:10:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (16) تكملة المعرب والمبني",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QDN_Db7EsZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QDN_Db7EsZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QDN_Db7EsZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QDN_Db7EsZM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QDN_Db7EsZM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QDN_Db7EsZM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "QDN_Db7EsZM",
+                "videoPublishedAt": "2022-06-27T08:15:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mci982kAV9CvdpZDsTIX6AW7Wvw",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:11:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (17) بناء الماضي والأمر",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l7Z-0CQ6gUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l7Z-0CQ6gUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l7Z-0CQ6gUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l7Z-0CQ6gUI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l7Z-0CQ6gUI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l7Z-0CQ6gUI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "l7Z-0CQ6gUI",
+                "videoPublishedAt": "2022-06-27T08:12:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nWyQ4ZyadSYAS2CT0FKRdsL06Ks",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:12:00Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (18) إعراب الفعل المضارع",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mQNgik0eki0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mQNgik0eki0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mQNgik0eki0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mQNgik0eki0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mQNgik0eki0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mQNgik0eki0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "mQNgik0eki0",
+                "videoPublishedAt": "2022-06-27T08:16:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q_k-lzoKQe2z_duuJ6K4fxuswd4",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:12:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (19) وكل حرف مستحق للبنا",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2KgJjGenLHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2KgJjGenLHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2KgJjGenLHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2KgJjGenLHA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2KgJjGenLHA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2KgJjGenLHA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2KgJjGenLHA",
+                "videoPublishedAt": "2022-06-27T08:14:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VQ8lKbYTrJUzs6SzllT5Q3-Nc4o",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:17:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (20) وكل حرف مستحق للبنا الجزء الثاني",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DaO67bZOdfE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DaO67bZOdfE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DaO67bZOdfE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DaO67bZOdfE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DaO67bZOdfE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DaO67bZOdfE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "DaO67bZOdfE",
+                "videoPublishedAt": "2022-06-27T08:17:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ip5fCNCF_lB2nyVP1Bgh2RWL7vU",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:13:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (21) والاسم قد خصص بالجر كما",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qlcVxRU0amQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qlcVxRU0amQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qlcVxRU0amQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qlcVxRU0amQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qlcVxRU0amQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qlcVxRU0amQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qlcVxRU0amQ",
+                "videoPublishedAt": "2022-06-27T08:15:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xjbydyj_8opzPBDS6gn3ytQQX7k",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:14:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (22) الأسماء الخمسة القسم الأول",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rTycPZNYwbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rTycPZNYwbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rTycPZNYwbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rTycPZNYwbc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rTycPZNYwbc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rTycPZNYwbc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rTycPZNYwbc",
+                "videoPublishedAt": "2022-06-27T08:21:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iOVaSogDPeklynNTBqj2X15U08w",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:14:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (23) تكملة الأسماء الخمسة",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qcEiyleR_mk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qcEiyleR_mk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qcEiyleR_mk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qcEiyleR_mk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qcEiyleR_mk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qcEiyleR_mk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qcEiyleR_mk",
+                "videoPublishedAt": "2022-06-27T08:16:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mbOs3gc3JzlRSsXyOTHDWIq5OuQ",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:15:23Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (24) المثنى القسم الأول",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/olTEKCy5KBw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/olTEKCy5KBw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/olTEKCy5KBw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/olTEKCy5KBw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/olTEKCy5KBw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "olTEKCy5KBw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "olTEKCy5KBw",
+                "videoPublishedAt": "2022-06-27T08:18:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CKUhOxDHy6gX-dORA7BdEPxc9uU",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:15:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (25)  المثنى القسم الثاني",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kYbWZF7awwc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kYbWZF7awwc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kYbWZF7awwc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kYbWZF7awwc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "kYbWZF7awwc",
+                "videoPublishedAt": "2022-06-27T08:18:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eSiwpKavJ6KZ0zLdfUdRyG9CYSE",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:16:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (26) جمع المذكر السالم",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sGNqYSLNaxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sGNqYSLNaxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sGNqYSLNaxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sGNqYSLNaxY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sGNqYSLNaxY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sGNqYSLNaxY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "sGNqYSLNaxY",
+                "videoPublishedAt": "2022-06-27T08:29:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "F85_r2WUyL6IOtIJ19HH4iq40ag",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:18:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (27) جمع المذكر السالم القسم الثاني",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c73z7HFOSxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c73z7HFOSxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c73z7HFOSxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c73z7HFOSxA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c73z7HFOSxA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c73z7HFOSxA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "c73z7HFOSxA",
+                "videoPublishedAt": "2022-06-27T08:19:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_h4C9qwIcJgMcqmRvqcc5QUfWYw",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:19:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (28) الملحق بجمع المذكر السالم",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5I1A842v_jw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5I1A842v_jw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5I1A842v_jw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5I1A842v_jw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "5I1A842v_jw",
+                "videoPublishedAt": "2022-06-27T08:21:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AhX510Dv7Iw3R52DzZtpZInjcxU",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:20:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (29) ومثل حين قد يرد",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7BX6ZO_Ul5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7BX6ZO_Ul5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7BX6ZO_Ul5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7BX6ZO_Ul5Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7BX6ZO_Ul5Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7BX6ZO_Ul5Y"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "7BX6ZO_Ul5Y",
+                "videoPublishedAt": "2022-06-27T08:27:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sbmrSmRZ3jd4wA7ADB4bOE0QU2E",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:51:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (30) جمع المؤنث السالم",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fxF8snytB6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fxF8snytB6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fxF8snytB6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fxF8snytB6k"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fxF8snytB6k",
+                "videoPublishedAt": "2022-06-27T09:02:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ImF66qwPhBvVuSvt7WXX6lI79C8",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:52:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (31) الممنوع من الصرف والأفعال الخمسة",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/17QtXGMVkK0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/17QtXGMVkK0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/17QtXGMVkK0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/17QtXGMVkK0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/17QtXGMVkK0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "17QtXGMVkK0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "17QtXGMVkK0",
+                "videoPublishedAt": "2022-06-27T08:58:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "egNq72qFdrtgFo8f3UHIowpX7Oo",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:52:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (32) المقصور والمنقوص",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6TnZFbFEOxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6TnZFbFEOxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6TnZFbFEOxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6TnZFbFEOxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6TnZFbFEOxo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6TnZFbFEOxo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "6TnZFbFEOxo",
+                "videoPublishedAt": "2022-06-27T09:04:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ku23pIxL5lR3CcySXUVayCsQDFA",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:53:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (33) الفعل المضارع المعتل الآخر",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/71n7DIYRAS0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/71n7DIYRAS0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/71n7DIYRAS0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/71n7DIYRAS0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/71n7DIYRAS0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "71n7DIYRAS0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "71n7DIYRAS0",
+                "videoPublishedAt": "2022-06-27T08:57:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ql40IpMMaLcKy1AWcpsKvn1gIEI",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:53:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (34) النكرة والمعرفة القسم الأول",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ccGi-Ys9apo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ccGi-Ys9apo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ccGi-Ys9apo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ccGi-Ys9apo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ccGi-Ys9apo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ccGi-Ys9apo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ccGi-Ys9apo",
+                "videoPublishedAt": "2022-06-27T09:04:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3WE81Hn98USAb-Xpp-uUW5ENTGs",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4xNTZBNUQxMDZBQzFGMjkw",
+            "snippet": {
+                "publishedAt": "2022-06-27T10:38:02Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (35) النكرة والمعرفة القسم الثاني",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tU8-gu07jUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tU8-gu07jUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tU8-gu07jUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tU8-gu07jUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tU8-gu07jUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tU8-gu07jUg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "tU8-gu07jUg",
+                "videoPublishedAt": "2022-06-27T10:43:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WUOikhmqonfm7JBqrIKLE-gN_IM",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:54:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (36) القسم الأول من الضمائر",
+                "description": "https://drive.google.com/file/d/1pJ6TvLuCRA5oIoCg0VlADn_zT-2fi3jQ/view?usp=sharingهذا رابط جدول الضمائر 1\nهذا رابط الجدول الثاني للضمائر \nhttps://drive.google.com/file/d/1pnMybgSdlPML1QYJ0Hdi-sb9dWx020J1/view?usp=sharing\n\n\nالمستوى الحادي  عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجروميةا4) \n\n\n\n التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yi8Ic9bjFDs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yi8Ic9bjFDs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yi8Ic9bjFDs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yi8Ic9bjFDs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "yi8Ic9bjFDs",
+                "videoPublishedAt": "2022-06-27T08:58:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "j2YhfFCuMOOffcuRRwzjiy5IPsI",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:56:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (37) القسم الثاني من الضمائر",
+                "description": "https://drive.google.com/file/d/1pJ6TvLuCRA5oIoCg0VlADn_zT-2fi3jQ/view?usp=sharingهذا رابط جدول الضمائر 1\nهذا رابط الجدول الثاني للضمائر \nhttps://drive.google.com/file/d/1pnMybgSdlPML1QYJ0Hdi-sb9dWx020J1/view?usp=sharing\n\n\n\n المستوى الحادي  عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم\n التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ci0dRdVkWD0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ci0dRdVkWD0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ci0dRdVkWD0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ci0dRdVkWD0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Ci0dRdVkWD0",
+                "videoPublishedAt": "2022-06-27T09:05:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4ABlG607NqG7fGN-tpPySD86mP8",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC44QTY2MEEzNzBFQUJCMUQ2",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:57:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (38) القسم الثالث من الضمائر",
+                "description": "https://drive.google.com/file/d/1pJ6TvLuCRA5oIoCg0VlADn_zT-2fi3jQ/view?usp=sharingهذا رابط جدول الضمائر 1\nهذا رابط الجدول الثاني للضمائر \nhttps://drive.google.com/file/d/1pnMybgSdlPML1QYJ0Hdi-sb9dWx020J1/view?usp=sharing\n\n المستوى الحادي  عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l-uqP-q3_3I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l-uqP-q3_3I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l-uqP-q3_3I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l-uqP-q3_3I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l-uqP-q3_3I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l-uqP-q3_3I"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "l-uqP-q3_3I",
+                "videoPublishedAt": "2022-06-27T08:58:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "85EKc6TKaBzF1vVXtvMHrl5SttA",
+            "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2022-06-27T08:58:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح الأشموني (39) وصل أو افصل هاء سلنيه وما",
+                "description": "المستوى الحادي عشر في سلسلة دراسة النحو:1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي وهذا من أهم الكتب عندي لطالب النحو يغفل عنه الطلاب 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zSypfKnX324/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zSypfKnX324/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zSypfKnX324/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zSypfKnX324"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "zSypfKnX324",
+                "videoPublishedAt": "2022-06-27T09:04:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_fTP3LW58ohco3QxkDlMJ7O0-Fc",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2020-04-12T11:25:25Z",
@@ -747,7 +1962,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 14,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "1u63UZryeKk"
@@ -762,7 +1977,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rizk9qjgc3HY1rTSoU4BoHAoBcM",
+            "etag": "54lTAbuFg4SUjCsP7MFXuuYmzTo",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2020-05-09T09:16:58Z",
@@ -793,7 +2008,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 15,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nH2cvUwXfV8"
@@ -808,7 +2023,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_MxL-ECsUxa6nQzDFOVbAl5B8MY",
+            "etag": "9voO-ulkGtU3N0HbMx_RPVYOluk",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2020-05-09T09:18:47Z",
@@ -839,7 +2054,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 16,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "58Cu7Mmk2C0"
@@ -854,7 +2069,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dgyBnSwBrF7GraW5qWNmBY1kPrg",
+            "etag": "elOzsznjmvYLdHPSqat6Fbr9YVE",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2020-05-09T09:14:52Z",
@@ -885,7 +2100,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 17,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "DnlmjTPOVX8"
@@ -900,7 +2115,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "uR9WR73d4kcb9s3IYy74aRLAf3o",
+            "etag": "C1pV6tn82y1t9plaLmKVPCHvr7U",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2020-05-31T02:40:08Z",
@@ -931,7 +2146,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 18,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Pva7jqrps1o"
@@ -946,7 +2161,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Tat3CgbUG1UO8MYMoGRCv_vnXEY",
+            "etag": "KSg47lpsP05kVerN9uLIrdB31Cs",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2020-05-31T02:43:05Z",
@@ -977,7 +2192,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 19,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "s8wRek2hq6o"
@@ -992,7 +2207,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JCVdLRL3DNwh0D7LQ2KDXG7pKAk",
+            "etag": "tO7tPqF3emthr2x1WMR69VLKfso",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2020-06-07T20:42:28Z",
@@ -1023,7 +2238,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 20,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "AO_UBV6R-jA"
@@ -1038,7 +2253,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Om3xCqIlkkz4skFIU9ofX_DFCpU",
+            "etag": "68UPar5EVmLkmk0djOtREkghrfM",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
                 "publishedAt": "2020-09-16T04:25:03Z",
@@ -1069,7 +2284,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 21,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "DIYFB3uNNjE"
@@ -1084,7 +2299,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zQqTtEDI-leEBHTPDe3s7igRQgI",
+            "etag": "pnjA9I_IKE9F4fuHLVVhlHIWnmQ",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2020-09-16T04:26:30Z",
@@ -1115,7 +2330,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 22,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "TT8VoJYOE3s"
@@ -1130,7 +2345,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Px4CUI3V3SKUF9BCQMqSOdWoIMU",
+            "etag": "pMAwUlDb9B-VhxFIKyAcOLUEEqg",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
                 "publishedAt": "2020-09-16T04:27:38Z",
@@ -1166,7 +2381,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 23,
+                "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qZSR0T1ZjV4"
@@ -1181,7 +2396,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "F8N8IGRkSBDyqWAE2ItOsU4QZTE",
+            "etag": "M__AIarqSE4fzm6m6veWw2S73M0",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-09-16T04:28:50Z",
@@ -1212,7 +2427,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 24,
+                "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "HQ0enkkRRC4"
@@ -1227,7 +2442,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9ot-_i5pRcNySHtIJdJvsunhuGw",
+            "etag": "hSR7NSb2sJ2emPvMCeLMCjyeZG0",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2020-09-16T04:30:09Z",
@@ -1258,7 +2473,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 25,
+                "position": 50,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7tI73F7P43Y"
@@ -1273,7 +2488,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "sG9zpom6Qxt1qLKD823wMjfvkkU",
+            "etag": "_kCmwof_ewY4jyQv35dQ0vzHDf8",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2020-09-16T04:44:20Z",
@@ -1304,7 +2519,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 26,
+                "position": 51,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Kmice1MFvpY"
@@ -1319,7 +2534,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "K8wtln7sdoHWAf8rpQIliCXREoQ",
+            "etag": "V2hsg71eRacMj5BFor1YzfID8hA",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2020-09-16T04:31:20Z",
@@ -1350,7 +2565,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 27,
+                "position": 52,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yiyuZSEWSYo"
@@ -1365,7 +2580,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OgrcW45C9N41rfz3dn5EJl5725Y",
+            "etag": "9QQkOCaeu1A26Cus4AG61Nl5jyE",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2020-09-16T04:32:33Z",
@@ -1396,7 +2611,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 28,
+                "position": 53,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "93nv5YVQ_jI"
@@ -1411,7 +2626,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2_-PbWXiW6Dy5eVPmZ5IdRTBjqk",
+            "etag": "5Y4pTO0vvBB9L4pygfJiVikly8M",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2020-09-16T04:33:51Z",
@@ -1442,7 +2657,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 29,
+                "position": 54,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mlo_S_jp3R0"
@@ -1457,7 +2672,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jjopYXVdX6HC8-jdsnxBi6_EkEA",
+            "etag": "m9ZVszBY_dIGziSneACt7G6Cquk",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2020-09-16T04:34:58Z",
@@ -1488,7 +2703,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 30,
+                "position": 55,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GBXeRRg4TxA"
@@ -1503,7 +2718,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gN2_oruQ1hk09Vjd1yhkOjADddY",
+            "etag": "fA-vsZpm66MsAUVqm87j09OjOSY",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2020-09-16T04:36:18Z",
@@ -1534,7 +2749,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 31,
+                "position": 56,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nJi3qgsr6dM"
@@ -1549,7 +2764,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_zv0h62bPWOSpUa6xfMmhUjkOXs",
+            "etag": "ixIPJQRR4rtMnI8v46QJn-W4LLE",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
                 "publishedAt": "2020-09-16T04:39:00Z",
@@ -1585,7 +2800,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 32,
+                "position": 57,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FpM4UkeOeIM"
@@ -1600,7 +2815,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "oX3Qvashid0QnredMiiEgSkaZj4",
+            "etag": "Q-IDhPfO2tjb2Y4aAPFTnb1KpVI",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
                 "publishedAt": "2020-09-16T04:40:03Z",
@@ -1636,7 +2851,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 33,
+                "position": 58,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KUxk5AUQY8Q"
@@ -1651,7 +2866,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TfVsnL44wnsGY-OyMnwpNQ3G970",
+            "etag": "ZhJq07PmALOHCSwQ2wmH9OPUCf0",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2020-09-16T04:41:00Z",
@@ -1682,7 +2897,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 34,
+                "position": 59,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "QV0hK8aQwpM"
@@ -1697,7 +2912,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_NM-PcNvuiIblT7FMDmKB2V6yBY",
+            "etag": "N1C9ZZBg3L91IJYcHmLmGZVJkQ0",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
                 "publishedAt": "2020-09-16T04:42:05Z",
@@ -1728,7 +2943,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 35,
+                "position": 60,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "hxqJUSGujWI"
@@ -1743,7 +2958,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7SXzAf5qB26a1GcfuLHh0r3voT8",
+            "etag": "6-PZKefv8hJY5y-wrGrUGJr6IZw",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2020-09-16T04:49:08Z",
@@ -1774,7 +2989,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 36,
+                "position": 61,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "XAtJFf537tw"
@@ -1789,7 +3004,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Spwl28tuU_Dk5W-MGkWEOsGPHKk",
+            "etag": "NPUa7AIuIw85Xrc6CGeLM6cj5Hc",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
                 "publishedAt": "2020-09-16T04:47:46Z",
@@ -1820,7 +3035,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 37,
+                "position": 62,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "EhtRQccEMLU"
@@ -1835,7 +3050,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "k5YR5BtIzHiNtGZUf-kxNEl3rrE",
+            "etag": "hEeVyeGPv80xvZpwJBBXNgsAcWk",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2020-09-16T04:50:05Z",
@@ -1866,7 +3081,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 38,
+                "position": 63,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "hYiBYzsxwMA"
@@ -1881,7 +3096,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "opfmOsLaxabcwfoPZdRYH37uQjE",
+            "etag": "KAmDp-P7i1WO91ZA91buJjJ1bsg",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-09-16T04:52:57Z",
@@ -1912,7 +3127,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 39,
+                "position": 64,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "dHhahciyqtA"
@@ -1927,7 +3142,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0A_z1P_ZtwkMlOc1CyNhPoD47b8",
+            "etag": "_qvTUlPOnAnvII3UkmyxLEIkdd4",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2020-09-16T04:53:56Z",
@@ -1958,7 +3173,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 40,
+                "position": 65,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "HD030WqAS-Y"
@@ -1973,7 +3188,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "E9MQLYh3CJhS4waP3AaqwTFl3aY",
+            "etag": "QNXxBfMB6vh2BTIcX_rz27tADZk",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2020-09-16T14:10:36Z",
@@ -2009,7 +3224,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 41,
+                "position": 66,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9FJIk2kZjsE"
@@ -2024,7 +3239,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KQFVxB-qPiD6AP3AAg_WTC3yo_Y",
+            "etag": "mDHUSdvCae5krpBZfMCBYSjnY-E",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2020-09-16T14:12:11Z",
@@ -2060,7 +3275,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 42,
+                "position": 67,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "dkaD10PMV9c"
@@ -2075,7 +3290,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "urVzJR5mFMJwbqt38eSUUtPEXcw",
+            "etag": "8kcM8T8uk-SBcWVWtJiPu1ItgL8",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2020-09-16T14:13:50Z",
@@ -2111,7 +3326,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 43,
+                "position": 68,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "h_Engynzevo"
@@ -2126,7 +3341,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "95pzoZhd6BSbtk21iZSbz4zA8cA",
+            "etag": "CXNjSTgw8gwBO4a6ZEQqaqrQa5w",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
                 "publishedAt": "2020-09-16T14:15:34Z",
@@ -2162,7 +3377,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 44,
+                "position": 69,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "BYrzq3F1BNk"
@@ -2177,7 +3392,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "e6dS0e0qG5QH85JzLXxqYH_zlXU",
+            "etag": "QQnU9SpTIlxzvqT7Eeyfv3Nj1dc",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
                 "publishedAt": "2020-09-16T14:16:45Z",
@@ -2208,7 +3423,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 45,
+                "position": 70,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Fv7Kj0knOlc"
@@ -2223,7 +3438,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "znZAP7NCGXSmlpxZ1_4CwPME9U0",
+            "etag": "d42xYPigSA0wV26JmPoA74mY2pQ",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2020-09-16T14:18:03Z",
@@ -2254,7 +3469,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 46,
+                "position": 71,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7YFnwnmCpPg"
@@ -2269,7 +3484,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "t1G-ufjnXAr8v2-JdR1vFjUkrW4",
+            "etag": "blL_H8xhpFV2sqkIV8QZN2fS4nw",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5CMEQ2Mjk5NTc3NDZFRUNB",
             "snippet": {
                 "publishedAt": "2020-09-16T14:19:21Z",
@@ -2300,7 +3515,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 47,
+                "position": 72,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ty13LKNl3n8"
@@ -2315,7 +3530,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "U8zvRgN_mexaUubHoTxTWXQfPYk",
+            "etag": "-drrPCqHwUP5Zywvxjjl2BX4Wu0",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2020-09-16T14:20:35Z",
@@ -2346,7 +3561,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 48,
+                "position": 73,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "V4ou5ssaLoQ"
@@ -2361,7 +3576,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ub3JhclZR1SWUnp_i-r66mEny8A",
+            "etag": "IBNpV2ENhhEiJt9f_CW0PU_OxIQ",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC40QTA3NTU2RkM1QzlCMzYx",
             "snippet": {
                 "publishedAt": "2020-09-16T15:50:34Z",
@@ -2397,7 +3612,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 49,
+                "position": 74,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NFds9BhIvX0"
@@ -2412,7 +3627,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "RCkrG78EwMPhfHHrxcS7oQO6ZOM",
+            "etag": "0PMn_mTLujQDIdwInj4zzBRj3IM",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
                 "publishedAt": "2020-09-16T15:47:52Z",
@@ -2448,7 +3663,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 50,
+                "position": 75,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PDf3qnSyIdM"
@@ -2463,7 +3678,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IDLhpOx9ld-4dRnHMW_bzRJ6dho",
+            "etag": "xlp7NKxPK-L8OJPrE2g7UlMj6t8",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
                 "publishedAt": "2020-09-16T17:06:19Z",
@@ -2499,7 +3714,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 51,
+                "position": 76,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OODwSEc-NCo"
@@ -2514,7 +3729,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DovGLQjrQIOIXqa5ZZph0r-rCFc",
+            "etag": "mm-wRmc_loypbZelWG-WCANnYT8",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
                 "publishedAt": "2020-09-16T16:27:01Z",
@@ -2550,7 +3765,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 52,
+                "position": 77,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7HGvZSXYJFQ"
@@ -2565,7 +3780,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Yvt1sQntoH_WrbFicGHZvifFfJw",
+            "etag": "8-4HjZra0who3ltimB39zZCo_hw",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2020-09-16T16:31:50Z",
@@ -2596,7 +3811,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 53,
+                "position": 78,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FQeo1BtF_xA"
@@ -2611,7 +3826,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yPU1N3XDcwrQk92I3Q3qbgYNTnY",
+            "etag": "LRVdE7v6C_2oaIq81BW8mRLuytE",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC4zQzFBN0RGNzNFREFCMjBE",
             "snippet": {
                 "publishedAt": "2020-11-14T21:04:29Z",
@@ -2647,7 +3862,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 54,
+                "position": 79,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "_xLzDwZPFsE"
@@ -2662,7 +3877,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Yl9ouNXFP7UHu2eYv5_jX4EPuEk",
+            "etag": "jRn8rtblAyCm8y0RVaoVb2sZ0ts",
             "id": "UExFRDREai1UNDNyTlVDSnhtWWJtZzJBbHBUTGFienFMeC45NkVENTkxRDdCQUFBMDY4",
             "snippet": {
                 "publishedAt": "2020-11-21T21:25:33Z",
@@ -2698,7 +3913,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rNUCJxmYbmg2AlpTLabzqLx",
-                "position": 55,
+                "position": 80,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "P2XkTxRRBLg"
