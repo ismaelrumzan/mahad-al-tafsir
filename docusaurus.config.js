@@ -40,6 +40,7 @@ const config = {
     algoliaAppId: process.env.ALGOLIA_APP_ID,
     algoliaApiKey: process.env.ALGOLIA_API_KEY,
     algoliaIndex: process.env.ALGOLIA_INDEX,
+    YTKey: process.env.YOUTUBE_API_KEY,
   },
 
   themeConfig:
@@ -55,7 +56,7 @@ const config = {
         logo: {
           alt: "logo",
           src: "img/logo-white.png",
-          srcDark: 'img/logo-black.png',
+          srcDark: "img/logo-black.png",
         },
         items: [
           {
