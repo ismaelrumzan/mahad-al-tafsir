@@ -1,5 +1,4 @@
 import React from "react";
-import { Player, BigPlayButton } from "video-react";
 import loaderLight from "@site/static/img/loader_light.png";
 import loaderDark from "@site/static/img/loader_dark.png";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
@@ -40,6 +39,10 @@ export function VideoPlayer({ id }) {
       <img src={loaderLight} />
     );
   }
-
-  return <Player src={data.data[0].url} />;
+  return (
+    <video controls width="100%">
+      <source src={data.data[0].url} type="video/mp4" />
+      Sorry, your browser doesn't support embedded videos.
+    </video>
+  );
 }
