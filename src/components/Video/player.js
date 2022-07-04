@@ -40,7 +40,7 @@ export function VideoPlayer({ id }) {
     );
   }
   return (
-    <video controls width="100%">
+    <video controls controlsList="nodownload" width="100%">
       <source src={data.data[0].url} type="video/mp4" />
       Sorry, your browser doesn't support embedded videos.
     </video>
