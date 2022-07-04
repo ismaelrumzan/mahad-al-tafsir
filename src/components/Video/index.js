@@ -1,8 +1,6 @@
 import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
-import Select from 'react-select';
-import YouTube from "react-youtube";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCaretRight, faCaretLeft } from "@fortawesome/free-solid-svg-icons";
+import Select from "react-select";
+import { VideoPlayer } from "../Video/player";
 import styles from "./styles.module.css";
 
 export default function VideoList({ children, data = {} }) {
@@ -28,29 +26,22 @@ export default function VideoList({ children, data = {} }) {
     }
   });
 
-  data.items.map( ( item, index ) => {
-    vidOptions.push( { value: index, label: item.snippet.title } )
-  } );
-
-  const opts = {
-    playerVars: {
-      rel: 0,
-      modestbranding: 1,
-      listType: "playlist",
-      list: data.items[itemIndex].snippet.playlistId,
-    },
-  };
+  data.items.map((item, index) => {
+    vidOptions.push({ value: index, label: item.snippet.title });
+  });
 
   function changeItem(i) {
     setvidItem(i);
     window.location.href = `#${i.value}`;
   }
 
-  function changeItemNav( i, direction ) {
+  function changeItemNav(i, direction) {
     let num = 0;
-    direction === 'forward' ? num = data.items.indexOf(i) + 1 : num = data.items.indexOf(i) - 1;
+    direction === "forward"
+      ? (num = data.items.indexOf(i) + 1)
+      : (num = data.items.indexOf(i) - 1);
 
-    if ( num >= 0 && num !== null && num !== undefined ) {
+    if (num >= 0 && num !== null && num !== undefined) {
       setvidItem(num);
       setItemIndex(num);
       window.location.href = `#${num}`;
@@ -65,17 +56,18 @@ export default function VideoList({ children, data = {} }) {
             className={styles.selectClass}
             options={vidOptions}
             onChange={changeItem}
-            defaultValue={{ label: `${data.items[itemIndex].snippet.title}`, value: 0 }}
+            defaultValue={{
+              label: `${data.items[itemIndex].snippet.title}`,
+              value: 0,
+            }}
           />
         </div>
       </div>
       <div className={styles.vidContainer}>
         {children}
-        <YouTube
+        <VideoPlayer
           className={styles.video}
-          iframeClassName={styles.videoResponsive}
-          videoId={data.items[itemIndex].snippet.resourceId.videoId}
-          opts={opts}
+          id={data.items[itemIndex].snippet.resourceId.videoId}
         />
       </div>
     </main>

@@ -34,7 +34,10 @@ function HomepageHeader() {
           </Link>
         </div>
         <div className={styles.searchContainer}>
-          <Search className={styles.searchContainer} initialValue="ابحث عن التسجيلات أو استكشف أدناه" />
+          <Search
+            className={styles.searchContainer}
+            initialValue="ابحث عن التسجيلات أو استكشف أدناه"
+          />
         </div>
       </div>
     </header>
