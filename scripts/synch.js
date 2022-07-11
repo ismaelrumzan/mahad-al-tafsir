@@ -107,7 +107,6 @@ const testPlaylist = async () => {
     id: "PLQ3tuFIYeuXDovl1AzbJjqOcT7JVCntQ8",
   });
 };
-
 //testPlaylist();
 fse.emptyDirSync(lessonsDirectory);
 getAllItems(tafsirjson);

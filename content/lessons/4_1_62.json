@@ -1,0 +1,286 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6XKPEaAzpHx3LU4zGyPlLCuIxw0",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-20T17:53:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "62)تفسير سورة الجمعة(1) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S10Yq-go5Lg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPVbqXN49Lca275otj_S-f1",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S10Yq-go5Lg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "S10Yq-go5Lg",
+                "videoPublishedAt": "2019-05-24T02:22:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3woyLb_4YJlsZrLrHQy-YU9rqCI",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-20T17:53:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "62)تفسير سورة الجمعة الجزء الثاني(2) الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qgu4IUk3S8M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPVbqXN49Lca275otj_S-f1",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qgu4IUk3S8M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qgu4IUk3S8M",
+                "videoPublishedAt": "2019-05-24T02:23:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cClmpOELHR7uHJjdjRnZc0saH-U",
+            "id": "UExFRDREai1UNDNyUFZicVhONDlMY2EyNzVvdGpfUy1mMS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-06-20T17:53:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "62)تفسير سورة الجمعة الجزء الثالث(3)الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة الجمعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CAlEg7bRgq8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPVbqXN49Lca275otj_S-f1",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CAlEg7bRgq8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "CAlEg7bRgq8",
+                "videoPublishedAt": "2019-05-24T02:26:29Z"
+            }
+        }
+    ],
+    "title": "سورة الجمعة تفسير النسفي",
+    "nav": "",
+    "id": "4_1_62",
+    "verses": {
+        "number": 62,
+        "name": "سورة الجمعة",
+        "englishName": "Al-Jumu'a",
+        "englishNameTranslation": "Friday",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 11,
+        "ayahs": [
+            {
+                "number": 5178,
+                "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
+                "numberInSurah": 1,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5179,
+                "text": "هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ",
+                "numberInSurah": 2,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5180,
+                "text": "وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+                "numberInSurah": 3,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5181,
+                "text": "ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+                "numberInSurah": 4,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5182,
+                "text": "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+                "numberInSurah": 5,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5183,
+                "text": "قُلْ يَا أَيُّهَا الَّذِينَ هَادُوا إِنْ زَعَمْتُمْ أَنَّكُمْ أَوْلِيَاءُ لِلَّهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ",
+                "numberInSurah": 6,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5184,
+                "text": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+                "numberInSurah": 7,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5185,
+                "text": "قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+                "numberInSurah": 8,
+                "juz": 28,
+                "manzil": 7,
+                "page": 553,
+                "ruku": 486,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5186,
+                "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+                "numberInSurah": 9,
+                "juz": 28,
+                "manzil": 7,
+                "page": 554,
+                "ruku": 487,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5187,
+                "text": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+                "numberInSurah": 10,
+                "juz": 28,
+                "manzil": 7,
+                "page": 554,
+                "ruku": 487,
+                "hizbQuarter": 221,
+                "sajda": false
+            },
+            {
+                "number": 5188,
+                "text": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+                "numberInSurah": 11,
+                "juz": 28,
+                "manzil": 7,
+                "page": 554,
+                "ruku": 487,
+                "hizbQuarter": 221,
+                "sajda": false
+            }
+        ],
+        "edition": {
+            "identifier": "quran-simple",
+            "language": "ar",
+            "name": "Simple",
+            "englishName": "Simple",
+            "format": "text",
+            "type": "quran",
+            "direction": "rtl"
+        }
+    },
+    "type": "tafsir"
+}

@@ -1,0 +1,864 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4CLQNUMJabeGpC_fuXxU87VqNyY",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-11-12T13:47:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقصود سورة الفاتحة (1)",
+                "description": "دمقصود سورة الفاتحة مع ربطها بعلاقتها\nرابط مقصود سورة الفاتحة \nhttps://drive.google.com/file/d/1khZ19sA8mBDpylr0KbGmkTxMZTj0zj6p/view?usp=sharing\nرابط مختصر مقصود سورة الفاتحة \nhttps://drive.google.com/file/d/1AX5dnbBYXC3j7oKRn0hqjkwIzMAe_80v/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8PakDzyflVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8PakDzyflVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8PakDzyflVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8PakDzyflVM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8PakDzyflVM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8PakDzyflVM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "8PakDzyflVM",
+                "videoPublishedAt": "2021-11-12T13:52:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x9wZky16gE2TT-A5kp7K56sIvzI",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-11-23T21:15:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (2) تلخيص معاني الفاتحة باختصار",
+                "description": "دورة تعنى ببيان المحور الذي تدور حوله السورة",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9LdysQYhzcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9LdysQYhzcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9LdysQYhzcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9LdysQYhzcE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9LdysQYhzcE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9LdysQYhzcE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9LdysQYhzcE",
+                "videoPublishedAt": "2021-11-23T21:18:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_yhr3fzvwaTOl6JrE4niQZaiPN0",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-12-02T14:13:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (3) مقصود سورة البقرة",
+                "description": "رابط مقصود البقرة \nhttps://drive.google.com/file/d/1P6fdCnhVIWKocRRCVZaWyjVeni6KDZXF/view?usp=sharing\nرابط مختصر مقصود سورة البقرة \nhttps://drive.google.com/file/d/1M94OQzYkt_Ab1XjUgqnLnJqjqzOBnmq-/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o3HNj58U9gw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o3HNj58U9gw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o3HNj58U9gw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o3HNj58U9gw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o3HNj58U9gw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o3HNj58U9gw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "o3HNj58U9gw",
+                "videoPublishedAt": "2021-12-02T14:19:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "czLxK1gGyBue_xgutn8L5cqYUWg",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-12-10T21:15:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "4) اسم سورة البقرة يلخص مقصودها",
+                "description": "مقاصد سورة القرآن وعلاقة اسم السورة بمقصودها",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EPAF5en0QE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EPAF5en0QE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EPAF5en0QE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EPAF5en0QE8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EPAF5en0QE8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EPAF5en0QE8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "EPAF5en0QE8",
+                "videoPublishedAt": "2021-12-10T21:16:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OyMsTRzmO-OsHNIoLuu_7yGH9vY",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-12-30T13:49:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "5) مقصود سورة آل عمران باختصار",
+                "description": "محور ومقاصد سور القرآن مع ذكر بعض من المناسبات بين السور",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-EKxpIIMJDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-EKxpIIMJDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-EKxpIIMJDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-EKxpIIMJDE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-EKxpIIMJDE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-EKxpIIMJDE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-EKxpIIMJDE",
+                "videoPublishedAt": "2021-12-30T13:50:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bOd1Dvn8WAG_bBxwJaPP_YcfrPQ",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-12-30T13:50:35Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "6) تفصيل مقصود سورة آل عمران",
+                "description": "محاور سور القرآن مع بيان بعض المناسباب بين السور",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/11J_1UZJYsg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/11J_1UZJYsg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/11J_1UZJYsg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/11J_1UZJYsg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/11J_1UZJYsg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "11J_1UZJYsg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "11J_1UZJYsg",
+                "videoPublishedAt": "2021-12-30T13:55:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dUdiWOzzTTL7Ydj1-x9dmc-7hvI",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-01-01T08:25:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "7) مقصود آل عمران الجزء الثالث",
+                "description": "محاور سور القرآن مع ذكر بعض المناسبات",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6BbjcgS4IGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6BbjcgS4IGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6BbjcgS4IGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6BbjcgS4IGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6BbjcgS4IGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6BbjcgS4IGA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "6BbjcgS4IGA",
+                "videoPublishedAt": "2022-01-01T08:34:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nt3CpX-gszJVfr1mZQ3fwUEMiyk",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-01-14T15:34:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "8) مقصود سورة  آل عمران الجزء الرابع",
+                "description": "رابط مقصود آل عمران \nhttps://drive.google.com/file/d/19yaoxywFUDwNviK_m3uSs89uLIOufGvG/view?usp=sharing\nرابط مختصر مقصود آل عمران\nhttps://drive.google.com/file/d/1FlQUas-3RdwczfxLEWZ7bb1QMSbgzLdo/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DwZ57hPSWRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DwZ57hPSWRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DwZ57hPSWRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DwZ57hPSWRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DwZ57hPSWRs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DwZ57hPSWRs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "DwZ57hPSWRs",
+                "videoPublishedAt": "2022-01-14T15:38:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MBLO_LvMn-Kytrvj94z1vbe5UyI",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-01-14T21:59:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "9) مقصود سورة النساء",
+                "description": "رابط مقصود سورة النساء \nhttps://drive.google.com/file/d/11KlkAy4KOBP2wDnZlbUBwG5s4vUU2DLw/view?usp=sharing\nرابط مختصر سورة النساء\nhttps://drive.google.com/file/d/1EkcBvzEw6QeMJzrLEkmoczkQK2dMVrWX/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w3i2a7Qv-I4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w3i2a7Qv-I4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w3i2a7Qv-I4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w3i2a7Qv-I4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w3i2a7Qv-I4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w3i2a7Qv-I4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "w3i2a7Qv-I4",
+                "videoPublishedAt": "2022-01-14T22:02:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bIZigeOBOhfdYFDQ09HPVMrUB3c",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-02-12T16:19:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (10) سورة المائدة الجزء الأول",
+                "description": "مختصر مقصود سورة المائدة \nhttps://drive.google.com/file/d/1an71xA3A8J6tAtLJZLEAY71LlxmNjy9S/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FV4eXWP8mjA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FV4eXWP8mjA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FV4eXWP8mjA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FV4eXWP8mjA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FV4eXWP8mjA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FV4eXWP8mjA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "FV4eXWP8mjA",
+                "videoPublishedAt": "2022-02-12T16:20:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Hq2QdMRRiQs8SreHL0rNZ_lLpvM",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-02-13T20:33:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (11) مقصود سورة المائدة الجزء الثاني",
+                "description": "رابط ملف مقصود سورة المائدة بتفصيل\nhttps://drive.google.com/file/d/1mRY8Sy4B7kpQPuD6YF2T7GPtQO70wP_y/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1rQhkyUV0co/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1rQhkyUV0co/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1rQhkyUV0co/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1rQhkyUV0co/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1rQhkyUV0co/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1rQhkyUV0co"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "1rQhkyUV0co",
+                "videoPublishedAt": "2022-02-13T20:35:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZcYv-FUFEmYRXC80ldgmGIv88XQ",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2022-02-14T18:15:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (12) مقصود سورة الأنعام الجزء الأول",
+                "description": "رابط مختصر مقصود سورة الأنعام \nhttps://drive.google.com/file/d/1kbLCXq55Feh-UyIt0r3fYrF95_exYgFg/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WpckXjnD8Ek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WpckXjnD8Ek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WpckXjnD8Ek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WpckXjnD8Ek/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WpckXjnD8Ek/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WpckXjnD8Ek"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WpckXjnD8Ek",
+                "videoPublishedAt": "2022-02-14T18:20:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nF_mnnuAxM5GB21ykbGEc_KMSpc",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2022-03-18T15:02:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (13) سورة الأنعام الجزء الثاني )",
+                "description": "رابط سورة مقصود سورة الأنعام المفصل وهو غير الملف السابق \nhttps://drive.google.com/file/d/1igkh0okpDNPv-Y7Luy8DqWfS6Gy0GoU3/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4pvvsFZSeJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4pvvsFZSeJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4pvvsFZSeJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4pvvsFZSeJ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4pvvsFZSeJ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4pvvsFZSeJ0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4pvvsFZSeJ0",
+                "videoPublishedAt": "2022-03-18T15:03:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H1U1ijB9QebWwZX3wgcboqmB3vY",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2022-03-18T20:06:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (14) سورة الأعراف الجزء الأول",
+                "description": "رابط مختصر مقصود سورة الأعراف \nhttps://drive.google.com/file/d/1PcJgbWDkfllijVhQDBDu1yghEYg6HsTj/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZYVwAPU687A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZYVwAPU687A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZYVwAPU687A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZYVwAPU687A"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ZYVwAPU687A",
+                "videoPublishedAt": "2022-03-18T20:07:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bJg7BhAkzxyPGhjw_qkt28RJea4",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2022-04-04T15:53:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (15) سورة الأعراف الجزء الثاني (2)",
+                "description": "رابط مقصود سورة الأعراف المفصل \nhttps://drive.google.com/file/d/1pa0A3b76iB10d5nB4NDETXxdlADwsDar/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0mN0GKp4nfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0mN0GKp4nfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0mN0GKp4nfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0mN0GKp4nfs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0mN0GKp4nfs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0mN0GKp4nfs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0mN0GKp4nfs",
+                "videoPublishedAt": "2022-04-04T15:54:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XHB-MqTbtTmKqvh_qOCUibSqcaA",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2022-04-04T20:46:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (16) سورة الأنفال الجزء الأول",
+                "description": "رابط مختصر مقصود سورة الأنفال \nhttps://drive.google.com/file/d/1n3jv3b7eXqf_t1CZZwV6mk1FHigTQTOc/view?usp=sharing\nرابط التناسبات المعجزة في سورة الأنفال \nhttps://drive.google.com/file/d/1AkAKk-0rvammuzh-IOogn5lsRT-h0myY/view?usp=sharing\nرابط الأشكال الكلية لسورة الأنفال\nhttps://drive.google.com/file/d/1SRLkeYIOm7wBAD8Jmrtmrz-MG9p9eGHr/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hmu-Xb-24cg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hmu-Xb-24cg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hmu-Xb-24cg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hmu-Xb-24cg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hmu-Xb-24cg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hmu-Xb-24cg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hmu-Xb-24cg",
+                "videoPublishedAt": "2022-04-04T20:48:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fZR_fYoXbkdXN3ydZgvxWCE8a6U",
+            "id": "UExFRDREai1UNDNyTk9nRW1MZmhmdnVhVnpMUlRiV0JkQS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2022-04-06T21:20:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مقاصد السور (17) سورة الأنفال الجزء الثاني (2)",
+                "description": "رابط الملف التفصيلي المطول  لمقصود سورة الأنفال .\nhttps://drive.google.com/file/d/1QbZj0idDYuNJt8PQ_7SMBQ8C0cZ_lXzH/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RvOw5RT3owc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RvOw5RT3owc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RvOw5RT3owc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RvOw5RT3owc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RvOw5RT3owc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RvOw5RT3owc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "RvOw5RT3owc",
+                "videoPublishedAt": "2022-04-06T21:21:42Z"
+            }
+        }
+    ],
+    "title": "دورة مقاصد السور",
+    "nav": "دورة مقاصد السور",
+    "id": "6_3"
+}
