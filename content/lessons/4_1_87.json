@@ -1,0 +1,2030 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "v_LytaftOgP1NrYRGkUV9kOyldA",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-20T18:41:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الأعلى الجزء الأول(1)  الشيخ علي هاني العقرباوي(87",
+                "description": "تفسير تحليلي لسورة الأعلى مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1kQ0EaHSa10/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1kQ0EaHSa10/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1kQ0EaHSa10/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1kQ0EaHSa10/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1kQ0EaHSa10"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "1kQ0EaHSa10",
+                "videoPublishedAt": "2019-05-22T15:49:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xzwVbBJwpT5LDEte3y7whnFrbO8",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-06-20T18:41:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الأعلى الجزء الثاني(2) الشيخ علي هاني العقرباوي (87",
+                "description": "تفسير تحليلي لسورة الأعلى مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YQd2mYUc3VY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YQd2mYUc3VY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YQd2mYUc3VY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YQd2mYUc3VY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YQd2mYUc3VY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YQd2mYUc3VY",
+                "videoPublishedAt": "2019-05-22T15:49:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IvvL1iWc05OeyAMIRa3MH0dvusY",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:20:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الغاشية  الجزء الأول(1) الشيخ علي هاني العقرباوي(88",
+                "description": "تفسير تحليلي لسورة الغاشية مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3zxgX-X5aWM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3zxgX-X5aWM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3zxgX-X5aWM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3zxgX-X5aWM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3zxgX-X5aWM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3zxgX-X5aWM",
+                "videoPublishedAt": "2019-05-22T15:49:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FMj4JCKiad6n-21Tw6yrbST5WW4",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:20:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الغاشية الجزء الثاني(2) الشيخ علي هاني العقرباوي (88",
+                "description": "تفسير تحليلي لسورة الغاشية مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FxRawwCGmj0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FxRawwCGmj0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FxRawwCGmj0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FxRawwCGmj0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FxRawwCGmj0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "FxRawwCGmj0",
+                "videoPublishedAt": "2019-05-22T15:49:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZSw3NseVWebYYf9C54EoNeR45UE",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الفجر الجزء الأول(1) الشيخ علي هاني العقرباوي(89",
+                "description": "تفسير تحليلي لسورة الفجر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Kr1jGh8Jsk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Kr1jGh8Jsk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Kr1jGh8Jsk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Kr1jGh8Jsk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6Kr1jGh8Jsk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "6Kr1jGh8Jsk",
+                "videoPublishedAt": "2019-05-22T21:59:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cKeUB_qO1EFvNIEu7Cb4UGtHDz8",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الفجر الجزء الثاني(2) الشيخ علي هاني العقرباوي(89",
+                "description": "تفسير تحليلي لسورة الفجر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/leNPALLiLJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/leNPALLiLJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/leNPALLiLJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/leNPALLiLJk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "leNPALLiLJk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "leNPALLiLJk",
+                "videoPublishedAt": "2019-05-22T22:02:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gZifu9rvRhomj5iARNGpbMTQOxc",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الفجر الجزء الثالث(3) الشيخ علي هاني العقرباوي(89",
+                "description": "تفسير تحليلي لسورة الفجر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XHkS3xDwJ4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XHkS3xDwJ4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XHkS3xDwJ4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XHkS3xDwJ4k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XHkS3xDwJ4k"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XHkS3xDwJ4k",
+                "videoPublishedAt": "2019-05-22T22:04:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cmJbSz7avXBvTrI3Xu0ZEhD6-PQ",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الفجر الجزء الرابع(4) الشيخ علي هاني العقرباوي(89",
+                "description": "تفسير تحليلي لسورة الفجر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WzSbLlWj3Z4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WzSbLlWj3Z4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WzSbLlWj3Z4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WzSbLlWj3Z4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WzSbLlWj3Z4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WzSbLlWj3Z4",
+                "videoPublishedAt": "2019-05-22T22:35:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HbBg2mJhdPsnx-5APb1T6ysNIes",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة البلد الجزء الأول(1) الشيخ علي هاني العقرباوي (90",
+                "description": "تفسير تحليلي لسورة البلد مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2W8vGQDo12c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2W8vGQDo12c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2W8vGQDo12c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2W8vGQDo12c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2W8vGQDo12c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2W8vGQDo12c",
+                "videoPublishedAt": "2019-05-22T22:20:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wbSqrGY-lOedcyJd23dfqmz-fAA",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة البلد الجزء الثاني(2) الشيخ علي هاني العقرباوي(90",
+                "description": "تفسير تحليلي لسورة البلد مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FwJsTeeEZ2I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FwJsTeeEZ2I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FwJsTeeEZ2I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FwJsTeeEZ2I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FwJsTeeEZ2I"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "FwJsTeeEZ2I",
+                "videoPublishedAt": "2019-05-22T22:22:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8mfn-OuG_Z4rAuw75-yzNm6ixU8",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الشمس الجزء الأول (1)الشيخ علي هاني العقرباوي(91",
+                "description": "تفسير تحليلي لسورة الشمس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S0hLJ6VBA74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S0hLJ6VBA74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S0hLJ6VBA74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S0hLJ6VBA74/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S0hLJ6VBA74"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "S0hLJ6VBA74",
+                "videoPublishedAt": "2019-05-22T22:34:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yrq5xe79dMTAE5jGnCN3OVHJg6I",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:21:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الشمس الجزء الثاني(2) الشيخ علي هاني العقرباوي(91",
+                "description": "تفسير تحليلي لسورة الشمس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O18VnETiM-0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O18VnETiM-0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O18VnETiM-0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O18VnETiM-0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O18VnETiM-0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "O18VnETiM-0",
+                "videoPublishedAt": "2019-05-22T22:28:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sjuygugPi4YfROP97O44dbqkXYc",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:22:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الليل الشيخ علي هاني العقرباوي(92",
+                "description": "تفسير تحليلي لسورة الليل مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ss9lZv3H9zk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ss9lZv3H9zk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ss9lZv3H9zk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ss9lZv3H9zk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ss9lZv3H9zk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Ss9lZv3H9zk",
+                "videoPublishedAt": "2019-05-23T02:12:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-CwnhjMu9UOgEzu-Bve9-StD7hA",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:22:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الضحى الجزء الأول(1) الشيخ علي هاني العقرباوي (93",
+                "description": "تفسير تحليلي لسورة الضحى مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WyumwAJAKPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WyumwAJAKPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WyumwAJAKPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WyumwAJAKPQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WyumwAJAKPQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WyumwAJAKPQ",
+                "videoPublishedAt": "2019-05-23T02:13:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oSAm1Dt-APKtKR7ZpMQCjjqw-bk",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:22:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الضحى الجزء الثاني(2) الشيخ علي هاني العقرباوي (93",
+                "description": "تفسير تحليلي لسورة الضحى مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/76VzfESmL-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/76VzfESmL-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/76VzfESmL-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/76VzfESmL-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "76VzfESmL-U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "76VzfESmL-U",
+                "videoPublishedAt": "2019-05-23T02:13:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PgPK1HM4DYlljw_55ChcIfMP8Ao",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:23:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الشرح الجزء الأول(1) الشيخ علي هاني العقرباوي(94",
+                "description": "تفسير تحليلي لسورة الشرح مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LIlDDdNuqJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LIlDDdNuqJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LIlDDdNuqJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LIlDDdNuqJ8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LIlDDdNuqJ8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "LIlDDdNuqJ8",
+                "videoPublishedAt": "2019-05-23T02:21:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xOIUmmO9MVFV1WAUYoqNu3inQdo",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:23:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الشرح الجزء الثاني(2) الشيخ علي هاني (94",
+                "description": "تفسير تحليلي لسورة الشرح مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L4KQ_PIR6Qs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L4KQ_PIR6Qs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L4KQ_PIR6Qs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L4KQ_PIR6Qs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "L4KQ_PIR6Qs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "L4KQ_PIR6Qs",
+                "videoPublishedAt": "2019-05-23T02:19:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FIuyF92Wz5Tu6DucTYZx0iZE0_E",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:23:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة التين الشيخ علي هاني العقرباوي(95",
+                "description": "تفسير تحليلي لسورة التين مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vi8slfmag2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vi8slfmag2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vi8slfmag2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vi8slfmag2A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vi8slfmag2A"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "vi8slfmag2A",
+                "videoPublishedAt": "2019-05-23T02:26:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6wG9zwV0POJ8R7a6d3mwzrd2zDA",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:24:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة العلق  الجزء (1) الشيخ علي هاني (96",
+                "description": "تفسير تحليلي لسورة العلق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xd2omaaeX6w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xd2omaaeX6w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xd2omaaeX6w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xd2omaaeX6w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xd2omaaeX6w"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "xd2omaaeX6w",
+                "videoPublishedAt": "2019-05-23T02:27:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U7vvcZAARYxnHss5poCm-tufCQE",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:24:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة العلق الجزء الثاني(2) الشيخ علي هاني (96",
+                "description": "تفسير تحليلي لسورة العلق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T2i4UfjBZPg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T2i4UfjBZPg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T2i4UfjBZPg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T2i4UfjBZPg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "T2i4UfjBZPg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "T2i4UfjBZPg",
+                "videoPublishedAt": "2019-05-23T02:32:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "puDL1ABpp2HIQkjb0FzujTcwqmw",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:25:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "97)تفسير سورة القدر الشيخ علي هاني العقرباوي",
+                "description": "تفسير تحليلي لسورة القدر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lPN1udEnsLE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lPN1udEnsLE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lPN1udEnsLE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lPN1udEnsLE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lPN1udEnsLE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "lPN1udEnsLE",
+                "videoPublishedAt": "2019-05-23T02:35:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S3lv2N-fsCBAvgS0Cj-15gbqD5s",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:25:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة البينة  الجزء الأول(1) الشيخ علي هاني العقرباوي (98",
+                "description": "تفسير تحليلي لسورة البينة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GE_rGZtJkio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GE_rGZtJkio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GE_rGZtJkio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GE_rGZtJkio/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GE_rGZtJkio"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GE_rGZtJkio",
+                "videoPublishedAt": "2019-05-23T02:41:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5H6NJQ0us9_9TkYL1AiiDf4JoXg",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:25:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة البينة الجزء الثاني(2) الشيخ علي هاني العقرباوي (98",
+                "description": "تفسير تحليلي لسورة البينة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qWCA7fNt5xk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qWCA7fNt5xk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qWCA7fNt5xk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qWCA7fNt5xk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qWCA7fNt5xk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qWCA7fNt5xk",
+                "videoPublishedAt": "2019-05-23T02:40:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d1d6AdFRt0wGZbZaL-Y0uwXfmyQ",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:26:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الزلزلة الشيخ علي هاني العقرباوي(99",
+                "description": "تفسير تحليلي لسورة الزلزلة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jITbDFH-YuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jITbDFH-YuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jITbDFH-YuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jITbDFH-YuQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jITbDFH-YuQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "jITbDFH-YuQ",
+                "videoPublishedAt": "2019-05-23T02:46:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2OAoLB5L9b1VY8bhyJyjatgwBJU",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:26:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة العاديات الشيخ علي هاني العقرباوي(100",
+                "description": "تفسير تحليلي لسورة العاديات مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/COpWSMKrw_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/COpWSMKrw_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/COpWSMKrw_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/COpWSMKrw_4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "COpWSMKrw_4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "COpWSMKrw_4",
+                "videoPublishedAt": "2019-05-23T02:50:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ks3ixD6unJ_hUo3aUgIykmBUGqA",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:26:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة القارعة الشيخ علي هاني العقرباوي(101",
+                "description": "تفسير تحليلي لسورة القارعة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yaJ6VHbBFU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yaJ6VHbBFU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yaJ6VHbBFU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yaJ6VHbBFU4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yaJ6VHbBFU4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "yaJ6VHbBFU4",
+                "videoPublishedAt": "2019-05-23T02:49:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3u7SHM3STqfSGTydiMAHfJ3GW6c",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:32:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة التكاثر الشيخ علي هاني العقرباوي(102",
+                "description": "تفسير تحليلي لسورة التكاثر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sNLRfBDyLvY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sNLRfBDyLvY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sNLRfBDyLvY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sNLRfBDyLvY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sNLRfBDyLvY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "sNLRfBDyLvY",
+                "videoPublishedAt": "2019-05-23T02:54:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U_zX5okLtB4sjKZc_7oEm0q7ap4",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:32:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة العصر الشيخ علي هاني العقرباوي (103",
+                "description": "تفسير تحليلي لسورة العصر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tQvu0nGkLKo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tQvu0nGkLKo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tQvu0nGkLKo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tQvu0nGkLKo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tQvu0nGkLKo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "tQvu0nGkLKo",
+                "videoPublishedAt": "2019-05-23T15:27:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sV9RBokugkCSc-5c6RePjDqVCqc",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:32:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الهمزة الشيخ علي هاني العقرباوي(104",
+                "description": "تفسير تحليلي لسورة الهمزة مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NpkPOPC7D0c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NpkPOPC7D0c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NpkPOPC7D0c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NpkPOPC7D0c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NpkPOPC7D0c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "NpkPOPC7D0c",
+                "videoPublishedAt": "2019-05-23T19:35:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Dn_dDku482CZAcPsSlCKtJEDXT0",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:33:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الفيل الشيخ علي هاني العقرباوي (105",
+                "description": "تفسير تحليلي لسورة الفيل مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kv2k7-JsHdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kv2k7-JsHdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kv2k7-JsHdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Kv2k7-JsHdE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Kv2k7-JsHdE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Kv2k7-JsHdE",
+                "videoPublishedAt": "2019-05-23T19:35:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mSHB7rzRCaRoD1ONfSqgGdkVqRw",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:33:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الكوثر الشيخ علي هاني العقرباوي(107",
+                "description": "تفسير تحليلي لسورة الكوثر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BE411pC_-tw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BE411pC_-tw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BE411pC_-tw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BE411pC_-tw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BE411pC_-tw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BE411pC_-tw",
+                "videoPublishedAt": "2019-05-23T19:34:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8B6WXUEfZOGcg8Aye-0j7sD8SEo",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:35:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الكافرون الشيخ علي هاني العقرباوي (109",
+                "description": "تفسير تحليلي لسورة الكافرون مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iSvLlfOmd-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iSvLlfOmd-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iSvLlfOmd-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iSvLlfOmd-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iSvLlfOmd-E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "iSvLlfOmd-E",
+                "videoPublishedAt": "2019-05-23T19:34:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BM_6rjpFxDefkGU9FbHkgfaevpY",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:36:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة النصر الشيخ علي هاني العقرباوي(110",
+                "description": "تفسير تحليلي لسورة النصر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_-QBBhsadY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_-QBBhsadY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_-QBBhsadY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_-QBBhsadY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_-QBBhsadY8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_-QBBhsadY8",
+                "videoPublishedAt": "2019-05-23T19:34:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KUdVbC9gNnVJ4V410b4eVX8yhxw",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:37:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الإخلاص الجزء الأول(1) الشيخ علي هاني العقرباوي(112",
+                "description": "تفسير تحليلي لسورة الإخلاص مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8fbVsqs-rYs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8fbVsqs-rYs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8fbVsqs-rYs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8fbVsqs-rYs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8fbVsqs-rYs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "8fbVsqs-rYs",
+                "videoPublishedAt": "2019-05-23T19:34:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MH-75ElRGoa1IAeP3J7OHG8rfOk",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:37:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الإخلاص الجزء الثاني(2) الشيخ علي هاني العقرباوي(112",
+                "description": "تفسير تحليلي لسورة الإخلاص مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wl59R_ATl4U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wl59R_ATl4U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wl59R_ATl4U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wl59R_ATl4U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wl59R_ATl4U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wl59R_ATl4U",
+                "videoPublishedAt": "2019-05-23T19:34:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XiUbJZ0qSw8yX20K6YbNj7YjMI4",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:38:35Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الفلق الجزء الثاني(2) الشيخ علي هاني العقرباوي( 113",
+                "description": "تفسير تحليلي لسورة الفلق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0YSTffwfh74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0YSTffwfh74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0YSTffwfh74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0YSTffwfh74/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0YSTffwfh74"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0YSTffwfh74",
+                "videoPublishedAt": "2019-05-23T19:34:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "a72BsIQwVCFYe-NU7DX6DO6pTuA",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:38:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الناس الجزء الأول(1) الشيخ علي هاني العقرباوي( 114",
+                "description": "تفسير تحليلي لسورة الناس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ONF4a-40jx8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ONF4a-40jx8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ONF4a-40jx8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ONF4a-40jx8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ONF4a-40jx8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ONF4a-40jx8",
+                "videoPublishedAt": "2019-05-23T19:34:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BgT6wDTgK6lG7E8eOVyaOuyvJdM",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:38:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الناس الجزء الثاني(2) الشيخ علي هاني العقرباوي( 114",
+                "description": "تفسير تحليلي لسورة الناس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MjYaNt_7uYs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MjYaNt_7uYs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MjYaNt_7uYs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MjYaNt_7uYs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MjYaNt_7uYs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MjYaNt_7uYs",
+                "videoPublishedAt": "2019-05-23T19:34:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VjQqnR0J43NIoll5YBgV_HJw6iI",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2022-06-20T21:38:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الناس الجزء الثالث(3) الشيخ علي هاني العقرباوي( 114",
+                "description": "تفسير تحليلي لسورة الناس مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f8-ZMe1g4VE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f8-ZMe1g4VE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f8-ZMe1g4VE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f8-ZMe1g4VE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f8-ZMe1g4VE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "f8-ZMe1g4VE",
+                "videoPublishedAt": "2019-05-23T19:34:05Z"
+            }
+        }
+    ],
+    "title": "الجزء عَمَّ الحزب ٦٠ تفسير النسفي",
+    "nav": "",
+    "id": "4_1_87",
+    "verses": {
+        "number": 87,
+        "name": "سورة الأعلى",
+        "englishName": "Al-A'laa",
+        "englishNameTranslation": "The Most High",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 19,
+        "ayahs": [
+            {
+                "number": 5949,
+                "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5950,
+                "text": "الَّذِي خَلَقَ فَسَوَّىٰ",
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5951,
+                "text": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5952,
+                "text": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5953,
+                "text": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5954,
+                "text": "سَنُقْرِئُكَ فَلَا تَنْسَىٰ",
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5955,
+                "text": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5956,
+                "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5957,
+                "text": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ",
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5958,
+                "text": "سَيَذَّكَّرُ مَنْ يَخْشَىٰ",
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5959,
+                "text": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5960,
+                "text": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5961,
+                "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5962,
+                "text": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ",
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5963,
+                "text": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5964,
+                "text": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5965,
+                "text": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5966,
+                "text": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+                "numberInSurah": 18,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5967,
+                "text": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+                "numberInSurah": 19,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            }
+        ],
+        "edition": {
+            "identifier": "quran-simple",
+            "language": "ar",
+            "name": "Simple",
+            "englishName": "Simple",
+            "format": "text",
+            "type": "quran",
+            "direction": "rtl"
+        }
+    },
+    "type": "tafsir"
+}

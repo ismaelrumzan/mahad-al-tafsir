@@ -1,0 +1,1389 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h_Unuf7KoikbBKHnyaNYNvUd9gY",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35) تفسير سورة فاطرالجزء(1)  /الشيخ علي هاني العقرباوي",
+                "description": "1\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fdbPAayqD8s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fdbPAayqD8s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fdbPAayqD8s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fdbPAayqD8s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fdbPAayqD8s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fdbPAayqD8s"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fdbPAayqD8s",
+                "videoPublishedAt": "2019-06-17T21:02:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wkDzxEshNtywATh6gGe4RhC0tDQ",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "2)تفسير سورة فاطرالجزء الثاني(2) /الشيخ علي هاني العقرباوي",
+                "description": "2\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/\nـــــــــــــــــ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/foBLTYO_LnI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/foBLTYO_LnI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/foBLTYO_LnI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/foBLTYO_LnI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/foBLTYO_LnI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "foBLTYO_LnI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "foBLTYO_LnI",
+                "videoPublishedAt": "2019-06-17T21:01:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z0O1T9kfPt7LAKKIgX9Z0nSRT6Y",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء الثالث(3)  /الشيخ علي هاني العقرباوي",
+                "description": "3\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yBUNP6lSte0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yBUNP6lSte0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yBUNP6lSte0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yBUNP6lSte0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yBUNP6lSte0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yBUNP6lSte0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "yBUNP6lSte0",
+                "videoPublishedAt": "2019-06-17T21:01:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Wo21F9ftAH3zR7FMZfKIqM2-2HQ",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء الرابع(4)  /الشيخ علي هاني العقرباوي",
+                "description": "4\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NJVHLX2cM2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NJVHLX2cM2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NJVHLX2cM2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NJVHLX2cM2c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NJVHLX2cM2c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NJVHLX2cM2c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "NJVHLX2cM2c",
+                "videoPublishedAt": "2019-06-17T21:04:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y__EMzp8rR42jHPi1F_8f7RyYEs",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء الخامس(5)  /الشيخ علي هاني العقرباوي",
+                "description": "5\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Es5myfatirs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Es5myfatirs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Es5myfatirs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Es5myfatirs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Es5myfatirs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Es5myfatirs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Es5myfatirs",
+                "videoPublishedAt": "2019-06-17T21:12:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LD3_I3UjEUlIrw1J07yR9TxaUEk",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء (6) /الشيخ علي هاني العقرباوي",
+                "description": "6\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cMPmv36xf6s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cMPmv36xf6s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cMPmv36xf6s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cMPmv36xf6s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cMPmv36xf6s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cMPmv36xf6s"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "cMPmv36xf6s",
+                "videoPublishedAt": "2019-06-17T21:02:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pqjsM7ZzlfDWMOTtMjVKDzwPmgA",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء السابع(7) /الشيخ علي هاني علي هاني العقرباوي",
+                "description": "7\n\n تفسير تحليلي لسورة فاطر مع قراءة تفسير النسفي\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e3_fplHkE40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e3_fplHkE40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e3_fplHkE40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e3_fplHkE40/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e3_fplHkE40/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "e3_fplHkE40"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "e3_fplHkE40",
+                "videoPublishedAt": "2019-06-24T15:47:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JZgoDuCmcW3ycRpwIUZdXVjKgDU",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء الثامن(8)  /الشيخ علي هاني العقرباوي",
+                "description": "8\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YQkOiT6IYms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YQkOiT6IYms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YQkOiT6IYms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YQkOiT6IYms/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YQkOiT6IYms/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YQkOiT6IYms"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YQkOiT6IYms",
+                "videoPublishedAt": "2019-06-17T21:11:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OxIRR6WLVu5eiX8hP6Ghb4Hlovo",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة فاطر الجزء التاسع (9) الشيخ علي هاني العقرباوي (35)",
+                "description": "تفسير سورة فاطر الجزء التاسع الشيخ علي هاني العقرباوي (9)\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0cl1S5CKNK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0cl1S5CKNK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0cl1S5CKNK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0cl1S5CKNK4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0cl1S5CKNK4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0cl1S5CKNK4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0cl1S5CKNK4",
+                "videoPublishedAt": "2019-06-17T21:59:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZN3dHh1hsMj7Ddm7_WrOzFUfruY",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء العاشر(10)  /الشيخ علي هاني العقرباوي",
+                "description": "10\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NEdPgHvjgo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NEdPgHvjgo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NEdPgHvjgo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NEdPgHvjgo8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NEdPgHvjgo8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NEdPgHvjgo8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "NEdPgHvjgo8",
+                "videoPublishedAt": "2019-06-17T21:06:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6YcqTLasY5D5pU0V9IKQjjK1qdo",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء الحادي عشر(11) /الشيخ علي هاني العقرباوي",
+                "description": "11تفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RfimjyBnHgk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RfimjyBnHgk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RfimjyBnHgk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RfimjyBnHgk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RfimjyBnHgk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RfimjyBnHgk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "RfimjyBnHgk",
+                "videoPublishedAt": "2019-06-17T21:12:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RXf1d9kvfCXHE5tTIWpktYKJSmU",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء الثاني عشر (12) /الشيخ علي هاني العقرباوي",
+                "description": "12\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ea_ae9qa-xE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ea_ae9qa-xE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ea_ae9qa-xE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ea_ae9qa-xE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ea_ae9qa-xE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ea_ae9qa-xE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ea_ae9qa-xE",
+                "videoPublishedAt": "2019-06-17T21:13:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YKU07NCSWonXWIeeSM69M5e-6xQ",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35)تفسير سورة فاطرالجزء الثالث عشر (13)  /الشيخ علي هاني العقرباوي",
+                "description": "13\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P0kRyk8kmT4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P0kRyk8kmT4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P0kRyk8kmT4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P0kRyk8kmT4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P0kRyk8kmT4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P0kRyk8kmT4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "P0kRyk8kmT4",
+                "videoPublishedAt": "2019-06-17T21:15:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S0XjrRF-sET3PzLFpv18QUvzq_I",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35 )تفسير سورة فاطرالجزء الرابع عشر(14)  /الشيخ علي هاني العقرباوي",
+                "description": "14\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oHWd9Z0q0FE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oHWd9Z0q0FE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oHWd9Z0q0FE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oHWd9Z0q0FE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oHWd9Z0q0FE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oHWd9Z0q0FE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "oHWd9Z0q0FE",
+                "videoPublishedAt": "2019-06-17T21:24:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4Y03d5NyRGM4Gd-iEvKfJ2H0bZ8",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة فاطرالجزء الخامس عشر (15) /الشيخ علي هاني العقرباوي (35",
+                "description": "15\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qxwXzCC30rk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qxwXzCC30rk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qxwXzCC30rk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qxwXzCC30rk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qxwXzCC30rk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qxwXzCC30rk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qxwXzCC30rk",
+                "videoPublishedAt": "2019-07-12T05:40:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vdCZq2hjFsp1i2EFoiixZyJHoIY",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35 )تفسير سورة فاطرالجزء السادس عشر (16) /الشيخ علي هاني العقرباوي",
+                "description": "16\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IQOIeLcYswI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IQOIeLcYswI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IQOIeLcYswI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IQOIeLcYswI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IQOIeLcYswI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IQOIeLcYswI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "IQOIeLcYswI",
+                "videoPublishedAt": "2019-06-17T21:19:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "R4wcTOGHmumzJy0bMKBcNzNqFck",
+            "id": "UExFRDREai1UNDNyTUpmd25Dc241RkFkd1h5WVJMUVctRi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-06-19T21:00:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35 )تفسير سورة فاطرالجزء السابع عشر(17)  /الشيخ علي هاني علي هاني العقرباوي",
+                "description": "17\nتفسير سورة   فاطر مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jz0pdSERIY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jz0pdSERIY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jz0pdSERIY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Jz0pdSERIY4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Jz0pdSERIY4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Jz0pdSERIY4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Jz0pdSERIY4",
+                "videoPublishedAt": "2019-06-17T21:35:46Z"
+            }
+        }
+    ],
+    "title": "سورة فاطر تفسير النسفي",
+    "nav": "",
+    "id": "4_1_35",
+    "verses": {
+        "number": 35,
+        "name": "سورة فاطر",
+        "englishName": "Faatir",
+        "englishNameTranslation": "The Originator",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 45,
+        "ayahs": [
+            {
+                "number": 3661,
+                "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۚ يَزِيدُ فِي الْخَلْقِ مَا يَشَاءُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+                "numberInSurah": 1,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3662,
+                "text": "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+                "numberInSurah": 2,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3663,
+                "text": "يَا أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُمْ مِنَ السَّمَاءِ وَالْأَرْضِ ۚ لَا إِلَٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+                "numberInSurah": 3,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3664,
+                "text": "وَإِنْ يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+                "numberInSurah": 4,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3665,
+                "text": "يَا أَيُّهَا النَّاسُ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا ۖ وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ",
+                "numberInSurah": 5,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3666,
+                "text": "إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ",
+                "numberInSurah": 6,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3667,
+                "text": "الَّذِينَ كَفَرُوا لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+                "numberInSurah": 7,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3668,
+                "text": "أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا ۖ فَإِنَّ اللَّهَ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۖ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَاتٍ ۚ إِنَّ اللَّهَ عَلِيمٌ بِمَا يَصْنَعُونَ",
+                "numberInSurah": 8,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3669,
+                "text": "وَاللَّهُ الَّذِي أَرْسَلَ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَسُقْنَاهُ إِلَىٰ بَلَدٍ مَيِّتٍ فَأَحْيَيْنَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ النُّشُورُ",
+                "numberInSurah": 9,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3670,
+                "text": "مَنْ كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ ۚ وَالَّذِينَ يَمْكُرُونَ السَّيِّئَاتِ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَمَكْرُ أُولَٰئِكَ هُوَ يَبُورُ",
+                "numberInSurah": 10,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3671,
+                "text": "وَاللَّهُ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَاجًا ۚ وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ وَمَا يُعَمَّرُ مِنْ مُعَمَّرٍ وَلَا يُنْقَصُ مِنْ عُمُرِهِ إِلَّا فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+                "numberInSurah": 11,
+                "juz": 22,
+                "manzil": 5,
+                "page": 435,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3672,
+                "text": "وَمَا يَسْتَوِي الْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَائِغٌ شَرَابُهُ وَهَٰذَا مِلْحٌ أُجَاجٌ ۖ وَمِنْ كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا ۖ وَتَرَى الْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+                "numberInSurah": 12,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3673,
+                "text": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ لَهُ الْمُلْكُ ۚ وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ",
+                "numberInSurah": 13,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3674,
+                "text": "إِنْ تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْ ۖ وَيَوْمَ الْقِيَامَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ",
+                "numberInSurah": 14,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 377,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3675,
+                "text": "۞ يَا أَيُّهَا النَّاسُ أَنْتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ الْحَمِيدُ",
+                "numberInSurah": 15,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3676,
+                "text": "إِنْ يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+                "numberInSurah": 16,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3677,
+                "text": "وَمَا ذَٰلِكَ عَلَى اللَّهِ بِعَزِيزٍ",
+                "numberInSurah": 17,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3678,
+                "text": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِنْ تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ ۗ إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَأَقَامُوا الصَّلَاةَ ۚ وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ ۚ وَإِلَى اللَّهِ الْمَصِيرُ",
+                "numberInSurah": 18,
+                "juz": 22,
+                "manzil": 5,
+                "page": 436,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3679,
+                "text": "وَمَا يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ",
+                "numberInSurah": 19,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3680,
+                "text": "وَلَا الظُّلُمَاتُ وَلَا النُّورُ",
+                "numberInSurah": 20,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3681,
+                "text": "وَلَا الظِّلُّ وَلَا الْحَرُورُ",
+                "numberInSurah": 21,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3682,
+                "text": "وَمَا يَسْتَوِي الْأَحْيَاءُ وَلَا الْأَمْوَاتُ ۚ إِنَّ اللَّهَ يُسْمِعُ مَنْ يَشَاءُ ۖ وَمَا أَنْتَ بِمُسْمِعٍ مَنْ فِي الْقُبُورِ",
+                "numberInSurah": 22,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3683,
+                "text": "إِنْ أَنْتَ إِلَّا نَذِيرٌ",
+                "numberInSurah": 23,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3684,
+                "text": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+                "numberInSurah": 24,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3685,
+                "text": "وَإِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَبِالزُّبُرِ وَبِالْكِتَابِ الْمُنِيرِ",
+                "numberInSurah": 25,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3686,
+                "text": "ثُمَّ أَخَذْتُ الَّذِينَ كَفَرُوا ۖ فَكَيْفَ كَانَ نَكِيرِ",
+                "numberInSurah": 26,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 378,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3687,
+                "text": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُخْتَلِفًا أَلْوَانُهَا ۚ وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ وَحُمْرٌ مُخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ",
+                "numberInSurah": 27,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3688,
+                "text": "وَمِنَ النَّاسِ وَالدَّوَابِّ وَالْأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ۗ إِنَّ اللَّهَ عَزِيزٌ غَفُورٌ",
+                "numberInSurah": 28,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3689,
+                "text": "إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَارَةً لَنْ تَبُورَ",
+                "numberInSurah": 29,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3690,
+                "text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُمْ مِنْ فَضْلِهِ ۚ إِنَّهُ غَفُورٌ شَكُورٌ",
+                "numberInSurah": 30,
+                "juz": 22,
+                "manzil": 5,
+                "page": 437,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3691,
+                "text": "وَالَّذِي أَوْحَيْنَا إِلَيْكَ مِنَ الْكِتَابِ هُوَ الْحَقُّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ ۗ إِنَّ اللَّهَ بِعِبَادِهِ لَخَبِيرٌ بَصِيرٌ",
+                "numberInSurah": 31,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3692,
+                "text": "ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌ لِنَفْسِهِ وَمِنْهُمْ مُقْتَصِدٌ وَمِنْهُمْ سَابِقٌ بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+                "numberInSurah": 32,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3693,
+                "text": "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَلُؤْلُؤًا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌ",
+                "numberInSurah": 33,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3694,
+                "text": "وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+                "numberInSurah": 34,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3695,
+                "text": "الَّذِي أَحَلَّنَا دَارَ الْمُقَامَةِ مِنْ فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ",
+                "numberInSurah": 35,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3696,
+                "text": "وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُمْ مِنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِي كُلَّ كَفُورٍ",
+                "numberInSurah": 36,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3697,
+                "text": "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَا أَخْرِجْنَا نَعْمَلْ صَالِحًا غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ فِيهِ مَنْ تَذَكَّرَ وَجَاءَكُمُ النَّذِيرُ ۖ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ",
+                "numberInSurah": 37,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 379,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3698,
+                "text": "إِنَّ اللَّهَ عَالِمُ غَيْبِ السَّمَاوَاتِ وَالْأَرْضِ ۚ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+                "numberInSurah": 38,
+                "juz": 22,
+                "manzil": 5,
+                "page": 438,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3699,
+                "text": "هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْضِ ۚ فَمَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ وَلَا يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ عِنْدَ رَبِّهِمْ إِلَّا مَقْتًا ۖ وَلَا يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ إِلَّا خَسَارًا",
+                "numberInSurah": 39,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3700,
+                "text": "قُلْ أَرَأَيْتُمْ شُرَكَاءَكُمُ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ أَرُونِي مَاذَا خَلَقُوا مِنَ الْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِي السَّمَاوَاتِ أَمْ آتَيْنَاهُمْ كِتَابًا فَهُمْ عَلَىٰ بَيِّنَتٍ مِنْهُ ۚ بَلْ إِنْ يَعِدُ الظَّالِمُونَ بَعْضُهُمْ بَعْضًا إِلَّا غُرُورًا",
+                "numberInSurah": 40,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3701,
+                "text": "۞ إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا ۚ وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ بَعْدِهِ ۚ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+                "numberInSurah": 41,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3702,
+                "text": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَهُمْ نَذِيرٌ لَيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى الْأُمَمِ ۖ فَلَمَّا جَاءَهُمْ نَذِيرٌ مَا زَادَهُمْ إِلَّا نُفُورًا",
+                "numberInSurah": 42,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3703,
+                "text": "اسْتِكْبَارًا فِي الْأَرْضِ وَمَكْرَ السَّيِّئِ ۚ وَلَا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ ۚ فَهَلْ يَنْظُرُونَ إِلَّا سُنَّتَ الْأَوَّلِينَ ۚ فَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَبْدِيلًا ۖ وَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَحْوِيلًا",
+                "numberInSurah": 43,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3704,
+                "text": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ وَكَانُوا أَشَدَّ مِنْهُمْ قُوَّةً ۚ وَمَا كَانَ اللَّهُ لِيُعْجِزَهُ مِنْ شَيْءٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ ۚ إِنَّهُ كَانَ عَلِيمًا قَدِيرًا",
+                "numberInSurah": 44,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3705,
+                "text": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيرًا",
+                "numberInSurah": 45,
+                "juz": 22,
+                "manzil": 5,
+                "page": 440,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            }
+        ],
+        "edition": {
+            "identifier": "quran-simple",
+            "language": "ar",
+            "name": "Simple",
+            "englishName": "Simple",
+            "format": "text",
+            "type": "quran",
+            "direction": "rtl"
+        }
+    },
+    "type": "tafsir"
+}

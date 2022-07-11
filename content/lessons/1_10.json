@@ -1,0 +1,2293 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wop1xtMG0krClU5WdfweJk5sy7Q",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:11:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح تسهيل الفوائد (30) الموصول (1) وهو من الأسماء ما افتقر",
+                "description": "رابط متن تسهيل الفوائد لابن مالك :https://drive.google.com/file/d/18BAndCWhTsZdK8XXbMC68ZgaQ_opQOIV/view?usp=sharing\nرابط المساعد شرح تسهيل الفوائد لابن عقيل :\nhttps://drive.google.com/file/d/1htfk6AxgkUVpJOE4OvtTA0YmdP-0cZY3/view?usp=sharing\n\nعلي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YrdNSyEqxwo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YrdNSyEqxwo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YrdNSyEqxwo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YrdNSyEqxwo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YrdNSyEqxwo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YrdNSyEqxwo",
+                "videoPublishedAt": "2021-01-15T21:12:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "srpP5LmZwk7ixggXDyKTz4oAOm0",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:15:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح تسهيل الفوائد (31)الموصول(2) فمن الأسماء الذي والتي للواحد والواحدة",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zz4kAaIq9Dc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zz4kAaIq9Dc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zz4kAaIq9Dc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zz4kAaIq9Dc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zz4kAaIq9Dc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "zz4kAaIq9Dc",
+                "videoPublishedAt": "2021-01-15T21:16:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mOncl8BnGUOSXRmFIS8BYq2pqlg",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:13:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (32)الموصول(3)  وجمع التي اللاتي واللائي واللواتي",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0HPaBVaqhS0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0HPaBVaqhS0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0HPaBVaqhS0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0HPaBVaqhS0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0HPaBVaqhS0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0HPaBVaqhS0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0HPaBVaqhS0",
+                "videoPublishedAt": "2021-01-15T21:14:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H-CYRSJwzrFSOBVEkd4UKXsGV_8",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:20:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح تسهيل الفوائد (33) الموصول(4) وبمعنى الذي وفروعه مَنْ وما",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SArcc4yo6P8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SArcc4yo6P8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SArcc4yo6P8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SArcc4yo6P8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SArcc4yo6P8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "SArcc4yo6P8",
+                "videoPublishedAt": "2021-01-15T21:20:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vD_kfu4MvwMtMYQ4f85pZ9qauc8",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:22:02Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح تسهيل الفوائد (34) الموصول ( 5) ويجوز حذف عائد غير الألف",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G3TRv7Z-NUw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G3TRv7Z-NUw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G3TRv7Z-NUw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G3TRv7Z-NUw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G3TRv7Z-NUw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G3TRv7Z-NUw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "G3TRv7Z-NUw",
+                "videoPublishedAt": "2021-01-15T21:25:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2FDsXrfruFgRtjHwF8byeBOZHCY",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:33:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (35) الموصول (6) ويغني عن الجملة الموصول بها ظرف",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vE7rDiwbBb4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vE7rDiwbBb4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vE7rDiwbBb4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vE7rDiwbBb4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vE7rDiwbBb4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vE7rDiwbBb4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "vE7rDiwbBb4",
+                "videoPublishedAt": "2021-01-15T21:33:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gEVsihPZ_gXsGhRxcnXdEv5A-lk",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:31:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (36)الموصول(7) مَن وما في اللفظ مفرد",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y8WCp_y6INE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y8WCp_y6INE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y8WCp_y6INE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y8WCp_y6INE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y8WCp_y6INE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Y8WCp_y6INE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Y8WCp_y6INE",
+                "videoPublishedAt": "2021-01-15T21:32:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ustuCLWcENB_XNmkx-XkNpHmecw",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:34:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (37)الموصول (8) وتقع مَنْ وما شرطيتين واستفهاميتين",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xNnDToUlv5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xNnDToUlv5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xNnDToUlv5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xNnDToUlv5A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xNnDToUlv5A"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "xNnDToUlv5A",
+                "videoPublishedAt": "2021-01-15T21:35:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aPugG_mIczV4_EpicBp5Wtihoyw",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:38:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (38)الموصول (9) الموصولات الحرفية",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lat20GDvIQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lat20GDvIQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lat20GDvIQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lat20GDvIQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lat20GDvIQA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "lat20GDvIQA",
+                "videoPublishedAt": "2021-01-15T21:38:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cjr0hlvyYRrtamhVXcvwvsssNeI",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:36:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (39) الموصول (10) الموصول والصلة كجزأي اسم",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3byigTN9dR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3byigTN9dR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3byigTN9dR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3byigTN9dR4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3byigTN9dR4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3byigTN9dR4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3byigTN9dR4",
+                "videoPublishedAt": "2021-01-15T21:36:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vxarYGLkzhVwcYx6idh5xrTWFPo",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:30:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (40)الموصول (11) ولا موصول حرفي إلا أنْ",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bWH_NBvxqCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bWH_NBvxqCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bWH_NBvxqCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bWH_NBvxqCA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bWH_NBvxqCA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bWH_NBvxqCA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "bWH_NBvxqCA",
+                "videoPublishedAt": "2021-01-15T21:30:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "07lccqiOd2uktaPONRTGMKy2u88",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:29:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (44) المعرف بالأداة (1) ، تلخيص جميع أنواع( أل)",
+                "description": "رابط جدول أنواع ال: https://drive.google.com/file/d/1u8mp9eFbqYpBRnUgGerTD7e2WwEnBzM7/view?usp=sharing\n\nعلي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QEGRFJa8kk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QEGRFJa8kk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QEGRFJa8kk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QEGRFJa8kk4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QEGRFJa8kk4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "QEGRFJa8kk4",
+                "videoPublishedAt": "2021-01-15T21:29:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "py7CnCz6YFLNNrmZbBfQM7AbXKI",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:27:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (45)المعرف بالأداة (2) الخلاف في المعرِّف",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y3Wnh-sBNCM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y3Wnh-sBNCM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y3Wnh-sBNCM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y3Wnh-sBNCM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y3Wnh-sBNCM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Y3Wnh-sBNCM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Y3Wnh-sBNCM",
+                "videoPublishedAt": "2021-01-15T21:28:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "s-NYv9bnGvwunJWNEBKqdj8iKCg",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:23:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (46) المعرف بالأداة (3) فإن عهد مدول مصحوبها",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fuxfKMjy1l4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fuxfKMjy1l4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fuxfKMjy1l4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fuxfKMjy1l4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fuxfKMjy1l4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fuxfKMjy1l4",
+                "videoPublishedAt": "2021-01-15T21:24:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uRbgVcrdZ9rm62VrYHumi2uVEmw",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:25:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (47) المعرف بالأداة ( 4) (ال) الزائدة",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2owUDwv-LQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2owUDwv-LQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2owUDwv-LQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2owUDwv-LQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2owUDwv-LQI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2owUDwv-LQI",
+                "videoPublishedAt": "2021-01-15T21:26:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rV1tYgScY-3MowUwC6tRrwGBE-g",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:45:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (48) العمدة والفضلة وما بينهما",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tYaupwfIu3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tYaupwfIu3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tYaupwfIu3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tYaupwfIu3E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tYaupwfIu3E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tYaupwfIu3E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "tYaupwfIu3E",
+                "videoPublishedAt": "2021-01-15T21:48:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wavzZ4p7FWo_W2jvJqTwm0AMREY",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:46:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (49) المبتدأ والخبر(1) باب المبتدأ وهو ما عدم حقيقة أو حكما عاملا",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uXT0qM2laR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uXT0qM2laR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uXT0qM2laR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uXT0qM2laR0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uXT0qM2laR0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "uXT0qM2laR0",
+                "videoPublishedAt": "2021-01-15T21:52:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_33gcgdVkV1lM989L_EQLm80jB8",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:48:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (50)المبتدأ والخبر( 2) الرافع للمتبدأ",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2rDHsYGtGJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2rDHsYGtGJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2rDHsYGtGJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2rDHsYGtGJ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2rDHsYGtGJ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2rDHsYGtGJ4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2rDHsYGtGJ4",
+                "videoPublishedAt": "2021-01-15T21:51:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2VxGrXsucv4cz2SIIa2_nzWtMk4",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:49:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (51)المبتدأ والخبر (3) ولا خبر للوصف المذكور",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BXV7x1sjeDc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BXV7x1sjeDc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BXV7x1sjeDc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BXV7x1sjeDc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BXV7x1sjeDc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BXV7x1sjeDc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BXV7x1sjeDc",
+                "videoPublishedAt": "2021-01-15T21:51:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iC1TLIZUjJzyCB2TEl7XPex10sg",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:50:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (52) المبتدأ والخبر (4) ويحذف الخبر جوازًا لقرينة ووجوبًا",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0eUPSjItK2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0eUPSjItK2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0eUPSjItK2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0eUPSjItK2U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0eUPSjItK2U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0eUPSjItK2U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0eUPSjItK2U",
+                "videoPublishedAt": "2021-01-15T21:56:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-jnKT0Du5-PlOV_g-hz07gWbZ_U",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:51:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (53) المبتدأ والخبر (5) ويحذف المبتدأ",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tEzdawI2aRk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tEzdawI2aRk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tEzdawI2aRk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tEzdawI2aRk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tEzdawI2aRk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tEzdawI2aRk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "tEzdawI2aRk",
+                "videoPublishedAt": "2021-01-15T21:56:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nzjIHGPg-3Y4ahcIiozMSfaliBg",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:52:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (54)المبتدأ والخبر (6) والأصل تعريف المبتدأ",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SJIgxKVzVTc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SJIgxKVzVTc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SJIgxKVzVTc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SJIgxKVzVTc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SJIgxKVzVTc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SJIgxKVzVTc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "SJIgxKVzVTc",
+                "videoPublishedAt": "2021-01-15T22:02:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fflDzEmpYxmSHvF2hBb-hqIPoXs",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:53:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (55)المبتدأ والخبر (7) والأصل تأخير الخبر",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R9zOu0S2BWo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R9zOu0S2BWo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R9zOu0S2BWo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R9zOu0S2BWo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R9zOu0S2BWo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R9zOu0S2BWo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "R9zOu0S2BWo",
+                "videoPublishedAt": "2021-01-15T21:54:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gFf5DuzysNDP0dOh2amKnt9fHr8",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:54:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (56) المبتدأ والخبر (8) ويجب تقديم الخبر",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QjlPHsUVDoE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QjlPHsUVDoE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QjlPHsUVDoE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QjlPHsUVDoE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QjlPHsUVDoE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QjlPHsUVDoE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "QjlPHsUVDoE",
+                "videoPublishedAt": "2021-01-15T21:56:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pYTOamzNcs72JBC55qmbadLiJ_w",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:55:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (57)المبتدأ والخبر (9) الخبر مفرد وجملة",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N3kCA9mMXr8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N3kCA9mMXr8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N3kCA9mMXr8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N3kCA9mMXr8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N3kCA9mMXr8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N3kCA9mMXr8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "N3kCA9mMXr8",
+                "videoPublishedAt": "2021-01-15T22:05:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UmxoR-tOpYtWNpZgfcEuLPFU-n0",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:56:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (58) المبتدأ والخبر (10) ولا يتحمل غير المشتق ضميرا",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ig5xEGDDhAM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ig5xEGDDhAM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ig5xEGDDhAM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ig5xEGDDhAM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ig5xEGDDhAM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ig5xEGDDhAM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ig5xEGDDhAM",
+                "videoPublishedAt": "2021-01-15T22:03:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-794UrrUXefobfYsNAWpPGc_HsQ",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:57:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (59) المبتدأ والخبر (11) الجملة اسمية وفعلية",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WNqprxJWbWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WNqprxJWbWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WNqprxJWbWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WNqprxJWbWc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WNqprxJWbWc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WNqprxJWbWc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WNqprxJWbWc",
+                "videoPublishedAt": "2021-01-15T21:57:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Tn__U2DcbrJUaFVKWZzIkpR5QFg",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:57:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (60) المبتدأ والخبر (12) وإن اتحدت بالمبتدأ معنى هي",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ncqsKBSgZrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ncqsKBSgZrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ncqsKBSgZrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ncqsKBSgZrE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ncqsKBSgZrE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ncqsKBSgZrE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ncqsKBSgZrE",
+                "videoPublishedAt": "2021-01-15T21:58:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EcL3o_oSScnWEDgWBxeYpRcZ1cY",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2021-01-15T21:58:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (61) المبتدأ والخبر (13) وقد يحذف إن علم",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7NSQpUgQKWo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7NSQpUgQKWo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7NSQpUgQKWo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7NSQpUgQKWo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7NSQpUgQKWo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7NSQpUgQKWo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "7NSQpUgQKWo",
+                "videoPublishedAt": "2021-01-15T22:03:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ci5EHnAr7-cfCPzKRCXiOPjoIhY",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:00:12Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (62) المبتدأ والخبر (14) ويغني عن الخبر باطراد ظرف",
+                "description": "رابط الخلاف في الظروف لهذا الدرس والدروس الآتية : \n\nhttps://drive.google.com/file/d/1_2SQyQtaUqvB8V-Kp2JdZkrf2EQ6ecBF/view?usp=sharing\nhttps://drive.google.com/file/d/1arnkRF5iF2BTO6MA-KXdf9FG1woce_OR/view?usp=sharing\nعلي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F9I8P5StiJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F9I8P5StiJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F9I8P5StiJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F9I8P5StiJ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "F9I8P5StiJ4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "F9I8P5StiJ4",
+                "videoPublishedAt": "2021-01-15T22:16:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "puV8h7wJbVouiVUOcW_RvXlxH08",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:18:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (63) المبتدأ والخبر (15) تكملة الجدول في الدرس السابق",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o3ydfdsv-Ls/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o3ydfdsv-Ls/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o3ydfdsv-Ls/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o3ydfdsv-Ls/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o3ydfdsv-Ls"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "o3ydfdsv-Ls",
+                "videoPublishedAt": "2021-01-15T22:27:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JyjkhMtu6844_HfYkz_okviz710",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:19:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (64) المبتدأ والخبر (16) ولا يغني ظرف زمان غالبًا عن خبر اسم عين",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S572pMNoLaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S572pMNoLaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S572pMNoLaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S572pMNoLaI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S572pMNoLaI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S572pMNoLaI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "S572pMNoLaI",
+                "videoPublishedAt": "2021-01-15T22:24:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WqtdHzDWr5GZemUiHshETHBX_vk",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:20:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (65)المبتدأ والخبر( 17) ولا يغني ظرف زمان غالبا عن خبر",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NkE0KlydvUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NkE0KlydvUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NkE0KlydvUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NkE0KlydvUY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NkE0KlydvUY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "NkE0KlydvUY",
+                "videoPublishedAt": "2021-01-15T22:22:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rkc3sey_o_9qVlZJGS6YV2uh0uQ",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:21:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (66)المبتدأ والخبر (18) ويغني عن خبر اسم معنى مطلقًا",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SueRxGQcflg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SueRxGQcflg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SueRxGQcflg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SueRxGQcflg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SueRxGQcflg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SueRxGQcflg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "SueRxGQcflg",
+                "videoPublishedAt": "2021-01-15T22:28:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WJwdJdxUJrmGCpJHIlhaDBD7I84",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:22:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (67) المبتدأ والخبر (19) ويغني عن خبر اسم عين باطراد مصدر",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ny72l6CVjqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ny72l6CVjqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ny72l6CVjqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ny72l6CVjqM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ny72l6CVjqM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ny72l6CVjqM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ny72l6CVjqM",
+                "videoPublishedAt": "2021-01-15T22:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qE34Mpl2PeHG2i_JsiK0jvE7_ig",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:21:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (68) المبتدأ والخبر (19) تدخل الفاء على خبر المبتدأ وجوبا",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iFnZfLfTIcs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iFnZfLfTIcs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iFnZfLfTIcs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iFnZfLfTIcs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iFnZfLfTIcs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iFnZfLfTIcs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "iFnZfLfTIcs",
+                "videoPublishedAt": "2021-01-15T22:27:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uxeeXyv8m00QTvl3vUhYlBoFuJg",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:23:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (69) كان وأخواتها (1) باب الأفعال الرافعة الاسم الناصبة الخبر",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nu63QKBemxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nu63QKBemxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nu63QKBemxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nu63QKBemxQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nu63QKBemxQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Nu63QKBemxQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Nu63QKBemxQ",
+                "videoPublishedAt": "2021-01-15T22:34:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k6pAwCRsJuxpM6WJ9L_o40TQ_Hc",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:32:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (70) كان وأخواتها (2) وتسمى نواقص لعدم اكتفائها بالمرفوع",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dMhUMRY0xwY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dMhUMRY0xwY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dMhUMRY0xwY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dMhUMRY0xwY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dMhUMRY0xwY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dMhUMRY0xwY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "dMhUMRY0xwY",
+                "videoPublishedAt": "2021-01-15T22:32:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PQOeBMoAAy4Qrl1qxA6ZspmQLi8",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:28:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (71)كان وأخواتها (3) وكلها تتصرف إلا ليس ودام",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rFxxqrvWMxE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rFxxqrvWMxE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rFxxqrvWMxE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rFxxqrvWMxE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rFxxqrvWMxE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rFxxqrvWMxE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rFxxqrvWMxE",
+                "videoPublishedAt": "2021-01-15T22:32:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "svzR21k6BV7TC9EY__tZ40ahgRM",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:27:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (72)كان وأخواتها ( 4) وترد الخمسة الأوائل",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J5cNLyz_8-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J5cNLyz_8-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J5cNLyz_8-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J5cNLyz_8-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J5cNLyz_8-Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "J5cNLyz_8-Y"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "J5cNLyz_8-Y",
+                "videoPublishedAt": "2021-01-15T22:31:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "J_1BpjKh7pQulSi1aquHOumKZqY",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:31:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (73) كان وأخواتها (5) وتوسيط أخبارها كلها",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kk5V8VUkG4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kk5V8VUkG4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kk5V8VUkG4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Kk5V8VUkG4o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Kk5V8VUkG4o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Kk5V8VUkG4o"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Kk5V8VUkG4o",
+                "videoPublishedAt": "2021-01-15T22:31:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ii70OtUSCVxKM25xS0wLGB2MDXY",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:29:12Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (74) كان وأخواتها (6) ولا يلزم تأخير الخبر",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jOSRl-ahtEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jOSRl-ahtEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jOSRl-ahtEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jOSRl-ahtEU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jOSRl-ahtEU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jOSRl-ahtEU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "jOSRl-ahtEU",
+                "videoPublishedAt": "2021-01-15T22:34:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8P3YKVv5gVd0L2iWNtdNzc_wAQE",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:32:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (75) كان وأخواتها (7) يقترن بإلا الخبر المنفي إن قصد إيجابه",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bJVBkmSobps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bJVBkmSobps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bJVBkmSobps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bJVBkmSobps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bJVBkmSobps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bJVBkmSobps"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "bJVBkmSobps",
+                "videoPublishedAt": "2021-01-15T22:35:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kcRwwbdtzav39GrgUE3-kz7SOUA",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:30:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (76) كان وأخواتها (8) وتختص كان بمرادفة لم يزل كثيرا",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/goYH1cImK9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/goYH1cImK9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/goYH1cImK9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/goYH1cImK9M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/goYH1cImK9M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "goYH1cImK9M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "goYH1cImK9M",
+                "videoPublishedAt": "2021-01-15T22:36:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zm8HfNYUkPQ668p-HCuMiXvXXNI",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:33:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (77) كان وأخواتها (9) وتختص كان أيضا بعد إن أو لو",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TxGv0XqRTPo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TxGv0XqRTPo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TxGv0XqRTPo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TxGv0XqRTPo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TxGv0XqRTPo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TxGv0XqRTPo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "TxGv0XqRTPo",
+                "videoPublishedAt": "2021-01-15T22:40:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AG1sFJvsWAomofVohyknnR5-XAg",
+            "id": "UExFRDREai1UNDNyTkdPeWxwWDAyUEpPX2FPN3hFNWxScy4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2021-01-15T22:50:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تسهيل الفوائد (78) كان وأخواتها (10) والتزم حذفها معوضا منها ما بعد أن كثيرا",
+                "description": "علي_هاني_العقرباوي\nالمستوى الرابع عشر في سلسلة دراسة النحو:\n1) فأولًا مبادئ النحو ثم 2)  التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4) التسهيل على الآجرومية 5)  متممة الآجرومية 6) النحو الوظيفي 7) قطر الندى 8) شذور الذهب 9) موصل الطلاب إلى قواعد الإعراب 10) ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 13) ألفية ابن مالك بشرح السيوطي 14) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،15) مغني اللبيب لابن هشام",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/muO9L-FSw8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/muO9L-FSw8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/muO9L-FSw8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/muO9L-FSw8c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/muO9L-FSw8c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "muO9L-FSw8c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "muO9L-FSw8c",
+                "videoPublishedAt": "2021-01-15T22:54:25Z"
+            }
+        }
+    ],
+    "title": "(تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد",
+    "nav": "تسهيل الفوائد",
+    "id": "1_10"
+}
