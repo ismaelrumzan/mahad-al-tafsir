@@ -115,37 +115,37 @@
               "id": "1_9_4",
               "playlistid": "PLED4Dj-T43rP8MQEYekYHSRD22FmQ54KS",
               "notes": "سجل من أوله إلى آخر باب إنَّ وأخواتها ، والدروس متسمر ة"
-            },
-            {
-              "title": "(تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد",
-              "nav": "تسهيل الفوائد",
-              "id": "1_9_5",
-              "playlistid": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
-              "notes": "سجل من أوله إلى آخر باب إنَّ وأخواتها ، والدروس متسمر ة"
             }
-          ]
+           ]
+        },
+        {
+          "title": "(تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد",
+          "nav": "تسهيل الفوائد",
+          "id": "1_10",
+          "playlistid": "PLED4Dj-T43rNGOylpX02PJO_aO7xE5lRs",
+          "notes": "سجل من أوله إلى آخر باب إنَّ وأخواتها ، والدروس متسمر ة"
         },
         {
           "title": "ثم مغني اللبيب لابن هشام",
           "nav": "ثم مغني اللبيب",
-          "id": "1_10",
+          "id": "1_11",
           "notes": "لم يسجل"
         },
         {
           "title": "للتدريب على الإعراب",
           "nav": "للتدريب على الإعراب",
-          "id": "1_11",
+          "id": "1_12",
           "content": [
             {
               "title": "دورة إعراب جزء عم",
               "nav": "إعراب جزء عم",
-              "id": "1_11_1",
+              "id": "1_12_1",
               "playlistid": "PLED4Dj-T43rP87tQRw1doYWVbLiSRzgjN"
             },
             {
               "title": "النحو الوظيفي/ عبد العليم إبراهيم",
               "nav": "النحو الوظيفي",
-              "id": "1_11_2",
+              "id": "1_12_2",
               "playlistid": "PLED4Dj-T43rPhTQMJctp2l2UdxFCHXxSx"
             }
           ]
@@ -299,301 +299,295 @@
       "type": "videos",
       "content": [
         {
-          "title": "دورة الطريقة المثلى لتفسير القرآن الكريم",
-          "nav": "الطريقة المثلى لتفسير",
-          "id": "4_1",
-          "playlistid": "PLQ3tuFIYeuXD7OVxknlJZ7_otnbhnpT7G"
-        },
-        {
           "title": "تفسير النسفي من سورة السجدة إلى سورة الناس",
           "nav": "تفسير النسفي",
-          "id": "4_2",
+          "id": "4_1",
           "type": "tafsir",
           "content": [
             {
-              "id": "4_2_32",
+              "id": "4_1_32",
               "title": "سورة السجدة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rP4R1i7bwuVkGQDCoShYp2B"
             },
             {
-              "id": "4_2_33",
+              "id": "4_1_33",
               "title": "سورة ٱلْأَحْزَاب تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj"
             },
             {
-              "id": "4_2_34",
+              "id": "4_1_34",
               "title": "سورة سَبَأ تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rPX3QKMgELxOCMKME1B1g_X"
             },
             {
-              "id": "4_2_35",
+              "id": "4_1_35",
               "title": "سورة فاطر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMJfwnCsn5FAdwXyYRLQW-F"
             },
             {
-              "id": "4_2_36",
+              "id": "4_1_36",
               "title": "سورة يس تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNtg8QigpXyOfX6x4OefoBN"
             },
             {
-              "id": "4_2_37",
+              "id": "4_1_37",
               "title": "سورة الصافات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMCMIymWIZLPDZn6rZAZNVB"
             },
             {
-              "id": "4_2_38",
+              "id": "4_1_38",
               "title": "سورة ص تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rO_iZTn7yhP9xcx6SofoLEF"
             },
             {
-              "id": "4_2_39",
+              "id": "4_1_39",
               "title": "سورة الزمر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNNatVlQBROmvFb3hofyps4"
             },
             {
-              "id": "4_2_40",
+              "id": "4_1_40",
               "title": "سورة غافر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMZPvqbSXIfj_bQbJPm-5_U"
             },
             {
-              "id": "4_2_41",
+              "id": "4_1_41",
               "title": "سورة فصلت تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rN1jIdVzOUCrgf_zfkIjvAy"
             },
             {
-              "id": "4_2_42",
+              "id": "4_1_42",
               "title": "سورة الشورى تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rOLWI0MqVj8EnJdT9yonjG_"
             },
             {
-              "id": "4_2_43",
+              "id": "4_1_43",
               "title": "سورة الزخرف تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rOmLc4bGxgDk06C5H7QMGXb"
             },
             {
-              "id": "4_2_44",
+              "id": "4_1_44",
               "title": "سورة الدخان تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rPQNc1SHkVbi6b_nLn-5kLX"
             },
             {
-              "id": "4_2_45",
+              "id": "4_1_45",
               "title": "سورة الجاثية تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rO22vOnN0uD5UH4wxKuE94L"
             },
             {
-              "id": "4_2_46",
+              "id": "4_1_46",
               "title": "سورة الأحقاف تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMv1QsjQ17-n-dBp4SQESVu"
             },
             {
-              "id": "4_2_47",
+              "id": "4_1_47",
               "title": "سورة محمد تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMBG0cjpYJmwEbDV3k5mvs7"
             },
             {
-              "id": "4_2_48",
+              "id": "4_1_48",
               "title": "سورة الفتح تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMAw961HvgldS8CTpawZBxo"
             },
             {
-              "id": "4_2_49",
+              "id": "4_1_49",
               "title": "سورة الحجرات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMG8Q71Q4FM4DkQGNSFmcJQ"
             },
             {
-              "id": "4_2_50",
+              "id": "4_1_50",
               "title": "سورة ق تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rO9DLE8cXw_DdPxBdeUSIIg"
             },
             {
-              "id": "4_2_51",
+              "id": "4_1_51",
               "title": "سورة الذاريات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rOEDjcNV6r9m09C9xZxnVoa"
             },
             {
-              "id": "4_2_52",
+              "id": "4_1_52",
               "title": "سورة الطور تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMyAcnOGNG2AaG9rqN-ycE9"
             },
             {
-              "id": "4_2_53",
+              "id": "4_1_53",
               "title": "سورة النجم تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c"
             },
             {
-              "id": "4_2_54",
+              "id": "4_1_54",
               "title": "سورة القمر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNVBv4CQuswkEe7Xrr-wiNZ"
             },
             {
-              "id": "4_2_55",
+              "id": "4_1_55",
               "title": "سورة الرحمن تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rPbMW0r5MAJH_QXCqqt5B4V"
             },
             {
-              "id": "4_2_56",
+              "id": "4_1_56",
               "title": "سورة الواقعة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNWXZnenoQt7nGWR4LFz4Ur"
             },
             {
-              "id": "4_2_57",
+              "id": "4_1_57",
               "title": "سورة الحديد تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rPP2BC3WatGY81kxhyJ-LEh"
             },
             {
-              "id": "4_2_58",
+              "id": "4_1_58",
               "title": "سورة المجادلة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNYnnzodpgdEWPpwyHlNBgZ"
             },
             {
-              "id": "4_2_59",
+              "id": "4_1_59",
               "title": "سورة الحشر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rN5pRwynf8rdYUQvaXhtLmo"
             },
             {
-              "id": "4_2_60",
+              "id": "4_1_60",
               "title": "سورة الممتحنة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rOX7QlWzgHULnKZ1OXJr4a0"
             },
             {
-              "id": "4_2_61",
+              "id": "4_1_61",
               "title": "سورة الصف تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMDN0Q9vAelThPDeiyN9zLH"
             },
             {
-              "id": "4_2_62",
+              "id": "4_1_62",
               "title": "سورة الجمعة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rPVbqXN49Lca275otj_S-f1"
             },
             {
-              "id": "4_2_63",
+              "id": "4_1_63",
               "title": "سورة المنافقون تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rML3sQS_GuyDRZ402_DhjRo"
             },
             {
-              "id": "4_2_64",
+              "id": "4_1_64",
               "title": "سورة التغابن تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNGjHn-yb2QgqR-SwtvvwXm"
             },
             {
-              "id": "4_2_65",
+              "id": "4_1_65",
               "title": "سورة الطلاق تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNzHgesIYHA63bfxdnk3MyH"
             },
             {
-              "id": "4_2_66",
+              "id": "4_1_66",
               "title": "سورة التحريم تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rM06LYbsjqlrDxQzs5HMvgf"
             },
             {
-              "id": "4_2_67",
+              "id": "4_1_67",
               "title": "سورة الملك تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMPNapX8Gi9lrm43PBaRL5o"
             },
             {
-              "id": "4_2_68",
+              "id": "4_1_68",
               "title": "سورة القلم تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMDzJ04mb5hNyHpzVdcQJTb"
             },
             {
-              "id": "4_2_69",
+              "id": "4_1_69",
               "title": "سورة الحاقة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rPi05GtyHHA4x3VGXSMdyhd"
             },
             {
-              "id": "4_2_70",
+              "id": "4_1_70",
               "title": "سورة المعارج تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rOH5iYOQaO3VImOh2mBYy98"
             },
             {
-              "id": "4_2_71",
+              "id": "4_1_71",
               "title": "سورة نوح تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNJ_kIkOYaOIDjAayhPv_4A"
             },
             {
-              "id": "4_2_72",
+              "id": "4_1_72",
               "title": "سورة الجن تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMCP2Y0U25CcfCWVYaJXTNX"
             },
             {
-              "id": "4_2_73",
+              "id": "4_1_73",
               "title": "سورة المزمل تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rOMayn49n11TF-aT_Rvehs7"
             },
             {
-              "id": "4_2_74",
+              "id": "4_1_74",
               "title": "سورة المدثر تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMJrbr6bW_hHwJPuBup-2KI"
             },
             {
-              "id": "4_2_75",
+              "id": "4_1_75",
               "title": "سورة القيامة تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNRmfnu_Bg6MTooNf6sYom-"
             },
             {
-              "id": "4_2_76",
+              "id": "4_1_76",
               "title": "سورة الانسان تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rPrMl1QpKGqOoXzqUiDqxJl"
             },
             {
-              "id": "4_2_77",
+              "id": "4_1_77",
               "title": "سورة المرسلات تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rNmco-5qyQgR2-Cq8hK01Us"
             },
             {
-              "id": "4_2_78",
+              "id": "4_1_78",
               "title": "الجزء عَمَّ الحزب ٥٩ تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMH5C9U_46pI-IGUpW2u1Mt"
             },
             {
-              "id": "4_2_87",
+              "id": "4_1_87",
               "title": "الجزء عَمَّ الحزب ٦٠ تفسير النسفي",
               "type": "tafsir",
               "playlistid": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J"
@@ -603,49 +597,49 @@
         {
           "title": "تفسير القرآن الكريم من الفاتحة إلى سورة السجدة من تفسير الجلالين والنسفي والبيضاوي",
           "nav": "تفسير القرآن الكريم",
-          "id": "4_3",
+          "id": "4_2",
           "notes": "لم يسجل"
         },
         {
           "title": "تفسير القرآن كاملًا مع الترجمة للغة الإنجليزية",
           "nav": "تفسير القرآن كاملً",
-          "id": "4_4",
+          "id": "4_3",
           "notes": "لم ترفع"
         },
         {
           "title": "كتب علوم القرآن ومنها كتاب نور الدين عتر، والزمزمية ، والإتقان والبرهان",
           "nav": "كتب علوم القرآن",
-          "id": "4_5",
+          "id": "4_4",
           "notes": "لم يسجل"
         },
         {
           "title": "شرح الشاطبية في القراءات مع دفع الشبهات عن القراءات",
           "nav": "شرح الشاطبية",
-          "id": "4_6",
+          "id": "4_5",
           "notes": "لم يسجل"
         },
         {
           "title": "إعجاز القرآن",
           "nav": "إعجاز القرآن",
-          "id": "4_7",
+          "id": "4_6",
           "notes": "لم يسجل"
         },
         {
           "title": "القصص القرآني",
           "nav": "القصص القرآني",
-          "id": "4_8",
+          "id": "4_7",
           "notes": "لم يسجل"
         },
         {
           "title": "مقاصد سور القرآن",
           "nav": "مقاصد سور القرآن",
-          "id": "4_9",
+          "id": "4_8",
           "notes": "لم يسجل"
         },
         {
           "title": "من أسرار حروف الجر ومن أسرار حروف العطف",
           "nav": "من أسرار حروف",
-          "id": "4_10",
+          "id": "4_9",
           "notes": "لم يسجل"
         }
       ]
@@ -675,6 +669,34 @@
           "notes": "لم يسجل بعد"
         }
       ]
+    }, 
+    {
+      "title": "سلسلة علوم القرآن",
+      "nav": "سلسلة علوم القرآن",
+      "id": "6",
+      "image": "card-6.png",
+      "content" :[
+        {
+          "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم",
+          "nav": "الطريقة المثلى لتفسير",
+          "id": "6_1",
+          "playlistid": "PLED4Dj-T43rO64uXvgEaBBzwZV9oCpghh"
+        },
+        {
+          "title": "شرح علوم القرآن لنور الدين عتر",
+          "nav": "علوم القرآن - العتر",
+          "id": "6_2",
+          "playlistid": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY"
+        }, 
+        {
+          "title": "دورة مقاصد السور",
+          "nav": "دورة مقاصد السور",
+          "id": "6_3",
+          "playlistid": "PLED4Dj-T43rNOgEmLfhfvuaVzLRTbWBdA"
+        }
+      ]
     }
   ]
 }
+
+ 
