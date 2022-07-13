@@ -83,7 +83,8 @@ function getPlaylistData() {
           let category = new Object();
           category.data = new Object();
           category.data.label = lesson.nav;
-          category.data.position = index + 1;
+          let idArr = lesson.id.split("_");
+          category.data.position = idArr[idArr.length - 1].toString();
           category.path = mypath;
           categories.push(category);
           lesson.content.forEach((video) => {
@@ -199,7 +200,6 @@ async function createMDX() {
       "utf8"
     );
   });
-  let count = 1;
   let videoCount = [0, 0, 0, 0, 0];
   playlistData.videos.forEach(async (item) => {
     if ("type" in item && item.type === "index") {
@@ -229,8 +229,9 @@ async function createMDX() {
       let searchrec = new Object();
       videoCount[Number(item.id.split("_")[0]) - 1] += lesson.items.length;
       let data = "---";
+      let idArr = item.id.split("_");
       data += "\n";
-      data += "sidebar_position: " + count.toString();
+      data += "sidebar_position: " + idArr[idArr.length - 1].toString();
       data += "\n";
       data += "---";
       data += "\n";
@@ -241,7 +242,6 @@ async function createMDX() {
       data += "\n";
       data += "<VideoList data={videoData}/>";
       data += "\n";
-      count += 1;
       searchrec.id = item.id;
       searchrec.title = item.title;
       searchrec.description = "";
