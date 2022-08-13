@@ -17,6 +17,7 @@
     "@algolia/autocomplete-js": "^1.6.2",
     "@algolia/autocomplete-theme-classic": "^1.6.2",
     "@docusaurus/core": "2.0.0-beta.18",
+    "@docusaurus/plugin-google-gtag": "^2.0.1",
     "@docusaurus/preset-classic": "2.0.0-beta.18",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",

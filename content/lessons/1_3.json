@@ -2,36 +2,36 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "JDq3f-fAWTimZXQvSEb6djnysrc",
-            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5EMzJDRTUwQjBEOUVFQzAw",
+            "etag": "TaX_aGXayh1PMaqV3D34vYFExAc",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5GMDBDNkJGMzYzREUyMTYw",
             "snippet": {
-                "publishedAt": "2019-06-25T20:53:54Z",
+                "publishedAt": "2022-08-13T06:52:30Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب(1) شرح الشيخ علي هاني العقرباوي",
-                "description": "1  شرح مقدمة الكتاب\n#seekersguidance \nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل",
+                "title": "متممة الآجرومية للحطاب (1) مبادئ علم النحو ، والتعريف بالحطاب",
+                "description": "https://drive.google.com/file/d/1VIBx99OMzwBX6Iy_xQzPKuQqxY-CXzfE/view?usp=sharing\nهذا رابط متن متممة الآجرومية \nعلي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jpaBkdiWAvc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5rN9qksFk5w/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jpaBkdiWAvc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5rN9qksFk5w/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jpaBkdiWAvc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5rN9qksFk5w/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/jpaBkdiWAvc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5rN9qksFk5w/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/jpaBkdiWAvc/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5rN9qksFk5w/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -41,48 +41,48 @@
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "jpaBkdiWAvc"
+                    "videoId": "5rN9qksFk5w"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "jpaBkdiWAvc",
-                "videoPublishedAt": "2019-06-23T02:23:02Z"
+                "videoId": "5rN9qksFk5w",
+                "videoPublishedAt": "2022-08-13T06:53:08Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nuYoiMMWmoi1zZhtz79_z8J0NZw",
-            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "bgztD0msFNMEaGCIOMYuZ8WVWEc",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
-                "publishedAt": "2019-06-23T02:24:32Z",
+                "publishedAt": "2022-08-13T06:47:13Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب (2)شرح الشيخ علي هاني العقرباوي",
-                "description": "2 الكلام والكلم والكلمة\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
+                "title": "متممة الآجرومية للحطاب (2) تكملة المبادئ العشرة ، وتعريف الكلمة والكلام",
+                "description": "رابط متن متممة الآجرومية \nhttps://drive.google.com/file/d/1VIBx99OMzwBX6Iy_xQzPKuQqxY-CXzfE/view?usp=sharing\n\n_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح \n\nعلى الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/p4jH8l6Szd4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mrBNZkfh-Q0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/p4jH8l6Szd4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mrBNZkfh-Q0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/p4jH8l6Szd4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mrBNZkfh-Q0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/p4jH8l6Szd4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mrBNZkfh-Q0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/p4jH8l6Szd4/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mrBNZkfh-Q0/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -92,24 +92,68 @@
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "p4jH8l6Szd4"
+                    "videoId": "mrBNZkfh-Q0"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "p4jH8l6Szd4",
-                "videoPublishedAt": "2019-06-23T02:29:42Z"
+                "videoId": "mrBNZkfh-Q0",
+                "videoPublishedAt": "2022-08-13T06:50:51Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_uE93t4IIqdBV6ck2vtWcdnjNxU",
+            "etag": "WRNIbteiYrOMmaFjx6eh25NM1jw",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2019-06-25T20:53:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jpaBkdiWAvc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jpaBkdiWAvc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yF4OaAVKPP7kvJ80phTAdFTwS9c",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-06-23T02:24:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p4jH8l6Szd4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "p4jH8l6Szd4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xOOvtkbRZSdleDOhq9ip3or5hoc",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2019-06-23T02:25:45Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (3)",
+                "title": "متممة الآجرومية للحطاب  (3) تكملة شرح الكلام والكلم والكلمة",
                 "description": "3 تكملة شرح الكلام والكلم والكلمة\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -140,7 +184,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 2,
+                "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "et_hIWCrht4"
@@ -155,12 +199,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ojFWNvKVOv43LfLLtaNYUtRixjQ",
+            "etag": "w7TGI4mOwchf0SINV8vuEfMYUZs",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2019-06-23T02:28:32Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (4)",
+                "title": "متممة الآجرومية  (4) علامات الاسم",
                 "description": "4 علامات الاسم\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -191,7 +235,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 3,
+                "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "RyISv_fjfh0"
@@ -206,12 +250,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "13bY17ExphHz42AKM8OC3P5sh24",
+            "etag": "mzxg1dJ5Wd8-CiAbRzgCBd1iRFM",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2019-06-23T02:29:52Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (5)",
+                "title": "متممة الآجرومية (5) أنواع التنوين",
                 "description": "5 أنواع التنوين\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -242,7 +286,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 4,
+                "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gN7Kpf0XqpI"
@@ -257,12 +301,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Vt1kenJj3DtLAvqzC60HlslcDIg",
+            "etag": "jhqnWkJaS_q8FjHwtNJuyhBU5NA",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2019-06-23T02:31:09Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (6)",
+                "title": "متممة الآجرومية  (6) علامات الفعل ومعاني حروف المضارعة",
                 "description": "6 علامات الفعل ومعاني حروف المضارعة\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -293,7 +337,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 5,
+                "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xzCXvtZlQOE"
@@ -308,12 +352,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "07n47yWJfHIv7AWnHbZU2amQ3aU",
+            "etag": "i7ooDrzbSuQC9TH1qa4H0QljtAk",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2019-06-23T02:32:47Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (7)",
+                "title": "متممة الآجرومية  (7) تكميل علامات الفعل، والمعرب والمبني",
                 "description": "7 إكمال علامات الفعل، والمعرب والمبني\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -344,7 +388,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 6,
+                "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "DobBA_bOvCE"
@@ -359,12 +403,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tJWVedLhbiuRrG9RUU56TPR2fq0",
+            "etag": "UwKhEMH29R3DtxDsZI6eFJOVcNs",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
                 "publishedAt": "2019-06-23T02:33:59Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (8)",
+                "title": "متممة الآجرومية (8) تفصيل المبنيات",
                 "description": "8 تفصيل المبنيات\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -395,7 +439,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 7,
+                "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OlYmuNmYK-Q"
@@ -410,12 +454,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BXvamaF5lM2_qikvBVy99KIrJcg",
+            "etag": "5pYIhb4E688gG91hUAhq9GEabW8",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2019-06-23T02:36:26Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (9)",
+                "title": "متممة الآجرومية  (9) إعراب المبنيات",
                 "description": "9 إعراب المبنيات\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -446,7 +490,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 8,
+                "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "8mlAWO-nJeI"
@@ -461,12 +505,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "EbA7sRJwpSAaNLQXUEvKcTubj9M",
+            "etag": "sQZu9FtNlUtwU7iWT8xwoY-1Qzo",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
                 "publishedAt": "2019-06-23T02:37:35Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي(10)",
+                "title": "متممة الآجرومية (10) أنواع شبه الأسماء المبنيات بالحرف",
                 "description": "10 أنواع  شبه الأسماء المبنيات بالحرف\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -497,7 +541,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 9,
+                "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5DbOLgIddTc"
@@ -512,12 +556,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DbQg2uxqh0RXsfj_wQOusRe60IE",
+            "etag": "DZkujCZXH76XZquhLDGhvADWlaQ",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2019-06-23T02:39:39Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (11)",
+                "title": "متممة الآجرومية  (11) بناء الأفعال",
                 "description": "11 بناء الأفعال\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -548,7 +592,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 10,
+                "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "X8dOjWjG-oM"
@@ -563,12 +607,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dgYacSO9DG2COzEchoPkC_oJFn4",
+            "etag": "5Ervb8CmB7qNjiJWN2sJ4zY_fbM",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2019-06-23T02:41:23Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (13)",
+                "title": "متممة الآجرومية (13) إعراب وبناء الفعل المضارع",
                 "description": "13 اعراب وبناء الفعل المضارع\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -599,7 +643,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 11,
+                "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oy27hCe104o"
@@ -614,12 +658,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zgSJWAqyvgV1jQMh3VZj6o5XeKA",
+            "etag": "eEztEuF1itQuN9nUD6jLd2tKYQ0",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2019-06-23T02:42:41Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (14)",
+                "title": "متممة الآجرومية (14) تكملة إعراب وبناء الفعل المضارع",
                 "description": "14 تكملة إعراب وبناء الفعل المضارع\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -650,7 +694,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 12,
+                "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lT_CbB1DbZE"
@@ -665,12 +709,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "K5vUaVHHvQiUHEC9BNjsEHw7zLo",
+            "etag": "j-pmqEUjo7hi0kPmSf3zmyqWsL8",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2019-06-23T02:44:57Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (15)",
+                "title": "متممة الآجرومية (15) باب معرفة علامات الإعراب",
                 "description": "15 باب معرفة علامات الإعراب\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -701,7 +745,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 13,
+                "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MolhwIB-3SM"
@@ -716,12 +760,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HiM4EpQrUT6NxN4JmCDXwTh-8Iw",
+            "etag": "Fd0k_W0RtC887EuTfVH9ZjX-_lQ",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2019-06-23T02:46:08Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (16)",
+                "title": "متممة الآجرومية (16) جمع المذكر السالم",
                 "description": "16 جمع المذكر السالم\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -752,7 +796,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 14,
+                "position": 16,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "AjotsK2Ut8w"
@@ -767,12 +811,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "kiNZvZYzM2PPZMxJj06qUNqVu2s",
+            "etag": "MK9GLjVgBxLwGtAohNWEibheWcU",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2019-06-23T02:48:01Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (17)",
+                "title": "متممة الآجرومية  (17) المثنى",
                 "description": "17 المثنى\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -803,7 +847,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 15,
+                "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "pTVOW722XPc"
@@ -818,12 +862,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iW9z6UNDGfDvNXto46sSpTUkdpc",
+            "etag": "AXObv8K6r-Y9746w-8vnaOZKKDQ",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2019-06-23T02:49:08Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للحطاب شرح الشيخ علي هاني العقرباوي (18)",
+                "title": "متممة الآجرومية  (18) الملحق بالمثنى وتكميل علامات الرفع",
                 "description": "18 الملحق بالمثنى وإكمال علامات الرفع\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
                 "thumbnails": {
                     "default": {
@@ -854,7 +898,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 16,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7mXs3KLwN8k"
@@ -869,7 +913,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zzrf_rStq9w2V-8rQWaTibej39Q",
+            "etag": "RSp5klELqR9jxTyWvjGLsOr3vh0",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
                 "publishedAt": "2019-06-23T02:50:20Z",
@@ -905,7 +949,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 17,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Saj2WjFSXtg"
@@ -920,7 +964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SjMZ-9zmyfItuVKBhqUsuouq5fI",
+            "etag": "InXlZ7AjdwH9WUFPJwjPYHqZfdc",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
                 "publishedAt": "2019-06-23T02:53:41Z",
@@ -956,7 +1000,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 18,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "R17V55B6jSo"
@@ -971,7 +1015,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "azEJjaBP6MfQvnc3mOKvHuV9Luw",
+            "etag": "nIuxJAqAX4lTz3zxTyuvtOcaMgQ",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2019-06-23T02:58:27Z",
@@ -1007,7 +1051,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 19,
+                "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "M5JM8sonrWk"
@@ -1022,7 +1066,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9r0aFnpvMK_-mn0u_ftvnkVllE8",
+            "etag": "i-40-TVCoKSRSsv2ZdVDEr33J5Q",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
                 "publishedAt": "2019-06-23T03:03:42Z",
@@ -1058,7 +1102,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 20,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KmJKDutI4Cc"
@@ -1073,7 +1117,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "laYKb2gHnYCzBt7X7ogAGP9qhz0",
+            "etag": "c6cGzlsKRHvCGIVm9n3PV0dn5_I",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2019-06-23T03:04:58Z",
@@ -1109,7 +1153,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 21,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "b5Br_5Ja5j0"
@@ -1124,7 +1168,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tzhZc9dykXZ9W7U3cU-cDd7JOT8",
+            "etag": "ZMhhyFQL5XsARkw5L8gIragad7M",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
                 "publishedAt": "2019-06-23T03:06:03Z",
@@ -1160,7 +1204,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 22,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aW6GqhI9nzE"
@@ -1175,7 +1219,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JShEu89MbJUgNcF7LEvgPEmVOcI",
+            "etag": "bsbwP5FOAxCaRuMp75kJANfjL-c",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2019-06-23T03:08:13Z",
@@ -1211,7 +1255,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 23,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "BBJ77-F9KM4"
@@ -1226,58 +1270,80 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8piTK3Cqc70UfpVnV9HZcAo31iA",
-            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DNzE1RjZEMUZCMjA0RDBB",
+            "etag": "hbV2wHCQTpKU70rWK7cF8jCozYA",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4wQUE0QzM4MkJGQ0YwQjUx",
             "snippet": {
-                "publishedAt": "2019-06-23T03:09:27Z",
+                "publishedAt": "2022-08-13T06:54:57Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للعلامة الحطاب شرح الشيخ علي هاني العقرباوي (26)",
-                "description": "26 الممنوع من الصرف\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
+                "title": "متممة الآجرومية للحطاب (26) الممنوع من الصرف (26)",
+                "description": "رابط متن متممة الآجرومية https://drive.google.com/file/d/1VIBx99OMzwBX6Iy_xQzPKuQqxY-CXzfE/view?usp=sharing\nعلي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/MsClxlSTUB8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5pZryoBiWco/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/MsClxlSTUB8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5pZryoBiWco/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/MsClxlSTUB8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5pZryoBiWco/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/MsClxlSTUB8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5pZryoBiWco/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/MsClxlSTUB8/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5pZryoBiWco/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 24,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "MsClxlSTUB8"
+                    "videoId": "5pZryoBiWco"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "MsClxlSTUB8",
-                "videoPublishedAt": "2019-06-23T03:09:24Z"
+                "videoId": "5pZryoBiWco",
+                "videoPublishedAt": "2022-08-13T06:55:21Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "93_ChJpvBKUtlWRkaCVz03NqJF4",
+            "etag": "BvF4hLnCalK-9AWkQ-GkJ3fAwjA",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2019-06-23T03:09:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MsClxlSTUB8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MsClxlSTUB8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UsuuORAu5MCDSNhW_OacKWQP1n0",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2019-06-23T03:12:31Z",
@@ -1313,7 +1379,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 25,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "offNvTcsI3k"
@@ -1328,53 +1394,80 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "04BnlgbsQFlZUNuMPb3L_OAoAU8",
-            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "etag": "L0IPdmj0ok84ssMsuSLWgl9pFTo",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DQjg2RDQyMEVGQkZFOEVF",
             "snippet": {
-                "publishedAt": "2019-06-23T03:13:32Z",
+                "publishedAt": "2022-08-13T06:56:48Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "متممة الآجرومية للعلامة الحطاب شرح الشيخ علي هاني العقرباوي (28)",
-                "description": "28 الجزء الثالث من الممنوع من الصرف\nنحو4: المستوى الربع في سلسلة النحو (4)\nيبدأ بمبادئ دروس العربية ثم التوضيح على الآجرومية ثم التسهيل على الآجرومية (يستحسن أن يسمع بعده إعراب جزء عم ) ثم متممة الآجرومية \nمحمد الحطاب هو صاحب مواهب الجليل في شرح مختصر خليل\n#seekersguidance",
+                "title": "متممة الآجرومية للحطاب (28) الممنوع من الصرف",
+                "description": "رابط متن متممة الآجرومية \nhttps://drive.google.com/file/d/1VIBx99OMzwBX6Iy_xQzPKuQqxY-CXzfE/view?usp=sharing\nعلي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/m8FEEL82TV4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/elaE8Abu_jo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/m8FEEL82TV4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/elaE8Abu_jo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/m8FEEL82TV4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/elaE8Abu_jo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/m8FEEL82TV4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/elaE8Abu_jo/sddefault.jpg",
                         "width": 640,
                         "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/elaE8Abu_jo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 26,
+                "position": 29,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "m8FEEL82TV4"
+                    "videoId": "elaE8Abu_jo"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "m8FEEL82TV4",
-                "videoPublishedAt": "2019-06-23T03:13:29Z"
+                "videoId": "elaE8Abu_jo",
+                "videoPublishedAt": "2022-08-13T06:57:12Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WOjcmYSrrfbeTr8jeNTEpuB9zEU",
+            "etag": "ZDhS9GpK2NhlMrPNsdQ-ibflYnY",
+            "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2019-06-23T03:13:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m8FEEL82TV4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "m8FEEL82TV4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-K3hfWEFz4w_I_B5BsVIOybEKU8",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2019-06-23T03:14:37Z",
@@ -1410,7 +1503,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 27,
+                "position": 31,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "S_6IL7W4wGI"
@@ -1425,7 +1518,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "VVzNaW6JI2J49tC0te2Yhd-Rh0k",
+            "etag": "u8PI930fsmDdY7HvnbjzxtKELmM",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2019-06-23T03:15:44Z",
@@ -1461,7 +1554,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 28,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "RVrJPSv0kY0"
@@ -1476,7 +1569,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9lgwBvwUOx0az3Gm-5yoFrWW0to",
+            "etag": "O0AFplj1JX9yzxTlpwKGVlBI0cw",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4xNTZBNUQxMDZBQzFGMjkw",
             "snippet": {
                 "publishedAt": "2019-06-23T06:00:35Z",
@@ -1512,7 +1605,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 29,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "F_Y0fNT8FUc"
@@ -1527,7 +1620,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5N70RXzAAE9qnOzH6sjWhCEPWww",
+            "etag": "83lFSCPhs730Tqc9KmINvFx_V3o",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4wMDFGNzBEOTU4Q0Y1Q0RG",
             "snippet": {
                 "publishedAt": "2019-06-23T06:00:56Z",
@@ -1563,7 +1656,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 30,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "E7uqUFvob3w"
@@ -1578,7 +1671,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "huR3SVDLCm4QhW7H5UX4S6I1Xp8",
+            "etag": "KxrCzoaPk2RZ9l9YhE4gIBffNdE",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC44QTA1QTQyRTc3M0VGQzYx",
             "snippet": {
                 "publishedAt": "2019-06-23T06:01:13Z",
@@ -1614,7 +1707,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 31,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vdUlW9pbN7k"
@@ -1629,7 +1722,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "51CAMMj-fHR8tspCPXsWFS2cQTU",
+            "etag": "TvyuIfuUP0wOReecihHMchEsxv8",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC44MkM2RjVEQkQ5N0I2MjVE",
             "snippet": {
                 "publishedAt": "2019-06-23T06:01:29Z",
@@ -1665,7 +1758,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 32,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "n_nb-4ordOM"
@@ -1680,7 +1773,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "po73aqsykffN7RTuisPDysxhiFI",
+            "etag": "2O804QaF2hEUQenCfwh_ksva-cM",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC40NzE2MTY1QTM3RUI3QkU3",
             "snippet": {
                 "publishedAt": "2019-06-23T06:01:48Z",
@@ -1716,7 +1809,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 33,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cLxUNtlbKyo"
@@ -1731,7 +1824,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SnIzATtNRJHU5cN66gzpv3mUW1k",
+            "etag": "XQGos3VS5WahUwCE0QABUL802kk",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5CMEQ2Mjk5NTc3NDZFRUNB",
             "snippet": {
                 "publishedAt": "2019-06-23T03:29:31Z",
@@ -1767,7 +1860,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 34,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ytW0WTjQ88Q"
@@ -1782,7 +1875,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8WxFbte1HAOH2sdI5BYhJgu6Q-A",
+            "etag": "U2BfhcTYlMOJEPXK-VBr13IgV_s",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2019-06-23T03:33:23Z",
@@ -1818,7 +1911,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 35,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "036ecMRh8EI"
@@ -1833,7 +1926,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fCrRPAqhC-kvqsRRz-dlE4NbIyw",
+            "etag": "oaUAImEvWo2ahT5vMBj5_dnkl0w",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
                 "publishedAt": "2019-06-23T03:34:52Z",
@@ -1869,7 +1962,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 36,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LbU_MSR7U3M"
@@ -1884,7 +1977,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fTRoMf1tzne4-FQzx1JMdO7xXdg",
+            "etag": "h_Y-YgzqbBQQ3jBiv13qAmAMgjc",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC40QTA3NTU2RkM1QzlCMzYx",
             "snippet": {
                 "publishedAt": "2019-06-23T03:36:00Z",
@@ -1920,7 +2013,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 37,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5reDqsUkohI"
@@ -1935,7 +2028,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3Acd-8VaACsCMisxerkthdWoEq4",
+            "etag": "q0BKdihydZ9ms2sPgzI_GP4j8NQ",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
                 "publishedAt": "2019-06-23T03:39:38Z",
@@ -1971,7 +2064,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 38,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vrc-h8zz9q8"
@@ -1986,7 +2079,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GyIqL0DVPW-6mXUreZb8GDtgu4Y",
+            "etag": "U1_oIRvo7xYx_o4tgGKtwbKAt5E",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2019-06-23T03:41:34Z",
@@ -2022,7 +2115,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 39,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "tvNRN54Fzp0"
@@ -2037,7 +2130,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "n69MRpUsmpkM7OOwjoJxDuNxbQU",
+            "etag": "iPmHyHBPSykgLfRQEWCjZUdeWA4",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
                 "publishedAt": "2019-06-23T03:42:45Z",
@@ -2073,7 +2166,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 40,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "29PHmA0KaoY"
@@ -2088,7 +2181,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QTHCPi8RENUAITaIf0QVJMQiwp4",
+            "etag": "BO9-u-DYywCLM9SwR90D6VqF2Zk",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4zQzFBN0RGNzNFREFCMjBE",
             "snippet": {
                 "publishedAt": "2019-06-23T03:44:48Z",
@@ -2124,7 +2217,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 41,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "4EAgHlWTxEA"
@@ -2139,7 +2232,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tZ6Ou8QTm87kr9x24NPjLXSW-Pc",
+            "etag": "DJXtVNzOVjhYWYNEecQ2g9gCO7s",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC45NkVENTkxRDdCQUFBMDY4",
             "snippet": {
                 "publishedAt": "2019-06-23T03:45:50Z",
@@ -2175,7 +2268,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 42,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xmvCDXJZRCE"
@@ -2190,7 +2283,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nwRCotYDkRKIY8GaFBosCCVtwP0",
+            "etag": "ox016co3WyK1WKhyS7L_qJY7nJA",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DNkMwRUI2MkI4QkI4NDFG",
             "snippet": {
                 "publishedAt": "2019-06-23T03:49:56Z",
@@ -2226,7 +2319,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 43,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lblXCf2FlSE"
@@ -2241,7 +2334,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3AEe44XUunxrXx7rgD64xO1crtI",
+            "etag": "DEiERstbON7_qyZZDtQyuHPNJaw",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2019-06-23T03:57:22Z",
@@ -2277,7 +2370,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 44,
+                "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "rxmGgJEHNRo"
@@ -2292,7 +2385,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "o3X59UZenMrWZKlVwhZlHGl0UMk",
+            "etag": "N_Hg775kRTOHvE2GKEs7qAQnSTA",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41MzY4MzcwOUFFRUU3QzEx",
             "snippet": {
                 "publishedAt": "2019-06-23T03:58:28Z",
@@ -2328,7 +2421,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 45,
+                "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "JDjgPYZ2_Gw"
@@ -2343,7 +2436,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "EPe5KAOim2xERSCe7ReztzfJDy0",
+            "etag": "Uv7lUM_lShGLfqlHpvnaAg0w74A",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yQjZFRkExQjFGODk3RUFD",
             "snippet": {
                 "publishedAt": "2019-06-23T04:00:24Z",
@@ -2379,7 +2472,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 46,
+                "position": 50,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FIlDkZ3WYoc"
@@ -2394,7 +2487,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "VGujQ4FMgIz2zwMEtndqinAb5tQ",
+            "etag": "6pbXwyhFS9VWcCg6pZ1WWp22sWY",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yQUJFNUVCMzVDNjcxRTlF",
             "snippet": {
                 "publishedAt": "2019-06-23T04:02:13Z",
@@ -2430,7 +2523,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 47,
+                "position": 51,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Js_MuSkhKtU"
@@ -2445,7 +2538,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rq8pea27fN5Yxa39feFwapkHYFo",
+            "etag": "GQ4L40QPfC1DoRHIDnrU-jYj5eY",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC40QzRDOEU0QUYwNUIxN0M1",
             "snippet": {
                 "publishedAt": "2019-06-23T04:03:53Z",
@@ -2481,7 +2574,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 48,
+                "position": 52,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GAw1tkKoORY"
@@ -2496,7 +2589,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-7k4YnsDWUje6m_d7PP_TlvhKos",
+            "etag": "DjobnwLKi4mS9fMmn9mBM1d0Z6Q",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2019-06-23T04:07:10Z",
@@ -2532,7 +2625,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 49,
+                "position": 53,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nVLr7h2H0Ow"
@@ -2547,7 +2640,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rypWByYoQ7xjDJEKlAfV2mrKYXs",
+            "etag": "eWLHRZn3DDMQIAz4EpWjSnimb9E",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
                 "publishedAt": "2019-06-23T04:17:20Z",
@@ -2583,7 +2676,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 50,
+                "position": 54,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "eqnvg6-CDsc"
@@ -2598,7 +2691,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cY848SLMStbSv9SjHrQMFTGEJFU",
+            "etag": "7dg2DHkbG0WUMC6h7ZK-DXzrMmY",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC44QzVGQUU2QjE2NDgxM0M4",
             "snippet": {
                 "publishedAt": "2019-06-23T04:18:31Z",
@@ -2634,7 +2727,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 51,
+                "position": 55,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "V8miZU57j7Y"
@@ -2649,7 +2742,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AS_GjFaXjyHsWuOZYxibQEU9gto",
+            "etag": "4sztPl4t5JB1ic5h52DXuU8Hjpo",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
                 "publishedAt": "2019-06-23T04:19:35Z",
@@ -2685,7 +2778,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 52,
+                "position": 56,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "d0XSvPjFdt4"
@@ -2700,7 +2793,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OvvmCEQB6uhfZ0tBaGUINoeN49I",
+            "etag": "QBOZU4OA3SPsohGVxfD2eq7OrBo",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
                 "publishedAt": "2019-06-23T04:23:01Z",
@@ -2736,7 +2829,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 53,
+                "position": 57,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NicgZK_vO9o"
@@ -2751,7 +2844,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BjaRtKDPUGuCnW06B5yF-TjO1M0",
+            "etag": "0luaI__lKtXTxG2NL4d-Gwcls24",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
                 "publishedAt": "2019-06-23T04:24:06Z",
@@ -2787,7 +2880,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 54,
+                "position": 58,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "HKofS7v2NB4"
@@ -2802,7 +2895,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ytr5c13fcFWcGjiT9w6sug13VZk",
+            "etag": "OipadRtxCZP49NLgktqIX0vyQgg",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41NTZEOThBNThFOUVGQkVB",
             "snippet": {
                 "publishedAt": "2019-06-23T04:25:20Z",
@@ -2838,7 +2931,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 55,
+                "position": 59,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "11pYKODH44A"
@@ -2853,7 +2946,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GnNzTO0T3wBZdbFyaixYm9LrgbA",
+            "etag": "zO6EI0yTeGPzRRYKiTWyuFX4r3I",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC43NERCMDIzQzFBMERCMEE3",
             "snippet": {
                 "publishedAt": "2019-06-23T04:26:26Z",
@@ -2889,7 +2982,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 56,
+                "position": 60,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Mw2if5UAsdY"
@@ -2904,7 +2997,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "M8bfLjr9p4qN-KkZm47m2764aVg",
+            "etag": "HMej23roBkgvNwDi3nvuHDjrNe0",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
                 "publishedAt": "2019-06-23T04:29:06Z",
@@ -2940,7 +3033,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 57,
+                "position": 61,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "QazV_HG9scA"
@@ -2955,7 +3048,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zUikfnW9qghUAkrZZYr2_SfPdOI",
+            "etag": "9Qu3w9hoWZuCBAc12TL4bGcRFqc",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
                 "publishedAt": "2019-06-23T04:31:10Z",
@@ -2991,7 +3084,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 58,
+                "position": 62,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "BO8STH0TaM8"
@@ -3006,7 +3099,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "kgSQPs1-HGmYjiiFTBp6b5OKT48",
+            "etag": "v6eIJVbNFz111AMxSvkLvchIDqw",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC41OURENDc2NEM1MDI5Mjky",
             "snippet": {
                 "publishedAt": "2019-06-23T04:59:41Z",
@@ -3042,7 +3135,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 59,
+                "position": 63,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "J8aETc5do40"
@@ -3057,7 +3150,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CICGACuTa0a1rL1OljA_cOZ9_KY",
+            "etag": "eyRMK50NjROUR-pQVY_f6f_Ef3w",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4wRjhFM0MxMTU1MEUzQ0VB",
             "snippet": {
                 "publishedAt": "2019-06-23T05:00:52Z",
@@ -3093,7 +3186,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 60,
+                "position": 64,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mbl5M2X8dWE"
@@ -3108,7 +3201,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ChUz7UayRyh9HN2c6vBYvhev3Kg",
+            "etag": "xN4ZbOCQJvsrmAEcOOFrk0-AGwo",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5CNTZFOTNGQzZEODg1RUQx",
             "snippet": {
                 "publishedAt": "2019-06-23T05:01:54Z",
@@ -3144,7 +3237,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 61,
+                "position": 65,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3eUziWyU96o"
@@ -3159,7 +3252,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4jo1zm-FQRQRz-SWwuffS6FmB70",
+            "etag": "HkQdAYrqvtujHo8nOe1rI4YnNT8",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5CNTcxMDQ0NThBNzMxODYz",
             "snippet": {
                 "publishedAt": "2019-06-23T05:03:08Z",
@@ -3195,7 +3288,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 62,
+                "position": 66,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "XqQf8czpBVo"
@@ -3210,7 +3303,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zZpn9RKLvRUnA9OKY3F0y9IhFY4",
+            "etag": "DmVKI83yy6g3hjYMS7TMHuoRI4c",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5ERkUyQTM0MzEwQjZCMTY5",
             "snippet": {
                 "publishedAt": "2019-06-23T05:04:18Z",
@@ -3246,7 +3339,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 63,
+                "position": 67,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "riTZ8RDoFZU"
@@ -3261,7 +3354,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6WHAI95Yq3XunsyD0hEUkA4H2ug",
+            "etag": "ZiAW12ygVZOj0a2Z3rJvnMKJ6oE",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4xM0YyM0RDNDE4REQ1NDA0",
             "snippet": {
                 "publishedAt": "2019-06-23T05:05:23Z",
@@ -3297,7 +3390,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 64,
+                "position": 68,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "j-3-Iqj1ALw"
@@ -3312,7 +3405,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bETKo2zy8yKH7VKM5OTHh0xP0Do",
+            "etag": "qEz98EhJuONXcJ6vYqP5XnBZAgM",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC42MjYzMTMyQjA0QURCN0JF",
             "snippet": {
                 "publishedAt": "2019-06-23T05:12:34Z",
@@ -3348,7 +3441,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 65,
+                "position": 69,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "rzNCbGhUZNM"
@@ -3363,7 +3456,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Lybs3Dm3yEh9sFCV50VMEQ5QCoY",
+            "etag": "GuRIkZujCWgMDTwwhpjZ1qtXeKE",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC40MDNEMzA0QTBFRThFMzBE",
             "snippet": {
                 "publishedAt": "2019-06-23T05:13:38Z",
@@ -3399,7 +3492,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 66,
+                "position": 70,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "CdSwDZhhvI8"
@@ -3414,7 +3507,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hEI3r7xOz60ycOP67sd7gzQoVRc",
+            "etag": "2kKySa1guD1nrKz7gtjT6bCp4BI",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC43QzNCNkZENzIyMDY2MjZB",
             "snippet": {
                 "publishedAt": "2019-06-23T05:17:17Z",
@@ -3450,7 +3543,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 67,
+                "position": 71,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OIzkSNUVIQI"
@@ -3465,7 +3558,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Uo_zqRn_iJX1R7LMTUJA7VlU2Ao",
+            "etag": "BT_TtzFhAMJCEaFBt80qtIGGy5I",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC42RTNCOEMxREI3Q0VDMjU2",
             "snippet": {
                 "publishedAt": "2019-06-23T05:14:44Z",
@@ -3501,7 +3594,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 68,
+                "position": 72,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "sJZR6-gAt9k"
@@ -3516,7 +3609,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eyJQZ88EYP6fL0uUoBAPPVcXYpo",
+            "etag": "aGi7SWXoqas09jfDRj4Zx-I4kEI",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5EQkE3RTJCQTJEQkFBQTcz",
             "snippet": {
                 "publishedAt": "2019-06-23T05:18:25Z",
@@ -3552,7 +3645,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 69,
+                "position": 73,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "X_3h7m_uz9s"
@@ -3567,7 +3660,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8sffQhLSUhGwv_sNOblXnV3t4Fg",
+            "etag": "7Y92X4nCMRjfwO3SZH6Ji7YzO0g",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4yQzk4QTA5QjkzMTFFOEI1",
             "snippet": {
                 "publishedAt": "2019-06-23T05:23:01Z",
@@ -3603,7 +3696,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 70,
+                "position": 74,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "zj2twZw2Xk4"
@@ -3618,7 +3711,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "UDml_JhIv0mBl2zHsj5okRBtHK0",
+            "etag": "1bcuT1ZcqeATq9mE1VopHKjwVC4",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC45NDlDQUFFOThDMTAxQjUw",
             "snippet": {
                 "publishedAt": "2019-06-23T05:25:07Z",
@@ -3654,7 +3747,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 71,
+                "position": 75,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MrbVTJiwBXU"
@@ -3669,7 +3762,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "t2cj-V1tJ42ZNwW69Nv9Wfdh98Y",
+            "etag": "npSuWAHAXXeDw1KUYloKsk6-5BA",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4xN0Y2QjVBOEI2MzQ5OUM5",
             "snippet": {
                 "publishedAt": "2019-06-23T05:27:28Z",
@@ -3705,7 +3798,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 72,
+                "position": 76,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "i29-SXRKqxg"
@@ -3720,7 +3813,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ceV4pc6N4wIyK5ljJXE_o_FBS-Q",
+            "etag": "-ReI8IGuS8XOzW7clqMwy-auCEw",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5FQUY2Qzk4RUFDN0ZFRkZF",
             "snippet": {
                 "publishedAt": "2019-06-23T05:29:16Z",
@@ -3756,7 +3849,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 73,
+                "position": 77,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "SbyrFmKGLfs"
@@ -3771,7 +3864,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FO0Wkfct26CQUOynyu488vYNvuQ",
+            "etag": "l9USxkm-l7pg5BiiNqsIy6k682E",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC5CMEVBRUJERkUyNTBENTkz",
             "snippet": {
                 "publishedAt": "2019-06-23T05:30:24Z",
@@ -3807,7 +3900,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 74,
+                "position": 78,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "-etfXM0TLXk"
@@ -3822,7 +3915,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eVU-0kWq_NbnQ3MsfKECaAskW4I",
+            "etag": "UhL7Z_TMHfuT3sEOeElidZ4EA-k",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4xNjIyNEE0MDEyRDlCMjBE",
             "snippet": {
                 "publishedAt": "2019-06-23T05:35:45Z",
@@ -3858,7 +3951,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 75,
+                "position": 79,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "YbiGrd9Yme8"
@@ -3873,7 +3966,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WE5Nra0RHi1rfuqydxfG8buAtG4",
+            "etag": "Exc6n-Qbv2zQeo3rlDm2ITpAFYA",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC44QTY2MEEzNzBFQUJCMUQ2",
             "snippet": {
                 "publishedAt": "2019-06-23T05:37:21Z",
@@ -3909,7 +4002,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 76,
+                "position": 80,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NV3AoyU6jbA"
@@ -3924,7 +4017,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WNm1pkU71bRCBMIFgHonxAMJ8RY",
+            "etag": "0u-A3Jn2g_Am12Ea5H3pjcvMkI8",
             "id": "UExFRDREai1UNDNyTTgtNjN1LVRmNkVGQndlTDlOWGgzaC4zQTkzRjgxRTY0OEU0MkM3",
             "snippet": {
                 "publishedAt": "2019-06-23T05:44:24Z",
@@ -3960,7 +4053,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rM8-63u-Tf6EFBweL9NXh3h",
-                "position": 77,
+                "position": 81,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3d3vOBLX0fs"
