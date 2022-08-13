@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
+import React, { useState, useEffect } from "react";
 import Select from "react-select";
-import { VideoPlayer } from "../Video/player";
+import Player from "./ytplayer";
 import styles from "./styles.module.css";
 
 export default function VideoList({ children, data = {} }) {
@@ -65,9 +65,9 @@ export default function VideoList({ children, data = {} }) {
       </div>
       <div className={styles.vidContainer}>
         {children}
-        <VideoPlayer
-          className={styles.video}
+        <Player
           id={data.items[itemIndex].snippet.resourceId.videoId}
+          title={data.items[itemIndex].snippet.title}
         />
       </div>
     </main>
