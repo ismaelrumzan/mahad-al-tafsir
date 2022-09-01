@@ -334,73 +334,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_6ELaehgkdcr2aahLE1oyT8nD4Y",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41MzJCQjBCNDIyRkJDN0VD",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:38:03Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 7,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "yIklE_f3Qdo"
-                }
-            },
-            "contentDetails": {
-                "videoId": "yIklE_f3Qdo"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "D_sHOXLd-8-lfBF6Kex9rupyE0s",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4wOTA3OTZBNzVEMTUzOTMy",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:36:14Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 8,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "nStuTMgpgJM"
-                }
-            },
-            "contentDetails": {
-                "videoId": "nStuTMgpgJM"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "JAtzaX0RKOs3Unjd9-HCpiKQd48",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DQUNERDQ2NkIzRUQxNTY1",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:39:12Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 9,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PvAkgcYZZ9U"
-                }
-            },
-            "contentDetails": {
-                "videoId": "PvAkgcYZZ9U"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "wqK0qdp04c2VWpYTz_M9tNdsXyk",
+            "etag": "-qK15vrHicR0oqLKkkJbJhSJJNU",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yQjZFRkExQjFGODk3RUFD",
             "snippet": {
                 "publishedAt": "2022-07-18T19:39:52Z",
@@ -436,7 +370,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 10,
+                "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "-RGT85oZOCc"
@@ -451,7 +385,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iCZVEeUzwRS26bhDOYwrc1b_T3M",
+            "etag": "wmNk8seH2ZSnWqXjbcsOuKdh88U",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2022-07-18T19:38:21Z",
@@ -485,2082 +419,11 @@
                         "height": 720
                     }
                 },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 11,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Tb-CWEDUAO8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "Tb-CWEDUAO8",
-                "videoPublishedAt": "2022-07-18T19:38:21Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "ivU-okuYrzuDYLYYv9e8wWY3pTI",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yQUJFNUVCMzVDNjcxRTlF",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:40:58Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (10) أصحاب الثلثين",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/SrDOGBr9YpM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/SrDOGBr9YpM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/SrDOGBr9YpM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/SrDOGBr9YpM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/SrDOGBr9YpM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 12,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "SrDOGBr9YpM"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "SrDOGBr9YpM",
-                "videoPublishedAt": "2022-07-18T19:40:59Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "GWqRi8dbVLjBb4Z9pZFyVoIKD2M",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45NDk1REZENzhEMzU5MDQz",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:40:13Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 13,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "LEliRsXQ260"
-                }
-            },
-            "contentDetails": {
-                "videoId": "LEliRsXQ260"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "KPdu9NpCYa5_py6rpnS9BWcqVQI",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5GNjNDRDREMDQxOThCMDQ2",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:41:16Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 14,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "ZK5cZlD1Oxg"
-                }
-            },
-            "contentDetails": {
-                "videoId": "ZK5cZlD1Oxg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "yjPI5oyw6fxiyFzPFMonW4uPkAo",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi40NzZCMERDMjVEN0RFRThB",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:51:35Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "التكملة في المواريث (11) مراجعة ما سبق",
-                "description": "11 مراجعة ما سبق\n\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \n\n\nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NsXMb8iAVaU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NsXMb8iAVaU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NsXMb8iAVaU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NsXMb8iAVaU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 15,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "NsXMb8iAVaU"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "NsXMb8iAVaU",
-                "videoPublishedAt": "2019-06-24T03:59:01Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "iTbE9u3ip58JnCVlIwODYe_ubK4",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5EMEEwRUY5M0RDRTU3NDJC",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:53:32Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (12) أصحاب الثلث والربع والثمن",
-                "description": "12 أصحاب الثلث والربع والثمن\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \n\nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/syF7NDVKPGw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/syF7NDVKPGw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/syF7NDVKPGw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/syF7NDVKPGw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 16,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "syF7NDVKPGw"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "syF7NDVKPGw",
-                "videoPublishedAt": "2019-06-24T03:58:52Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "cJ7_-7UsdGiqqVJ2OLLitSKN_UI",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45ODRDNTg0QjA4NkFBNkQy",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:55:54Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (13) أصحاب السدس",
-                "description": "13 أصحاب السدس\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/tY09x0ZCdbw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/tY09x0ZCdbw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/tY09x0ZCdbw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/tY09x0ZCdbw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 17,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "tY09x0ZCdbw"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "tY09x0ZCdbw",
-                "videoPublishedAt": "2019-06-24T04:04:57Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "9X77NFgvwi4xr-HVyB3iEzaM6nU",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4zMDg5MkQ5MEVDMEM1NTg2",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:58:45Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 18,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "OsvxEMwCloc"
-                }
-            },
-            "contentDetails": {
-                "videoId": "OsvxEMwCloc"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "KQdTdbfV6m5ogcNSDd0MEDFvn0M",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi40QzRDOEU0QUYwNUIxN0M1",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:41:42Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (14) أصحاب السدس",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/TjkdTVd22aM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/TjkdTVd22aM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/TjkdTVd22aM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 19,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "TjkdTVd22aM"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "TjkdTVd22aM",
-                "videoPublishedAt": "2022-07-18T19:41:42Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Vgf6hppaaW3ETvEq5VWY6eDumFA",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41Mzk2QTAxMTkzNDk4MDhF",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:00:18Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (15) الجدات والعصبات",
-                "description": "15 الجدات والعصبات\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \n\nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NsrTnGF45qQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NsrTnGF45qQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NsrTnGF45qQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NsrTnGF45qQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 20,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "NsrTnGF45qQ"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "NsrTnGF45qQ",
-                "videoPublishedAt": "2019-06-24T04:07:41Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "nmNUBKLnNZTmfMJeUSYEKwQ7LyY",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41RTNBREYwMkI5QzU3RkY2",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:42:23Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (16) جهات العصوبة",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/RKD0Li9SOnc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/RKD0Li9SOnc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/RKD0Li9SOnc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 21,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "RKD0Li9SOnc"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "RKD0Li9SOnc",
-                "videoPublishedAt": "2022-07-18T19:42:36Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "8L0kz9NLD5MNBF4nNJjCcdR6t2o",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5ENjI1QUI0MDI5NEQzODFE",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:43:29Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (17) المشتركة",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KKZ-Svcjyi0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KKZ-Svcjyi0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KKZ-Svcjyi0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KKZ-Svcjyi0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/KKZ-Svcjyi0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 22,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "KKZ-Svcjyi0"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "KKZ-Svcjyi0",
-                "videoPublishedAt": "2022-07-18T19:43:29Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "TLqytKFCwXqAn4SXSBPQTmuU1w4",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi44QzVGQUU2QjE2NDgxM0M4",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:44:23Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (18) أحكام الجد والأخوة",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Lpmbt5L4s4w/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Lpmbt5L4s4w/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Lpmbt5L4s4w/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Lpmbt5L4s4w/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Lpmbt5L4s4w/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 23,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Lpmbt5L4s4w"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "Lpmbt5L4s4w",
-                "videoPublishedAt": "2022-07-18T19:44:23Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "XHfteh4C0RmVBMb3UBjv7sKYpYU",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5EQUE1NTFDRjcwMDg0NEMz",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:01:34Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 24,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "FL5sf1H6SrI"
-                }
-            },
-            "contentDetails": {
-                "videoId": "FL5sf1H6SrI"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Ns7ZfgdBtrSEenreRJQOih___MM",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41QTY1Q0UxMTVCODczNThE",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:04:44Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 25,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "y-HCLvbpbxk"
-                }
-            },
-            "contentDetails": {
-                "videoId": "y-HCLvbpbxk"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "yaLeiWVEadv7pAcTAy_BQ-LcBbM",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yMUQyQTQzMjRDNzMyQTMy",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:08:47Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 26,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "aYAK7AfUNa4"
-                }
-            },
-            "contentDetails": {
-                "videoId": "aYAK7AfUNa4"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "4niS1uBAbFF2uiyBXdPzIqpyL_4",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45RTgxNDRBMzUwRjQ0MDhC",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:10:28Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (19) أحكام الجد والإخوة",
-                "description": "19 أحكام الجد والأخوة\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8dne5sw0Xng/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8dne5sw0Xng/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8dne5sw0Xng/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/8dne5sw0Xng/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 27,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "8dne5sw0Xng"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "8dne5sw0Xng",
-                "videoPublishedAt": "2019-06-24T04:10:25Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "DjUnGkAo5UDFCrG4vMYX9lZafto",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5ENDU4Q0M4RDExNzM1Mjcy",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:12:03Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (20) المعادَّة",
-                "description": "20 المعادَّة\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/b894ts7aS50/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/b894ts7aS50/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/b894ts7aS50/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/b894ts7aS50/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 28,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "b894ts7aS50"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "b894ts7aS50",
-                "videoPublishedAt": "2019-06-24T04:11:47Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "w9MnGAE-1B7U_RKRWLBfsBY345Y",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi40QTA3NTU2RkM1QzlCMzYx",
-            "snippet": {
-                "publishedAt": "2019-07-07T05:44:03Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 29,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "KDBHEq8VUok"
-                }
-            },
-            "contentDetails": {
-                "videoId": "KDBHEq8VUok"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "yx_WYLrvIxCgIeqN5t17BBFyIOE",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DNkMwRUI2MkI4QkI4NDFG",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:36:45Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (21) الأكدرية",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9KF5zRy2gKs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9KF5zRy2gKs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9KF5zRy2gKs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/9KF5zRy2gKs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/9KF5zRy2gKs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 30,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "9KF5zRy2gKs"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "9KF5zRy2gKs",
-                "videoPublishedAt": "2022-07-18T19:36:50Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "2OCjccXW86D12Vm5wUTXdKnjyI4",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yMDhBMkNBNjRDMjQxQTg1",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:32:09Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 31,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "lqkz2pSAHq8"
-                }
-            },
-            "contentDetails": {
-                "videoId": "lqkz2pSAHq8"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "qFcI0p91e3nK46JVjNZ2RnF9L0c",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45NkVENTkxRDdCQUFBMDY4",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:35:56Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (22) ملخص الشيخ حسن المشاط لجميع ما سبق",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aarik9fXljw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aarik9fXljw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aarik9fXljw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/aarik9fXljw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/aarik9fXljw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 32,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "aarik9fXljw"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "aarik9fXljw",
-                "videoPublishedAt": "2022-07-18T19:36:03Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "fZW1YworLK41c9T1MLOTyZA-Zlk",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4zRjM0MkVCRTg0MkYyQTM0",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:36:08Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (23) الإرث بالولاء",
-                "description": "23 الإرث بالولاء\n\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/mDbQT8DU1Xw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/mDbQT8DU1Xw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/mDbQT8DU1Xw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/mDbQT8DU1Xw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 33,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "mDbQT8DU1Xw"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "mDbQT8DU1Xw",
-                "videoPublishedAt": "2019-06-24T04:43:04Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "og-vYuN2OI8tMZngPGWLPMWiGzE",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45NzUwQkI1M0UxNThBMkU0",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:41:52Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (24) ولاء الانجرار",
-                "description": "24 ولاء الانجرار\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yvcCkciOqpo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yvcCkciOqpo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yvcCkciOqpo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/yvcCkciOqpo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 34,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "yvcCkciOqpo"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "yvcCkciOqpo",
-                "videoPublishedAt": "2019-06-24T04:41:50Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "a1VnC_3zkdIpn9Dvos9XOOy37x0",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DNzE1RjZEMUZCMjA0RDBB",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:43:12Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (25) العول",
-                "description": "25 العول\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dKsi44P3JOQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dKsi44P3JOQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dKsi44P3JOQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/dKsi44P3JOQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 35,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "dKsi44P3JOQ"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "dKsi44P3JOQ",
-                "videoPublishedAt": "2019-06-24T04:48:10Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "zzw8aypIfoajGpy0rVW0PX0URgM",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi43MTI1NDIwOTMwQjIxMzNG",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:44:28Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (26) النسب الأربعة",
-                "description": "26 النسب الأربعة\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KwQjDuH-We8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KwQjDuH-We8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KwQjDuH-We8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KwQjDuH-We8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 36,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "KwQjDuH-We8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "KwQjDuH-We8",
-                "videoPublishedAt": "2019-06-24T04:44:25Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "OB9DjBKOgUT7Rah8uTl99lWAdwo",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5BRjJDODk5REM0NjkzMUIy",
-            "snippet": {
-                "publishedAt": "2019-07-07T14:12:09Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (27) تصحيح المسائل",
-                "description": "تصحيح المسائل 27\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lNqpDNHfhx0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lNqpDNHfhx0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lNqpDNHfhx0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/lNqpDNHfhx0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 37,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "lNqpDNHfhx0"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "lNqpDNHfhx0",
-                "videoPublishedAt": "2019-06-24T14:27:04Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "bfY-WMLqyOD6R40X3s6p_GldcNs",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DQ0MyQ0Y4Mzg0M0VGOEYw",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:45:26Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (28) المناسخات",
-                "description": "28 المناسخات\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DoJ1lP13K68/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DoJ1lP13K68/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DoJ1lP13K68/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/DoJ1lP13K68/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 38,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "DoJ1lP13K68"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "DoJ1lP13K68",
-                "videoPublishedAt": "2019-06-24T04:48:41Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "DlpTwAVoNc_70VJtgJAQZXdPDjc",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yQUE2Q0JEMTk4NTM3RTZC",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:51:05Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (29) المناسخات",
-                "description": "29 المناسخات\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cBVYcj7m15c/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cBVYcj7m15c/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cBVYcj7m15c/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/cBVYcj7m15c/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 39,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "cBVYcj7m15c"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "cBVYcj7m15c",
-                "videoPublishedAt": "2019-06-24T04:51:03Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "1YV6MaoKr2P9nDDxCFHfHy2hohw",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5GNDg1Njc1QzZERjlFRjE5",
-            "snippet": {
-                "publishedAt": "2019-12-13T08:59:47Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (30) المناسخات",
-                "description": "30 المناسخات",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Z1M7afVLbBY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Z1M7afVLbBY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Z1M7afVLbBY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Z1M7afVLbBY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 40,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Z1M7afVLbBY"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "Z1M7afVLbBY",
-                "videoPublishedAt": "2019-12-13T09:03:11Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "svwGIkUr9b-0-PFrESocIt2lg04",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DMkU4NTY1QUFGQTYwMDE3",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:02:13Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (31) الخنثى",
-                "description": "31 الخنثى\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5k0iLvPpz_U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5k0iLvPpz_U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5k0iLvPpz_U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/5k0iLvPpz_U/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 41,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "5k0iLvPpz_U"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "5k0iLvPpz_U",
-                "videoPublishedAt": "2019-06-24T05:04:21Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "68KktK2YqOF9xH9s_l4k-IVRyvQ",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi44Mjc5REFBRUE2MTdFRDU0",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:05:36Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (32) تكميل الخنثى",
-                "description": "32 اكمال الخنثى\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kh4D6xz112c/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kh4D6xz112c/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kh4D6xz112c/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kh4D6xz112c/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 42,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "kh4D6xz112c"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "kh4D6xz112c",
-                "videoPublishedAt": "2019-06-24T05:07:55Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Gnd-LZRWeisnD_Q-IM3y6FMh6Ls",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi43NDhFRTgwOTRERTU4Rjg3",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:12:10Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (33) المفقود",
-                "description": "33 المفقود\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uGIFP_4d3jw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uGIFP_4d3jw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uGIFP_4d3jw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uGIFP_4d3jw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 43,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "uGIFP_4d3jw"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "uGIFP_4d3jw",
-                "videoPublishedAt": "2019-06-24T05:12:07Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "hRN2DCF0d-N4pAz9nH1E7ermFZg",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4xOTEzQzhBQzU3MDNDNjcz",
-            "snippet": {
-                "publishedAt": "2019-07-07T14:13:17Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (34) الحمل",
-                "description": "الحمل 34\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zorqRYrVZeY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zorqRYrVZeY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zorqRYrVZeY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/zorqRYrVZeY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 44,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "zorqRYrVZeY"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "zorqRYrVZeY",
-                "videoPublishedAt": "2019-06-24T14:24:57Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "SomR5AklOyJMINsQWuIBc-nsjV0",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41QUZGQTY5OTE4QTREQUU4",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:13:23Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (35) تكملة الحمل",
-                "description": "35 تكملة الحمل\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kT5fou5XVxY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kT5fou5XVxY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kT5fou5XVxY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kT5fou5XVxY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 45,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "kT5fou5XVxY"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "kT5fou5XVxY",
-                "videoPublishedAt": "2019-06-24T05:13:21Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "eVCEt-3DVEuPUycKvLMdtq-EXv8",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4zRDBDOEZDOUM0MDY5NEEz",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:14:27Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (36) الرد",
-                "description": "36 الرد\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ulGV2WPFDxY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ulGV2WPFDxY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ulGV2WPFDxY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ulGV2WPFDxY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 46,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "ulGV2WPFDxY"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "ulGV2WPFDxY",
-                "videoPublishedAt": "2019-06-24T05:14:25Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "aph6gP7K-iO7tgRMnKNDPecsDy8",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5CMEQ2Mjk5NTc3NDZFRUNB",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:15:43Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (37) ميراث ذوي الأرحام",
-                "description": "37 ميراث ذوي الأرحام\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/mVG-C4HMfy8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/mVG-C4HMfy8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/mVG-C4HMfy8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/mVG-C4HMfy8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 47,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "mVG-C4HMfy8"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "mVG-C4HMfy8",
-                "videoPublishedAt": "2019-06-24T05:15:40Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "zVTzV39_L9g5_lyqIih4R9V3he8",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi42MTI4Njc2QjM1RjU1MjlG",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:16:45Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (38) تكميل ذوي الأرحام",
-                "description": "38 إكمال ذوي الأرحام\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cygj3xE189k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cygj3xE189k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cygj3xE189k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/cygj3xE189k/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 48,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "cygj3xE189k"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "cygj3xE189k",
-                "videoPublishedAt": "2019-06-24T05:16:47Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "LX-E12X_Zgh4r8vekKmxDvZisnk",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45RjNFMDhGQ0Q2RkFCQTc1",
-            "snippet": {
-                "publishedAt": "2019-06-24T05:18:08Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (39) قسمة التركات",
-                "description": "39 قسمة التركات\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dAQM1XtXR7o/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dAQM1XtXR7o/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dAQM1XtXR7o/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/dAQM1XtXR7o/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 49,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "dAQM1XtXR7o"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "dAQM1XtXR7o",
-                "videoPublishedAt": "2019-06-24T05:18:18Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "bbMfmREH5SiZ5m0DNhRu07pz-wQ",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41NkI0NEY2RDEwNTU3Q0M2",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:24:44Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "(شرح \"تكملة زبدة الحديث في فقه المواريث\"(1) للحبيب محمد بن سالم التريمي   (مبادئ علم الفرائض",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kJv6g2yl4tA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kJv6g2yl4tA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kJv6g2yl4tA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kJv6g2yl4tA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 0,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "kJv6g2yl4tA"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "kJv6g2yl4tA",
-                "videoPublishedAt": "2019-06-24T03:24:42Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Pzvg2_mf6JAuTW6zzsjWGEqF5ZI",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:33:02Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "التكملة في المواريث(2)  أركان الإرث وشروطه",
-                "description": "2 أركان الإرث وشروطه\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" فهو كتاب سهل جامع ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \n\nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dgeTBcLX9-A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dgeTBcLX9-A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dgeTBcLX9-A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/dgeTBcLX9-A/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 1,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "dgeTBcLX9-A"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "dgeTBcLX9-A",
-                "videoPublishedAt": "2019-06-24T15:38:48Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "iMqhtjT2b57YfU6gv8fMKO_Kmtg",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yODlGNEE0NkRGMEEzMEQy",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:31:03Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "التكملة في المواريث (3) موانع الإرث",
-                "description": "3 موانع الإرث\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2C3Pfmc-2cs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2C3Pfmc-2cs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2C3Pfmc-2cs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2C3Pfmc-2cs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 2,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "2C3Pfmc-2cs"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "2C3Pfmc-2cs",
-                "videoPublishedAt": "2019-06-24T03:31:01Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "fyN7e5SBySvCSnHanI9CYnJ45K8",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:33:24Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "التكملة في المواريث (4) الوارثون من الرجال والوراثات من النساء",
-                "description": "4 الوارثون من الرجال والوارثات من النساء\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZsyhfaQbVTU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZsyhfaQbVTU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZsyhfaQbVTU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ZsyhfaQbVTU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 3,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "ZsyhfaQbVTU"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "ZsyhfaQbVTU",
-                "videoPublishedAt": "2019-06-24T03:33:21Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "nxCeLGALYg0DLnFG-xD8Ej1mkr8",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4xMkVGQjNCMUM1N0RFNEUx",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:37:27Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "التكملة في المواريث (5) شرح آيات المواريث",
-                "description": "5 شرح آيات المواريث\nمورايث 1: المستوى الأول في سلسلة المواريث \nيبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب \n#seekersguidance \n\nرابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PPxWxq37NuI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PPxWxq37NuI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PPxWxq37NuI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PPxWxq37NuI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 4,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PPxWxq37NuI"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "PPxWxq37NuI",
-                "videoPublishedAt": "2019-06-24T03:37:30Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "V0LX3WFoge6XdssJN0jIYkXP-4s",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4zQzFBN0RGNzNFREFCMjBE",
-            "snippet": {
-                "publishedAt": "2022-07-18T18:23:39Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (6) الفرض والتعصيب وجدول أصحاب النصف",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AtLrhjTNawc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AtLrhjTNawc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AtLrhjTNawc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/AtLrhjTNawc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/AtLrhjTNawc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 5,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "AtLrhjTNawc"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "AtLrhjTNawc",
-                "videoPublishedAt": "2022-07-18T18:25:49Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "0vQywH0LrsFoaKm-j1VAUo9IJqo",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41MzY4MzcwOUFFRUU3QzEx",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:39:05Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (7) أصحاب النصف",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GVu465-WiCM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GVu465-WiCM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GVu465-WiCM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/GVu465-WiCM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/GVu465-WiCM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 6,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "GVu465-WiCM"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "GVu465-WiCM",
-                "videoPublishedAt": "2022-07-18T19:39:05Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "_6ELaehgkdcr2aahLE1oyT8nD4Y",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41MzJCQjBCNDIyRkJDN0VD",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:38:03Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 7,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "yIklE_f3Qdo"
-                }
-            },
-            "contentDetails": {
-                "videoId": "yIklE_f3Qdo"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "D_sHOXLd-8-lfBF6Kex9rupyE0s",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4wOTA3OTZBNzVEMTUzOTMy",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:36:14Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
                 "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "nStuTMgpgJM"
-                }
-            },
-            "contentDetails": {
-                "videoId": "nStuTMgpgJM"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "JAtzaX0RKOs3Unjd9-HCpiKQd48",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DQUNERDQ2NkIzRUQxNTY1",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:39:12Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 9,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PvAkgcYZZ9U"
-                }
-            },
-            "contentDetails": {
-                "videoId": "PvAkgcYZZ9U"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "wqK0qdp04c2VWpYTz_M9tNdsXyk",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yQjZFRkExQjFGODk3RUFD",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:39:52Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (8) أصحاب النصف",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-RGT85oZOCc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-RGT85oZOCc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-RGT85oZOCc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/-RGT85oZOCc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/-RGT85oZOCc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 10,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "-RGT85oZOCc"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "-RGT85oZOCc",
-                "videoPublishedAt": "2022-07-18T19:39:53Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "iCZVEeUzwRS26bhDOYwrc1b_T3M",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DRUQwODMxQzUyRTlGRkY3",
-            "snippet": {
-                "publishedAt": "2022-07-18T19:38:21Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تكملة زبدة الحديث (9) أصحاب النصف",
-                "description": "رابط تنزيل الكتب: https://drive.google.com/open?id=1sUFo0E4xLBM2CLUMgOSHf7_uu2zqhJHv \nhttps://drive.google.com/open?id=1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN ملف فيه جدول \nنسخة جديدة من تكملة زبدة الحديث\nhttps://drive.google.com/file/d/1O6mDtZ3o1pxweHlvYqbieeZDssEsaRKt/view?usp=sharing\nالحمل https://docs.google.com/document/d/17kQnhNx9aEzt6MjRyRaNpcqQdwMIreGd/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مhttps://docs.google.com/document/d/1PBWozjNMYjBwC-lhaCsJetUFI13oiYpa/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true مسائل لأخذ الإجازة بعد سماع تكملة زبدة الحديث والرحبية مسائل المواريث من الشيخ قاسم بحرحفظه الله والشيخ باعوضان \nhttps://drive.google.com/file/d/1S1XRPSTWGnGB8wNqvSjnKJeUIJ8_jOmN/view?usp=sharing\nحصل مسائل الشيخ قاسم بحر وباعوضان:\nhttps://drive.google.com/file/d/1S_8f3lKGnkW4iLBE0FESy-YHt9proK4k/view?usp=sharing\n\nجدول ميراث الخنثى https://docs.google.com/document/d/19XPBYQD59CMPSvDKXCcv_TECzAU8Sx3c/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true الحقوق المتعلقة بالتركة https://docs.google.com/document/d/1jo50VB2u05_HG9PM1nAZEKfIOLnPxTo2/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true شروط الإرث https://docs.google.com/document/d/1NQnYfWI5NmLSzHjAGL3exTp70N2g3jW9/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true ورايث 1: المستوى الأول في سلسلة المواريث يبدأ الطالب بهذا الكتاب \"تكملة زبدة الحديث\" ثم شرح الرحبية للسبط المارديني ثم شرح الشنشوري على متن الرحبية ثم فتح القريب المجيب بشرح كتاب الترتيب",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Tb-CWEDUAO8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Tb-CWEDUAO8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Tb-CWEDUAO8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Tb-CWEDUAO8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Tb-CWEDUAO8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 11,
-                "resourceId": {
-                    "kind": "youtube#video",
                     "videoId": "Tb-CWEDUAO8"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
@@ -2573,7 +436,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ivU-okuYrzuDYLYYv9e8wWY3pTI",
+            "etag": "eckDJ_DlVU8bRi9247ExkUXo25M",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yQUJFNUVCMzVDNjcxRTlF",
             "snippet": {
                 "publishedAt": "2022-07-18T19:40:58Z",
@@ -2609,7 +472,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 12,
+                "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "SrDOGBr9YpM"
@@ -2624,51 +487,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GWqRi8dbVLjBb4Z9pZFyVoIKD2M",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45NDk1REZENzhEMzU5MDQz",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:40:13Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 13,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "LEliRsXQ260"
-                }
-            },
-            "contentDetails": {
-                "videoId": "LEliRsXQ260"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "KPdu9NpCYa5_py6rpnS9BWcqVQI",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5GNjNDRDREMDQxOThCMDQ2",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:41:16Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 14,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "ZK5cZlD1Oxg"
-                }
-            },
-            "contentDetails": {
-                "videoId": "ZK5cZlD1Oxg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "yjPI5oyw6fxiyFzPFMonW4uPkAo",
+            "etag": "HCE5-K8c5qiQ0eDtrMGXc-o9RNY",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2019-06-24T03:51:35Z",
@@ -2699,7 +518,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 15,
+                "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NsXMb8iAVaU"
@@ -2714,7 +533,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iTbE9u3ip58JnCVlIwODYe_ubK4",
+            "etag": "k6pehyFZ1EOR4NaDXSxXiruYtDg",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2019-06-24T03:53:32Z",
@@ -2745,7 +564,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 16,
+                "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "syF7NDVKPGw"
@@ -2760,7 +579,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cJ7_-7UsdGiqqVJ2OLLitSKN_UI",
+            "etag": "7I062-UIhGNLZEg_4UwvYCi1Vys",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2019-06-24T03:55:54Z",
@@ -2791,7 +610,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 17,
+                "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "tY09x0ZCdbw"
@@ -2806,29 +625,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9X77NFgvwi4xr-HVyB3iEzaM6nU",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4zMDg5MkQ5MEVDMEM1NTg2",
-            "snippet": {
-                "publishedAt": "2019-06-24T03:58:45Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 18,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "OsvxEMwCloc"
-                }
-            },
-            "contentDetails": {
-                "videoId": "OsvxEMwCloc"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "KQdTdbfV6m5ogcNSDd0MEDFvn0M",
+            "etag": "c9fFAyhQvEwfuwq8tn2q0IOSkJ4",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi40QzRDOEU0QUYwNUIxN0M1",
             "snippet": {
                 "publishedAt": "2022-07-18T19:41:42Z",
@@ -2854,7 +651,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 19,
+                "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "TjkdTVd22aM"
@@ -2869,7 +666,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Vgf6hppaaW3ETvEq5VWY6eDumFA",
+            "etag": "mCqVoy6OGKahCucXW-QdNFtVGyI",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2019-06-24T04:00:18Z",
@@ -2900,7 +697,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 20,
+                "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NsrTnGF45qQ"
@@ -2915,7 +712,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nmNUBKLnNZTmfMJeUSYEKwQ7LyY",
+            "etag": "YUpRbmr-lRIU3HHbdFixQzS4_FY",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2022-07-18T19:42:23Z",
@@ -2941,7 +738,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 21,
+                "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "RKD0Li9SOnc"
@@ -2956,7 +753,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8L0kz9NLD5MNBF4nNJjCcdR6t2o",
+            "etag": "f_bYWxwpqWYGz_krrRnAS2hEDww",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
                 "publishedAt": "2022-07-18T19:43:29Z",
@@ -2992,7 +789,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 22,
+                "position": 16,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KKZ-Svcjyi0"
@@ -3007,7 +804,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TLqytKFCwXqAn4SXSBPQTmuU1w4",
+            "etag": "7QwWTh1CfS-BaGEk4XNplS7f3mg",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi44QzVGQUU2QjE2NDgxM0M4",
             "snippet": {
                 "publishedAt": "2022-07-18T19:44:23Z",
@@ -3043,7 +840,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 23,
+                "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Lpmbt5L4s4w"
@@ -3058,73 +855,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XHfteh4C0RmVBMb3UBjv7sKYpYU",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5EQUE1NTFDRjcwMDg0NEMz",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:01:34Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 24,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "FL5sf1H6SrI"
-                }
-            },
-            "contentDetails": {
-                "videoId": "FL5sf1H6SrI"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Ns7ZfgdBtrSEenreRJQOih___MM",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41QTY1Q0UxMTVCODczNThE",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:04:44Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 25,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "y-HCLvbpbxk"
-                }
-            },
-            "contentDetails": {
-                "videoId": "y-HCLvbpbxk"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "yaLeiWVEadv7pAcTAy_BQ-LcBbM",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yMUQyQTQzMjRDNzMyQTMy",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:08:47Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 26,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "aYAK7AfUNa4"
-                }
-            },
-            "contentDetails": {
-                "videoId": "aYAK7AfUNa4"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "4niS1uBAbFF2uiyBXdPzIqpyL_4",
+            "etag": "OLZoXROcRsSEh6xGTJJcFpTviks",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
                 "publishedAt": "2019-06-24T04:10:28Z",
@@ -3155,7 +886,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 27,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "8dne5sw0Xng"
@@ -3170,7 +901,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DjUnGkAo5UDFCrG4vMYX9lZafto",
+            "etag": "fT6-8QpFAgdq5uz7wrfVuI6QZF0",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2019-06-24T04:12:03Z",
@@ -3201,7 +932,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 28,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "b894ts7aS50"
@@ -3216,29 +947,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "w9MnGAE-1B7U_RKRWLBfsBY345Y",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi40QTA3NTU2RkM1QzlCMzYx",
-            "snippet": {
-                "publishedAt": "2019-07-07T05:44:03Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 29,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "KDBHEq8VUok"
-                }
-            },
-            "contentDetails": {
-                "videoId": "KDBHEq8VUok"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "yx_WYLrvIxCgIeqN5t17BBFyIOE",
+            "etag": "DpVXwVfRB7xnEHNcwrEb9fLTiBI",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DNkMwRUI2MkI4QkI4NDFG",
             "snippet": {
                 "publishedAt": "2022-07-18T19:36:45Z",
@@ -3274,7 +983,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 30,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9KF5zRy2gKs"
@@ -3289,29 +998,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2OCjccXW86D12Vm5wUTXdKnjyI4",
-            "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yMDhBMkNBNjRDMjQxQTg1",
-            "snippet": {
-                "publishedAt": "2019-06-24T04:32:09Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 31,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "lqkz2pSAHq8"
-                }
-            },
-            "contentDetails": {
-                "videoId": "lqkz2pSAHq8"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "qFcI0p91e3nK46JVjNZ2RnF9L0c",
+            "etag": "sphHGCcqorUUO53RnRekFALymAo",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45NkVENTkxRDdCQUFBMDY4",
             "snippet": {
                 "publishedAt": "2022-07-18T19:35:56Z",
@@ -3347,7 +1034,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 32,
+                "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aarik9fXljw"
@@ -3362,7 +1049,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fZW1YworLK41c9T1MLOTyZA-Zlk",
+            "etag": "s62KcGaLh0_96VuUhi8OuIzMJLI",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
                 "publishedAt": "2019-06-24T04:36:08Z",
@@ -3393,7 +1080,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 33,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mDbQT8DU1Xw"
@@ -3408,7 +1095,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "og-vYuN2OI8tMZngPGWLPMWiGzE",
+            "etag": "ZIs7C3Ry0GIoyz5w-Qr6kYnamrI",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2019-06-24T04:41:52Z",
@@ -3439,7 +1126,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 34,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yvcCkciOqpo"
@@ -3454,7 +1141,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "a1VnC_3zkdIpn9Dvos9XOOy37x0",
+            "etag": "tZkrjlQ1J35rz1jM5RsAnlzDSA4",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2019-06-24T04:43:12Z",
@@ -3485,7 +1172,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 35,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "dKsi44P3JOQ"
@@ -3500,7 +1187,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zzw8aypIfoajGpy0rVW0PX0URgM",
+            "etag": "JxAwWktOwHYWsBjYZIPUuc8ltSw",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2019-06-24T04:44:28Z",
@@ -3531,7 +1218,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 36,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KwQjDuH-We8"
@@ -3546,7 +1233,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OB9DjBKOgUT7Rah8uTl99lWAdwo",
+            "etag": "Xj0GZ24fizaXsThv_B8bQytl0-I",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
                 "publishedAt": "2019-07-07T14:12:09Z",
@@ -3577,7 +1264,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 37,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lNqpDNHfhx0"
@@ -3592,7 +1279,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bfY-WMLqyOD6R40X3s6p_GldcNs",
+            "etag": "mZ4eD9DNFuMlSY34e7sMQ9hx8qE",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2019-06-24T04:45:26Z",
@@ -3623,7 +1310,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 38,
+                "position": 27,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "DoJ1lP13K68"
@@ -3638,7 +1325,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DlpTwAVoNc_70VJtgJAQZXdPDjc",
+            "etag": "kBs4YUxPX63XvIgd60wg8UFlC3I",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2019-06-24T04:51:05Z",
@@ -3669,7 +1356,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 39,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cBVYcj7m15c"
@@ -3684,7 +1371,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1YV6MaoKr2P9nDDxCFHfHy2hohw",
+            "etag": "PCL-WJy0o7aZ6v3-yX7oGu3XlGg",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
                 "publishedAt": "2019-12-13T08:59:47Z",
@@ -3715,7 +1402,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 40,
+                "position": 29,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Z1M7afVLbBY"
@@ -3730,7 +1417,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "svwGIkUr9b-0-PFrESocIt2lg04",
+            "etag": "OmFjlTeYDK3IqzsGrtpwGTThxxA",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2019-06-24T05:02:13Z",
@@ -3761,7 +1448,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 41,
+                "position": 30,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5k0iLvPpz_U"
@@ -3776,7 +1463,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "68KktK2YqOF9xH9s_l4k-IVRyvQ",
+            "etag": "Ssfx_-1WI2ZoHUkonp3VJ4i5be0",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2019-06-24T05:05:36Z",
@@ -3807,7 +1494,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 42,
+                "position": 31,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "kh4D6xz112c"
@@ -3822,7 +1509,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Gnd-LZRWeisnD_Q-IM3y6FMh6Ls",
+            "etag": "D-NWrCItZse9nDoz0TVW_PXz2X4",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
                 "publishedAt": "2019-06-24T05:12:10Z",
@@ -3853,7 +1540,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 43,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uGIFP_4d3jw"
@@ -3868,7 +1555,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hRN2DCF0d-N4pAz9nH1E7ermFZg",
+            "etag": "o1Dc6PDeXjU9gL2IhamC9mvV2Oc",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2019-07-07T14:13:17Z",
@@ -3899,7 +1586,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 44,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "zorqRYrVZeY"
@@ -3914,7 +1601,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SomR5AklOyJMINsQWuIBc-nsjV0",
+            "etag": "9VIdK9Y4u-UYwUPsI3PlCIVAJz8",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
                 "publishedAt": "2019-06-24T05:13:23Z",
@@ -3945,7 +1632,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 45,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "kT5fou5XVxY"
@@ -3960,7 +1647,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eVCEt-3DVEuPUycKvLMdtq-EXv8",
+            "etag": "C-uXzgXI6TX6C3QJquU9hySJWmQ",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2019-06-24T05:14:27Z",
@@ -3991,7 +1678,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 46,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ulGV2WPFDxY"
@@ -4006,7 +1693,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aph6gP7K-iO7tgRMnKNDPecsDy8",
+            "etag": "Ztzp9yyn_fSRPK1q2inN1zkGh3A",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi5CMEQ2Mjk5NTc3NDZFRUNB",
             "snippet": {
                 "publishedAt": "2019-06-24T05:15:43Z",
@@ -4037,7 +1724,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 47,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mVG-C4HMfy8"
@@ -4052,7 +1739,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zVTzV39_L9g5_lyqIih4R9V3he8",
+            "etag": "R3wMaCgQ6QGR_E0L3CiSqPhIKAo",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2019-06-24T05:16:45Z",
@@ -4083,7 +1770,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 48,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cygj3xE189k"
@@ -4098,7 +1785,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LX-E12X_Zgh4r8vekKmxDvZisnk",
+            "etag": "SlzFNPb0t_IpFaPHcgWcfpLqTUs",
             "id": "UExFRDREai1UNDNyUHF1ZGh3R0huVXRqSFJyUGFqbjBTbi45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
                 "publishedAt": "2019-06-24T05:18:08Z",
@@ -4129,7 +1816,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rPqudhwGHnUtjHRrPajn0Sn",
-                "position": 49,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "dAQM1XtXR7o"
