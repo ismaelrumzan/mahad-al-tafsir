@@ -53,7 +53,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KdwBRMo5azGVUWGn8GB28ckj2Hk",
+            "etag": "afp4EReW-pY5FjVQOw8FP_213J0",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2021-09-22T14:21:45Z",
@@ -818,7 +818,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6cCM1x3DAwZxssQndExaZ-Xw8-I",
+            "etag": "PV54-f3hac7b3v4jYLaYHwlRMvw",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
                 "publishedAt": "2022-01-13T18:46:13Z",
@@ -840,6 +840,11 @@
                         "url": "https://i.ytimg.com/vi/0dgW4xwO3A8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0dgW4xwO3A8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -1471,7 +1476,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "04xFix8qmkCuuEVd2B2yN_CUrzw",
+            "etag": "rerBpwrNhdb34rF5jHOcp9z5iL0",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS5EQkE3RTJCQTJEQkFBQTcz",
             "snippet": {
                 "publishedAt": "2022-01-27T20:41:54Z",
@@ -1493,6 +1498,11 @@
                         "url": "https://i.ytimg.com/vi/W7vLX5eZ3m4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W7vLX5eZ3m4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -3552,7 +3562,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wqL2m0fva_mwe8Wy8BFYq9WJYw0",
+            "etag": "NQw2BXp60hs49Ff6t46BHM707NM",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2020-10-03T20:46:23Z",
@@ -3736,7 +3746,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LkrgEKLw2K4ddVTkzZI-cL73cwA",
+            "etag": "nlNS3z0C_sjogWIpXABm-U7hAz0",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2020-10-03T21:17:39Z",
@@ -3833,7 +3843,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XYh8Nh190cX7a-pNQuB8aFL7MPA",
+            "etag": "hHlJXHPqwPhnz8WtD-swbei0iDU",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2020-10-03T21:22:12Z",
@@ -4063,7 +4073,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2CfSwC4XRRTfEu30i7WWensSwiw",
+            "etag": "tFoQfsl2qrXvIYDElZcCSjsl--c",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2020-10-03T21:33:57Z",
@@ -4109,7 +4119,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ziSY7bOrURpR--z-YgO1a38FhMY",
+            "etag": "qoX62DQg4wAo6LQyDmemUnvM1_k",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-10-03T21:25:42Z",
@@ -5104,7 +5114,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Di8KjEeDDQEWxDQYd3sQF1Je7r0",
+            "etag": "zrdHS4U4A0dTUFzrUrrm37F1nU4",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2020-12-14T13:48:56Z",
@@ -5206,7 +5216,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qfDzCgapuAJrx-l6LUjwo8byscc",
+            "etag": "YmU4GgtjQWPxG8HT66xgW99Efg4",
             "id": "UExFRDREai1UNDNyUHB1bG1fNVhMUGJYbVZQS1lPdkkxbS42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2020-12-14T13:51:22Z",

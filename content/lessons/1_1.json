@@ -2,38 +2,33 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "rB4VZBgVQUtdSDUop8NumLhidvg",
-            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC42Qzk5MkEzQjVFQjYwRDA4",
+            "etag": "OUakWDv7eCkddcMPOYcI9FFG19Y",
+            "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4xM0YyM0RDNDE4REQ1NDA0",
             "snippet": {
-                "publishedAt": "2022-05-15T15:50:21Z",
+                "publishedAt": "2022-09-30T15:16:26Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "(مبادئ دروس العربية (1)/ (الكلمة والكلام)و(الأزمنة)، (أقسام الكلمة",
-                "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
+                "title": "(مبادئ دروس العربية (1)/ (الكلمة والكلام) و(الأزمنة)، (أقسام الكلمة",
+                "description": "رابط تحميل كتاب مبادئ https://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?\nusp=sharing 1\nهذه الدورة هي الدورة الأولى لطالب النحو، يدرس من خلالها المبادئ الأساسية في النحو، بشكل مختصر جامع ، اقتصر فيه المؤلف على أهم ما يحتاج الطالب إليه في النحو، مع أمثلة كثيرة مرتبة ، وشرح موجز، وتدريبات كثيرة من القرآن الكريم والسنة وأقوال العلماء ، وامثلة من ابتكارات المصنف محمد محيي الدين عبد الحميد الذي هو من أعلام هذه الأمة في خدمة علم النحو، وهذه الدورة تعتبر تمهيدًا لقراءة الآجرومية ، تسهل على الطالب فهم الآجرومية وما بعدها من كتب النحو، وقد شرحها علي هاني العقرباوي شرحًا سهلًا معروضًا على لوح إلكتروني، أعرب جميع الأمثلة وحل جميع التدريبات مع كثرة التكرار تثيبتًا للمسائل في ذهن الطالب فجاءت بحمد الله دورة بديعة في بابها ، وهي مسجلة في دروس قليلة ، ثلاثة عشر درسًا كل درس خمسون دقيقة فقط.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WK8MBtvsTjg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WK8MBtvsTjg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WK8MBtvsTjg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WK8MBtvsTjg/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/9Vj8tSVrabk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -41,14 +36,14 @@
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "9Vj8tSVrabk"
+                    "videoId": "WK8MBtvsTjg"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "9Vj8tSVrabk",
-                "videoPublishedAt": "2022-05-15T16:01:22Z"
+                "videoId": "WK8MBtvsTjg",
+                "videoPublishedAt": "2022-09-30T15:18:45Z"
             }
         },
         {
@@ -145,7 +140,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AvhhvLgC83Rf6sdenjjmzSaEp4U",
+            "etag": "TMA-iEhcgdK7yRa3X_p0SFzoQug",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
                 "publishedAt": "2022-05-20T22:12:52Z",
@@ -167,6 +162,11 @@
                         "url": "https://i.ytimg.com/vi/_kwNUwFklnY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_kwNUwFklnY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -186,7 +186,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "z0YWzo7QTxuUtGt7tRv5_lU0aME",
+            "etag": "cWyADYtGoatnblieOLnQqClVE34",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
                 "publishedAt": "2022-05-20T22:14:02Z",
@@ -208,6 +208,11 @@
                         "url": "https://i.ytimg.com/vi/Eb6hQGhjico/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Eb6hQGhjico/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -227,7 +232,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ggKLN17oWi3O-t8RER4s2C_2B5A",
+            "etag": "5W4J_MIrWjLqKtzn34zXifj3KBc",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
                 "publishedAt": "2022-05-20T22:15:42Z",
@@ -249,6 +254,11 @@
                         "url": "https://i.ytimg.com/vi/WSGJiquRSNc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WSGJiquRSNc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -319,12 +329,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XTXKFQT5o5T3BKY98gmhT5tq8zc",
+            "etag": "3sB1wKFTQF1A609WPuWa3zrDiMA",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4zMUEyMkQwOTk0NTg4MDgw",
             "snippet": {
                 "publishedAt": "2022-05-21T00:13:19Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "مبادئ دروس العربية (8) المفرد والمثنى والجمع، والمذكر والمؤنيث، وإعراب الاسم ، والفاعل",
+                "title": "مبادئ دروس العربية (8) المفرد والمثنى والجمع، والمذكر والمؤنث، وإعراب الاسم ، والفاعل",
                 "description": "رابط تحميل كتاب مبادئ \nhttps://drive.google.com/file/d/1-DpkZMe57tiQElYmTLYpgnarewKnBUBS/view?usp=sharing\n\n1   نسخة مراجعة ومصححة \n علي_هاني_العقرباوي المستوى الأول في سلسلة دراسة النحو، فأولًا مبادئ النحو ثم التوضيح على الآجرومية علي هاني ثم متن الآجرومية ثم التسهيل على الآجرومية ثم متممة الآجرومية ثم إعراب جزء عم ثم  النحو الوظيفي ثم قطر الندى ثم شذور الذهب ثم موصل الطلاب إلى قواعد الإعراب ثم ألفية ابن مالك بشرح ابن عقيل ثم  الألفية بشرح الأشموني ثم بشرح التصريح على التوضيح ثم المساعد شرح تسهيل الفوائد المتن لابن مالك والشرح لابن عقيل ثم  مغني اللبيب لابن هشام",
                 "thumbnails": {
                     "default": {

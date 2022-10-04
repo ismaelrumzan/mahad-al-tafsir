@@ -155,7 +155,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "sLZcojiXwfQk3fAK2Pf5dpup7MU",
+            "etag": "oaSFdEXfQzFqZ9xIFqLnRYcOtqc",
             "id": "UExFRDREai1UNDNyTUc4UTcxUTRGTTREa1FHTlNGbWNKUS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-06-20T09:31:39Z",
@@ -177,6 +177,11 @@
                         "url": "https://i.ytimg.com/vi/9Ip8pbRkUxo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9Ip8pbRkUxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",

@@ -2,159 +2,216 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "CRtDetwNHtPD6F3Jn80FE9LBDGg",
-            "id": "UExFRDREai1UNDNyUDI0a2tqeXpXWXZ2V04tTTVhMExHTC41NkI0NEY2RDEwNTU3Q0M2",
+            "etag": "PjNJidopNYg10fOqw4s6AICngLk",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
-                "publishedAt": "2021-08-28T22:05:05Z",
+                "publishedAt": "2022-09-29T04:49:27Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "شرح العزي للسعد التفتازاني (1) المبادئ العشرة",
-                "description": "رابط  تصريف العزي\nhttps://drive.google.com/file/d/1jm8Yn0xkEZD02o9qv2qoWoKExgMkPDUd/view?usp=sharing\nرابط شرح السعد التفتازاني على تصريف العزي\nhttps://drive.google.com/file/d/1IddxTMlUk3YFrI5jseFn_oKiYNWOhbbI/view?usp=sharing\nرابط ترتيب وتهذيب العزي مع أسئلة \nhttps://drive.google.com/file/d/1_WCgDyr_XYJkyQ0sFr1fP5ufyhe4RNXh/view?usp=sharing\nرابط الأمثلة التصريفية الأندلسية \nhttps://drive.google.com/file/d/1iGRlkJZqsywx1hxMzH3GIFusjk2GTEHS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف :\n1ـ  فأولًا : الشرح المختصر للأمثلة المختلفة، 2ـ ثانيًا: الشرح المطول للأمثلة المختلفة ، 3ـ  ثالثًا: شرح كتاب البناء في علم التصريف، 4 ـ رابعًا: شرح المقصود في الصرف ،5ـ  خامسًا : شرح متن العزي في الصرف  ، 6ـ سادسًا: شذا العرف في فن الصرف مع تطبيقات من دراسات لأسلوب القرآن 7 ـ سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم مع تطبيقات من دراسات لأسلوب القرآن ، 8ـ ثامنًا: شرح كتاب المراح في الصرف ،9ـ تاسعًا: شرح الشافية لابن الحاجب.",
+                "title": "تهذيب تصريف العزي الزنجاني للعسكري (1) مبادئ الصرف،والمجرد والمزيد، والأقسام السبعة",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/UviAvS6oVvs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/UviAvS6oVvs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/UviAvS6oVvs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/UviAvS6oVvs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/UviAvS6oVvs/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rP24kkjyzWYvvWN-M5a0LGL",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
                 "position": 0,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "UviAvS6oVvs"
+                    "videoId": "J8vBTP-QSwY"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "UviAvS6oVvs",
-                "videoPublishedAt": "2021-08-28T22:12:10Z"
+                "videoId": "J8vBTP-QSwY",
+                "videoPublishedAt": "2022-09-29T04:51:40Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GsqphtdUw4YsghO2bCL8lzvid18",
-            "id": "UExFRDREai1UNDNyUDI0a2tqeXpXWXZ2V04tTTVhMExHTC4yODlGNEE0NkRGMEEzMEQy",
+            "etag": "_FveTFyjzegdQsWAbCio-HfZg38",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
-                "publishedAt": "2021-08-28T22:13:17Z",
+                "publishedAt": "2022-09-29T18:13:21Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "شرح تصريف العزي للسعد التفتازاني (2) ترتيب كتب الصرف في المعاهد",
-                "description": "رابط  تصريف العزي\nhttps://drive.google.com/file/d/1jm8Yn0xkEZD02o9qv2qoWoKExgMkPDUd/view?usp=sharing\nرابط شرح السعد التفتازاني على تصريف العزي\nhttps://drive.google.com/file/d/1IddxTMlUk3YFrI5jseFn_oKiYNWOhbbI/view?usp=sharing\nرابط ترتيب وتهذيب العزي مع أسئلة \nhttps://drive.google.com/file/d/1_WCgDyr_XYJkyQ0sFr1fP5ufyhe4RNXh/view?usp=sharing\nرابط الأمثلة التصريفية الأندلسية \nhttps://drive.google.com/file/d/1iGRlkJZqsywx1hxMzH3GIFusjk2GTEHS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف :\n1ـ  فأولًا : الشرح المختصر للأمثلة المختلفة، 2ـ ثانيًا: الشرح المطول للأمثلة المختلفة ، 3ـ  ثالثًا: شرح كتاب البناء في علم التصريف، 4 ـ رابعًا: شرح المقصود في الصرف ،5ـ  خامسًا : شرح متن العزي في الصرف  ، 6ـ سادسًا: شذا العرف في فن الصرف مع تطبيقات من دراسات لأسلوب القرآن 7 ـ سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم مع تطبيقات من دراسات لأسلوب القرآن ، 8ـ ثامنًا: شرح كتاب المراح في الصرف ،9ـ تاسعًا: شرح الشافية لابن الحاجب.",
+                "title": "تهذيب تصريف العزي (2) الميزان الصرف ، أوزان الثلاثي والرباعي",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tCBKpvUmcxs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/4TizhtEn4uE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tCBKpvUmcxs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4TizhtEn4uE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tCBKpvUmcxs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4TizhtEn4uE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/tCBKpvUmcxs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/tCBKpvUmcxs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rP24kkjyzWYvvWN-M5a0LGL",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
                 "position": 1,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "tCBKpvUmcxs"
+                    "videoId": "4TizhtEn4uE"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "tCBKpvUmcxs",
-                "videoPublishedAt": "2021-08-28T22:13:54Z"
+                "videoId": "4TizhtEn4uE",
+                "videoPublishedAt": "2022-09-29T18:15:54Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xiR-nSX1BqwjTZ0x2NdsZEr7gp0",
-            "id": "UExFRDREai1UNDNyUDI0a2tqeXpXWXZ2V04tTTVhMExHTC4wMTcyMDhGQUE4NTIzM0Y5",
+            "etag": "mBp8Aj6syN2_-Ywor1DKMDTx0Bg",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
-                "publishedAt": "2021-09-18T22:02:08Z",
+                "publishedAt": "2022-09-30T14:52:36Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "شرح العزي (3) تصريف الأفعال الثلاثية والرباعية مجردها ومزيدها",
-                "description": "فأولًا : الشرح المختصر للأمثلة المختلفة، 2ـ ثانيًا: الشرح المطول للأمثلة المختلفة ، 3ـ  ثالثًا: شرح كتاب البناء في علم التصريف، 4 ـ رابعًا: شرح المقصود في الصرف ،5ـ  خامسًا : شرح متن العزي في الصرف  ، 6ـ سادسًا: شذا العرف في فن الصرف مع تطبيقات من دراسات لأسلوب القرآن 7 ـ سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم مع تطبيقات من دراسات لأسلوب القرآن ، 8ـ ثامنًا: شرح كتاب المراح في الصرف ،9ـ تاسعًا: شرح الشافية لابن الحاجب.",
+                "title": "تهذيب تصريف العزي (3) أوزان الأفعال المزيدة وتدريباتها",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rmIkgromFUE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/8wgA0Ts-m98/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rmIkgromFUE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8wgA0Ts-m98/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rmIkgromFUE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8wgA0Ts-m98/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/rmIkgromFUE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/rmIkgromFUE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rP24kkjyzWYvvWN-M5a0LGL",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
                 "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "rmIkgromFUE"
+                    "videoId": "8wgA0Ts-m98"
                 },
                 "videoOwnerChannelTitle": "علي هاني العقرباوي",
                 "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
             },
             "contentDetails": {
-                "videoId": "rmIkgromFUE",
-                "videoPublishedAt": "2021-09-18T22:02:53Z"
+                "videoId": "8wgA0Ts-m98",
+                "videoPublishedAt": "2022-09-30T14:58:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EV-b8d0201512pPmsamuVAzd3mM",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-10-01T19:15:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (4) اللازم والمتعدي ، وطرق تعدية اللازم",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tuPCFbquTBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tuPCFbquTBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tuPCFbquTBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tuPCFbquTBA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "tuPCFbquTBA",
+                "videoPublishedAt": "2022-10-01T19:15:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gxKPnK5t7Bw2-vLHNCQZafeNd1I",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-10-02T20:50:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (5) تصريف الفعل الماضي، وبناؤه للمعلوم والمجهول",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uh4pit44gwQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uh4pit44gwQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uh4pit44gwQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Uh4pit44gwQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Uh4pit44gwQ",
+                "videoPublishedAt": "2022-10-02T20:52:02Z"
             }
         }
     ],
-    "title": "شرح متن العزي في الصرف / عبد الوهاب الزنجاني",
-    "nav": "شرح متن العزي",
+    "title": "تهذيب العزي لمرتضى العسكري",
+    "nav": "تهذيب العزي",
     "id": "2_5"
 }
