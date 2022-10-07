@@ -1,12 +1,19 @@
 import React from "react";
 import clsx from "clsx";
-import Layout from "@theme/Layout";
+
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import styles from "./index.module.css";
+
+import { GTMProvider } from '@elgorditosalsero/react-gtm-hook'
+
+import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Search from "@site/src/components/Search";
 import logoBlack from "@site/static/img/logo-black.png";
+
+import styles from "./index.module.css";
+
+const gtm = { id: 'GTM-WQ5J63M' }
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -47,11 +54,14 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout>
-      <HomepageHeader />
-      <div className={styles.homeContent}>
-        <HomepageFeatures />
-      </div>
-    </Layout>
+    <GTMProvider state={gtm}>
+      <Layout>
+        <HomepageHeader />
+        <div className={styles.homeContent}>
+          <HomepageFeatures />
+        </div>
+      </Layout>
+    </GTMProvider>
+    
   );
 }
