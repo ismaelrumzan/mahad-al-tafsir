@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IvvL1iWc05OeyAMIRa3MH0dvusY",
+            "etag": "1a1r7X3wnSr6l-uVHVTGanscg90",
             "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-06-20T21:20:44Z",
@@ -784,7 +784,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FIuyF92Wz5Tu6DucTYZx0iZE0_E",
+            "etag": "ZZpxl1yT5YRpHtd8yCnIDY9k144",
             "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
                 "publishedAt": "2022-06-20T21:23:45Z",
@@ -1382,12 +1382,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mSHB7rzRCaRoD1ONfSqgGdkVqRw",
+            "etag": "T9qrmYroSozIfg5KbPRtiRuJLvM",
             "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
                 "publishedAt": "2022-06-20T21:33:50Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الكوثر الشيخ علي هاني العقرباوي(107",
+                "title": "تفسير سورة الكوثر الشيخ علي هاني العقرباوي(108",
                 "description": "تفسير تحليلي لسورة الكوثر مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1612,12 +1612,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XiUbJZ0qSw8yX20K6YbNj7YjMI4",
+            "etag": "9zT_udZBKPQr-fSBlk0xyBhhh5Q",
             "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
                 "publishedAt": "2022-06-20T21:38:35Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الفلق الجزء الثاني(2) الشيخ علي هاني العقرباوي( 113",
+                "title": "تفسير سورة الفلق الجزء الثالث(3) ( 113",
                 "description": "تفسير تحليلي لسورة الفلق مع تفسير النسفي مأخوذ من معظم كتب التفسير \n#seekersguidance  \n# علي_ هاني_ العقرباوي \nرابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1792,6 +1792,251 @@
             "contentDetails": {
                 "videoId": "f8-ZMe1g4VE",
                 "videoPublishedAt": "2019-05-23T19:34:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UblBrMyCN5Agaj9UD6Ua1UZn1-U",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2022-10-29T14:36:26Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة قريش (106)",
+                "description": "رابط تنزيل الكتاب: https://drive.google.com/open?id=15avUbP5cZBX_QL7_arb1L_6-lLhksjb8 https://drive.google.com/open?id=1mXe626BijUmwmThUoFXC7qt1g51crpNE https://drive.google.com/open?id=1AsqL1Hlmw7hbMv0QoLMMMJwGnLwfyTeV \n#seekersguidance تفسير سورة السجدة الجزء الأول الشيخ علي هاني العقرباوي (1)-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G-bbC-qTjl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G-bbC-qTjl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G-bbC-qTjl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G-bbC-qTjl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G-bbC-qTjl4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "G-bbC-qTjl4",
+                "videoPublishedAt": "2022-10-29T14:36:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pMekjXCq3BuBW84nonK2DSEOOZQ",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2022-10-29T16:58:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة المسد (111)",
+                "description": "رابط تنزيل الكتاب: https://drive.google.com/open?id=15avUbP5cZBX_QL7_arb1L_6-lLhksjb8 https://drive.google.com/open?id=1mXe626BijUmwmThUoFXC7qt1g51crpNE https://drive.google.com/open?id=1AsqL1Hlmw7hbMv0QoLMMMJwGnLwfyTeV \n#seekersguidance تفسير سورة السجدة الجزء الأول الشيخ علي هاني العقرباوي (1)-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QBqDW20cXLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QBqDW20cXLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QBqDW20cXLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QBqDW20cXLo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QBqDW20cXLo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QBqDW20cXLo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "QBqDW20cXLo",
+                "videoPublishedAt": "2022-10-29T16:58:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kinT2oluZXQsHxuE8i0mc010HXA",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2022-10-29T19:21:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الفلق (113) الجزء الأول (1)",
+                "description": "رابط تنزيل الكتاب: https://drive.google.com/open?id=15avUbP5cZBX_QL7_arb1L_6-lLhksjb8 https://drive.google.com/open?id=1mXe626BijUmwmThUoFXC7qt1g51crpNE https://drive.google.com/open?id=1AsqL1Hlmw7hbMv0QoLMMMJwGnLwfyTeV \n#seekersguidance تفسير سورة السجدة الجزء الأول الشيخ علي هاني العقرباوي (1)-",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PchI03ijzJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PchI03ijzJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PchI03ijzJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PchI03ijzJ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PchI03ijzJ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PchI03ijzJ0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "PchI03ijzJ0",
+                "videoPublishedAt": "2022-10-29T19:23:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ttjWV2tU5Xi2t18QW4cnAENYkh0",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2022-11-07T10:43:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الفلق الجزء الثاني(2) ( 113",
+                "description": "تفسير تحليلي لسورة الفلق مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WwAbJgtIPEM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WwAbJgtIPEM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WwAbJgtIPEM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WwAbJgtIPEM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WwAbJgtIPEM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WwAbJgtIPEM",
+                "videoPublishedAt": "2022-11-07T10:43:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kqcmSZixyTMzXwn4KECHdJ9B9Aw",
+            "id": "UExFRDREai1UNDNyTW9MYTRwSEFTdU1aejE3TE9nNnE5Si5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2022-11-08T13:25:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(107) سورة الماعون",
+                "description": "تفسير تحليلي لسورة الفلق مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rP9OKEOVyAk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rP9OKEOVyAk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rP9OKEOVyAk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rP9OKEOVyAk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rP9OKEOVyAk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMoLa4pHASuMZz17LOg6q9J",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rP9OKEOVyAk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rP9OKEOVyAk",
+                "videoPublishedAt": "2022-11-08T13:27:53Z"
             }
         }
     ],

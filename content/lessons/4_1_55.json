@@ -321,6 +321,103 @@
                 "videoId": "W7sZX1maxyg",
                 "videoPublishedAt": "2019-06-08T13:05:11Z"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vA2kJTLoWxOlWuzUC8MP6hl6xE0",
+            "id": "UExFRDREai1UNDNyUGJNVzByNU1BSkhfUVhDcXF0NUI0Vi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-12-16T14:27:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الرحمن الجزء السابع (7)  (55",
+                "description": "تفسير تحليلي لسورة الرحمن مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kVtYMmJ-vJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kVtYMmJ-vJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kVtYMmJ-vJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kVtYMmJ-vJo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kVtYMmJ-vJo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPbMW0r5MAJH_QXCqqt5B4V",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kVtYMmJ-vJo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "kVtYMmJ-vJo",
+                "videoPublishedAt": "2022-12-16T14:29:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wqUE1bLG5iZdIQXOIeAkpfeK9rk",
+            "id": "UExFRDREai1UNDNyUGJNVzByNU1BSkhfUVhDcXF0NUI0Vi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2023-03-11T15:54:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الدرس الأول مقدمات في علم الوضع للشيخ صهيب النعيمي",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kNk9n53Iq_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kNk9n53Iq_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kNk9n53Iq_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kNk9n53Iq_Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPbMW0r5MAJH_QXCqqt5B4V",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kNk9n53Iq_Q"
+                },
+                "videoOwnerChannelTitle": "تكوين العالم المؤصل",
+                "videoOwnerChannelId": "UCt8gOsWCoz9HntQ4D9uQjTg"
+            },
+            "contentDetails": {
+                "videoId": "kNk9n53Iq_Q",
+                "videoPublishedAt": "2020-11-24T22:14:30Z"
+            }
         }
     ],
     "title": "سورة الرحمن تفسير النسفي",

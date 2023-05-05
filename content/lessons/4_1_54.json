@@ -232,7 +232,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GRjgoPgFZsJg6cfHA_-GZEhpFv0",
+            "etag": "WnfJU0iGsg4vaKqDehzUs21l8eY",
             "id": "UExFRDREai1UNDNyTlZCdjRDUXVzd2tFZTdYcnItd2lOWi41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-06-20T09:52:50Z",
@@ -274,6 +274,57 @@
             "contentDetails": {
                 "videoId": "CX_GN5_3rJo",
                 "videoPublishedAt": "2019-06-08T13:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QTfVQvVloAAzRh5OIDIOKwsLTgk",
+            "id": "UExFRDREai1UNDNyTlZCdjRDUXVzd2tFZTdYcnItd2lOWi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-12-15T10:31:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة القمر الجزء السابع(7)ـ 54",
+                "description": "تفسير تحليلي لسورة القمر مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KboJHI1ahDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KboJHI1ahDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KboJHI1ahDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KboJHI1ahDQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KboJHI1ahDQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rNVBv4CQuswkEe7Xrr-wiNZ",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KboJHI1ahDQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "KboJHI1ahDQ",
+                "videoPublishedAt": "2022-12-15T10:36:13Z"
             }
         }
     ],

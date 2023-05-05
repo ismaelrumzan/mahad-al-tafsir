@@ -1,0 +1,461 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4D4XS5mnY7USgPhubcLPXIl2mc0",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2023-04-22T09:48:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (1) حفني ناصيف ومن معه/مقدمة المؤلفين وفصاحة الكلمة",
+                "description": "علي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iiAMaDEt8Kg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iiAMaDEt8Kg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iiAMaDEt8Kg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iiAMaDEt8Kg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iiAMaDEt8Kg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iiAMaDEt8Kg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "iiAMaDEt8Kg",
+                "videoPublishedAt": "2023-04-22T10:19:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AmwA4lZCPj5OtolmywPeJNyzvL8",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2023-04-22T10:44:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (2) حفني ناصيف ومن معه/ فصاحة الكلام",
+                "description": "علي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t3DRBoJAmcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t3DRBoJAmcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t3DRBoJAmcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t3DRBoJAmcM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t3DRBoJAmcM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "t3DRBoJAmcM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "t3DRBoJAmcM",
+                "videoPublishedAt": "2023-04-22T10:47:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3tS4hdD0o78RPAB859FamhTuIs4",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2023-04-24T12:31:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (3) مراجعة لما سبق",
+                "description": "#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aHu7zGRwSu4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aHu7zGRwSu4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aHu7zGRwSu4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aHu7zGRwSu4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aHu7zGRwSu4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aHu7zGRwSu4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "aHu7zGRwSu4",
+                "videoPublishedAt": "2023-04-24T12:35:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FBE0K7ZpA4DtZjedcJynbq6AMcc",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2023-04-24T13:16:23Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (4) ( فصاحة الكلام والمتكلم)",
+                "description": "#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ErlwhHUWv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ErlwhHUWv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ErlwhHUWv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-ErlwhHUWv4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-ErlwhHUWv4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-ErlwhHUWv4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-ErlwhHUWv4",
+                "videoPublishedAt": "2023-04-24T13:19:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h4vLJxWOjurjlIM71AhuodCpvto",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2023-04-25T20:28:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (5) ( البلاغة ، والحال، ومقتضى الحال)",
+                "description": "#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/120CAGzjkO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/120CAGzjkO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/120CAGzjkO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/120CAGzjkO0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/120CAGzjkO0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "120CAGzjkO0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "120CAGzjkO0",
+                "videoPublishedAt": "2023-04-25T20:36:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pijl0TqNN2hbM1fGpLQLkNBhGow",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2023-04-27T10:38:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (6) تدريبات على فصاحة الكلمة والكلام والبلاغة",
+                "description": "#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bHhvelyWHSM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bHhvelyWHSM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bHhvelyWHSM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bHhvelyWHSM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bHhvelyWHSM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "bHhvelyWHSM",
+                "videoPublishedAt": "2023-04-27T10:39:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q5dmDPI6Bf8rucZPhRrCXkw8dOg",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2023-04-27T18:29:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (7) ( علم المعاني والخبر والإنشاء)",
+                "description": "#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OLm9k2VwDxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OLm9k2VwDxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OLm9k2VwDxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OLm9k2VwDxY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OLm9k2VwDxY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OLm9k2VwDxY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "OLm9k2VwDxY",
+                "videoPublishedAt": "2023-04-27T18:31:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6J_r42CAwXpSpZl5x3yBEVJwyIY",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2023-05-02T19:17:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة ( ) ( تدريبات على البلاغة والكلام على الخبر )",
+                "description": "#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4BZAgtAmGDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4BZAgtAmGDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4BZAgtAmGDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4BZAgtAmGDw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4BZAgtAmGDw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4BZAgtAmGDw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4BZAgtAmGDw",
+                "videoPublishedAt": "2023-05-02T19:18:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_hldPGXQFYBb1L6OK3gwSgsevPc",
+            "id": "UExFRDREai1UNDNyTUpVd29ldzRaOUxpMWFaNmFEVlRuOC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2023-05-03T15:40:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دروس البلاغة (9) ( أغراض إلقاء الخبر)",
+                "description": "#seekersguidance\nعلي_هاني_العقرباوي\nالمستوى  الثالث في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة ، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GtEDumBD3l8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GtEDumBD3l8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GtEDumBD3l8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GtEDumBD3l8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GtEDumBD3l8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMJUwoew4Z9Li1aZ6aDVTn8",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GtEDumBD3l8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GtEDumBD3l8",
+                "videoPublishedAt": "2023-05-03T15:41:28Z"
+            }
+        }
+    ],
+    "title": "كتاب دروس البلاغة لحفني ناصف",
+    "nav": "كتاب دروس البلاغة",
+    "id": "3_5"
+}
