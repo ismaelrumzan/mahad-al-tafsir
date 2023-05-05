@@ -48,13 +48,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ZcHPsMPgJFFCNn7IRjmu_7ESIYk",
+            "etag": "jcRkocp3AD4TR12OjrudEj5mjl4",
             "id": "UExFRDREai1UNDNyTXlBY25PR05HMkFhRzlycU4teWNFOS4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-06-20T09:49:40Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "52)تفسير سورة الطور الجزء الرابع(4) الشيخ علي هاني العقرباوي",
-                "description": "تفسير سورة الطور الجزء الرابع الشيخ علي هاني العقرباوي \n#seekersguidance",
+                "title": "52)تفسير سورة الطور الجزء الثالث(3)",
+                "description": "تفسير سورة الطور الجزء الثالث الشيخ علي هاني العقرباوي \n#seekersguidance",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/BlYMfhbwZMQ/default.jpg",
@@ -90,6 +90,210 @@
             "contentDetails": {
                 "videoId": "BlYMfhbwZMQ",
                 "videoPublishedAt": "2019-06-08T12:19:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KCLSyl2eCkvQczCkPMugAXSuyek",
+            "id": "UExFRDREai1UNDNyTXlBY25PR05HMkFhRzlycU4teWNFOS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-12-09T11:07:26Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الطور(2)ـ 52",
+                "description": "تفسير تحليلي لسورة تبارك مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g7hdOzT8N2E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g7hdOzT8N2E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g7hdOzT8N2E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g7hdOzT8N2E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g7hdOzT8N2E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMyAcnOGNG2AaG9rqN-ycE9",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "g7hdOzT8N2E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "g7hdOzT8N2E",
+                "videoPublishedAt": "2022-12-09T11:23:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZpHp_0dJvBMydL7kYdnJEkV7DFo",
+            "id": "UExFRDREai1UNDNyTXlBY25PR05HMkFhRzlycU4teWNFOS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-12-09T11:08:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الطور(4)ـ 52",
+                "description": "تفسير تحليلي لسورة تبارك مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OMlZZ3kxzqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OMlZZ3kxzqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OMlZZ3kxzqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OMlZZ3kxzqQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OMlZZ3kxzqQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMyAcnOGNG2AaG9rqN-ycE9",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OMlZZ3kxzqQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "OMlZZ3kxzqQ",
+                "videoPublishedAt": "2022-12-09T11:20:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iaQ0QoQtAwD8qSQIfEzORNnWiN4",
+            "id": "UExFRDREai1UNDNyTXlBY25PR05HMkFhRzlycU4teWNFOS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-12-09T11:09:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الطور(5)ـ 52",
+                "description": "تفسير تحليلي لسورة تبارك مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WBXpwkXRkiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WBXpwkXRkiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WBXpwkXRkiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WBXpwkXRkiE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WBXpwkXRkiE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMyAcnOGNG2AaG9rqN-ycE9",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WBXpwkXRkiE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WBXpwkXRkiE",
+                "videoPublishedAt": "2022-12-09T11:20:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tw4WGKWwFXC46IvoGZ06Uupr40A",
+            "id": "UExFRDREai1UNDNyTXlBY25PR05HMkFhRzlycU4teWNFOS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-12-09T11:09:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الطور(6)ـ 52",
+                "description": "تفسير تحليلي لسورة تبارك مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aYmkC439mlc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aYmkC439mlc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aYmkC439mlc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aYmkC439mlc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aYmkC439mlc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMyAcnOGNG2AaG9rqN-ycE9",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aYmkC439mlc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "aYmkC439mlc",
+                "videoPublishedAt": "2022-12-09T11:17:27Z"
             }
         }
     ],

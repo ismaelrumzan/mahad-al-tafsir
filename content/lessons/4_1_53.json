@@ -321,6 +321,57 @@
                 "videoId": "ytIPlVfWRwM",
                 "videoPublishedAt": "2019-06-08T12:33:36Z"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SZIqD80EElV9m-aD5sCB8Ibw3gU",
+            "id": "UExFRDREai1UNDNyTXBnTUgyTDI2eHl3Y1ZHZERHZFQtYy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-12-09T19:06:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة  النجم (4)ـ 53",
+                "description": "تفسير تحليلي لسورة تبارك مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Eamu2jR_OQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Eamu2jR_OQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Eamu2jR_OQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Eamu2jR_OQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Eamu2jR_OQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMpgMH2L26xywcVGdDGdT-c",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Eamu2jR_OQI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Eamu2jR_OQI",
+                "videoPublishedAt": "2022-12-09T19:14:48Z"
+            }
         }
     ],
     "title": "سورة النجم تفسير النسفي",

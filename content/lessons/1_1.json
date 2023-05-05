@@ -2,7 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "OUakWDv7eCkddcMPOYcI9FFG19Y",
+            "etag": "PUAlqhIKp_HloCSBMP9tu7o5lsU",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4xM0YyM0RDNDE4REQ1NDA0",
             "snippet": {
                 "publishedAt": "2022-09-30T15:16:26Z",
@@ -29,6 +29,11 @@
                         "url": "https://i.ytimg.com/vi/WK8MBtvsTjg/sddefault.jpg",
                         "width": 640,
                         "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WK8MBtvsTjg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -140,7 +145,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TMA-iEhcgdK7yRa3X_p0SFzoQug",
+            "etag": "xakLF-RtXwIj_vkQ05xeebCRK0Y",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
                 "publishedAt": "2022-05-20T22:12:52Z",
@@ -162,6 +167,11 @@
                         "url": "https://i.ytimg.com/vi/_kwNUwFklnY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_kwNUwFklnY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     },
                     "maxres": {
                         "url": "https://i.ytimg.com/vi/_kwNUwFklnY/maxresdefault.jpg",
@@ -186,7 +196,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cWyADYtGoatnblieOLnQqClVE34",
+            "etag": "2pTlMn27JlNU1lplIKeZ7LV003k",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
                 "publishedAt": "2022-05-20T22:14:02Z",
@@ -208,6 +218,11 @@
                         "url": "https://i.ytimg.com/vi/Eb6hQGhjico/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Eb6hQGhjico/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     },
                     "maxres": {
                         "url": "https://i.ytimg.com/vi/Eb6hQGhjico/maxresdefault.jpg",
@@ -232,7 +247,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5W4J_MIrWjLqKtzn34zXifj3KBc",
+            "etag": "_VBvCfrNgHk6q1nXdpro5Hl09HA",
             "id": "UExFRDREai1UNDNyTWRLN29oTlZXemNnOWMwX1RsNk1pOC4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
                 "publishedAt": "2022-05-20T22:15:42Z",
@@ -254,6 +269,11 @@
                         "url": "https://i.ytimg.com/vi/WSGJiquRSNc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WSGJiquRSNc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     },
                     "maxres": {
                         "url": "https://i.ytimg.com/vi/WSGJiquRSNc/maxresdefault.jpg",

@@ -2,12 +2,12 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "ZDjY64SYYksJe_bYwY7crWP54ic",
+            "etag": "XHwDqPTz_qlOMukOyI_4BMFW5lw",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الأول (1) الشيخ علي هاني العقرباوي  33",
+                "title": "تفسير سورة الأحزاب الجزء الأول (1)   33",
                 "description": "تفسير  سورة الأحزاب الجزء الأول الشيخ علي هاني العقرباوي\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -48,12 +48,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4-Vb2TYC6c23XBQIq_Y1XT5PXBI",
+            "etag": "fW8hDfExxk1or-a_QhiUmVjzPx8",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33 ) تفسير سورة الأحزاب الجزء الثاني(2) الشيخ علي هاني العقرباوي",
+                "title": "33 ) تفسير سورة الأحزاب الجزء الثاني(2)",
                 "description": "تفسير سورة الأحزاب الجزء الثاني الشيخ علي هاني العقرباوي(2)\n\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -94,63 +94,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WUhPxrMPUXz2aMdc9h57MdM-1ZQ",
-            "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2022-06-19T20:56:42Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33)تفسير سورة  الأحزاب الجزء الثالث(3) /الشيخ علي هاني علي هاني العقرباوي",
-                "description": "3تفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uKV5L9dFf-Q/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uKV5L9dFf-Q/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uKV5L9dFf-Q/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uKV5L9dFf-Q/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/uKV5L9dFf-Q/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 2,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "uKV5L9dFf-Q"
-                },
-                "videoOwnerChannelTitle": "علي هاني العقرباوي",
-                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
-            },
-            "contentDetails": {
-                "videoId": "uKV5L9dFf-Q",
-                "videoPublishedAt": "2019-07-12T03:34:06Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "tKv8AX6CWvHZcq7eXhhZLv2Z52o",
+            "etag": "YU5ThPllW5MfVJozlfmpcCzEcCE",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33)تفسير سورة  الأحزاب الجزء الرابع(4) /الشيخ علي هاني علي هاني العقرباوي",
+                "title": "33)تفسير سورة  الأحزاب الجزء الرابع(4)",
                 "description": "4\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -176,7 +125,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 3,
+                "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Wancey7vJis"
@@ -191,12 +140,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XqbMM-_70dq_HtpEtVxeHlNzSS8",
+            "etag": "Uj9PaK1eqkYF6U3kf4Suyl25Gcg",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33 )تفسير سورة  الأحزاب الجزء الخامس (5)/الشيخ علي هاني علي هاني العقرباوي",
+                "title": "33 )تفسير سورة  الأحزاب الجزء الخامس (5)",
                 "description": "5تفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -217,7 +166,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 4,
+                "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vW5GEYaihbc"
@@ -232,12 +181,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9h9DvmHcarzU2rwblRHhckKaNBg",
+            "etag": "7FUGqYP6Gog0Zm3EthAHAZM8Kh4",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33)  تفسير سورة الأحزاب (6) علي هاني",
+                "title": "33)  تفسير سورة الأحزاب (6)",
                 "description": "تفسير النسفي",
                 "thumbnails": {
                     "default": {
@@ -263,7 +212,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 5,
+                "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "SjAZPVd4V6U"
@@ -278,12 +227,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "J8d93P3Q3P3Co_OMCymleMcJozk",
+            "etag": "u2-fqDwu8Qk-7DA0-IdEGcNq_Ak",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33)تفسير سورة  الأحزاب الجزء السابع(7) /الشيخ علي هاني علي هاني العقرباوي",
+                "title": "33)تفسير سورة  الأحزاب الجزء السابع(7)",
                 "description": "تفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -309,7 +258,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 6,
+                "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "2DaYF2js9K0"
@@ -324,12 +273,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "s2egZIsq_-piOorNaVRTTiJCTw0",
+            "etag": "gm0daYufRl1pfgtbsIEIkra608s",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33)تفسير سورة  الأحزاب الجزء الثامن (8) /الشيخ علي هاني علي هاني العقرباوي",
+                "title": "33)تفسير سورة  الأحزاب الجزء الثامن (8)",
                 "description": "تفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -355,7 +304,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 7,
+                "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mySQlzowJ_0"
@@ -370,12 +319,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Q4-xNv_1MvqMKXWJQJsxNZ6jFNs",
+            "etag": "n1i21f3_xlMrgI7OG5ZyegTzyeE",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة  الأحزاب الجزء التاسع (9)  الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة  الأحزاب الجزء التاسع (9)  (33",
                 "description": "#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -406,7 +355,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 8,
+                "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "6nmJ-mBjV78"
@@ -421,12 +370,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QECky7KwbnVp4PQAjDtZRNoOviY",
+            "etag": "9VpS6rwX3dleCK5t_od7rHowj_4",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33) تفسير سورة الأحزاب الجزء العاشر(10)  الشيخ علي هاني العقرباوي",
+                "title": "33) تفسير سورة الأحزاب الجزء العاشر(10)",
                 "description": "تفسير سورة الأحزاب الجزء العاشر  الشيخ علي هاني العقرباوي (10)\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -457,7 +406,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 9,
+                "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "XmBlltMYbiA"
@@ -472,12 +421,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Y2kLvH_GS-4_gT9IGgyt7mNstWE",
+            "etag": "h-ICMvEEtCwcDbhysLAetEwLtuk",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الحادي عشر(11) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الحادي عشر(11)  (33",
                 "description": "تفسير سورة الأحزاب الجزء الحادي عشر الشيخ علي هاني العقرباوي 11\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -508,7 +457,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 10,
+                "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "iN6MXZX29aY"
@@ -523,12 +472,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cvh_6rw0-sna5LzNU1OLuwGXk8o",
+            "etag": "S_z5WaUVhs7McEeyO8C4pkdQBx8",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الثاني عشر(12) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الثاني عشر(12)  (33",
                 "description": "تفسير سورة الأحزاب الجزء الثاني عشر الشيخ علي هاني العقرباوي 12\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -559,7 +508,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 11,
+                "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gOqwRy1mm2A"
@@ -574,12 +523,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fOouBBD2cJAq1dQdWNhbSi9eQNI",
+            "etag": "2W77sG6qW0oBSi4P1FGoNQjtkKc",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الثالث عشر(13) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الثالث عشر(13) (33",
                 "description": "تفسير سورة الأحزاب الجزء الثالث عشر الشيخ علي هاني العقرباوي 13\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -610,7 +559,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 12,
+                "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "IDcHAeN4_OE"
@@ -625,12 +574,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9opozWaW_8ms7AcBw6b-eMR05YI",
+            "etag": "SPjfKOq4K-nj95We-v4YnMKAeic",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الرابع عشر(14) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الرابع عشر(14)(33",
                 "description": "تفسير سورة الأحزاب الجزء الرابع عشر الشيخ علي هاني العقرباوي 14\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -661,7 +610,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 13,
+                "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xgjsgJhl0DQ"
@@ -676,12 +625,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6GrGLxIlQ7Y_Ua3nx3FXnE5DknU",
+            "etag": "pK-at3DtOfTLlOKt78_8OZEkcmU",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الخامس عشر(15) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الخامس عشر(15) (33",
                 "description": "تفسير سورة الأحزاب الجزء الخامس عشر الشيخ علي هاني العقرباوي 15\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -712,7 +661,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 14,
+                "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3MKnTu9Km7U"
@@ -727,12 +676,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6VTz6ANBjYzGuAOsDnJ72LEoIdU",
+            "etag": "Dktyzp-4zPrulxmgmRI6QFdcnOo",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء السادس عشر(16)  الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء السادس عشر(16)  (33",
                 "description": "تفسير سورة الأحزاب الجزء السادس عشر  الشيخ علي هاني العقرباوي 16\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -763,7 +712,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 15,
+                "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Ouz78lrPnlE"
@@ -778,12 +727,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vUVhxk0T9JzWbTleM_3hKQASFHE",
+            "etag": "nSpQfOlLz_Hv1M9DisIxeF5GF3A",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء السابع عشر(17) الشيخ علي هاني العقرباوي (33)",
+                "title": "تفسير سورة الأحزاب الجزء السابع عشر(17) (33)",
                 "description": "17#seekersguidance \nتفسير سورة الأحزاب الجزء السابع عشر الشيخ علي هاني العقرباوي (17)\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -814,7 +763,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 16,
+                "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "S2QTZtD4-Fg"
@@ -829,12 +778,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9KMBU0HNZTDEB3951tl8jvgwTVY",
+            "etag": "byYOM7v0CPKUDegcaCkigNUlQVg",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33)تفسير سورة الأحزاب الجزء الثامن عشر(18) الشيخ علي هاني العقرباوي",
+                "title": "33)تفسير سورة الأحزاب الجزء الثامن عشر(18)",
                 "description": "تفسير سورة الأحزاب الجزء الثامن عشر الشيخ علي هاني العقرباوي (18)\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -865,7 +814,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 17,
+                "position": 16,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "pnfao0nELG0"
@@ -880,12 +829,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "r-yypX8pQ438D6mcnmYfT-aT1FE",
+            "etag": "jE-DIrYGKme0PZUqxi0J7-zKpnw",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء التاسع عشر(19) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء التاسع عشر(19) (33",
                 "description": "تفسير سورة الأحزاب الجزء التاسع عشر الشيخ علي هاني العقرباوي (19)\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -916,7 +865,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 18,
+                "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "iNf2N6b5bQw"
@@ -931,12 +880,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5OoT6DoRYIDjyWePSLJwZAgxXes",
+            "etag": "ryaFk3rF-yOWRIHn8MnAzP2Qlqc",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء العشرون (20) الشيخ علي هاني العقرباوي (33)",
+                "title": "تفسير سورة الأحزاب الجزء العشرون (20)  (33)",
                 "description": "تفسير سورة الأحزاب الجزء العشرون الشيخ علي هاني العقرباوي (20)\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -967,7 +916,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 19,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FIHJLN_DgRg"
@@ -982,12 +931,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "K2u3qDlFZdmm_wiuOqsVWWLLXEE",
+            "etag": "2wJPikhffoNmJ1MKSxewjCmAhsI",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الواحد والعشرون (21) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الواحد والعشرون (21)  (33",
                 "description": "#seekersguidance \nتفسير سورة الأحزاب الجزء الواحد والعشرون الشيخ علي هاني العقرباوي 21\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1018,7 +967,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 20,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LCAeTjn8hgo"
@@ -1033,12 +982,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Qpa-zv_wD1EzdI-hT43FgrIZ2SM",
+            "etag": "dYdU92ML9fEOsvC-jk4eLjKFRDw",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "33) تفسير سورة الأحزاب الجزء الثاني والعشرون (22) الشيخ علي هاني العقرباوي",
+                "title": "33) تفسير سورة الأحزاب الجزء الثاني والعشرون (22)",
                 "description": "تفسير سورة الأحزاب الجزء الثاني  والعشرون الشيخ علي هاني العقرباوي  22\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1069,7 +1018,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 21,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "hgJWMqtkXw4"
@@ -1084,12 +1033,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Swp4dFToGXbM-_fs1NQnmP2_DWU",
+            "etag": "F6iuU2MPAiEBSWpAJCWzMOv7GHI",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الثالث والعشرون(23) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الثالث والعشرون(23)  (33",
                 "description": "#seekersguidance \nتفسير سورة الأحزاب الجزء الثالث  والعشرون الشيخ علي هاني العقرباوي 23\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1120,7 +1069,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 22,
+                "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "35WMyNAiCrA"
@@ -1135,12 +1084,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "75mcVEyuotmpU7Lk-19zIA5YaxY",
+            "etag": "hTwuG-798bXXkKMOLHwI41siMo8",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الرابع والعشرون (24) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الرابع والعشرون (24)  (33",
                 "description": "تفسير سورة الأحزاب الجزء الرابع والعشرون الشيخ علي هاني العقرباوي 24\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1171,7 +1120,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 23,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "_FkFhrneAHo"
@@ -1186,12 +1135,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "p5xiX4E66giQGgoSo2kf7fDKr7Q",
+            "etag": "IU7xb5APvHwzHEk_Z8xI5FWQMyE",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الخامس والعشرون (25) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الخامس والعشرون (25)  (33",
                 "description": "تفسير سورة الأحزاب الجزء الخامس والعشرون الشيخ علي هاني العقرباوي 25\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1222,7 +1171,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 24,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mkESRNL6V3Q"
@@ -1237,12 +1186,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "v5aPP2jHiAAZExkBU_l871HfdT0",
+            "etag": "5dTqRm6z7JSW0tIMQ5Z-6GkXgDM",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء السادس والعشرون (26) الشيخ علي هان العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء السادس والعشرون (26)  (33",
                 "description": "تفسير سورة الأحزاب الجزء السادس والعشرون الشيخ علي هان العقرباوي 26\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1273,7 +1222,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 25,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MZXzvkNuKdM"
@@ -1288,12 +1237,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bS6vJBDZgnJ9FovegtVFIAGAXNA",
+            "etag": "bS2dykJyMGW4luPXfbDqLpCClWM",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء السابع والعشرون(27) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء السابع والعشرون(27)  (33",
                 "description": "تفسير سورة الأحزاب الجزء السابع والعشرون الشيخ علي هاني العقرباوي 27\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1324,7 +1273,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 26,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "u_0EB99mZPM"
@@ -1339,12 +1288,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ys5BY5JmLFYCJR0ST8lQfGGHwEM",
+            "etag": "VmFdK7HocKg9sIAsDp-3OA7fg28",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الثامن والعشرون(28) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الثامن والعشرون(28)  (33",
                 "description": "تفسير سورة الأحزاب الجزء الثامن والعشرون الشيخ علي هاني العقرباوي 28\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1375,7 +1324,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 27,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7H_Jk3sXuzA"
@@ -1390,12 +1339,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aCED7-1OAHtw5WABVtM4eVefD_U",
+            "etag": "c0uNjbX97jE98WW2taRl1qCctwE",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء التاسع والعشرون (29) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء التاسع والعشرون (29)  (33",
                 "description": "تفسير سورة الأحزاب الجزء التاسع  والعشرون الشيخ علي هاني العقرباوي 29\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1426,7 +1375,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 28,
+                "position": 27,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3scUEX_epVI"
@@ -1441,12 +1390,12 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7sJVmO0Lz8Vg2Mrvw484FBi4Mgc",
+            "etag": "5pppQBNkVx63v27xppZ1-BQoJl8",
             "id": "UExFRDREai1UNDNyUDRRRVpXMy0wQm9FdjZMWjhiWHVyai45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2022-06-19T20:56:42Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "تفسير سورة الأحزاب الجزء الثلاثون(30) الشيخ علي هاني العقرباوي (33",
+                "title": "تفسير سورة الأحزاب الجزء الثلاثون(30)  (33",
                 "description": "تفسير سورة الأحزاب الجزء الثلاثون الشيخ علي هاني العقرباوي 30\n#seekersguidance\nتفسير سورة    مع قراءة تفسير النسفي ، وفيها تفسير تحليلي مقارن مأخوذ من معظم كتب التفسير \n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
                 "thumbnails": {
                     "default": {
@@ -1477,7 +1426,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rP4QEZW3-0BoEv6LZ8bXurj",
-                "position": 29,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yfwg4hDgI1A"

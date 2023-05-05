@@ -152,6 +152,57 @@
                 "videoId": "rmIkgromFUE",
                 "videoPublishedAt": "2021-09-18T22:02:53Z"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bS7bMqT35dVRbMoGpW7mjgT7Kkk",
+            "id": "UExFRDREai1UNDNyUDI0a2tqeXpXWXZ2V04tTTVhMExHTC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-10-09T21:13:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح العزي للسعد التفتازاني (4) تصريف الأفعال الثلاثة",
+                "description": "هذا شرح متن العزي لعز الدين عبد الوهاب الزنجاني ، وهو متن مهم في علم الصرف لعلم من أعلام الإسلام ، وقد ضمنته خلاصة أهم الشروح :كشرح السعد التفتازاني، والسيد الشريف ، وملا علي القاري، والكيلاني ، وخلاصة كلام الباجوري على نظمه، وخلاصة شرحي على كتاب البناء.\nوقد زينه بجداول رائعة ، وأعاد صف متن العزي بطريقة متميزة ، وعمل مونتاجه الشيخ الفاضل نايف أبو فيصل حفظه ورعاه وأكرمه في الدنيا والآخرة .\nفعليك بهذا المتن العظيم الجامع الذي حوى فوائد لا تحصى ، ويعتبر من أعمدة هذا الفن.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/waWxMis_jNM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/waWxMis_jNM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/waWxMis_jNM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/waWxMis_jNM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/waWxMis_jNM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rP24kkjyzWYvvWN-M5a0LGL",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "waWxMis_jNM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "waWxMis_jNM",
+                "videoPublishedAt": "2022-10-09T21:15:29Z"
+            }
         }
     ],
     "title": "شرح متن العزي في الصرف / عبد الوهاب الزنجاني",

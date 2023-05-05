@@ -1532,7 +1532,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "x5Ndb24jLjL_D8crTapBxrxt_sI",
+            "etag": "jnmmBxFTQE8DfSTIwL96KQKAoUY",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DNzNDRDE1NzhGODQzODI2",
             "snippet": {
                 "publishedAt": "2022-08-13T07:13:59Z",
@@ -1583,7 +1583,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wymz_k0XFHfQ8q2vXyiuOekaPIM",
+            "etag": "X5kiNJ6ulBlu9NDF7T3-FMzMNYs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zQTkyMjEwN0U0QkU3RDg5",
             "snippet": {
                 "publishedAt": "2022-08-13T07:14:59Z",
@@ -2093,29 +2093,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PXDde9pJBaBmUoKCjWnXYn3GFa8",
-            "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zQzFBN0RGNzNFREFCMjBE",
-            "snippet": {
-                "publishedAt": "2021-12-30T13:39:57Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 41,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "x3zgCJp73k4"
-                }
-            },
-            "contentDetails": {
-                "videoId": "x3zgCJp73k4"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "064n_TpbMnNmZO-j2y8OIe0ay5w",
+            "etag": "kz55A6OQbWvQz0WdwI6novHHeQg",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2022-01-13T17:25:51Z",
@@ -2151,7 +2129,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 42,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "6YSxdtbSEtY"
@@ -2166,7 +2144,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iUserfUKnkZM86c2U_9EDurrkQ4",
+            "etag": "Ejs7dd8wntnj55l2X_rvDcNYHuk",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41MzY4MzcwOUFFRUU3QzEx",
             "snippet": {
                 "publishedAt": "2022-01-13T17:27:35Z",
@@ -2202,7 +2180,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 43,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9a8ftwj2CME"
@@ -2217,7 +2195,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "x3gDcouZR8_Vj1uAfFG5CP4-hB8",
+            "etag": "uAcikAmGyWWatVpidl9KmLCfuIQ",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4yQjZFRkExQjFGODk3RUFD",
             "snippet": {
                 "publishedAt": "2022-01-13T17:37:14Z",
@@ -2253,7 +2231,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 44,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "RuumRo5XqAg"
@@ -2268,7 +2246,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6dgM7Mk070PzMtH2bw8dVCkxeow",
+            "etag": "k0hvI5G5aiZmGwh2WNGgAeVzdWI",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4yQUJFNUVCMzVDNjcxRTlF",
             "snippet": {
                 "publishedAt": "2022-01-13T17:38:38Z",
@@ -2304,7 +2282,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 45,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ZBclOo66Y1w"
@@ -2319,29 +2297,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WWmuU__byubSFrsdVD2M2G4fj3U",
-            "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40QzRDOEU0QUYwNUIxN0M1",
-            "snippet": {
-                "publishedAt": "2022-01-13T17:40:33Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 46,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "O5KokGBoK3s"
-                }
-            },
-            "contentDetails": {
-                "videoId": "O5KokGBoK3s"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Mv_GytUldVP8fvPHP-HrlAXxDHw",
+            "etag": "uFIYIsJ9o8cV8oe7SWSVMzp1dn8",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43Q0UyODJENjc3NDRCODU0",
             "snippet": {
                 "publishedAt": "2022-09-02T14:47:52Z",
@@ -2377,7 +2333,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 47,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5cr7hR3ImC4"
@@ -2392,7 +2348,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Lrjf-evxiBTxrPAnfbnC5I-Lomo",
+            "etag": "sxXZHhqNaxn7gYIiWGGqGYQCvmM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2022-01-13T17:45:50Z",
@@ -2428,7 +2384,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 48,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "pcs7SYF9Fj8"
@@ -2443,7 +2399,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2vlZE-TdaFIBXgwEMga39Z9WPyM",
+            "etag": "FovKHCK57bXnHTaGt6UZ5i9x74g",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
                 "publishedAt": "2022-01-13T18:19:43Z",
@@ -2479,7 +2435,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 49,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "pFpOBWe40Bc"
@@ -2494,7 +2450,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GBnWbz6Lvq6igubnikUfK5IjRy4",
+            "etag": "4CTw8499Z8b11VXJuA2RGz2S8nk",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44QzVGQUU2QjE2NDgxM0M4",
             "snippet": {
                 "publishedAt": "2022-01-13T18:21:21Z",
@@ -2530,7 +2486,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 50,
+                "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LRofEzf8n9g"
@@ -2545,7 +2501,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1SfQ5NY2eBd_6fIHjk32r1solhg",
+            "etag": "a-RPmk3DCy9OLEWn74Ir_0aI00o",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
                 "publishedAt": "2022-01-13T18:23:29Z",
@@ -2581,7 +2537,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 51,
+                "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "hmrvG5So3Zw"
@@ -2596,7 +2552,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "RBQD08E6Q5Cc0EsbE7rABjSunE8",
+            "etag": "6Hh5BK02ndqUawPGZwjqWr0sd5I",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
                 "publishedAt": "2022-02-01T19:46:56Z",
@@ -2632,7 +2588,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 52,
+                "position": 50,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GJg0VgTkYJ8"
@@ -2647,7 +2603,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "f58UU3sz9bqXjT3KlrFwmvop71s",
+            "etag": "VSGzykI_5bNgQu0Sc9O8IpHPn7A",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
                 "publishedAt": "2022-02-01T19:48:14Z",
@@ -2683,7 +2639,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 53,
+                "position": 51,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lHOfgCqbeck"
@@ -2698,7 +2654,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0o5ZdfU4zyygkMyfkijjPbD4-kg",
+            "etag": "W7RTcKzXLvYsISNn4Qms55sIKi8",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2022-09-02T14:49:01Z",
@@ -2734,7 +2690,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 54,
+                "position": 52,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "wHhqpZYN_8g"
@@ -2749,29 +2705,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "u64h0Eb7yNUR-qS4A7c5PPmbOGk",
-            "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41NTZEOThBNThFOUVGQkVB",
-            "snippet": {
-                "publishedAt": "2022-02-01T19:50:01Z",
-                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "علي هاني العقرباوي",
-                "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 55,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "u2b1qCb_pJk"
-                }
-            },
-            "contentDetails": {
-                "videoId": "u2b1qCb_pJk"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "R9EVkgkR9cgFkzY5acBmHwUHev0",
+            "etag": "dOva-glyHXrfb6ZsZ6soWLUZxdM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43NERCMDIzQzFBMERCMEE3",
             "snippet": {
                 "publishedAt": "2022-02-01T19:51:48Z",
@@ -2807,7 +2741,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 56,
+                "position": 53,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "BU2FJ-80hKE"
@@ -2822,7 +2756,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7I8pWYjm3cGv2OoqB4Cj0DZUznI",
+            "etag": "RSSB0b84LMpFKMoyizRVqkQE2D0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
                 "publishedAt": "2022-02-01T20:27:16Z",
@@ -2858,7 +2792,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 57,
+                "position": 54,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gSj5A5xkufc"
@@ -2873,7 +2807,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "I8pIGXfKFTUDwfWOPinDDb5xdAQ",
+            "etag": "la9BrGo0id3iUiOjNpeMcsT1qk8",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wMTYxQzVBRDI1NEVDQUZE",
             "snippet": {
                 "publishedAt": "2022-02-01T20:28:58Z",
@@ -2909,7 +2843,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 58,
+                "position": 55,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "z_fEUg5XfGI"
@@ -2924,7 +2858,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PUBWKw1tDbLZf9yV3QbH-xex1zQ",
+            "etag": "Lxc1JMY-UeAM1odJKWGqu3heAtU",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
                 "publishedAt": "2022-02-01T20:17:46Z",
@@ -2960,7 +2894,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 59,
+                "position": 56,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qiL5VYY_Ufo"
@@ -2975,7 +2909,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ina8LCSatTjrTAB0I-d_DaZ6izQ",
+            "etag": "sRGQDM7OeCnMCLOAhd8lr7iFyS0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zMUEyMkQwOTk0NTg4MDgw",
             "snippet": {
                 "publishedAt": "2022-07-09T02:37:03Z",
@@ -3011,7 +2945,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 60,
+                "position": 57,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5a3MwrsDUM0"
@@ -3026,7 +2960,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qDcqvNJbB9BiFQoBvmLltqp220k",
+            "etag": "f6rIpmrn2hTdqTRVq5-himjgYcM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS42QzdBMzlBQzQzRjQ0QkQy",
             "snippet": {
                 "publishedAt": "2022-07-09T02:38:21Z",
@@ -3062,7 +2996,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 61,
+                "position": 58,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "l0ZI5NhLu-M"
@@ -3077,7 +3011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xugo-PkMmXjR8bG2AKItXk4zBKA",
+            "etag": "Dk64nSpwohl-Kx0kYgd21dgauOo",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41OURENDc2NEM1MDI5Mjky",
             "snippet": {
                 "publishedAt": "2022-07-09T02:39:42Z",
@@ -3113,7 +3047,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 62,
+                "position": 59,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qVPeL-vKhBY"
@@ -3128,7 +3062,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "d6SIYHcKzTidkSxdfhl-2jb7wsA",
+            "etag": "MJPYcmz8IvqoR1iSYMIwmQ3ZW4M",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wRjhFM0MxMTU1MEUzQ0VB",
             "snippet": {
                 "publishedAt": "2022-07-09T02:41:07Z",
@@ -3164,7 +3098,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 63,
+                "position": 60,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "b2kZ82XNjh4"
@@ -3179,7 +3113,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MaXAYr6zq5BHL_lUSpJq7xy7br4",
+            "etag": "6GCwBLAG_geiUJOmfNAE-onaeKI",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CNTZFOTNGQzZEODg1RUQx",
             "snippet": {
                 "publishedAt": "2022-07-09T02:42:19Z",
@@ -3215,7 +3149,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 64,
+                "position": 61,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "YLpFfXIXoeE"
@@ -3230,7 +3164,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "UQR6Byi7QCWgGVTPB3x63l3ygA4",
+            "etag": "Lm46Ay5hkmtstMwAv4mfwiNzn_o",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CNTcxMDQ0NThBNzMxODYz",
             "snippet": {
                 "publishedAt": "2022-07-09T02:43:07Z",
@@ -3266,7 +3200,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 65,
+                "position": 62,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "tJPwyMCno7A"
@@ -3281,7 +3215,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "B8mmgM9pXHVAerXnFMPsnffbsd4",
+            "etag": "wbAzWYktS3thpqzNFncFmMtHxrE",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5ERkUyQTM0MzEwQjZCMTY5",
             "snippet": {
                 "publishedAt": "2022-07-09T02:44:31Z",
@@ -3317,7 +3251,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 66,
+                "position": 63,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "R5SFbO5kryg"
@@ -3332,7 +3266,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "N8m_ssMz77xZM5OS_w-wq61JLPo",
+            "etag": "OIBxz8ItQcBiubL3CipMN_Wd50I",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4xM0YyM0RDNDE4REQ1NDA0",
             "snippet": {
                 "publishedAt": "2022-07-09T02:45:30Z",
@@ -3368,7 +3302,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 67,
+                "position": 64,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Pv3R534XCgU"
@@ -3383,7 +3317,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "T2501N5q1wT-7bT_OL_esdvT4eE",
+            "etag": "TV69c97Wk-hgX0B7DHX4j7nqLNw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS42MjYzMTMyQjA0QURCN0JF",
             "snippet": {
                 "publishedAt": "2022-07-09T02:46:25Z",
@@ -3419,7 +3353,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 68,
+                "position": 65,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "q1y-M1HpKLQ"
@@ -3434,7 +3368,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2iiPHQIc6M4wYby4SwRlSRGuDvU",
+            "etag": "pX0hOcg-6BDUGRkk2kM2TwIqdqs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40MDNEMzA0QTBFRThFMzBE",
             "snippet": {
                 "publishedAt": "2022-07-09T02:47:40Z",
@@ -3470,7 +3404,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 69,
+                "position": 66,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "IkxPsjr8EW4"
@@ -3485,7 +3419,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "i28QRlAxCJU2DoMQI6ef6atVGLo",
+            "etag": "s-Ul0U9AAmGk5Og6isP7Vllclrc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS42RTNCOEMxREI3Q0VDMjU2",
             "snippet": {
                 "publishedAt": "2022-07-09T02:48:46Z",
@@ -3521,7 +3455,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 70,
+                "position": 67,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "UlyE63fjhtY"
@@ -3536,7 +3470,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NdgtlX-Q7Q0FlymEYy5YodmnFIs",
+            "etag": "dbXIskImOWC00zzhVcYIWjxTmG4",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4yQzk4QTA5QjkzMTFFOEI1",
             "snippet": {
                 "publishedAt": "2022-07-09T02:53:26Z",
@@ -3572,7 +3506,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 71,
+                "position": 68,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "R04NjY7fPPQ"
@@ -3587,7 +3521,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "B64AS0nPEwglT1BkolVM8pYg_EQ",
+            "etag": "kItmHe8p7f2fPMgpBsdKelBHlgY",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43QzNCNkZENzIyMDY2MjZB",
             "snippet": {
                 "publishedAt": "2022-07-09T02:50:16Z",
@@ -3623,7 +3557,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 72,
+                "position": 69,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "rzT9wkiroXE"
@@ -3638,7 +3572,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9GvWX7n_aaQxSNg7H4MWAvFtHEU",
+            "etag": "47KLgZJCi8Sl61Er7uPgGB8EpZM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EQkE3RTJCQTJEQkFBQTcz",
             "snippet": {
                 "publishedAt": "2022-07-09T02:51:38Z",
@@ -3674,7 +3608,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 73,
+                "position": 70,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "-r8zHqGLxxw"
@@ -3689,7 +3623,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MDg8n47kdrog6G7VnH4oeURMf00",
+            "etag": "ndsr_OIeXVnFS8AbWmoDepHIklo",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS45NDlDQUFFOThDMTAxQjUw",
             "snippet": {
                 "publishedAt": "2022-07-09T07:16:35Z",
@@ -3725,7 +3659,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 74,
+                "position": 71,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5nJxQg6Ygek"
@@ -3740,7 +3674,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OUX_vbp3w237ZAHNN3cvSNLk3AU",
+            "etag": "MmZN0HcyyAElTtsQxCVberQUTJs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4xN0Y2QjVBOEI2MzQ5OUM5",
             "snippet": {
                 "publishedAt": "2022-07-09T07:17:18Z",
@@ -3776,7 +3710,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 75,
+                "position": 72,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vGhUeJYXXag"
@@ -3791,7 +3725,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "k-sV_LlmADpzn9s-IW2Y8uZ9nPY",
+            "etag": "4gKuaKHY-V_OFE5j_tf6jjyaDgs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5FQUY2Qzk4RUFDN0ZFRkZF",
             "snippet": {
                 "publishedAt": "2022-07-09T07:18:09Z",
@@ -3827,7 +3761,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 76,
+                "position": 73,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "DlndDAX2CtY"
@@ -3842,7 +3776,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yOUpFeEa1OtX0R9DnM3KmLSoEUQ",
+            "etag": "eNXd2-PgUlhT7V74k4y8tIpeOQE",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40OTQ5QjlEMDgzN0FBNUIw",
             "snippet": {
                 "publishedAt": "2022-07-09T22:13:01Z",
@@ -3878,7 +3812,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 77,
+                "position": 74,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uEXzfxd6jwI"
@@ -3893,7 +3827,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gtg5Ogf45yhQ1MvxwCZQKyLfRmU",
+            "etag": "fmr0O5_LzQmmAAuCWziCjK6svtM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CMEVBRUJERkUyNTBENTkz",
             "snippet": {
                 "publishedAt": "2022-07-09T07:20:22Z",
@@ -3929,7 +3863,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 78,
+                "position": 75,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ly5_lSkyFfE"
@@ -3944,7 +3878,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pTgT5Oed001Hssza-xqah16lHEk",
+            "etag": "Y6sByaU2RMwHO9iDxHgWzDZe8bw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4xNjIyNEE0MDEyRDlCMjBE",
             "snippet": {
                 "publishedAt": "2022-07-09T07:21:19Z",
@@ -3980,7 +3914,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 79,
+                "position": 76,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "F5nsyLVtYIM"
@@ -3995,7 +3929,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4mZ8GF8wOZYLI98j0NKFMQvjiXk",
+            "etag": "xHoAWQLfqlX-KXxBbsH4kPGcFLM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44QTY2MEEzNzBFQUJCMUQ2",
             "snippet": {
                 "publishedAt": "2022-07-09T07:22:14Z",
@@ -4031,7 +3965,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 80,
+                "position": 77,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nEuxCI___80"
@@ -4046,7 +3980,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "kheDk9QQd1S-VgVCXZjSChtY18M",
+            "etag": "P8fOydNceMPXi01BYUqwK39M5x4",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zQTkzRjgxRTY0OEU0MkM3",
             "snippet": {
                 "publishedAt": "2022-07-09T07:23:08Z",
@@ -4082,7 +4016,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 81,
+                "position": 78,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ciOLeNuTscs"
@@ -4097,7 +4031,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6qKnB6d7UtjZAQor2CYs6C6whGI",
+            "etag": "iAsfYMm4Zj5w2lRYqw5qJUQcSBs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4xNTZBNUQxMDZBQzFGMjkw",
             "snippet": {
                 "publishedAt": "2022-07-09T07:23:54Z",
@@ -4133,7 +4067,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 82,
+                "position": 79,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ub1gfNgYlng"
@@ -4148,7 +4082,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hj-VY_jTLBDLdH7aSP9Jv0aoxlc",
+            "etag": "TqawdEVsdiO4OE3lwonb5e3p_yk",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wMDFGNzBEOTU4Q0Y1Q0RG",
             "snippet": {
                 "publishedAt": "2022-07-09T07:24:38Z",
@@ -4184,7 +4118,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 83,
+                "position": 80,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "JEMwqOFFMjQ"
@@ -4199,7 +4133,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cJnK0yLZ1TaCcg1VbvL2gmmfILo",
+            "etag": "3VrS1lywXVzVX-21oB2j9gQJIlg",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44QTA1QTQyRTc3M0VGQzYx",
             "snippet": {
                 "publishedAt": "2022-07-09T07:25:21Z",
@@ -4235,7 +4169,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 84,
+                "position": 81,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "jjAd1DBroGo"
@@ -4250,7 +4184,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wGiXuMGW5GvIC0FpLejF40iO9h0",
+            "etag": "JTvJMNEyacMRzPU3Us1vu0FGtg0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44MkM2RjVEQkQ5N0I2MjVE",
             "snippet": {
                 "publishedAt": "2022-07-09T07:26:51Z",
@@ -4286,7 +4220,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 85,
+                "position": 82,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Y4_ztmWkrIw"
@@ -4301,7 +4235,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "muWoKq_25gD_M0bBXzvtcMXKqiY",
+            "etag": "mEQTSCAy6XrYQiqiA1eyMxU0R9o",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40NzE2MTY1QTM3RUI3QkU3",
             "snippet": {
                 "publishedAt": "2022-07-09T07:27:44Z",
@@ -4337,7 +4271,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 86,
+                "position": 83,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "jY6dAe0hcLs"
@@ -4352,7 +4286,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SttujH4wrwdTZ7ExOOQGZZDEk3k",
+            "etag": "-NqVh8EbVxecXxlcxa22alntX4U",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EMzJDRTUwQjBEOUVFQzAw",
             "snippet": {
                 "publishedAt": "2022-07-09T07:28:34Z",
@@ -4388,7 +4322,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 87,
+                "position": 84,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "4gNZmTjkBmU"
@@ -4403,7 +4337,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7XBPq6_rpiznDDv88SRw0ptt81Q",
+            "etag": "b3LNNQe9TDGoAi2CAYkq_rZn_cY",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2022-07-09T07:29:27Z",
@@ -4439,7 +4373,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 88,
+                "position": 85,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ye-795UY8PQ"
@@ -4454,7 +4388,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-8nZGeofbkEnenkmRI3T9k0rIx8",
+            "etag": "4idgVSE6vTNd-EeCRKWF9fhzhgc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5GMDBDNkJGMzYzREUyMTYw",
             "snippet": {
                 "publishedAt": "2022-07-09T07:36:31Z",
@@ -4490,7 +4424,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 89,
+                "position": 86,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "2g0y7U2NzNc"
@@ -4505,7 +4439,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "w49Ubctpt24utalkEu-n9ExZ9Wk",
+            "etag": "uXNSGbJltzp-6T366a8e5iJu6B4",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wQUE0QzM4MkJGQ0YwQjUx",
             "snippet": {
                 "publishedAt": "2022-07-09T07:37:32Z",
@@ -4541,7 +4475,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 90,
+                "position": 87,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "bgZpGuPU-po"
@@ -4556,7 +4490,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0RKVnvsj798cPNPbQ3DYLVoAUnQ",
+            "etag": "IAOuOYhrQyMHo8gGgv1gNHdiIUU",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DQjg2RDQyMEVGQkZFOEVF",
             "snippet": {
                 "publishedAt": "2022-07-09T07:38:53Z",
@@ -4592,7 +4526,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 91,
+                "position": 88,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ueUiGp-rJyc"
@@ -4607,7 +4541,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qt0lo5yzbBgwF4RNuR4uqASjaQc",
+            "etag": "m6spfzCnXKPg3njha8q0oCzYXlY",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4yM0EyQ0U1M0I2RkIwNTQ0",
             "snippet": {
                 "publishedAt": "2022-07-09T07:40:21Z",
@@ -4643,7 +4577,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 92,
+                "position": 89,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "1-4vs4DGqoY"
@@ -4658,7 +4592,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pJeuG9h7-4AS92iTMMIpsqzDKvM",
+            "etag": "A2oXzrOjzWVBDgWbcewFWBO_zdE",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43ODA2MDVCQzY5QzZDMjUw",
             "snippet": {
                 "publishedAt": "2022-07-09T22:11:49Z",
@@ -4694,7 +4628,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 93,
+                "position": 90,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vUu8x-ofdjE"
@@ -4709,7 +4643,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mxGjR1QwlpdT244BnM_ePGWgFPE",
+            "etag": "Ip-NT5kpHZPtIVQSLKrfjYNsjMw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5ENjg3MEUyQ0IzODMzQThB",
             "snippet": {
                 "publishedAt": "2022-07-18T08:31:12Z",
@@ -4745,7 +4679,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 94,
+                "position": 91,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Fsn6VisY9yo"
@@ -4760,7 +4694,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_t6tAkeL9xzy_jCLD6maV9S1S5Y",
+            "etag": "3Ib0LFzsH-VRau-qFmjr3yDqiQs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41RDUzRjJFQ0Y0MUI3NzU1",
             "snippet": {
                 "publishedAt": "2022-07-09T07:41:42Z",
@@ -4796,7 +4730,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 95,
+                "position": 92,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aFw9RWGemW8"
@@ -4811,7 +4745,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6WNMN55MEQTwFWS2PfLzZCnj9GE",
+            "etag": "nh9P_NLTHjSzR1ESd6UMMa8XW_E",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CQzUwREI3MzkxQjdBM0E0",
             "snippet": {
                 "publishedAt": "2022-07-09T22:13:31Z",
@@ -4847,7 +4781,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 96,
+                "position": 93,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "_BQP6ziDZg4"
@@ -4862,7 +4796,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JIKRFIRnQyfmXcxa-isiuNk-pVk",
+            "etag": "wGOVU1_2Bgt-LFa4B7P78d66NkI",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5FRjdGNDMzN0I2RTI3MDlG",
             "snippet": {
                 "publishedAt": "2022-07-09T07:43:11Z",
@@ -4898,7 +4832,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 97,
+                "position": 94,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "C9QPRs3XD2s"
@@ -4913,7 +4847,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "P6iLINAERI9HA3LcxwQThidW3zI",
+            "etag": "5NQTD5AoG9-LGGJqWVMAwED0o9U",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41ODIyMTgwQzA4NjJCQkZC",
             "snippet": {
                 "publishedAt": "2022-07-09T07:44:28Z",
@@ -4949,7 +4883,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 98,
+                "position": 95,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "J0WBrComI0A"
@@ -4964,7 +4898,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WsIzJ0NqA7Vof7Tz0DORbqnSRu0",
+            "etag": "pF-_ZViOn1ZqIk6GfrdTJ86IGBA",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CNEYyNTVBNDdGMDI1MDNC",
             "snippet": {
                 "publishedAt": "2022-07-09T07:45:30Z",
@@ -5000,7 +4934,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 99,
+                "position": 96,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "u7Ag1kvDLrM"
@@ -5015,7 +4949,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Fl-IVmj4ebQa1M62t_VVUvzUF_Q",
+            "etag": "IZuzE5w4xWpbjj5vkC3a1RtOlvc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EMUJFNzRCNDRFQjE5RjM4",
             "snippet": {
                 "publishedAt": "2022-07-09T07:46:20Z",
@@ -5051,7 +4985,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 100,
+                "position": 97,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ckjywBCnx2k"
@@ -5066,7 +5000,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "73AfaZ8OgdvR1waG8iSid5CFwpc",
+            "etag": "uhBxabumPvB99FkXN_PsKjlKrpU",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44QjNCNkRENjNFQTBEMUND",
             "snippet": {
                 "publishedAt": "2022-07-09T07:47:12Z",
@@ -5102,7 +5036,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 101,
+                "position": 98,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "u_lEGzXDFvk"
@@ -5117,7 +5051,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MEZdMfss0Yzx9zZBR48zCOUjmLE",
+            "etag": "U4eI_dgITmAYKGJqiliy4_d-Ufc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5GNzk2RTlDQTNCQzJCQzJG",
             "snippet": {
                 "publishedAt": "2022-07-09T07:48:00Z",
@@ -5153,7 +5087,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 102,
+                "position": 99,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "zNXX5vIb09I"
@@ -5168,7 +5102,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bAqnGFJUZofDAxqvi7VSCELMB98",
+            "etag": "ulbZdrC-UDxHzD9Jz98Xcl-Kf2Y",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4yOTZGRTNEQ0ZGNUM5RDgw",
             "snippet": {
                 "publishedAt": "2022-07-11T16:19:01Z",
@@ -5204,7 +5138,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 103,
+                "position": 100,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uP9kYqgg5Fk"
@@ -5219,7 +5153,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "D_YH42QogtfleNRY9--LSNaq2iw",
+            "etag": "4IAIjiJQSo7FhhJoIhCfqrj_YLA",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zNDIxRUJGQThFRTg1QzAy",
             "snippet": {
                 "publishedAt": "2022-07-11T18:22:20Z",
@@ -5255,7 +5189,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 104,
+                "position": 101,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "le4XzcWM0pE"
@@ -5270,7 +5204,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "G9HW0SIAPD77QX_AV12f5IiVoSA",
+            "etag": "UoYiMBRXclXUtAtq0_oJu3bngXo",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wN0FBRUVFNEVBMTZBQ0Mx",
             "snippet": {
                 "publishedAt": "2022-07-18T04:36:51Z",
@@ -5306,7 +5240,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 105,
+                "position": 102,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "wwCgZ3cFVAA"
@@ -5321,7 +5255,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "78clRc4KC-y7sNSDs6p4s9lp1Zs",
+            "etag": "aunVK9vnHfj1dYkuksSYf76oKLM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EODgyNjY4MzA3QzY5RTkx",
             "snippet": {
                 "publishedAt": "2022-07-18T04:37:57Z",
@@ -5357,7 +5291,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 106,
+                "position": 103,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5u8ABz5dfWw"
@@ -5372,7 +5306,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hhPblp6ATfw1wkYDeXxTejuEfTo",
+            "etag": "efQ8tv6xuTelhkKep07-ttHWsoQ",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5BNzdEQzY0REQzQTEyN0U3",
             "snippet": {
                 "publishedAt": "2022-07-18T04:38:52Z",
@@ -5408,7 +5342,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 107,
+                "position": 104,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KJkf5GWc3DE"
@@ -5423,7 +5357,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JgeAWNr03s6_717bza_hWEvU8dI",
+            "etag": "ZaeCM6kRIeEXS5RLmarqVTW3hR0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43RDg3MzJDMTRFMTZFOTAw",
             "snippet": {
                 "publishedAt": "2022-07-18T04:39:47Z",
@@ -5459,7 +5393,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 108,
+                "position": 105,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "veQoW4YmtwI"
@@ -5474,7 +5408,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "54xSsbZzF0k9SjnOMP4D74dQEUw",
+            "etag": "T1KT9QA9XN0DmNy4CsMJv5CrT8k",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44NjIxNjc5OUQwQkJBODQ5",
             "snippet": {
                 "publishedAt": "2022-07-18T04:40:33Z",
@@ -5510,7 +5444,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 109,
+                "position": 106,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "A5K7O8GLENQ"
@@ -5525,7 +5459,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qr8ni-abKs-khFhQFrEVQJTAa4Y",
+            "etag": "QJwzE6HY273FDkHJgt9q6hE7mvw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wRkVBNUY4OTkzN0JCNTA2",
             "snippet": {
                 "publishedAt": "2022-07-18T04:41:42Z",
@@ -5561,7 +5495,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 110,
+                "position": 107,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "JQOUD01etDs"
@@ -5576,7 +5510,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Z3fTHrrg2JVi_WoElcLQAvsTkQ8",
+            "etag": "JZIR-L2EIoq-ExIN5LunFJWYfNc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43NjE5NDdDRTdENjQ3RTkw",
             "snippet": {
                 "publishedAt": "2022-07-18T04:42:33Z",
@@ -5612,7 +5546,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 111,
+                "position": 108,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "d6Pstt_D3WE"
@@ -5627,7 +5561,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "EdKGrEXWweUI650paPx_11La0f0",
+            "etag": "rZzQk_QWR-a479qnBPYrUQ16MuY",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5ENEEyOTIwNkY4NzFGMkQ2",
             "snippet": {
                 "publishedAt": "2022-07-18T04:43:35Z",
@@ -5663,7 +5597,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 112,
+                "position": 109,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "z1Wrv7WnGqY"
@@ -5678,7 +5612,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nNgDcxYIIQKf53VQOB7uXFysKps",
+            "etag": "LacYhY4P1dppHlNQRCBRlZo9lJ8",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2022-07-18T04:45:04Z",
@@ -5714,7 +5648,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 113,
+                "position": 110,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xFb3yHqo7Lw"
@@ -5729,7 +5663,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AJQQolepiJgwkviurokx4dRDASE",
+            "etag": "n-oyv4KqgN0kfNoiy6w12aGbgz4",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5BRDg1NUY1OTY2QzgzOEM0",
             "snippet": {
                 "publishedAt": "2022-07-18T04:46:11Z",
@@ -5765,7 +5699,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 114,
+                "position": 111,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LihOoUJ6Ri0"
@@ -5780,7 +5714,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Kfy7C7QEQSj0m7e2kmQ61u7yOPI",
+            "etag": "MpScOFn-FfIMKcMW-Zn4v6E2Nmo",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5ERkRDQjY0N0Y0Q0VFOTdC",
             "snippet": {
                 "publishedAt": "2022-07-18T04:47:11Z",
@@ -5816,7 +5750,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 115,
+                "position": 112,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Un-jEQIDcow"
@@ -5831,7 +5765,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NCW5NavJ66JmQUOC_lyheyHHEYw",
+            "etag": "I7Aa3LKSFZJvORogex55sd0hzNQ",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wMDkwRkI3NzExODA2MTFG",
             "snippet": {
                 "publishedAt": "2022-07-18T04:48:40Z",
@@ -5867,7 +5801,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 116,
+                "position": 113,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "L3paqBerZ9Y"
@@ -5882,7 +5816,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9EJ_2F6k8r6nwrLJrnIvgVCoWkQ",
+            "etag": "y9ymDzeMOFcybyKBRI5iqYjhwlA",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4xRDJGOTc4RkUxMzUwMUFG",
             "snippet": {
                 "publishedAt": "2022-07-18T04:50:01Z",
@@ -5918,7 +5852,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 117,
+                "position": 114,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "y57d3UEvODM"
@@ -5933,7 +5867,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9P2e9_9jQ0HTD8fzPn3M32iw-Xk",
+            "etag": "C3iLff4kUXysA9wJM1iuL5aKcxU",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wQTI4OEZFRUE0Q0Q3ODQw",
             "snippet": {
                 "publishedAt": "2022-07-18T04:51:21Z",
@@ -5969,7 +5903,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 118,
+                "position": 115,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "tBA60RyXpws"
@@ -5984,7 +5918,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Lt9kieuBkYISidui64syl3nh-Ug",
+            "etag": "PCSSu1eIhElrLw_0RcyTtveTB80",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41NUMwNTVERDNBRDc4REM0",
             "snippet": {
                 "publishedAt": "2022-07-18T04:52:32Z",
@@ -6020,7 +5954,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 119,
+                "position": 116,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "g949xWVSR1M"
@@ -6035,7 +5969,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TZUq1HG47QGtUglVTGaGwkNdnJA",
+            "etag": "Ej1YTKPSIFyJc-NodBvQHK6B8xo",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5BRUVCN0E0MzEwQzAwNjMy",
             "snippet": {
                 "publishedAt": "2022-07-18T05:01:41Z",
@@ -6071,7 +6005,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 120,
+                "position": 117,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "q3-03q12WO0"
@@ -6086,7 +6020,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "y62zW8Yx18bKBKR1GUL0ol4LgXo",
+            "etag": "GSICTeYX4S3NNWBsABZ4-LO5WrM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EODkyNDMzRkJBNkQ2NkMz",
             "snippet": {
                 "publishedAt": "2022-07-18T05:02:48Z",
@@ -6122,7 +6056,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 121,
+                "position": 118,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xSxXX1I2nG8"
@@ -6137,7 +6071,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "B8QQD953hetWVouZ3RP6IqhiCsE",
+            "etag": "hHFhJuvCshkvAQWeMMwH_nlSRVs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41MzJFNEYxODEyNzA0QUUx",
             "snippet": {
                 "publishedAt": "2022-07-18T05:03:47Z",
@@ -6173,7 +6107,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 122,
+                "position": 119,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "tjmyoDMyMTY"
@@ -6188,7 +6122,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bYEtLQjrkSeYzxaMHLoraekn_P0",
+            "etag": "dj5pwMYpI88A_2gJPhMGHn60OVs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS45MEI3NjgzMTVFQkZGODYx",
             "snippet": {
                 "publishedAt": "2022-07-31T11:33:46Z",
@@ -6224,7 +6158,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 123,
+                "position": 120,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cXVgixgh98E"
@@ -6239,7 +6173,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "kKB9MVwcQtoQxw9dkXc6HY1baLY",
+            "etag": "8egfxag7Jd18M8IHN4sax2Q5Uag",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zNEMzQ0FDREY1MkE1RkQ1",
             "snippet": {
                 "publishedAt": "2022-07-31T11:34:37Z",
@@ -6275,7 +6209,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 124,
+                "position": 121,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9Kpft6wYbag"
@@ -6290,7 +6224,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "voSIkRttb1eE454mq0IroxvjT2o",
+            "etag": "qBWCKX1pw_XXXKnsMDTO-pq10ME",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5BQzRBQzNEOTgzNTU2QkZB",
             "snippet": {
                 "publishedAt": "2022-07-31T11:35:55Z",
@@ -6326,7 +6260,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 125,
+                "position": 122,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3Adpor_v-6g"
@@ -6341,7 +6275,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "W-qpf3kJwdhJR_o6N4A7D6Jc_U4",
+            "etag": "zgCZApdW8oZON6LC_QIAjdGnURU",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EN0U0NTk3NzIwMjUxN0M3",
             "snippet": {
                 "publishedAt": "2022-07-31T11:36:53Z",
@@ -6377,7 +6311,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 126,
+                "position": 123,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "traZ-O1YSUU"
@@ -6392,7 +6326,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LoZEoiYIblpBJ5wiCLnJnrwa9JQ",
+            "etag": "_E26gLLkEEiamtOYsT6g_T5gnnc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44M0Q5MzQ0QTcwQzFDMjc5",
             "snippet": {
                 "publishedAt": "2022-07-31T11:40:21Z",
@@ -6428,7 +6362,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 127,
+                "position": 124,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "CoY1-uqEEgc"
@@ -6443,7 +6377,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "T-tlXAulhut0MG2OYxBEWu_wQxU",
+            "etag": "6TZcLmAwRK0Y09bfJBDwWcCEhk8",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wMEMyQTBBOTUwNTM0OUFG",
             "snippet": {
                 "publishedAt": "2022-07-31T11:41:53Z",
@@ -6479,7 +6413,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 128,
+                "position": 125,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "rmKMAz8hf4A"
@@ -6494,7 +6428,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "UY9bdBL8JWFUoq-CuAE7Z5roa0Q",
+            "etag": "XbY5CbChnV3vsf0SF8ah2GFUtLo",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5FQjcyRDZBMEMyNTY3OTdE",
             "snippet": {
                 "publishedAt": "2022-07-31T11:43:52Z",
@@ -6530,7 +6464,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 129,
+                "position": 126,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "_zTPgE1Pqtk"
@@ -6545,7 +6479,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tgRmGaEub_ZPsoDcn9BM8-8OW64",
+            "etag": "gkp6-W-nBJAEHJ3guzWEwhUGy4I",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44REI4QUZDRDI5MDc4Q0NF",
             "snippet": {
                 "publishedAt": "2022-07-31T11:45:16Z",
@@ -6581,7 +6515,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 130,
+                "position": 127,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "hFBYtobIcvg"
@@ -6596,7 +6530,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Z6tWkwFS_qzm_nYplKs3ty-W_E0",
+            "etag": "xXo77ouozj4dfnfpVMxheg-FBc8",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40ODU2MTBGM0M5MkIwQzU0",
             "snippet": {
                 "publishedAt": "2022-07-31T11:46:19Z",
@@ -6632,7 +6566,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 131,
+                "position": 128,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "8FF8Lsr2X0M"
@@ -6647,7 +6581,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "E--BVBnHXRKRyPzS7ab9munHrPE",
+            "etag": "cv9NU3d0gUxtHZSByZwK4YmxeEw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
                 "publishedAt": "2022-07-31T11:47:28Z",
@@ -6683,7 +6617,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 132,
+                "position": 129,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vaCMqUJ_2wU"
@@ -6698,7 +6632,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NzfW9Ooc0shzWHxGqDvmiB3AkjM",
+            "etag": "Z1tVJ5Qv0MjSwS7tc-itXSxc1Vw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40MzEwNkU4RUE0MjhBRjg4",
             "snippet": {
                 "publishedAt": "2022-07-31T11:48:43Z",
@@ -6734,7 +6668,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 133,
+                "position": 130,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "wsgjMkwQVtU"
@@ -6749,7 +6683,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0KFtxfQI6UM-jfDSJeANF_xCVKY",
+            "etag": "bDjyI_l1zESc7dooWXK8kXMx4oU",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DODY2Qzc5Mzc1QkZEQ0NF",
             "snippet": {
                 "publishedAt": "2022-07-31T11:50:20Z",
@@ -6785,7 +6719,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 134,
+                "position": 131,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MJKpVf4MA2M"
@@ -6800,7 +6734,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "If4yEj-yH_ITMrAyKAfkrdCQtsQ",
+            "etag": "R_5dxvoQBO0AEAuVYXMi22iV5SU",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS44NzQ1OTI1OUFFM0NFRTc5",
             "snippet": {
                 "publishedAt": "2022-07-31T11:51:39Z",
@@ -6836,7 +6770,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 135,
+                "position": 132,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LiASxVBZhwM"
@@ -6851,7 +6785,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6p5TBrBlZiQpDgNmGxbXE1FORxI",
+            "etag": "qJhIeSHQRdLx704m1sA9XKDEZ7Q",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CMDk1Q0MxREYyOTVEOTZF",
             "snippet": {
                 "publishedAt": "2022-07-31T11:52:33Z",
@@ -6887,7 +6821,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 136,
+                "position": 133,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lKUVmVKnbmM"
@@ -6902,7 +6836,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jsQqRbg7AWWhjkLSLmjnLyffvW4",
+            "etag": "29iexiWxtOs4ZbLAR4L-zX616-c",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43RjdBQTMwNUUwRTA1QkE3",
             "snippet": {
                 "publishedAt": "2022-07-31T11:53:56Z",
@@ -6938,7 +6872,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 137,
+                "position": 134,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "JGGR96ynsjA"
@@ -6953,7 +6887,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TsudlviYLGn42xeBDtRFNLgiEzs",
+            "etag": "aqw7XpPDcZ-Y25_xzjqu1QU1dEM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5GN0EwRkMxQTJGMTFCNDc1",
             "snippet": {
                 "publishedAt": "2022-07-31T12:13:54Z",
@@ -6989,7 +6923,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 138,
+                "position": 135,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ZfDh0qBljbw"
@@ -7004,7 +6938,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8QvjtwjLJ6BtgtimbpRPxfaj-Vw",
+            "etag": "o2eXHqpfhzoh9ctF_bThoNJs6tI",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5ENUI5OTFCQkYxNDUxQjQ3",
             "snippet": {
                 "publishedAt": "2022-07-31T12:14:46Z",
@@ -7040,7 +6974,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 139,
+                "position": 136,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sp63ig7Cy3E"
@@ -7055,7 +6989,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_ngNurPTtbJljFvuWI5aqj1CeqY",
+            "etag": "H1UXRHPuLuG_EanxtU-sXpZILjA",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CRjBFOTUzQTE4Mjg3RUJF",
             "snippet": {
                 "publishedAt": "2022-07-31T12:15:24Z",
@@ -7091,7 +7025,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 140,
+                "position": 137,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "y3Gi--FhvYY"
@@ -7106,7 +7040,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "RBP79cFMx-0EbMpa9AX3Xv1SDgU",
+            "etag": "Q8v6_lIE6r6H5yKeaWjkk4DZuX0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41QTQ4QTIyM0Y1RTBGMUNE",
             "snippet": {
                 "publishedAt": "2022-07-31T12:16:25Z",
@@ -7142,7 +7076,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 141,
+                "position": 138,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KvDH4e1zHRg"
@@ -7157,7 +7091,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zI-Xt1i3zGSrPZtdVLqGpu5pFjI",
+            "etag": "dGS8RG1_u5ElmaYTvWxr33PiAG0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wQjA4QkVEQ0RFREIzMjFC",
             "snippet": {
                 "publishedAt": "2022-07-31T12:17:01Z",
@@ -7193,7 +7127,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 142,
+                "position": 139,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "H3L5rp2yzhI"
@@ -7208,7 +7142,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mkmVVUztofYw86EYsIILlhpGLoc",
+            "etag": "Rvlt2qTlyRd9TKbEIZ-E1K5n8cc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2022-07-31T12:17:54Z",
@@ -7244,7 +7178,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 143,
+                "position": 140,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uPRoMlrDA8A"
@@ -7259,7 +7193,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Js8QQs7FuMwrLiwyo3BdxPWvNqc",
+            "etag": "UNUxotu9pwVzA9ZvdtQQqfpPBAc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EQTdFNDU3M0Y3MTM1QjlG",
             "snippet": {
                 "publishedAt": "2022-07-31T12:19:06Z",
@@ -7295,7 +7229,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 144,
+                "position": 141,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "CwcCUpal-0s"
@@ -7310,7 +7244,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CByt2XGIEHIyxdbsjDqJXejZemI",
+            "etag": "Wv2j3Ae22iaWZMBg8iB1nuw7WQc",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40NTBGRDE5MDg2Q0NEODI4",
             "snippet": {
                 "publishedAt": "2022-07-31T12:54:19Z",
@@ -7346,7 +7280,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 145,
+                "position": 142,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "npSNgrLvJvo"
@@ -7361,7 +7295,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "H6SZM8Oi-oKg0J8brjoJ6pRyJk4",
+            "etag": "iBwJzHWLB-ECm9gO-TsCs-1fi0o",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DNUEzOUFFNkIyOUUzOTRC",
             "snippet": {
                 "publishedAt": "2022-07-31T12:22:17Z",
@@ -7397,7 +7331,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 146,
+                "position": 143,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "71Ve-TZ4PGk"
@@ -7412,7 +7346,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lYnGYOA-fiqoxovXY7NFpUkaZUU",
+            "etag": "VqaXflvBXfvnPzZAoI6VbMkgjkE",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4zMkY2MjA3RDJERTkxNjkz",
             "snippet": {
                 "publishedAt": "2022-07-31T12:23:30Z",
@@ -7448,7 +7382,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 147,
+                "position": 144,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Oj1Q1D25bxc"
@@ -7463,7 +7397,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eKU_Kge4pjNGOjZbLfNc9FwjkjE",
+            "etag": "NiFHoYLHmUUk7j-y_6_8BSFTPys",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5FMjFERkYxMjI2NjkyMjg5",
             "snippet": {
                 "publishedAt": "2022-07-31T12:24:17Z",
@@ -7499,7 +7433,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 148,
+                "position": 145,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "bqBDUeeRuBY"
@@ -7514,7 +7448,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2NSW4lL5aGzzkL3OXn6L9DXHQaM",
+            "etag": "Qymx9ljssL-kCy_MS216CFX3Wqw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5FOTE3RTBFMjNFMDNEM0Yz",
             "snippet": {
                 "publishedAt": "2022-07-31T12:33:00Z",
@@ -7550,7 +7484,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 149,
+                "position": 146,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "VGs1H9tGYEs"
@@ -7565,7 +7499,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ZNqPISt2j2cgon__49mbqE5BSkQ",
+            "etag": "9TwPTywwknMhzSxoJtrDUD88LHo",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5BNTRGQTE1QjY2NUE5NTAz",
             "snippet": {
                 "publishedAt": "2022-07-31T12:34:18Z",
@@ -7601,7 +7535,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 150,
+                "position": 147,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gNJ5HIH36HA"
@@ -7616,7 +7550,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hijfCyXoTJ-CMeei87cAEOJgyGk",
+            "etag": "iSEd0XCE0ZXkUKrK4nR9v4gYSw4",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS42NjBGMkRFNDcwMjM2NzYx",
             "snippet": {
                 "publishedAt": "2022-07-31T12:35:20Z",
@@ -7647,7 +7581,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 151,
+                "position": 148,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "2YIwc30HvOA"
@@ -7662,7 +7596,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "e5vLcyk6GMjhgqTstCLH-87PZ8I",
+            "etag": "w-6gPNW3I-3OrbbgN-QdI29LvnY",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40Q0JERDMxNzcwNTk1M0Y0",
             "snippet": {
                 "publishedAt": "2022-07-31T12:55:43Z",
@@ -7693,7 +7627,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 152,
+                "position": 149,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NJ6oSPOsoyo"
@@ -7708,7 +7642,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yS00f22eCGjEBu71Ol7SBB2t4MM",
+            "etag": "5jhEkXAHzudecn2BrPcheIkHg6g",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS4wMTIyMTBBMTA3RDUxNjlD",
             "snippet": {
                 "publishedAt": "2022-07-31T12:56:24Z",
@@ -7744,7 +7678,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 153,
+                "position": 150,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uQdcxf5WAUw"
@@ -7759,7 +7693,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HMHZATbiZaAKxUKVL1dCSQStg1A",
+            "etag": "vFbpPgrQ5pAHqJ1ebOlIoVOPoKM",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DNTU3ODQ4ODAzMjFERTI1",
             "snippet": {
                 "publishedAt": "2022-07-31T12:57:37Z",
@@ -7795,7 +7729,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 154,
+                "position": 151,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ZtdNTxnGMBY"
@@ -7810,7 +7744,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mkPx1vRxie0blnkojOGS_vZM2ZM",
+            "etag": "mByjLDi8RwjLbdZM3xumqfxdZxs",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS40QTY5NjQzQkQzMjgwNjhD",
             "snippet": {
                 "publishedAt": "2022-07-31T12:58:42Z",
@@ -7841,7 +7775,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 155,
+                "position": 152,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yN6MDy3HIBo"
@@ -7856,7 +7790,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "W8Ago0se9gPeo10U3UkYijpWUSA",
+            "etag": "H3ddal1JAVux8K6W9Q1iaQEKWkw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CODNEOTFERDNCQjU2ODhE",
             "snippet": {
                 "publishedAt": "2022-07-31T12:59:49Z",
@@ -7892,7 +7826,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 156,
+                "position": 153,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9HekFw_LDQY"
@@ -7907,7 +7841,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "va5AfsrJzN2KX3wtG8GjIgxpzUM",
+            "etag": "wLJAHf2XNAnKgeWFI-mSdKWXX-A",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS45NDIzMEVBNjk5NTFGRDZC",
             "snippet": {
                 "publishedAt": "2022-07-31T13:00:53Z",
@@ -7943,7 +7877,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 157,
+                "position": 154,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Ts7fcVxiw3I"
@@ -7958,7 +7892,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "W-C8b5HLJTQMzkYvZw2a8fZJWGU",
+            "etag": "2lRVuAjoP_RdwkEShfRxtXBJWk0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CNEFEOUNDRUMzMjVGMjc2",
             "snippet": {
                 "publishedAt": "2022-07-31T13:02:00Z",
@@ -7994,7 +7928,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 158,
+                "position": 155,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gl3pJs9cc7g"
@@ -8009,7 +7943,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "058vszACmNxUyn7jFEc7vMZJGiI",
+            "etag": "m0DoyK4XwTlRIT3ksd-izcvopfw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5EREU0QjZERDMzRDBGNTMz",
             "snippet": {
                 "publishedAt": "2022-07-31T13:03:08Z",
@@ -8045,7 +7979,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 159,
+                "position": 156,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oQE6clth7V8"
@@ -8060,7 +7994,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "F-oOjtHZOGWiz46FvnhjTnP5_24",
+            "etag": "KXxxXIX_YIjmwDeRFSaBJgwo_Ns",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2022-07-31T13:04:30Z",
@@ -8096,7 +8030,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 160,
+                "position": 157,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "2emt9IN1U2A"
@@ -8111,7 +8045,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "h-D2LIHTylxwn5n87Ob4r6W4EBA",
+            "etag": "9K3Bc15ZWuuak-iRZSoQsZuWugY",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2022-07-31T13:05:55Z",
@@ -8142,7 +8076,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 161,
+                "position": 158,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "pIasm-7Qt5o"
@@ -8157,7 +8091,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "m_CU34Oe94ESYEQSal5ehbsUEAI",
+            "etag": "jHkzAfLgjeE_XNaE8FNJsxWW1aE",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5DMkM0MjQ3OTgwQzBCMEZB",
             "snippet": {
                 "publishedAt": "2022-07-31T13:07:53Z",
@@ -8193,7 +8127,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 162,
+                "position": 159,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "UVQpzcbRucU"
@@ -8208,7 +8142,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IGVUksW2021fhhVRxywofVUb348",
+            "etag": "vi1n0QyKq2HZ_KEZP6mh7mBt_5A",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS45QzM0OUZCRDUyMTgwREVG",
             "snippet": {
                 "publishedAt": "2022-07-31T13:09:11Z",
@@ -8244,7 +8178,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 163,
+                "position": 160,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "d7YlPJVoOKA"
@@ -8259,7 +8193,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Tdir3EV1xEy3FpexgSCVDiBhzrE",
+            "etag": "4kvlurf4CfOif-UPWDZrm8zvlW0",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS43MzBFRTZDMUM3OTY2RjQ4",
             "snippet": {
                 "publishedAt": "2022-08-10T20:30:47Z",
@@ -8295,7 +8229,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 164,
+                "position": 161,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "d9G_j4026Eo"
@@ -8310,7 +8244,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MN28K7ksr0VSd2oxvPpBtdceycg",
+            "etag": "3Xfiw-BXnAn-n31tEGKy5vbK1Nw",
             "id": "UExFRDREai1UNDNyTi1ia1ZuUkFDWHZ2SEJ5RGdMUkhnWS5CNzAzQzRDMkI3QThEQzZB",
             "snippet": {
                 "publishedAt": "2022-07-31T13:39:44Z",
@@ -8346,7 +8280,7 @@
                 },
                 "channelTitle": "علي هاني العقرباوي",
                 "playlistId": "PLED4Dj-T43rN-bkVnRACXvvHByDgLRHgY",
-                "position": 165,
+                "position": 162,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "WXXqQp6KmgM"

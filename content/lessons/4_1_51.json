@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bsnKH26hl-4IFtEHKpRfucOvsZM",
+            "etag": "NrFfV5_tTVXILqS0eOrCZq_3zIY",
             "id": "UExFRDREai1UNDNyT0VEamNOVjZyOW0wOUM5eFp4blZvYS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-06-20T09:48:05Z",
@@ -228,6 +228,108 @@
             "contentDetails": {
                 "videoId": "rbWZI_XWeMU",
                 "videoPublishedAt": "2019-06-08T12:21:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vT3ugONCM8b8YgQmdLGGckAjEFc",
+            "id": "UExFRDREai1UNDNyT0VEamNOVjZyOW0wOUM5eFp4blZvYS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-12-08T17:12:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الذاريات(1)ـ 51",
+                "description": "تفسير تحليلي لسورة تبارك مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P3ArnKTMDv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P3ArnKTMDv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P3ArnKTMDv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P3ArnKTMDv0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P3ArnKTMDv0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOEDjcNV6r9m09C9xZxnVoa",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P3ArnKTMDv0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "P3ArnKTMDv0",
+                "videoPublishedAt": "2022-12-08T17:24:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KpxJLi7VMqoofQkv6_V_pxC8qPs",
+            "id": "UExFRDREai1UNDNyT0VEamNOVjZyOW0wOUM5eFp4blZvYS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-12-08T17:16:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "سورة الذاريات(3)ـ 51",
+                "description": "تفسير تحليلي لسورة تبارك مع تفسير النسفي مأخوذ من معظم كتب التفسير #seekersguidance # علي_ هاني_ العقرباوي رابط الفيس بوك : https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4FBivQgOzjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4FBivQgOzjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4FBivQgOzjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4FBivQgOzjM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4FBivQgOzjM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOEDjcNV6r9m09C9xZxnVoa",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4FBivQgOzjM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4FBivQgOzjM",
+                "videoPublishedAt": "2022-12-08T17:27:17Z"
             }
         }
     ],

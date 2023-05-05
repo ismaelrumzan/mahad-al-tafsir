@@ -2,13 +2,13 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "PjNJidopNYg10fOqw4s6AICngLk",
+            "etag": "pk8-ssOAQ-0a0Ne44WUhWIyjPtU",
             "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-09-29T04:49:27Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
                 "title": "تهذيب تصريف العزي الزنجاني للعسكري (1) مبادئ الصرف،والمجرد والمزيد، والأقسام السبعة",
-                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
+                "description": "تنبيه: بحمد الله تم تنزيل الكتاب والرابط في الأسفل:\n .هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/default.jpg",
@@ -24,6 +24,11 @@
                         "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     },
                     "maxres": {
                         "url": "https://i.ytimg.com/vi/J8vBTP-QSwY/maxresdefault.jpg",
@@ -48,13 +53,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_FveTFyjzegdQsWAbCio-HfZg38",
+            "etag": "jUgUi_toQEIkazrZlUsHSJwx7aQ",
             "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-09-29T18:13:21Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
                 "title": "تهذيب تصريف العزي (2) الميزان الصرف ، أوزان الثلاثي والرباعي",
-                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\n هذا رابط الكتاب، وهذه النسخة لمتابعة الدرس لا للطباعة \n\n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/4TizhtEn4uE/default.jpg",
@@ -70,6 +75,16 @@
                         "url": "https://i.ytimg.com/vi/4TizhtEn4uE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4TizhtEn4uE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4TizhtEn4uE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -89,13 +104,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mBp8Aj6syN2_-Ywor1DKMDTx0Bg",
+            "etag": "aut4q8kqcqxvQ0MPgELhGv_Qe0s",
             "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2022-09-30T14:52:36Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
                 "title": "تهذيب تصريف العزي (3) أوزان الأفعال المزيدة وتدريباتها",
-                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\n\n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/8wgA0Ts-m98/default.jpg",
@@ -111,6 +126,16 @@
                         "url": "https://i.ytimg.com/vi/8wgA0Ts-m98/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8wgA0Ts-m98/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8wgA0Ts-m98/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -130,13 +155,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "EV-b8d0201512pPmsamuVAzd3mM",
+            "etag": "anhU5DjehamhtjzjicDOQ1Apko8",
             "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2022-10-01T19:15:15Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
                 "title": "تهذيب تصريف العزي (4) اللازم والمتعدي ، وطرق تعدية اللازم",
-                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\n\n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/tuPCFbquTBA/default.jpg",
@@ -152,6 +177,16 @@
                         "url": "https://i.ytimg.com/vi/tuPCFbquTBA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tuPCFbquTBA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tuPCFbquTBA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -171,13 +206,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gxKPnK5t7Bw2-vLHNCQZafeNd1I",
+            "etag": "STrSNWCdwwg3DyDS_mGNBvytp9Y",
             "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-10-02T20:50:24Z",
                 "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
                 "title": "تهذيب تصريف العزي (5) تصريف الفعل الماضي، وبناؤه للمعلوم والمجهول",
-                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/Uh4pit44gwQ/default.jpg",
@@ -193,6 +228,16 @@
                         "url": "https://i.ytimg.com/vi/Uh4pit44gwQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Uh4pit44gwQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Uh4pit44gwQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "علي هاني العقرباوي",
@@ -208,6 +253,1485 @@
             "contentDetails": {
                 "videoId": "Uh4pit44gwQ",
                 "videoPublishedAt": "2022-10-02T20:52:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fvypkUkYO_o-ZIxEHwjItmCIbRE",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-10-04T20:30:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (6) تصريف الفعل المضارع",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BDz7fiGGX3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BDz7fiGGX3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BDz7fiGGX3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BDz7fiGGX3E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BDz7fiGGX3E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BDz7fiGGX3E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BDz7fiGGX3E",
+                "videoPublishedAt": "2022-10-04T20:27:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ua9_ia17b5kwAuZtctqpwU-scNc",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-10-08T03:31:23Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (7) بناء المضارع للمبني للمعلوم والمجهول",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GiXwC4LpgA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GiXwC4LpgA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GiXwC4LpgA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GiXwC4LpgA4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GiXwC4LpgA4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GiXwC4LpgA4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GiXwC4LpgA4",
+                "videoPublishedAt": "2022-10-08T03:32:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "znqIxionVpSDCWlTCHFKPoDqZPQ",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-10-08T21:08:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (8) الفعل المضارع إذا دخل عليه ناصب أو جازم",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2uu3rFg9FMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2uu3rFg9FMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2uu3rFg9FMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2uu3rFg9FMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2uu3rFg9FMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2uu3rFg9FMg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2uu3rFg9FMg",
+                "videoPublishedAt": "2022-10-08T21:09:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9146YI3zsqLx4pL6nfUdY4sMPjc",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-10-09T10:31:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (9) بناء الأمر الحاضر",
+                "description": "لمثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wHVR5QhIgBI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wHVR5QhIgBI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wHVR5QhIgBI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wHVR5QhIgBI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wHVR5QhIgBI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wHVR5QhIgBI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wHVR5QhIgBI",
+                "videoPublishedAt": "2022-10-09T10:31:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_1M7qIhpCzhgyo4jLCpG705z97w",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-10-11T13:37:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (10) خمس قواعد صرفية",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nلمثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KD9B-z2sM5Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KD9B-z2sM5Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KD9B-z2sM5Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KD9B-z2sM5Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KD9B-z2sM5Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KD9B-z2sM5Q"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "KD9B-z2sM5Q",
+                "videoPublishedAt": "2022-10-11T13:37:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vbNprgTqN4t4nOZVZhYTiTX7N1U",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-10-16T18:23:23Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (11) بقية خمس قواعد صرفية",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\n\nلمثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OhjTBsyyPu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OhjTBsyyPu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OhjTBsyyPu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OhjTBsyyPu0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OhjTBsyyPu0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OhjTBsyyPu0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "OhjTBsyyPu0",
+                "videoPublishedAt": "2022-10-16T18:25:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UUKF-IjyIKfnQg230O-Rg4gXPpY",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-10-16T18:31:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (12) تصريف الأفعال مع نون التوكيد الثقيلة والخفيفة",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\n\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p4-Lvhwz-IQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p4-Lvhwz-IQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p4-Lvhwz-IQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p4-Lvhwz-IQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p4-Lvhwz-IQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p4-Lvhwz-IQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "p4-Lvhwz-IQ",
+                "videoPublishedAt": "2022-10-16T18:34:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "knktlFTJ2pvyBUrotRCda53QPng",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2022-10-17T18:09:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (13) بقية أحكام نون التوكيد الثقيلة والخفيفة",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TQR2E_mOEGg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TQR2E_mOEGg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TQR2E_mOEGg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TQR2E_mOEGg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TQR2E_mOEGg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TQR2E_mOEGg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "TQR2E_mOEGg",
+                "videoPublishedAt": "2022-10-17T18:14:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FqfO8-YZLov7FRSkZlkUbtPPwP4",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2022-10-18T03:47:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (14) بناء اسمي الفاعل والمفعول من الثلاثي المجرد",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nلمثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lT91LwfbsI0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lT91LwfbsI0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lT91LwfbsI0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lT91LwfbsI0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lT91LwfbsI0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lT91LwfbsI0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "lT91LwfbsI0",
+                "videoPublishedAt": "2022-10-18T03:49:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zrd5cx2y-fbIy27QBJgQIgMg0ng",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2022-10-19T07:50:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (15) بناء اسمي الفاعل والمفعول من غير الثلاثي",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YuXMRpnyE0o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YuXMRpnyE0o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YuXMRpnyE0o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YuXMRpnyE0o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YuXMRpnyE0o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YuXMRpnyE0o"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YuXMRpnyE0o",
+                "videoPublishedAt": "2022-10-19T07:52:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JJ-Pc9IIcj5i9rDfix7N0arFSuw",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2022-10-19T08:46:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (16) المضاعف",
+                "description": "لمثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NIuEI7RnWqU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NIuEI7RnWqU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NIuEI7RnWqU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NIuEI7RnWqU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NIuEI7RnWqU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NIuEI7RnWqU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "NIuEI7RnWqU",
+                "videoPublishedAt": "2022-10-19T08:49:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H6IAosR-K-8ihYmPVx6fx_2ADNI",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2022-10-19T14:49:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (17) قواعد الإدغام",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/neYhlwOq0gc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/neYhlwOq0gc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/neYhlwOq0gc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/neYhlwOq0gc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/neYhlwOq0gc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "neYhlwOq0gc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "neYhlwOq0gc",
+                "videoPublishedAt": "2022-10-19T14:51:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l8DOWCh9hPNDK_Sx2C_BtKZykEw",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2022-10-20T06:40:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (18) الإدغام الممتنع والجائز",
+                "description": ".\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jAFpsPwGd7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jAFpsPwGd7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jAFpsPwGd7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jAFpsPwGd7o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jAFpsPwGd7o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jAFpsPwGd7o"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "jAFpsPwGd7o",
+                "videoPublishedAt": "2022-10-20T06:42:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lA_5Q9Lv8YXLANvDgq4D18MwbfU",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2022-10-23T21:02:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (19) بقية أحكام المضاعف",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/68CX3ispgWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/68CX3ispgWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/68CX3ispgWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/68CX3ispgWQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/68CX3ispgWQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "68CX3ispgWQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "68CX3ispgWQ",
+                "videoPublishedAt": "2022-10-23T21:03:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AoyLH5KL034qMQ9zQ9LS9H3_KLg",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2022-10-23T21:49:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (20) المعتل من الأفعال",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kP_f2auL8qc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kP_f2auL8qc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kP_f2auL8qc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kP_f2auL8qc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kP_f2auL8qc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kP_f2auL8qc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "kP_f2auL8qc",
+                "videoPublishedAt": "2022-10-23T21:51:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "m23sqzdxhvNBDaJUY9s3wYYgpW8",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2022-10-24T20:36:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (21) المثال الواوي",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pqBHg68y6H4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pqBHg68y6H4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pqBHg68y6H4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pqBHg68y6H4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pqBHg68y6H4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pqBHg68y6H4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "pqBHg68y6H4",
+                "videoPublishedAt": "2022-10-24T20:38:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hPThhwBI7MVVbnBmGk_FRc87TmE",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2022-10-25T10:46:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (22) المعتل العين",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fwRYhytpkcI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fwRYhytpkcI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fwRYhytpkcI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fwRYhytpkcI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fwRYhytpkcI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fwRYhytpkcI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fwRYhytpkcI",
+                "videoPublishedAt": "2022-10-25T10:52:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3CvP8wMO1aTiwKeZkqRf8b2-4iI",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2022-10-25T15:29:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (23) تصاريف مختلفة للأجوف",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/flO5eyKMly4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/flO5eyKMly4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/flO5eyKMly4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/flO5eyKMly4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/flO5eyKMly4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "flO5eyKMly4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "flO5eyKMly4",
+                "videoPublishedAt": "2022-10-25T15:33:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SaP2BOq02djRokqy8GvAEwgga5I",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2022-10-25T21:07:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (24) تصريف الثلاثي المزيد من الأجوف",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wOx3-Dda3Xk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wOx3-Dda3Xk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wOx3-Dda3Xk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wOx3-Dda3Xk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wOx3-Dda3Xk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wOx3-Dda3Xk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wOx3-Dda3Xk",
+                "videoPublishedAt": "2022-10-25T21:09:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9X1Ekvr7DHa669_3tNTCAq_YR1o",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2022-10-26T13:47:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (25) بناء اسمي الفاعل والمفعول من الأجوف",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nلهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MnPYXtxmRWA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MnPYXtxmRWA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MnPYXtxmRWA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MnPYXtxmRWA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MnPYXtxmRWA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MnPYXtxmRWA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MnPYXtxmRWA",
+                "videoPublishedAt": "2022-10-26T13:49:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "I0OE0VbAg0CJJ4yYrG--xdBorfM",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2022-10-26T20:27:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (26) المعتل اللام",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g0DLL4MODfA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g0DLL4MODfA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g0DLL4MODfA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g0DLL4MODfA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g0DLL4MODfA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "g0DLL4MODfA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "g0DLL4MODfA",
+                "videoPublishedAt": "2022-10-26T20:30:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KirichVIwHZ4Owgz9ekAKk1zutk",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2022-10-26T20:29:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (27) بقية الماضي المعتل اللام",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZQmSRkKaHk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZQmSRkKaHk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZQmSRkKaHk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZQmSRkKaHk0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZQmSRkKaHk0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZQmSRkKaHk0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ZQmSRkKaHk0",
+                "videoPublishedAt": "2022-10-26T20:29:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U7wT5dENHI7NyeftBU7_v9Vc9E8",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2022-10-30T20:49:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (28) المضارع المعتل اللام",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/klT3hEpAX2w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/klT3hEpAX2w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/klT3hEpAX2w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/klT3hEpAX2w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/klT3hEpAX2w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "klT3hEpAX2w"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "klT3hEpAX2w",
+                "videoPublishedAt": "2022-10-30T20:50:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U3v_q5ILOim0tmpzXtVTGlRhIYc",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2022-11-01T04:18:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (29)  بقية الفعل المضارع وفعل المعتل اللام",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZzBKtME9DuE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZzBKtME9DuE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZzBKtME9DuE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZzBKtME9DuE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZzBKtME9DuE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZzBKtME9DuE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ZzBKtME9DuE",
+                "videoPublishedAt": "2022-11-01T04:19:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Xt4qkZH-ZPc4h-kPNG9kf-mZyAk",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2022-11-02T21:14:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (30) تصاريف مختلفة لمعتل اللام ، والمعتل العين واللام",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dWVfggr6nz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dWVfggr6nz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dWVfggr6nz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dWVfggr6nz0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dWVfggr6nz0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dWVfggr6nz0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "dWVfggr6nz0",
+                "videoPublishedAt": "2022-11-02T21:21:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "efRDJp_EoBzGeSZxjRmbRTAK5_E",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2022-11-08T14:27:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (31) المعتل الفاء واللام ، والمهموز",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9B-xiJFuC8U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9B-xiJFuC8U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9B-xiJFuC8U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9B-xiJFuC8U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9B-xiJFuC8U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9B-xiJFuC8U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9B-xiJFuC8U",
+                "videoPublishedAt": "2022-11-08T14:27:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PjiTECPs218dr7dzWMBC2kXujXM",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2022-11-08T14:22:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (32) تصريفات من الأفعال المهموزة",
+                "description": "هذا الكتاب هذب ورتب تصريف العزي لعبد الوهاب الزنجاني بطريقة سهلة ، مع إضافة تدريبات تناسب الكتاب ، فجاء كتابًا متميزًا في بابه .وهذه الدورة شرحت هذا التهذيب شرحًا وافيًا مع عرض جداول وبوربوينت وتلخيصات تسهل على الطالب هذا العلم ، وتعطيه إياه لقمة سائغة ، بحيث جعلت الطالب يستوعب ما في العزي بأسهل طريقة ، فعليك يا طالب الصرف بهذه الدورة عض عليها بالنواجذ تجد بغيتك من هذا العلم ، وتفتح لك مقفلاته، وهذه الدورة قصيرة ، فهي أربعين درسًا قصيرًا .\nوأتقدم بالشكر الجزيل للشيخ أبي فيصل الذي نسق الكتاب ووضع الجداول وعمل المونتاج بهذا الشكل الجميل أجزل الله له المثوبة.\nهذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8o_lM0Z9xz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8o_lM0Z9xz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8o_lM0Z9xz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8o_lM0Z9xz8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8o_lM0Z9xz8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8o_lM0Z9xz8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "8o_lM0Z9xz8",
+                "videoPublishedAt": "2022-11-08T14:29:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eLc9H4WpDtokSbTSMNb72g06NgQ",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2022-11-08T14:23:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (33) المعتل الفاء واللام ، والمهموز",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H7Cx9_bVeTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H7Cx9_bVeTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H7Cx9_bVeTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H7Cx9_bVeTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H7Cx9_bVeTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H7Cx9_bVeTI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "H7Cx9_bVeTI",
+                "videoPublishedAt": "2022-11-08T14:31:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kMygdEiP0bbubSpcpEohm2Aj8_c",
+            "id": "UExFRDREai1UNDNyTXk0emtDYVp4T2lYTHlGSGtRbndDZi42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2022-11-09T10:11:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تهذيب تصريف العزي (الدرس الأخير)(34) اسم الآلة ، ومصدر المرة ، ومصدر النوع",
+                "description": "هذا رابط النسخة التي للطباعة \n https://drive.google.com/file/d/15ftpLf43uYWtR1C5DuwGrkjC8YEoN8Ue/view?usp=sharing\nوهذا الرابط النسخة التي لمتابعة الدرس وهذه النسخة مع التي قبلها أكثر صحة مما عرض في الدرس فقد صححت الأخطاء التي كانت في النسخة المعروضة وهي في الحقيقة أخطاء في النسخة التي كانت قبل صف الكتاب \nhttps://drive.google.com/file/d/1HLyY_z8dUtejq-yAf-lwg8LbCO1dy-8l/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6smjhLTSExo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6smjhLTSExo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6smjhLTSExo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6smjhLTSExo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6smjhLTSExo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMy4zkCaZxOiXLyFHkQnwCf",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6smjhLTSExo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "6smjhLTSExo",
+                "videoPublishedAt": "2022-11-09T10:16:29Z"
             }
         }
     ],
